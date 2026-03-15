@@ -1,0 +1,59 @@
+{
+  "version": "0.1.0",
+  "entities": {
+    "pokemon": {
+      "fields": [
+        "id",
+        "name_en",
+        "name_zh",
+        "types",
+        "favorites",
+        "dislikes",
+        "preferred_habitats",
+        "notes",
+        "sources"
+      ]
+    },
+    "habitat": {
+      "fields": [
+        "id",
+        "name",
+        "stage",
+        "description",
+        "requirements",
+        "materials",
+        "spawns",
+        "notes",
+        "sources"
+      ]
+    },
+    "furniture": {
+      "fields": [
+        "id",
+        "name",
+        "category",
+        "traits",
+        "crafting",
+        "sources"
+      ]
+    },
+    "item": {
+      "fields": [
+        "id",
+        "name",
+        "category",
+        "use",
+        "sources"
+      ]
+    },
+    "cosmetic": {
+      "fields": [
+        "id",
+        "name",
+        "type",
+        "unlock",
+        "sources"
+      ]
+    }
+  }
+}

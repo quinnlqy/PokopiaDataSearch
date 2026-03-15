@@ -1,0 +1,135 @@
+.page {
+  padding: 16px;
+}
+
+.header {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.hero {
+  width: 90px;
+  height: 90px;
+  border-radius: 12px;
+  background: #f3efe8;
+}
+
+.title {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.name {
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.meta {
+  font-size: 12px;
+  color: #6a6258;
+}
+
+.section {
+  margin-top: 16px;
+}
+
+.section-title {
+  display: block;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.chip {
+  display: inline-block;
+  padding: 6px 10px;
+  border-radius: 20px;
+  background: #fff;
+  border: 1px solid #e6dccf;
+  margin: 4px 6px 4px 0;
+  font-size: 12px;
+}
+
+.text {
+  display: block;
+  color: #3f372e;
+}
+
+.hab-cards {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 10px;
+}
+
+.hab-card {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  background: #fff;
+  border: 1px solid #e6dccf;
+  border-radius: 12px;
+  padding: 10px;
+}
+
+.hab-thumb {
+  width: 44px;
+  height: 44px;
+  border-radius: 10px;
+  background: #f3efe8;
+}
+
+.hab-info {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.hab-name {
+  font-weight: 700;
+}
+
+.hab-meta {
+  font-size: 12px;
+  color: #6a6258;
+}
+
+.req-items {
+  margin-top: 8px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+}
+
+.req-card {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: #fff;
+  border: 1px solid #e6dccf;
+  border-radius: 10px;
+  padding: 8px;
+}
+
+.req-icon {
+  width: 36px;
+  height: 36px;
+  border-radius: 8px;
+  background: #f3efe8;
+}
+
+.req-info {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.req-name {
+  font-size: 12px;
+}
+
+.req-qty {
+  font-size: 12px;
+  color: #6a6258;
+}

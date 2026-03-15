@@ -1,0 +1,122 @@
+<view class="page" wx:if="{{item}}">
+  <view class="header">
+    <image class="hero" mode="aspectFill" src="{{item.image_url}}" wx:if="{{item.image_url}}" />
+    <view class="title">
+      <text class="name">{{item.name_zh || item.name || item.name_en}}</text>
+      <text class="meta" wx:if="{{item.name_en}}">{{item.name_en}}</text>
+      <text class="meta" wx:if="{{item.dex_no || item.natdex_no}}">#{{item.natdex_no || item.dex_no}}</text>
+    </view>
+  </view>
+
+  <view class="section" wx:if="{{item.types && item.types.length}}">
+    <text class="section-title">属性</text>
+    <view class="chip" wx:for="{{item.types}}" wx:key="*this">{{item}}</view>
+  </view>
+
+  <view class="section" wx:if="{{item.favorites && item.favorites.length}}">
+    <text class="section-title">喜好</text>
+    <view class="chip" wx:for="{{item.favorites}}" wx:key="*this">{{item}}</view>
+  </view>
+
+  <view class="section" wx:if="{{item.teach_move}}">
+    <text class="section-title">传授招式</text>
+    <text class="text">{{item.teach_move}}</text>
+  </view>
+
+  <view class="section" wx:if="{{item.specialty}}">
+    <text class="section-title">擅长食物</text>
+    <text class="text">{{item.specialty}}</text>
+  </view>
+
+  <view class="section" wx:if="{{item.obtain_method_zh}}">
+    <text class="section-title">获取方式</text>
+    <text class="text">{{item.obtain_method_zh}}</text>
+  </view>
+
+  <view class="section" wx:if="{{item.habitat_zh}}">
+    <text class="section-title">栖息地</text>
+    <text class="text">{{item.habitat_zh}}</text>
+  </view>
+
+  <view class="section" wx:if="{{item.spawn_condition}}">
+    <text class="section-title">出现条件</text>
+    <text class="text">{{item.spawn_condition}}</text>
+  </view>
+
+  <view class="section" wx:if="{{item.habitat_refs && item.habitat_refs.length}}">
+    <text class="section-title">栖息地</text>
+    <view class="hab-cards">
+      <view class="hab-card" wx:for="{{item.habitat_refs}}" wx:key="key" bindtap="openHabitat" data-key="{{item.key}}">
+        <image class="hab-thumb" mode="aspectFill" src="{{item.image_url}}" />
+        <view class="hab-info">
+          <text class="hab-name">{{item.name_zh || item.name}}</text>
+          <text class="hab-meta">{{item.required}}</text>
+        </view>
+      </view>
+    </view>
+  </view>
+
+  <view class="section" wx:if="{{item.required}}">
+    <text class="section-title">需求</text>
+    <text class="text">{{item.required}}</text>
+    <view class="req-items" wx:if="{{item.required_items && item.required_items.length}}">
+      <view class="req-card" wx:for="{{item.required_items}}" wx:key="name">
+        <image class="req-icon" mode="aspectFill" src="{{item.image_url}}" />
+        <view class="req-info">
+          <text class="req-name">{{item.name_zh || item.name}}</text>
+          <text class="req-qty" wx:if="{{item.qty}}">x{{item.qty}}</text>
+        </view>
+      </view>
+    </view>
+  </view>
+
+  <view class="section" wx:if="{{item.attract_refs && item.attract_refs.length}}">
+    <text class="section-title">吸引</text>
+    <view class="hab-cards">
+      <view class="hab-card" wx:for="{{item.attract_refs}}" wx:key="key" bindtap="openPokemon" data-key="{{item.key}}">
+        <image class="hab-thumb" mode="aspectFill" src="{{item.image_url}}" />
+        <view class="hab-info">
+          <text class="hab-name">{{item.name_zh || item.name_en}}</text>
+        </view>
+      </view>
+    </view>
+  </view>
+
+  <view class="section" wx:if="{{item.ingredients && item.ingredients.length}}">
+    <text class="section-title">料理材料</text>
+    <view class="req-items">
+      <view class="req-card" wx:for="{{item.ingredients}}" wx:key="name">
+        <image class="req-icon" mode="aspectFill" src="{{item.image_url}}" wx:if="{{item.image_url}}" />
+        <view class="req-info">
+          <text class="req-name">{{item.name}}</text>
+          <text class="req-qty" wx:if="{{item.qty}}">x{{item.qty}}</text>
+        </view>
+      </view>
+    </view>
+  </view>
+
+  <view class="section" wx:if="{{item.tools && item.tools.length}}">
+    <text class="section-title">料理工具</text>
+    <view class="chip" wx:for="{{item.tools}}" wx:key="*this">{{item}}</view>
+  </view>
+
+  <view class="section" wx:if="{{item.power_up_moves && item.power_up_moves.length}}">
+    <text class="section-title">强化招式</text>
+    <view class="chip" wx:for="{{item.power_up_moves}}" wx:key="*this">{{item}}</view>
+  </view>
+
+  <view class="section" wx:if="{{item.price}}">
+    <text class="section-title">售价</text>
+    <text class="text">{{item.price}}</text>
+  </view>
+
+  <view class="section" wx:if="{{item.location}}">
+    <text class="section-title">获取地点</text>
+    <text class="text">{{item.location}}</text>
+  </view>
+
+  <view class="section" wx:if="{{item.source_url}}">
+    <text class="section-title">来源</text>
+    <text class="text">{{item.source_url}}</text>
+  </view>
+</view>

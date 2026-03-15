@@ -1,0 +1,104 @@
+.page {
+  padding: 16px;
+}
+
+.hero {
+  background: #efe7da;
+  border: 1px solid #e1d6c8;
+  padding: 16px;
+  border-radius: 14px;
+  margin-bottom: 16px;
+}
+
+.title {
+  font-size: 22px;
+  font-weight: 700;
+  display: block;
+}
+
+.subtitle {
+  color: #5a5147;
+  display: block;
+  margin-top: 6px;
+}
+
+.search {
+  margin-top: 12px;
+  background: #fff;
+  border-radius: 10px;
+  padding: 10px 12px;
+  border: 1px solid #d8cdbf;
+}
+
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.filter-chip {
+  padding: 6px 10px;
+  border-radius: 16px;
+  border: 1px solid #d8cdbf;
+  background: #fff;
+  font-size: 12px;
+}
+
+.filter-chip.active {
+  background: #1d1a16;
+  color: #fff;
+  border-color: #1d1a16;
+}
+
+.section {
+  margin-top: 18px;
+}
+
+.section-title {
+  display: block;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.card {
+  display: flex;
+  gap: 12px;
+  padding: 10px;
+  background: #fff;
+  border-radius: 12px;
+  border: 1px solid #efe7da;
+  margin-bottom: 10px;
+}
+
+.thumb {
+  width: 56px;
+  height: 56px;
+  border-radius: 10px;
+  background: #f3efe8;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.name {
+  font-weight: 700;
+}
+
+.meta {
+  color: #6a6258;
+  font-size: 12px;
+}
+
+.chip {
+  display: inline-block;
+  padding: 6px 10px;
+  border-radius: 20px;
+  background: #fff;
+  border: 1px solid #e6dccf;
+  margin: 4px 6px 4px 0;
+  font-size: 12px;
+}

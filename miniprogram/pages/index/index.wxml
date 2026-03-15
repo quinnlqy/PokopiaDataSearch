@@ -1,0 +1,98 @@
+<view class="page">
+  <view class="hero">
+    <text class="title">Pokopia 资料库</text>
+    <text class="subtitle">本地 JSON 检索 Demo</text>
+    <input
+      class="search"
+      placeholder="搜索宝可梦、栖息地、家具、道具、料理..."
+      bindinput="onInput"
+    />
+    <view class="filters">
+      <view class="filter-chip {{activeFilter==='all' ? 'active' : ''}}" bindtap="setFilter" data-filter="all">
+        全部
+      </view>
+      <view class="filter-chip {{activeFilter==='pokemon' ? 'active' : ''}}" bindtap="setFilter" data-filter="pokemon">
+        宝可梦
+      </view>
+      <view class="filter-chip {{activeFilter==='habitat' ? 'active' : ''}}" bindtap="setFilter" data-filter="habitat">
+        栖息地
+      </view>
+      <view class="filter-chip {{activeFilter==='item' ? 'active' : ''}}" bindtap="setFilter" data-filter="item">
+        道具
+      </view>
+      <view class="filter-chip {{activeFilter==='furniture' ? 'active' : ''}}" bindtap="setFilter" data-filter="furniture">
+        家具
+      </view>
+      <view class="filter-chip {{activeFilter==='cooking' ? 'active' : ''}}" bindtap="setFilter" data-filter="cooking">
+        料理
+      </view>
+      <view class="filter-chip {{activeFilter==='cosmetic' ? 'active' : ''}}" bindtap="setFilter" data-filter="cosmetic">
+        服装
+      </view>
+    </view>
+  </view>
+
+  <view class="section" wx:if="{{results.pokemon.length}}">
+    <text class="section-title">宝可梦</text>
+    <view class="card" wx:for="{{results.pokemon}}" wx:key="key" bindtap="openDetail" data-type="pokemon" data-key="{{item.key}}">
+      <image class="thumb" mode="aspectFill" src="{{item.image_url}}" />
+      <view class="info">
+        <text class="name">{{item.name_zh || item.name_en}}</text>
+        <text class="meta">{{item.name_en}} #{{item.natdex_no || item.dex_no}}</text>
+      </view>
+    </view>
+  </view>
+
+  <view class="section" wx:if="{{results.habitats.length}}">
+    <text class="section-title">栖息地</text>
+    <view class="card" wx:for="{{results.habitats}}" wx:key="key" bindtap="openDetail" data-type="habitat" data-key="{{item.key}}">
+      <image class="thumb" mode="aspectFill" src="{{item.image_url}}" />
+      <view class="info">
+        <text class="name">{{item.name}}</text>
+        <text class="meta">{{item.required}}</text>
+      </view>
+    </view>
+  </view>
+
+  <view class="section" wx:if="{{results.items.length}}">
+    <text class="section-title">道具</text>
+    <view class="card" wx:for="{{results.items}}" wx:key="key" bindtap="openDetail" data-type="item" data-key="{{item.key}}">
+      <image class="thumb" mode="aspectFill" src="{{item.image_url}}" />
+      <view class="info">
+        <text class="name">{{item.name}}</text>
+      </view>
+    </view>
+  </view>
+
+  <view class="section" wx:if="{{results.furniture.length}}">
+    <text class="section-title">家具</text>
+    <view class="card" wx:for="{{results.furniture}}" wx:key="key" bindtap="openDetail" data-type="furniture" data-key="{{item.key}}">
+      <image class="thumb" mode="aspectFill" src="{{item.image_url}}" />
+      <view class="info">
+        <text class="name">{{item.name}}</text>
+      </view>
+    </view>
+  </view>
+
+  <view class="section" wx:if="{{results.cooking.length}}">
+    <text class="section-title">料理</text>
+    <view class="card" wx:for="{{results.cooking}}" wx:key="key" bindtap="openDetail" data-type="cooking" data-key="{{item.key}}">
+      <image class="thumb" mode="aspectFill" src="{{item.image_url}}" />
+      <view class="info">
+        <text class="name">{{item.name}}</text>
+        <text class="meta" wx:if="{{item.category_zh_recipe}}">{{item.category_zh_recipe}}</text>
+      </view>
+    </view>
+  </view>
+
+  <view class="section" wx:if="{{results.cosmetics.length}}">
+    <text class="section-title">服装</text>
+    <view class="card" wx:for="{{results.cosmetics}}" wx:key="key" bindtap="openDetail" data-type="cosmetic" data-key="{{item.key}}">
+      <image class="thumb" mode="aspectFill" src="{{item.image_url}}" />
+      <view class="info">
+        <text class="name">{{item.name_zh || item.name}}</text>
+        <text class="meta" wx:if="{{item.location}}">{{item.location}}</text>
+      </view>
+    </view>
+  </view>
+</view>

@@ -1,0 +1,68 @@
+Pokopia 资料收集（本地整理稿）
+更新时间：2026-03-15
+
+说明
+- 仅收录可公开查证的来源摘要，未做大段摘录。
+- 攻略类内容优先引用官方与权威渠道，第三方内容会标注“需核实”。
+
+一、官方与权威来源摘要
+1) 官方站点（The Pokémon Company）
+- 页面版权信息显示：Pokémon Pokopia 由 The Pokémon Company、GAME FREAK、KOEI TECMO GAMES 计划并共同开发；截图/视频为开发中内容，非最终版。
+来源：pokopia.pokemon.com/en-us/
+
+2) 任天堂官方新闻（Nintendo UK）
+- 2026-03-06 发布“Build your paradise with these five Pokémon Pokopia tips!”文章。
+- 文中明确提到：Pokémon Pokopia 已在 Nintendo Switch 2 上发售（“out now”）。
+来源：nintendo.com/en-gb/News/2026/March/Build-your-paradise-with-these-five-Pokemon-Pokopia-tips--3043390.html
+
+3) 维基百科（英文/中文）
+- 类型：生活模拟 / 沙盒。
+- 开发：Game Freak 与 Omega Force；发行：任天堂、宝可梦公司。
+- 平台：Nintendo Switch 2；发售日：2026-03-05（中文维基条目）。
+来源：en.wikipedia.org/wiki/Pokémon_Pokopia
+来源：zh.wikipedia.org/wiki/Pokémon_Pokopia
+
+4) PokopiaDb（第三方数据库，需核实）
+- 提供 Pokédex、栖息地、物品、家具、配方等索引入口。
+- 站点声明为非官方数据库。
+来源：pokopiadb.com
+
+5) PokoHabitats（第三方栖息地资料库，需核实）
+- 提供栖息地建造需求、材料与可出现宝可梦。
+- 站点声明为非官方、社区维护。
+来源：pokohabitats.com/en
+
+6) Nintendo Life（第三方媒体攻略，需核实）
+- 提供完整宝可梦列表与栖息地索引（文章注明为持续更新）。
+来源：nintendolife.com/guides/pokemon-pokopia-complete-pokedex-all-pokemon-habitats
+
+二、可用攻略线索（官方）
+1) 官方“5条新手建议”提示（Nintendo UK）
+- 官方提示强调“从零开始建设你的宝可梦天堂”，面向新手的入门建议。
+- 具体条目需要进一步精读后再拆分成可检索条目（后续整理）。
+来源：nintendo.com/en-gb/News/2026/March/Build-your-paradise-with-these-five-Pokemon-Pokopia-tips--3043390.html
+
+三、第三方攻略线索（需核实）
+1) 任务攻略示例（Dexerto）
+- “Yawn up a Storm”任务相关解法与步骤指引（第三方站点）。
+来源：dexerto.com/wikis/pokopia/yawn-up-a-storm-walkthrough/
+
+2) 开局流程攻略示例（PokopiaDex）
+- “Opening Walkthrough for Pokemon Pokopia (Withered Wasteland)”描述早期玩法流程（第三方站点）。
+来源：pokopiadex.com/guides/opening-walkthrough-for-pokemon-pokopia-withered-wasteland
+
+四、下一步整理建议（待你确认后执行）
+- 将“官方与权威来源摘要”拆分成结构化条目（基础信息、发行信息、平台、核心玩法定位）。
+- 从官方“5条建议”提炼成可检索攻略词条（每条建议一个条目）。
+- 对第三方攻略进行交叉验证，只保留与官方信息一致或可验证的部分。
+
+五、原始来源索引（便于追溯）
+- https://pokopia.pokemon.com/en-us/
+- https://www.nintendo.com/en-gb/News/2026/March/Build-your-paradise-with-these-five-Pokemon-Pokopia-tips--3043390.html
+- https://en.wikipedia.org/wiki/Pok%C3%A9mon_Pokopia
+- https://zh.wikipedia.org/wiki/Pok%C3%A9mon_Pokopia
+- https://www.dexerto.com/wikis/pokopia/yawn-up-a-storm-walkthrough/
+- https://pokopiadex.com/guides/opening-walkthrough-for-pokemon-pokopia-withered-wasteland
+- https://pokopiadb.com/
+- https://pokohabitats.com/en
+- https://www.nintendolife.com/guides/pokemon-pokopia-complete-pokedex-all-pokemon-habitats

@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/detail/detail"
+  ],
+  "window": {
+    "navigationBarTitleText": "Pokopia 资料库",
+    "navigationBarBackgroundColor": "#f4f1ec",
+    "navigationBarTextStyle": "black",
+    "backgroundTextStyle": "light"
+  }
+}
