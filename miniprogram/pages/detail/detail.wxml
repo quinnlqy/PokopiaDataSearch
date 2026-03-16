@@ -88,7 +88,7 @@
       <view class="req-card" wx:for="{{item.ingredients}}" wx:key="name">
         <image class="req-icon" mode="aspectFill" src="{{item.image_url}}" wx:if="{{item.image_url}}" />
         <view class="req-info">
-          <text class="req-name">{{item.name}}</text>
+          <text class="req-name">{{item.name_zh || item.name}}</text>
           <text class="req-qty" wx:if="{{item.qty}}">x{{item.qty}}</text>
         </view>
       </view>
@@ -113,10 +113,5 @@
   <view class="section" wx:if="{{item.location}}">
     <text class="section-title">获取地点</text>
     <text class="text">{{item.location}}</text>
-  </view>
-
-  <view class="section" wx:if="{{item.source_url}}">
-    <text class="section-title">来源</text>
-    <text class="text">{{item.source_url}}</text>
   </view>
 </view>

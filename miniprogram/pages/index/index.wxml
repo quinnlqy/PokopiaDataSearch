@@ -59,7 +59,7 @@
     <view class="card" wx:for="{{results.items}}" wx:key="key" bindtap="openDetail" data-type="item" data-key="{{item.key}}">
       <image class="thumb" mode="aspectFill" src="{{item.image_url}}" />
       <view class="info">
-        <text class="name">{{item.name}}</text>
+        <text class="name">{{item.name_zh || item.name}}</text>
       </view>
     </view>
   </view>
@@ -69,7 +69,7 @@
     <view class="card" wx:for="{{results.furniture}}" wx:key="key" bindtap="openDetail" data-type="furniture" data-key="{{item.key}}">
       <image class="thumb" mode="aspectFill" src="{{item.image_url}}" />
       <view class="info">
-        <text class="name">{{item.name}}</text>
+        <text class="name">{{item.name_zh || item.name}}</text>
       </view>
     </view>
   </view>
@@ -79,7 +79,7 @@
     <view class="card" wx:for="{{results.cooking}}" wx:key="key" bindtap="openDetail" data-type="cooking" data-key="{{item.key}}">
       <image class="thumb" mode="aspectFill" src="{{item.image_url}}" />
       <view class="info">
-        <text class="name">{{item.name}}</text>
+        <text class="name">{{item.name_zh || item.name}}</text>
         <text class="meta" wx:if="{{item.category_zh_recipe}}">{{item.category_zh_recipe}}</text>
       </view>
     </view>

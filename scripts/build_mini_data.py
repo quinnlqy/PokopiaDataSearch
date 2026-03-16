@@ -122,21 +122,7 @@ def translate_list_keys(values, mapping: dict) -> list:
 
 
 def fetch_official_pokedex_map() -> dict[int, str]:
-    url = "https://tw.portal-pokemon.com/play/pokedex/api/v1"
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-    with urllib.request.urlopen(req, timeout=30) as r:
-        data = r.read().decode("utf-8", "ignore")
-    obj = json.loads(data)
-    mapping: dict[int, str] = {}
-    for p in obj.get("pokemons", []):
-        try:
-            zukan_id = int(p.get("zukan_id"))
-        except Exception:
-            continue
-        file_name = p.get("file_name")
-        if file_name:
-            mapping[zukan_id] = file_name
-    return mapping
+    return {}
 
 
 def load_pokedex_list() -> list[dict]:
@@ -155,6 +141,31 @@ def build_pokedex_list_map(rows: list[dict]) -> dict:
         if name:
             by_name[name] = r
     return {"by_slug": by_slug, "by_name": by_name}
+
+
+def load_category_files(cat):
+    d = os.path.join(BASE_DIR, "data", "images", cat)
+    if not os.path.isdir(d): return {}
+    return {f.lower(): f for f in os.listdir(d)}
+    
+local_files_cache = {
+    "pokemon": load_category_files("pokemon"),
+    "habitats": load_category_files("habitats"),
+    "items": load_category_files("items"),
+    "furniture": load_category_files("furniture"),
+    "cosmetics": load_category_files("cosmetics")
+}
+
+def find_local_image(category, possible_names):
+    files = local_files_cache.get(category, {})
+    for nm in possible_names:
+        if not nm: continue
+        base = re.sub(r'[^a-z0-9_-]+', '-', str(nm).lower()).strip('-')
+        candidates = [f"{base}.png", f"{str(nm).lower().replace(' ', '')}.png", f"{str(nm).lower()}.png"]
+        for c in candidates:
+            if c in files:
+                return f"/images/{category}/{files[c]}"
+    return None
 
 
 def build_pokemon(
@@ -181,8 +192,8 @@ def build_pokemon(
             natdex_no = int(r.get("natdex_no") or 0)
         except Exception:
             natdex_no = 0
-        if natdex_no and natdex_no in official_map:
-            image_url = "https://tw.portal-pokemon.com/play/resources/pokedex" + official_map[natdex_no]
+        # if natdex_no and natdex_no in official_map:
+        #     image_url = "https://tw.portal-pokemon.com/play/resources/pokedex" + official_map[natdex_no]
         if isinstance(image_url, str) and image_url.endswith("/show"):
             image_url = image_url[:-5]
 
@@ -192,6 +203,11 @@ def build_pokemon(
         list_row = by_slug.get(slug) if slug else None
 
         name_zh = r.get("name_zh")
+
+        local_img = find_local_image("pokemon", [r.get('dex_no'), r.get('slug'), r.get("name_en")])
+        if not local_img and list_row:
+            local_img = find_local_image("pokemon", [list_row.get('dex_no'), list_row.get('slug')])
+
         types_src = r.get("types") or []
         favorites_src = fix_favorite_keys(r.get("favorites") or [])
         time_src = r.get("time") or []
@@ -245,7 +261,7 @@ def build_pokemon(
                 "habitats": habitats_src,
                 "obtain_method": obtain_method,
                 "obtain_method_zh": obtain_method_zh,
-                "image_url": image_url or (list_row.get("image_url") if list_row else None),
+                "image_url": local_img or image_url or (list_row.get("image_url") if list_row else None),
                 "image_path": r.get("image_path"),
                 "source_url": r.get("source_url"),
             }
@@ -259,7 +275,7 @@ def parse_required_items(required: str) -> list[dict]:
     parts = [p.strip() for p in required.split(",") if p.strip()]
     items = []
     for p in parts:
-        m = re.match(r"^(.*)\s+x(\d+)$", p, flags=re.I)
+        m = re.match(r"^(.*?)\s*(?:x|×|X)\s*(\d+)$", p, flags=re.I)
         if m:
             name = m.group(1).strip()
             qty = int(m.group(2))
@@ -308,6 +324,9 @@ def build_habitats(
         name_en = r.get("name")
         display_name = name_zh or name_en
         required_display = r.get("required_zh") or r.get("required")
+
+        local_img = find_local_image("habitats", [r.get("id"), r.get("slug")])
+        
         out.append(
             {
                 "key": f"habitat:{key_base}",
@@ -323,7 +342,7 @@ def build_habitats(
                 "attracts": [a.get("name") for a in r.get("attracts") or [] if isinstance(a, dict)],
                 "attracts_zh": attracts_zh,
                 "attract_refs": attract_refs,
-                "image_url": image_url,
+                "image_url": local_img or image_url,
                 "image_path": r.get("image_path"),
                 "source_url": r.get("source_url"),
             }
@@ -346,6 +365,10 @@ def build_items(file_name: str, prefix: str, category_zh: str) -> list[dict]:
             continue
         if isinstance(name, str) and "Includes category tree" in name:
             continue
+
+        folder = "furniture" if prefix == "furniture" else "cosmetics" if prefix == "cosmetic" else "items"
+        local_img = find_local_image(folder, [r.get("name"), r.get("name_en")])
+
         out.append(
             {
                 "key": f"{prefix}:{name}",
@@ -355,7 +378,7 @@ def build_items(file_name: str, prefix: str, category_zh: str) -> list[dict]:
                 "name": name,
                 "name_zh": name_zh,
                 "location": r.get("location"),
-                "image_url": image_url,
+                "image_url": local_img or image_url,
                 "image_path": r.get("image_path"),
                 "source_url": r.get("source_url"),
             }
