@@ -21,3 +21,25 @@ yarn-error.log*
 *.sln
 *.sw?
 .DS_Store
+
+# Claude internal
+.claude/
+
+# SQLite DB (generated, not needed in repo)
+data/pokopia.db
+
+# Intermediate/debug files
+classify_debug.txt
+jp_items_full.txt
+jp_sample.txt
+match_review.md
+data/processed/
+scripts/translate_cache_required.json
+
+# Misc debug/temp files
+search2.txt
+search_result.txt
+target_items.txt
+missing_images_report.md
+missing_items_classified.md
+启动claude.bat

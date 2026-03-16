@@ -5,8 +5,9 @@
   ],
   "window": {
     "navigationBarTitleText": "Pokopia 资料库",
-    "navigationBarBackgroundColor": "#f4f1ec",
-    "navigationBarTextStyle": "black",
+    "navigationBarBackgroundColor": "#c0392b",
+    "navigationBarTextStyle": "white",
     "backgroundTextStyle": "light"
-  }
+  },
+  "pageConfig": {}
 }

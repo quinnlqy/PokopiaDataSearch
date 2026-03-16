@@ -1,98 +1,175 @@
-<view class="page">
-  <view class="hero">
-    <text class="title">Pokopia 资料库</text>
-    <text class="subtitle">本地 JSON 检索 Demo</text>
-    <input
-      class="search"
-      placeholder="搜索宝可梦、栖息地、家具、道具、料理..."
-      bindinput="onInput"
-    />
-    <view class="filters">
-      <view class="filter-chip {{activeFilter==='all' ? 'active' : ''}}" bindtap="setFilter" data-filter="all">
-        全部
-      </view>
-      <view class="filter-chip {{activeFilter==='pokemon' ? 'active' : ''}}" bindtap="setFilter" data-filter="pokemon">
-        宝可梦
-      </view>
-      <view class="filter-chip {{activeFilter==='habitat' ? 'active' : ''}}" bindtap="setFilter" data-filter="habitat">
-        栖息地
-      </view>
-      <view class="filter-chip {{activeFilter==='item' ? 'active' : ''}}" bindtap="setFilter" data-filter="item">
-        道具
-      </view>
-      <view class="filter-chip {{activeFilter==='furniture' ? 'active' : ''}}" bindtap="setFilter" data-filter="furniture">
-        家具
-      </view>
-      <view class="filter-chip {{activeFilter==='cooking' ? 'active' : ''}}" bindtap="setFilter" data-filter="cooking">
-        料理
-      </view>
-      <view class="filter-chip {{activeFilter==='cosmetic' ? 'active' : ''}}" bindtap="setFilter" data-filter="cosmetic">
-        服装
-      </view>
+<view class="dex-root">
+
+  <!-- ① 背景图（图鉴外壳） -->
+  <image class="dex-bg" src="/images/ui/pokedex_bg2.png" mode="scaleToFill" />
+
+  <!-- ② 搜索区域（叠在背景图的搜索条位置） -->
+  <view class="search-layer">
+    <view class="search-box">
+      <input
+        class="search-input"
+        placeholder="搜索宝可梦、栖息地、道具..."
+        placeholder-class="search-placeholder"
+        bindinput="onInput"
+        value="{{query}}"
+      />
     </view>
   </view>
 
-  <view class="section" wx:if="{{results.pokemon.length}}">
-    <text class="section-title">宝可梦</text>
-    <view class="card" wx:for="{{results.pokemon}}" wx:key="key" bindtap="openDetail" data-type="pokemon" data-key="{{item.key}}">
-      <image class="thumb" mode="aspectFill" src="{{item.image_url}}" />
-      <view class="info">
-        <text class="name">{{item.name_zh || item.name_en}}</text>
-        <text class="meta">{{item.name_en}} #{{item.natdex_no || item.dex_no}}</text>
-      </view>
-    </view>
-  </view>
+  <!-- ③ 内容卡片区（叠在背景图的灰色内容区） -->
+  <view class="content-layer">
 
-  <view class="section" wx:if="{{results.habitats.length}}">
-    <text class="section-title">栖息地</text>
-    <view class="card" wx:for="{{results.habitats}}" wx:key="key" bindtap="openDetail" data-type="habitat" data-key="{{item.key}}">
-      <image class="thumb" mode="aspectFill" src="{{item.image_url}}" />
-      <view class="info">
-        <text class="name">{{item.name}}</text>
-        <text class="meta">{{item.required}}</text>
-      </view>
-    </view>
-  </view>
+    <!-- 第一行：类型筛选 -->
+    <scroll-view class="filter-row" scroll-x enable-flex>
+      <view class="filter-chip {{activeFilter==='all' ? 'active' : ''}}" bindtap="setFilter" data-filter="all">全部</view>
+      <view class="filter-chip {{activeFilter==='pokemon' ? 'active' : ''}}" bindtap="setFilter" data-filter="pokemon">宝可梦</view>
+      <view class="filter-chip {{activeFilter==='habitat' ? 'active' : ''}}" bindtap="setFilter" data-filter="habitat">栖息地</view>
+      <view class="filter-chip {{activeFilter==='item' ? 'active' : ''}}" bindtap="setFilter" data-filter="item">道具</view>
+      <view class="filter-chip {{activeFilter==='building' ? 'active' : ''}}" bindtap="setFilter" data-filter="building">建筑</view>
+      <view class="filter-chip {{activeFilter==='furniture' ? 'active' : ''}}" bindtap="setFilter" data-filter="furniture">家具</view>
+      <view class="filter-chip {{activeFilter==='cooking' ? 'active' : ''}}" bindtap="setFilter" data-filter="cooking">料理</view>
+      <view class="filter-chip {{activeFilter==='cosmetic' ? 'active' : ''}}" bindtap="setFilter" data-filter="cosmetic">服装</view>
+    </scroll-view>
 
-  <view class="section" wx:if="{{results.items.length}}">
-    <text class="section-title">道具</text>
-    <view class="card" wx:for="{{results.items}}" wx:key="key" bindtap="openDetail" data-type="item" data-key="{{item.key}}">
-      <image class="thumb" mode="aspectFill" src="{{item.image_url}}" />
-      <view class="info">
-        <text class="name">{{item.name_zh || item.name}}</text>
-      </view>
+    <!-- 第二行：收集状态筛选（仅宝可梦/栖息地时有意义） -->
+    <view class="collection-row" wx:if="{{activeFilter==='all' || activeFilter==='pokemon' || activeFilter==='habitat'}}">
+      <view class="coll-chip {{collectionFilter==='all' ? 'coll-active' : ''}}" bindtap="setCollectionFilter" data-filter="all">全部</view>
+      <view class="coll-chip {{collectionFilter==='collected' ? 'coll-active' : ''}}" bindtap="setCollectionFilter" data-filter="collected">已收集</view>
+      <view class="coll-chip {{collectionFilter==='uncollected' ? 'coll-active' : ''}}" bindtap="setCollectionFilter" data-filter="uncollected">未收集</view>
     </view>
-  </view>
 
-  <view class="section" wx:if="{{results.furniture.length}}">
-    <text class="section-title">家具</text>
-    <view class="card" wx:for="{{results.furniture}}" wx:key="key" bindtap="openDetail" data-type="furniture" data-key="{{item.key}}">
-      <image class="thumb" mode="aspectFill" src="{{item.image_url}}" />
-      <view class="info">
-        <text class="name">{{item.name_zh || item.name}}</text>
-      </view>
-    </view>
-  </view>
+    <!-- 结果列表 -->
+    <scroll-view class="result-scroll" scroll-y bindscrolltolower="onScrollToLower" lower-threshold="100" scroll-top="{{scrollTop}}">
 
-  <view class="section" wx:if="{{results.cooking.length}}">
-    <text class="section-title">料理</text>
-    <view class="card" wx:for="{{results.cooking}}" wx:key="key" bindtap="openDetail" data-type="cooking" data-key="{{item.key}}">
-      <image class="thumb" mode="aspectFill" src="{{item.image_url}}" />
-      <view class="info">
-        <text class="name">{{item.name_zh || item.name}}</text>
-        <text class="meta" wx:if="{{item.category_zh_recipe}}">{{item.category_zh_recipe}}</text>
+      <!-- 宝可梦 -->
+      <view wx:if="{{results.pokemon.length}}">
+        <text class="section-title" wx:if="{{activeFilter==='all'}}">宝可梦</text>
+        <view class="card" wx:for="{{results.pokemon}}" wx:key="key" bindtap="openDetail" data-type="pokemon" data-key="{{item.key}}">
+          <view class="thumb-wrap thumb-pokemon">
+            <image class="thumb" mode="aspectFill" src="{{item.image_path || item.image_url}}" />
+          </view>
+          <view class="card-info">
+            <text class="card-name">{{item.name_zh || item.name_en}}</text>
+            <text class="card-meta">{{item.name_en}} #{{item.natdex_no || item.dex_no}}</text>
+          </view>
+          <view class="card-right">
+            <image class="type-icon" src="/images/ui/pokeball.png" mode="aspectFit" />
+            <view class="collect-btn {{collectedPokemon[item.key] ? 'collected' : 'uncollected'}}"
+                  catchtap="toggleCollect" data-type="pokemon" data-key="{{item.key}}">
+              <text class="collect-check">✓</text>
+            </view>
+          </view>
+        </view>
       </view>
-    </view>
-  </view>
 
-  <view class="section" wx:if="{{results.cosmetics.length}}">
-    <text class="section-title">服装</text>
-    <view class="card" wx:for="{{results.cosmetics}}" wx:key="key" bindtap="openDetail" data-type="cosmetic" data-key="{{item.key}}">
-      <image class="thumb" mode="aspectFill" src="{{item.image_url}}" />
-      <view class="info">
-        <text class="name">{{item.name_zh || item.name}}</text>
-        <text class="meta" wx:if="{{item.location}}">{{item.location}}</text>
+      <!-- 栖息地 -->
+      <view wx:if="{{results.habitats.length}}">
+        <text class="section-title" wx:if="{{activeFilter==='all'}}">栖息地</text>
+        <view class="card" wx:for="{{results.habitats}}" wx:key="key" bindtap="openDetail" data-type="habitat" data-key="{{item.key}}">
+          <view class="thumb-wrap thumb-habitat">
+            <image class="thumb" mode="aspectFill" src="{{item.image_path || item.image_url}}" />
+          </view>
+          <view class="card-info">
+            <text class="card-name">{{item.name_zh || item.name}}</text>
+            <text class="card-meta">{{item.required_zh || item.required}}</text>
+          </view>
+          <view class="card-right">
+            <image class="type-icon" src="/images/ui/habitat_icon.png" mode="aspectFit" />
+            <view class="collect-btn {{collectedHabitat[item.key] ? 'collected' : 'uncollected'}}"
+                  catchtap="toggleCollect" data-type="habitat" data-key="{{item.key}}">
+              <text class="collect-check">✓</text>
+            </view>
+          </view>
+        </view>
+      </view>
+
+      <!-- 道具 -->
+      <view wx:if="{{results.items.length}}">
+        <text class="section-title" wx:if="{{activeFilter==='all'}}">道具</text>
+        <view class="card" wx:for="{{results.items}}" wx:key="key" bindtap="openDetail" data-type="item" data-key="{{item.key}}">
+          <view class="thumb-wrap thumb-item">
+            <image class="thumb" mode="aspectFill" src="{{item.image_path || item.image_url}}" />
+          </view>
+          <view class="card-info">
+            <text class="card-name">{{item.name_zh || item.name}}</text>
+          </view>
+        </view>
+      </view>
+
+      <!-- 建筑 -->
+      <view wx:if="{{results.building.length}}">
+        <text class="section-title" wx:if="{{activeFilter==='all'}}">建筑</text>
+        <view class="card" wx:for="{{results.building}}" wx:key="key" bindtap="openDetail" data-type="item" data-key="{{item.key}}">
+          <view class="thumb-wrap thumb-building">
+            <image class="thumb" mode="aspectFill" src="{{item.image_path || item.image_url}}" />
+          </view>
+          <view class="card-info">
+            <text class="card-name">{{item.name_zh || item.name}}</text>
+            <text class="card-meta">{{item.category_zh}}</text>
+          </view>
+        </view>
+      </view>
+
+      <!-- 家具 -->
+      <view wx:if="{{results.furniture.length}}">
+        <text class="section-title" wx:if="{{activeFilter==='all'}}">家具</text>
+        <view class="card" wx:for="{{results.furniture}}" wx:key="key" bindtap="openDetail" data-type="furniture" data-key="{{item.key}}">
+          <view class="thumb-wrap thumb-item">
+            <image class="thumb" mode="aspectFill" src="{{item.image_path || item.image_url}}" />
+          </view>
+          <view class="card-info">
+            <text class="card-name">{{item.name_zh || item.name}}</text>
+          </view>
+        </view>
+      </view>
+
+      <!-- 料理 -->
+      <view wx:if="{{results.cooking.length}}">
+        <text class="section-title" wx:if="{{activeFilter==='all'}}">料理</text>
+        <view class="card" wx:for="{{results.cooking}}" wx:key="key" bindtap="openDetail" data-type="cooking" data-key="{{item.key}}">
+          <view class="thumb-wrap thumb-item">
+            <image class="thumb" mode="aspectFill" src="{{item.image_path || item.image_url}}" />
+          </view>
+          <view class="card-info">
+            <text class="card-name">{{item.name_zh || item.name}}</text>
+            <text class="card-meta" wx:if="{{item.category_zh_recipe}}">{{item.category_zh_recipe}}</text>
+          </view>
+        </view>
+      </view>
+
+      <!-- 服装 -->
+      <view wx:if="{{results.cosmetics.length}}">
+        <text class="section-title" wx:if="{{activeFilter==='all'}}">服装</text>
+        <view class="card" wx:for="{{results.cosmetics}}" wx:key="key" bindtap="openDetail" data-type="cosmetic" data-key="{{item.key}}">
+          <view class="thumb-wrap thumb-item">
+            <image class="thumb" mode="aspectFill" src="{{item.image_path || item.image_url}}" />
+          </view>
+          <view class="card-info">
+            <text class="card-name">{{item.name_zh || item.name}}</text>
+            <text class="card-meta" wx:if="{{item.location}}">{{item.location}}</text>
+          </view>
+        </view>
+      </view>
+
+      <!-- 空状态：只在有搜索词但无结果时显示 -->
+      <view class="empty"
+        wx:if="{{query && !results.pokemon.length && !results.habitats.length && !results.items.length && !results.building.length && !results.furniture.length && !results.cooking.length && !results.cosmetics.length}}">
+        <text>没有找到「{{query}}」相关内容</text>
+      </view>
+
+    </scroll-view>
+
+    <!-- 底部统计栏 -->
+    <view class="stats-bar">
+      <view class="stats-text">
+        <text>宝可梦 {{stats.pokemonCount}}/{{stats.pokemonTotal}}</text>
+        <text class="stats-divider"> | </text>
+        <text>栖息地 {{stats.habitatCount}}/{{stats.habitatTotal}}</text>
+      </view>
+      <view class="progress-track">
+        <view class="progress-fill progress-pokemon" style="width: {{stats.pokemonTotal ? stats.pokemonCount * 100 / stats.pokemonTotal : 0}}%"></view>
       </view>
     </view>
+
   </view>
 </view>

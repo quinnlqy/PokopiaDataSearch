@@ -1,3 +1,5 @@
 {
-  "navigationBarTitleText": "Pokopia 资料库"
+  "navigationBarTitleText": "Pokopia 资料库",
+  "navigationBarBackgroundColor": "#19143a",
+  "navigationBarTextStyle": "white"
 }
