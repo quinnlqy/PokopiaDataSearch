@@ -43,30 +43,51 @@ Page({
       building: [], furniture: [], cosmetics: [], cooking: []
     },
     scrollTop: 0,
+    filterScrollPct: 0,      // 滚动条位置 0~1
+    filterIndicatorW: 40,    // 指示条宽度百分比（固定40%）
     collectedPokemon: {},
     collectedHabitat: {},
+    collectedCosmetic: {},
     stats: {
       pokemonCount: 0, pokemonTotal: 0,
-      habitatCount: 0, habitatTotal: 0
+      habitatCount: 0, habitatTotal: 0,
+      cosmeticCount: 0, cosmeticTotal: 0
     }
   },
 
   onShow() {
+    this._isReturning = true;
     this._reloadCollection();
+  },
+
+  onReady() {
+    // 提前缓存 filter-row 的实际可见宽度，用于进度条计算
+    const self = this;
+    wx.createSelectorQuery().select('.filter-row').boundingClientRect(function(rect) {
+      if (rect) { self._filterRowViewW = rect.width; }
+    }).exec();
   },
 
   // ── 收集数据刷新 ─────────────────────────────────────────
   _reloadCollection() {
     const collectedPokemon = storage.getAll("pokemon");
     const collectedHabitat = storage.getAll("habitat");
+    const collectedCosmetic = storage.getAll("cosmetic");
+    // When returning from detail page, preserve scroll position (don't reset to 0)
+    const scrollTop = this._isReturning ? this._savedScrollTop || 0 : 0;
+    this._isReturning = false;
     this.setData({
       collectedPokemon,
       collectedHabitat,
+      collectedCosmetic,
+      scrollTop,
       stats: {
         pokemonCount: Object.keys(collectedPokemon).length,
         pokemonTotal: pokemonData.length,
         habitatCount: Object.keys(collectedHabitat).length,
-        habitatTotal: habitatData.length
+        habitatTotal: habitatData.length,
+        cosmeticCount: Object.keys(collectedCosmetic).length,
+        cosmeticTotal: cosmeticData.length
       }
     });
     this.runSearch(this.data.query);
@@ -76,22 +97,25 @@ Page({
   toggleCollect(e) {
     const type = e.currentTarget.dataset.type;
     const key  = e.currentTarget.dataset.key;
-    if (type !== "pokemon" && type !== "habitat") return;
+    if (type !== "pokemon" && type !== "habitat" && type !== "cosmetic") return;
     storage.toggle(type, key);
+    this._isReturning = true; // preserve scroll position when toggling collect
     this._reloadCollection();
   },
 
   // ── 筛选器 ───────────────────────────────────────────────
   setFilter(e) {
-    this.setData({ activeFilter: e.currentTarget.dataset.filter });
+    const newFilter = e.currentTarget.dataset.filter;
+    this.setData({ activeFilter: newFilter });
     this._resetLimits();
-    this.runSearch(this.data.query);
+    this.runSearch(this.data.query, newFilter, this.data.collectionFilter);
   },
 
   setCollectionFilter(e) {
-    this.setData({ collectionFilter: e.currentTarget.dataset.filter });
+    const newCf = e.currentTarget.dataset.filter;
+    this.setData({ collectionFilter: newCf });
     this._resetLimits();
-    this.runSearch(this.data.query);
+    this.runSearch(this.data.query, this.data.activeFilter, newCf);
   },
 
   onInput(e) {
@@ -107,7 +131,31 @@ Page({
       pokemon: INIT_SIZE, habitats: INIT_SIZE, items: INIT_SIZE,
       building: INIT_SIZE, furniture: INIT_SIZE, cosmetics: INIT_SIZE, cooking: INIT_SIZE
     };
+    this._savedScrollTop = 0;
     this.setData({ scrollTop: 0 });
+  },
+
+  // ── 结果列表滚动 → 记录位置 ──────────────────────────
+  onResultScroll(e) {
+    this._savedScrollTop = e.detail.scrollTop;
+  },
+
+  // ── filter-row 滚动 → 更新指示条位置 ──────────────────
+  onFilterScroll(e) {
+    const { scrollLeft, scrollWidth } = e.detail;
+    // 使用实际容器宽度计算最大滚动量
+    const self = this;
+    if (!this._filterRowViewW) {
+      wx.createSelectorQuery().select('.filter-row').boundingClientRect(function(rect) {
+        if (rect) {
+          self._filterRowViewW = rect.width;
+        }
+      }).exec();
+    }
+    const viewW = this._filterRowViewW || scrollWidth * 0.6;
+    const maxScroll = scrollWidth - viewW;
+    const pct = maxScroll > 0 ? scrollLeft / maxScroll : 0;
+    this.setData({ filterScrollPct: Math.min(pct, 1) });
   },
 
   // ── 触底加载更多 ─────────────────────────────────────────
@@ -138,10 +186,10 @@ Page({
   },
 
   // ── 核心搜索 ─────────────────────────────────────────────
-  runSearch(query) {
+  runSearch(query, activeFilter, collectionFilter) {
     const tokens = tokenize(query || "");
-    const f = this.data.activeFilter;
-    const cf = this.data.collectionFilter;
+    const f = activeFilter !== undefined ? activeFilter : this.data.activeFilter;
+    const cf = collectionFilter !== undefined ? collectionFilter : this.data.collectionFilter;
     const collectedPokemon = this.data.collectedPokemon;
     const collectedHabitat = this.data.collectedHabitat;
 
@@ -166,13 +214,13 @@ Page({
       };
     } else {
       base = {
-        pokemon:   search(pokemonData,   ["category", "category_zh", "name_zh", "name_en", "dex_no", "natdex_no", "types", "favorites"], tokens, 9999),
-        habitats:  search(habitatData,   ["category", "category_zh", "name", "name_zh", "id", "required", "required_zh", "attracts", "attracts_zh"], tokens, 9999),
-        items:     search(pureItemData,  ["category", "category_zh", "name", "name_zh"], tokens, 9999),
-        building:  search(buildingData,  ["category", "category_zh", "name", "name_zh", "category_key"], tokens, 9999),
-        furniture: search(furnitureData, ["category", "category_zh", "name", "name_zh"], tokens, 9999),
-        cosmetics: search(cosmeticData,  ["category", "category_zh", "name", "name_zh", "location"], tokens, 9999),
-        cooking:   search(cookingData,   ["category", "category_zh", "category_zh_recipe", "name", "ingredients", "tools", "power_up_moves"], tokens, 9999)
+        pokemon:   search(pokemonData,   ["name_zh", "name_en", "dex_no", "natdex_no", "types", "favorites"], tokens, 9999),
+        habitats:  search(habitatData,   ["name", "name_zh", "id", "required", "required_zh", "attracts", "attracts_zh"], tokens, 9999),
+        items:     search(pureItemData,  ["name", "name_zh"], tokens, 9999),
+        building:  search(buildingData,  ["name", "name_zh", "category_key"], tokens, 9999),
+        furniture: search(furnitureData, ["name", "name_zh"], tokens, 9999),
+        cosmetics: search(cosmeticData,  ["name", "name_zh", "location"], tokens, 9999),
+        cooking:   search(cookingData,   ["category_zh_recipe", "name", "ingredients", "tools", "power_up_moves"], tokens, 9999)
       };
     }
 
@@ -191,6 +239,8 @@ Page({
 
   // 按当前 _limits 截取并更新 data.results
   _applyLimits() {
+    // 始终用实时滚动位置，避免 setData 触发 scroll-top 绑定跳回顶部
+    const scrollTop = this._savedScrollTop !== undefined ? this._savedScrollTop : this.data.scrollTop;
     this.setData({
       results: {
         pokemon:   _fullResults.pokemon.slice(0,   _limits.pokemon),
@@ -200,7 +250,8 @@ Page({
         furniture: _fullResults.furniture.slice(0, _limits.furniture),
         cosmetics: _fullResults.cosmetics.slice(0, _limits.cosmetics),
         cooking:   _fullResults.cooking.slice(0,   _limits.cooking)
-      }
+      },
+      scrollTop
     });
   },
 

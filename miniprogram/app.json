@@ -4,10 +4,9 @@
     "pages/detail/detail"
   ],
   "window": {
-    "navigationBarTitleText": "Pokopia 资料库",
+    "navigationBarTitleText": "宝托邦资料库",
     "navigationBarBackgroundColor": "#c0392b",
     "navigationBarTextStyle": "white",
     "backgroundTextStyle": "light"
-  },
-  "pageConfig": {}
+  }
 }

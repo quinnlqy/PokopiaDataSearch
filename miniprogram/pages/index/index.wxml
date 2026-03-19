@@ -20,16 +20,22 @@
   <view class="content-layer">
 
     <!-- 第一行：类型筛选 -->
-    <scroll-view class="filter-row" scroll-x enable-flex>
-      <view class="filter-chip {{activeFilter==='all' ? 'active' : ''}}" bindtap="setFilter" data-filter="all">全部</view>
-      <view class="filter-chip {{activeFilter==='pokemon' ? 'active' : ''}}" bindtap="setFilter" data-filter="pokemon">宝可梦</view>
-      <view class="filter-chip {{activeFilter==='habitat' ? 'active' : ''}}" bindtap="setFilter" data-filter="habitat">栖息地</view>
-      <view class="filter-chip {{activeFilter==='item' ? 'active' : ''}}" bindtap="setFilter" data-filter="item">道具</view>
-      <view class="filter-chip {{activeFilter==='building' ? 'active' : ''}}" bindtap="setFilter" data-filter="building">建筑</view>
-      <view class="filter-chip {{activeFilter==='furniture' ? 'active' : ''}}" bindtap="setFilter" data-filter="furniture">家具</view>
-      <view class="filter-chip {{activeFilter==='cooking' ? 'active' : ''}}" bindtap="setFilter" data-filter="cooking">料理</view>
-      <view class="filter-chip {{activeFilter==='cosmetic' ? 'active' : ''}}" bindtap="setFilter" data-filter="cosmetic">服装</view>
-    </scroll-view>
+    <view class="filter-row-wrap">
+      <scroll-view class="filter-row" scroll-x enable-flex bindscroll="onFilterScroll">
+        <view class="filter-chip {{activeFilter==='all' ? 'active' : ''}}" bindtap="setFilter" data-filter="all">全部</view>
+        <view class="filter-chip {{activeFilter==='pokemon' ? 'active' : ''}}" bindtap="setFilter" data-filter="pokemon">宝可梦</view>
+        <view class="filter-chip {{activeFilter==='habitat' ? 'active' : ''}}" bindtap="setFilter" data-filter="habitat">栖息地</view>
+        <view class="filter-chip {{activeFilter==='item' ? 'active' : ''}}" bindtap="setFilter" data-filter="item">道具</view>
+        <view class="filter-chip {{activeFilter==='building' ? 'active' : ''}}" bindtap="setFilter" data-filter="building">建筑</view>
+        <view class="filter-chip {{activeFilter==='furniture' ? 'active' : ''}}" bindtap="setFilter" data-filter="furniture">家具</view>
+        <view class="filter-chip {{activeFilter==='cooking' ? 'active' : ''}}" bindtap="setFilter" data-filter="cooking">料理</view>
+        <view class="filter-chip {{activeFilter==='cosmetic' ? 'active' : ''}}" bindtap="setFilter" data-filter="cosmetic">服装</view>
+      </scroll-view>
+    </view>
+    <!-- 滚动指示进度条 -->
+    <view class="filter-scroll-bar">
+      <view class="filter-scroll-indicator" style="left: {{filterScrollPct * 78}}%;"></view>
+    </view>
 
     <!-- 第二行：收集状态筛选（仅宝可梦/栖息地时有意义） -->
     <view class="collection-row" wx:if="{{activeFilter==='all' || activeFilter==='pokemon' || activeFilter==='habitat'}}">
@@ -39,7 +45,7 @@
     </view>
 
     <!-- 结果列表 -->
-    <scroll-view class="result-scroll" scroll-y bindscrolltolower="onScrollToLower" lower-threshold="100" scroll-top="{{scrollTop}}">
+    <scroll-view class="result-scroll" scroll-y bindscrolltolower="onScrollToLower" lower-threshold="100" scroll-top="{{scrollTop}}" bindscroll="onResultScroll">
 
       <!-- 宝可梦 -->
       <view wx:if="{{results.pokemon.length}}">
@@ -93,6 +99,9 @@
           <view class="card-info">
             <text class="card-name">{{item.name_zh || item.name}}</text>
           </view>
+          <view class="card-right">
+            <image class="type-icon" src="/images/ui/property.png" mode="aspectFit" />
+          </view>
         </view>
       </view>
 
@@ -107,6 +116,9 @@
             <text class="card-name">{{item.name_zh || item.name}}</text>
             <text class="card-meta">{{item.category_zh}}</text>
           </view>
+          <view class="card-right">
+            <image class="type-icon" src="/images/ui/building.png" mode="aspectFit" />
+          </view>
         </view>
       </view>
 
@@ -119,6 +131,9 @@
           </view>
           <view class="card-info">
             <text class="card-name">{{item.name_zh || item.name}}</text>
+          </view>
+          <view class="card-right">
+            <image class="type-icon" src="/images/ui/furniture_icon.png" mode="aspectFit" />
           </view>
         </view>
       </view>
@@ -134,6 +149,9 @@
             <text class="card-name">{{item.name_zh || item.name}}</text>
             <text class="card-meta" wx:if="{{item.category_zh_recipe}}">{{item.category_zh_recipe}}</text>
           </view>
+          <view class="card-right">
+            <image class="type-icon" src="/images/ui/food.png" mode="aspectFit" />
+          </view>
         </view>
       </view>
 
@@ -146,7 +164,14 @@
           </view>
           <view class="card-info">
             <text class="card-name">{{item.name_zh || item.name}}</text>
-            <text class="card-meta" wx:if="{{item.location}}">{{item.location}}</text>
+            <text class="card-meta" wx:if="{{item.location}}">{{item.location_zh || item.location}}</text>
+          </view>
+          <view class="card-right">
+            <image class="type-icon" src="/images/ui/cloth.png" mode="aspectFit" />
+            <view class="collect-btn {{collectedCosmetic[item.key] ? 'collected' : 'uncollected'}}"
+                  catchtap="toggleCollect" data-type="cosmetic" data-key="{{item.key}}">
+              <text class="collect-check">✓</text>
+            </view>
           </view>
         </view>
       </view>
@@ -165,6 +190,8 @@
         <text>宝可梦 {{stats.pokemonCount}}/{{stats.pokemonTotal}}</text>
         <text class="stats-divider"> | </text>
         <text>栖息地 {{stats.habitatCount}}/{{stats.habitatTotal}}</text>
+        <text class="stats-divider"> | </text>
+        <text>服装 {{stats.cosmeticCount}}/{{stats.cosmeticTotal}}</text>
       </view>
       <view class="progress-track">
         <view class="progress-fill progress-pokemon" style="width: {{stats.pokemonTotal ? stats.pokemonCount * 100 / stats.pokemonTotal : 0}}%"></view>
