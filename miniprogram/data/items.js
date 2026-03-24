@@ -1,1 +1,19983 @@
-module.exports = [{"key":"item:CD播放器","category":"item","category_zh":"道具","category_key":"goods","name":"CD播放器","name_zh":"CD播放器","location":null,"image_url":"https://pokopiaguide.com/images/items/item-135.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/cd-player.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:CD架","category":"item","category_zh":"道具","category_key":"goods","name":"CD架","name_zh":"CD架","location":null,"image_url":"https://pokopiaguide.com/images/items/item-437.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/cd-rack.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:红线","category":"item","category_zh":"道具","category_key":"other","name":"红线","name_zh":"红线","location":null,"image_url":"https://pokopiaguide.com/images/items/item-82.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/destiny-knot.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:红色高草","category":"item","category_zh":"道具","category_key":"nature","name":"红色高草","name_zh":"红色高草","location":null,"image_url":"https://pokopiaguide.com/images/items/item-121.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/red-tall-grass.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:红色崖岩","category":"item","category_zh":"道具","category_key":"block","name":"红色崖岩","name_zh":"红色崖岩","location":null,"image_url":"https://pokopiaguide.com/images/items/item-760.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-760.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:红色岩石","category":"item","category_zh":"道具","category_key":"block","name":"红色岩石","name_zh":"红色岩石","location":null,"image_url":"https://pokopiaguide.com/images/items/item-764.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/red-rock.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:回收桶","category":"item","category_zh":"道具","category_key":"outdoor","name":"回收桶","name_zh":"回收桶","location":null,"image_url":"https://pokopiaguide.com/images/items/item-723.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/recycling-bin.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:上下推拉窗","category":"item","category_zh":"道具","category_key":"building","name":"上下推拉窗","name_zh":"上下推拉窗","location":null,"image_url":"https://pokopiaguide.com/images/items/item-848.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/stained-glass-window-upper.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:颚骨化石","category":"item","category_zh":"道具","category_key":"other","name":"颚骨化石","name_zh":"颚骨化石","location":null,"image_url":"https://pokopiaguide.com/images/items/item-393.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-393.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:柏油路","category":"item","category_zh":"道具","category_key":"block","name":"柏油路","name_zh":"柏油路","location":null,"image_url":"https://pokopiaguide.com/images/items/item-718.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/asphalt-road.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:熔岩岩石","category":"item","category_zh":"道具","category_key":"nature","name":"熔岩岩石","name_zh":"熔岩岩石","location":null,"image_url":"https://pokopiaguide.com/images/items/item-129.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/lava-rock.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:热岩","category":"item","category_zh":"道具","category_key":"outdoor","name":"热岩","name_zh":"热岩","location":null,"image_url":"https://pokopiaguide.com/images/items/item-297.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-297.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:下午茶组","category":"item","category_zh":"道具","category_key":"goods","name":"下午茶组","name_zh":"下午茶组","location":null,"image_url":"https://pokopiaguide.com/images/items/item-149.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-149.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:甜甜蜜","category":"item","category_zh":"道具","category_key":"material","name":"甜甜蜜","name_zh":"甜甜蜜","location":null,"image_url":"https://pokopiaguide.com/images/items/item-14.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-14.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:编织用品","category":"item","category_zh":"道具","category_key":"goods","name":"编织用品","name_zh":"编织用品","location":null,"image_url":"https://pokopiaguide.com/images/items/item-120.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/knitting-supplies.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:奇特扩香瓶","category":"item","category_zh":"道具","category_key":"goods","name":"奇特扩香瓶","name_zh":"奇特扩香瓶","location":null,"image_url":"https://pokopiaguide.com/images/items/item-174.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/funky-diffuser.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:诡异蜡烛","category":"item","category_zh":"道具","category_key":"goods","name":"诡异蜡烛","name_zh":"诡异蜡烛","location":null,"image_url":"https://pokopiaguide.com/images/items/item-186.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-186.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:古典时钟","category":"item","category_zh":"道具","category_key":"goods","name":"古典时钟","name_zh":"古典时钟","location":null,"image_url":"https://pokopiaguide.com/images/items/item-754.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/antique-clock.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:古典墙（上段）","category":"item","category_zh":"道具","category_key":"block","name":"古典墙（上段）","name_zh":"古典墙（上段）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-778.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-778.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:古典墙（中段）","category":"item","category_zh":"道具","category_key":"block","name":"古典墙（中段）","name_zh":"古典墙（中段）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-779.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-779.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:古典墙（下段）","category":"item","category_zh":"道具","category_key":"block","name":"古典墙（下段）","name_zh":"古典墙（下段）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-780.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-780.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:古典吊灯","category":"item","category_zh":"道具","category_key":"utility","name":"古典吊灯","name_zh":"古典吊灯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-781.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-781.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:大型电玩机台","category":"item","category_zh":"道具","category_key":"goods","name":"大型电玩机台","name_zh":"大型电玩机台","location":null,"image_url":"https://pokopiaguide.com/images/items/item-293.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-293.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:拱形砖","category":"item","category_zh":"道具","category_key":"block","name":"拱形砖","name_zh":"拱形砖","location":null,"image_url":"https://pokopiaguide.com/images/items/item-335.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-335.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:房屋隔间","category":"item","category_zh":"道具","category_key":"building","name":"房屋隔间","name_zh":"房屋隔间","location":null,"image_url":"https://pokopiaguide.com/images/items/item-333.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-333.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:帅气电贝斯","category":"item","category_zh":"道具","category_key":"goods","name":"帅气电贝斯","name_zh":"帅气电贝斯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-140.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-140.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:帅气电吉他","category":"item","category_zh":"道具","category_key":"goods","name":"Cool electric guitar","name_zh":"帅气电吉他","location":null,"image_url":"https://pokopiaguide.com/images/items/item-404.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-404.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:作弊骰子","category":"item","category_zh":"道具","category_key":"other","name":"作弊骰子","name_zh":"作弊骰子","location":null,"image_url":"https://pokopiaguide.com/images/items/item-642.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-642.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:石头","category":"item","category_zh":"道具","category_key":"material","name":"石头","name_zh":"石头","location":null,"image_url":"https://pokopiaguide.com/images/items/item-5.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-5.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:石阶梯","category":"item","category_zh":"道具","category_key":"building","name":"石阶梯","name_zh":"石阶梯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-39.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-39.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:石柱（中段）","category":"item","category_zh":"道具","category_key":"block","name":"石柱（中段）","name_zh":"石柱（中段）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-271.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-271.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:石栅栏","category":"item","category_zh":"道具","category_key":"building","name":"石栅栏","name_zh":"石栅栏","location":null,"image_url":"https://pokopiaguide.com/images/items/item-273.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/sloped-stone-roof.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:石柱（下段）","category":"item","category_zh":"道具","category_key":"block","name":"石柱（下段）","name_zh":"石柱（下段）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-274.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-274.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:石柱（上段）","category":"item","category_zh":"道具","category_key":"block","name":"石柱（上段）","name_zh":"石柱（上段）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-275.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-275.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:石地板","category":"item","category_zh":"道具","category_key":"block","name":"石地板","name_zh":"石地板","location":null,"image_url":"https://pokopiaguide.com/images/items/item-383.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-383.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:碎石墙","category":"item","category_zh":"道具","category_key":"block","name":"碎石墙","name_zh":"碎石墙","location":null,"image_url":"https://pokopiaguide.com/images/items/item-384.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-384.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:石壁炉","category":"item","category_zh":"道具","category_key":"goods","name":"石壁炉","name_zh":"石壁炉","location":null,"image_url":"https://pokopiaguide.com/images/items/item-394.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/stone-fireplace.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:石纹地板","category":"item","category_zh":"道具","category_key":"block","name":"石纹地板","name_zh":"石纹地板","location":null,"image_url":"https://pokopiaguide.com/images/items/item-424.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-424.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:石砖","category":"item","category_zh":"道具","category_key":"block","name":"石砖","name_zh":"石砖","location":null,"image_url":"https://pokopiaguide.com/images/items/item-428.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-428.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:石砖（壁纸）","category":"item","category_zh":"道具","category_key":"other","name":"石砖（壁纸）","name_zh":"石砖（壁纸）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-785.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-785.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:石屋顶装饰","category":"item","category_zh":"道具","category_key":"building","name":"石屋顶装饰","name_zh":"石屋顶装饰","location":null,"image_url":"https://pokopiaguide.com/images/items/item-810.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/stone-roof-decoration.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:花瓶","category":"item","category_zh":"道具","category_key":"goods","name":"花瓶","name_zh":"花瓶","location":null,"image_url":"https://pokopiaguide.com/images/items/item-453.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-453.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:线头","category":"item","category_zh":"道具","category_key":"material","name":"线头","name_zh":"线头","location":null,"image_url":"https://pokopiaguide.com/images/items/item-52.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-52.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:生命宝珠","category":"item","category_zh":"道具","category_key":"other","name":"生命宝珠","name_zh":"生命宝珠","location":null,"image_url":"https://pokopiaguide.com/images/items/item-192.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/life-orb.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:彩色气球（白）","category":"item","category_zh":"道具","category_key":"other","name":"彩色气球（白）","name_zh":"彩色气球（白）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-563.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-563.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:彩色气球（红）","category":"item","category_zh":"道具","category_key":"other","name":"彩色气球（红）","name_zh":"彩色气球（红）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-564.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-564.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:彩色气球（黄）","category":"item","category_zh":"道具","category_key":"other","name":"彩色气球（黄）","name_zh":"彩色气球（黄）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-565.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-565.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:彩色气球（绿）","category":"item","category_zh":"道具","category_key":"other","name":"彩色气球（绿）","name_zh":"彩色气球（绿）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-566.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-566.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:彩色气球（深红）","category":"item","category_zh":"道具","category_key":"other","name":"彩色气球（深红）","name_zh":"彩色气球（深红）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-567.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-567.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:彩色气球（粉红）","category":"item","category_zh":"道具","category_key":"other","name":"彩色气球（粉红）","name_zh":"彩色气球（粉红）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-568.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-568.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:彩色气球（橘）","category":"item","category_zh":"道具","category_key":"other","name":"彩色气球（橘）","name_zh":"彩色气球（橘）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-569.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-569.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:彩色气球（紫）","category":"item","category_zh":"道具","category_key":"other","name":"彩色气球（紫）","name_zh":"彩色气球（紫）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-570.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-570.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:彩色气球（米色）","category":"item","category_zh":"道具","category_key":"other","name":"彩色气球（米色）","name_zh":"彩色气球（米色）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-571.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-571.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:彩色气球（卡其）","category":"item","category_zh":"道具","category_key":"other","name":"彩色气球（卡其）","name_zh":"彩色气球（卡其）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-572.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-572.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:彩色气球（黑）","category":"item","category_zh":"道具","category_key":"other","name":"彩色气球（黑）","name_zh":"彩色气球（黑）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-573.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-573.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:彩色气球（黄绿）","category":"item","category_zh":"道具","category_key":"other","name":"彩色气球（黄绿）","name_zh":"彩色气球（黄绿）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-574.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-574.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:彩色气球（深紫）","category":"item","category_zh":"道具","category_key":"other","name":"彩色气球（深紫）","name_zh":"彩色气球（深紫）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-575.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-575.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:彩色气球（深蓝）","category":"item","category_zh":"道具","category_key":"other","name":"彩色气球（深蓝）","name_zh":"彩色气球（深蓝）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-576.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-576.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:彩色气球（蓝）","category":"item","category_zh":"道具","category_key":"other","name":"彩色气球（蓝）","name_zh":"彩色气球（蓝）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-577.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-577.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:彩色气球（水蓝）","category":"item","category_zh":"道具","category_key":"other","name":"彩色气球（水蓝）","name_zh":"彩色气球（水蓝）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-578.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-578.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:彩色气球（灰）","category":"item","category_zh":"道具","category_key":"other","name":"彩色气球（灰）","name_zh":"彩色气球（灰）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-579.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-579.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:彩色气球（青绿）","category":"item","category_zh":"道具","category_key":"other","name":"彩色气球（青绿）","name_zh":"彩色气球（青绿）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-580.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-580.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:山岩花","category":"item","category_zh":"道具","category_key":"nature","name":"山岩花","name_zh":"山岩花","location":null,"image_url":"https://pokopiaguide.com/images/items/item-123.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-123.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:祝庆铠甲","category":"item","category_zh":"道具","category_key":"goods","name":"祝庆铠甲","name_zh":"祝庆铠甲","location":null,"image_url":"https://pokopiaguide.com/images/items/item-299.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-299.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:伊布玩偶","category":"item","category_zh":"道具","category_key":"goods","name":"伊布玩偶","name_zh":"伊布玩偶","location":null,"image_url":"https://pokopiaguide.com/images/items/item-54.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-54.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:风速狗玩偶","category":"item","category_zh":"道具","category_key":"goods","name":"风速狗玩偶","name_zh":"风速狗玩偶","location":null,"image_url":"https://pokopiaguide.com/images/items/item-216.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-216.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:壁灯","category":"item","category_zh":"道具","category_key":"utility","name":"壁灯","name_zh":"壁灯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-820.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-820.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:浮萍","category":"item","category_zh":"道具","category_key":"nature","name":"浮萍","name_zh":"浮萍","location":null,"image_url":"https://pokopiaguide.com/images/items/item-125.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/duckweed.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:浮岛花","category":"item","category_zh":"道具","category_key":"nature","name":"浮岛花","name_zh":"浮岛花","location":null,"image_url":"https://pokopiaguide.com/images/items/item-396.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-396.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:浅棕崖岩","category":"item","category_zh":"道具","category_key":"block","name":"浅棕崖岩","name_zh":"浅棕崖岩","location":null,"image_url":"https://pokopiaguide.com/images/items/item-759.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-759.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:浅棕岩石","category":"item","category_zh":"道具","category_key":"block","name":"浅棕岩石","name_zh":"浅棕岩石","location":null,"image_url":"https://pokopiaguide.com/images/items/item-763.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/light-brown-rock.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:太空船","category":"item","category_zh":"道具","category_key":"goods","name":"太空船","name_zh":"太空船","location":null,"image_url":"https://pokopiaguide.com/images/items/item-176.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/spaceship.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:太空衣","category":"item","category_zh":"道具","category_key":"outdoor","name":"太空衣","name_zh":"太空衣","location":null,"image_url":"https://pokopiaguide.com/images/items/item-260.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-260.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:烟火发射筒","category":"item","category_zh":"道具","category_key":"outdoor","name":"烟火发射筒","name_zh":"烟火发射筒","location":null,"image_url":"https://pokopiaguide.com/images/items/item-375.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-375.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:清水模墙","category":"item","category_zh":"道具","category_key":"block","name":"清水模墙","name_zh":"清水模墙","location":null,"image_url":"https://pokopiaguide.com/images/items/item-617.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/clear-bell.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:清水模墙（壁纸）","category":"item","category_zh":"道具","category_key":"other","name":"清水模墙（壁纸）","name_zh":"清水模墙（壁纸）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-787.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-787.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:海滨花","category":"item","category_zh":"道具","category_key":"nature","name":"海滨花","name_zh":"海滨花","location":null,"image_url":"https://pokopiaguide.com/images/items/item-111.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/seashore-flowers.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:潮汐铃铛","category":"item","category_zh":"道具","category_key":"goods","name":"潮汐铃铛","name_zh":"潮汐铃铛","location":null,"image_url":"https://pokopiaguide.com/images/items/item-355.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/tidal-bell.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:海边沙","category":"item","category_zh":"道具","category_key":"block","name":"海边沙","name_zh":"海边沙","location":null,"image_url":"https://pokopiaguide.com/images/items/item-442.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/beach-sand.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:白色颜料","category":"item","category_zh":"道具","category_key":"material","name":"白色颜料","name_zh":"白色颜料","location":null,"image_url":"https://pokopiaguide.com/images/items/item-581.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/white-paint.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:红色颜料","category":"item","category_zh":"道具","category_key":"material","name":"红色颜料","name_zh":"红色颜料","location":null,"image_url":"https://pokopiaguide.com/images/items/item-582.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-582.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:黄色颜料","category":"item","category_zh":"道具","category_key":"material","name":"黄色颜料","name_zh":"黄色颜料","location":null,"image_url":"https://pokopiaguide.com/images/items/item-583.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-583.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:绿色颜料","category":"item","category_zh":"道具","category_key":"material","name":"绿色颜料","name_zh":"绿色颜料","location":null,"image_url":"https://pokopiaguide.com/images/items/item-584.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/green-paint.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:黑色颜料","category":"item","category_zh":"道具","category_key":"material","name":"黑色颜料","name_zh":"黑色颜料","location":null,"image_url":"https://pokopiaguide.com/images/items/item-585.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/black-paint.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:蓝色颜料","category":"item","category_zh":"道具","category_key":"material","name":"蓝色颜料","name_zh":"蓝色颜料","location":null,"image_url":"https://pokopiaguide.com/images/items/item-586.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/bouncy-blue-bathtub.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:粉红色颜料","category":"item","category_zh":"道具","category_key":"material","name":"粉红色颜料","name_zh":"粉红色颜料","location":null,"image_url":"https://pokopiaguide.com/images/items/item-587.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/dry-pink-tall-grass.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:水蓝色颜料","category":"item","category_zh":"道具","category_key":"material","name":"水蓝色颜料","name_zh":"水蓝色颜料","location":null,"image_url":"https://pokopiaguide.com/images/items/item-588.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-588.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:电梯平台","category":"item","category_zh":"道具","category_key":"utility","name":"电梯平台","name_zh":"电梯平台","location":null,"image_url":"https://pokopiaguide.com/images/items/item-560.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/elevator-platform.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:笔筒","category":"item","category_zh":"道具","category_key":"goods","name":"笔筒","name_zh":"笔筒","location":null,"image_url":"https://pokopiaguide.com/images/items/item-522.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/pencil-holder.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:好喝的水","category":"item","category_zh":"道具","category_key":"food","name":"好喝的水","name_zh":"好喝的水","location":null,"image_url":"https://pokopiaguide.com/images/items/item-136.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-136.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:扇形瓦屋顶","category":"item","category_zh":"道具","category_key":"building","name":"扇形瓦屋顶","name_zh":"扇形瓦屋顶","location":null,"image_url":"https://pokopiaguide.com/images/items/item-392.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-392.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:黄金墙（壁纸）","category":"item","category_zh":"道具","category_key":"other","name":"黄金墙（壁纸）","name_zh":"黄金墙（壁纸）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-773.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-773.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:大木门","category":"item","category_zh":"道具","category_key":"building","name":"大木门","name_zh":"大木门","location":null,"image_url":"https://pokopiaguide.com/images/items/item-32.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/boat-door.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:大型遗失物","category":"item","category_zh":"道具","category_key":"other","name":"大型遗失物","name_zh":"大型遗失物","location":null,"image_url":"https://pokopiaguide.com/images/items/item-53.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-53.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:大岩石","category":"item","category_zh":"道具","category_key":"nature","name":"大岩石","name_zh":"大岩石","location":null,"image_url":"https://pokopiaguide.com/images/items/item-97.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-97.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:大棕榈树","category":"item","category_zh":"道具","category_key":"nature","name":"大棕榈树","name_zh":"大棕榈树","location":null,"image_url":"https://pokopiaguide.com/images/items/item-112.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-112.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:大换气扇","category":"item","category_zh":"道具","category_key":"outdoor","name":"大换气扇","name_zh":"大换气扇","location":null,"image_url":"https://pokopiaguide.com/images/items/item-468.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/large-ventilation-fan.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:大根茎","category":"item","category_zh":"道具","category_key":"other","name":"大根茎","name_zh":"大根茎","location":null,"image_url":"https://pokopiaguide.com/images/items/item-554.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-554.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:大方形地毯","category":"item","category_zh":"道具","category_key":"other","name":"大方形地毯","name_zh":"大方形地毯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-647.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/large-square-rug.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:大窄长地毯","category":"item","category_zh":"道具","category_key":"other","name":"大窄长地毯","name_zh":"大窄长地毯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-648.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/large-narrow-rug.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:大鼓","category":"item","category_zh":"道具","category_key":"goods","name":"大鼓","name_zh":"大鼓","location":null,"image_url":"https://pokopiaguide.com/images/items/item-667.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-667.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:大圆形地毯","category":"item","category_zh":"道具","category_key":"other","name":"大圆形地毯","name_zh":"大圆形地毯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-783.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/large-round-rug.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:果然翁不倒翁","category":"item","category_zh":"道具","category_key":"goods","name":"果然翁不倒翁","name_zh":"果然翁不倒翁","location":null,"image_url":"https://pokopiaguide.com/images/items/item-548.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-548.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:盘子","category":"item","category_zh":"道具","category_key":"goods","name":"盘子","name_zh":"盘子","location":null,"image_url":"https://pokopiaguide.com/images/items/item-325.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/plate.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:时尚锅","category":"item","category_zh":"道具","category_key":"utility","name":"时尚锅","name_zh":"时尚锅","location":null,"image_url":"https://pokopiaguide.com/images/items/item-303.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-303.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:时尚砖","category":"item","category_zh":"道具","category_key":"block","name":"时尚砖","name_zh":"时尚砖","location":null,"image_url":"https://pokopiaguide.com/images/items/item-426.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-426.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:时尚铁墙","category":"item","category_zh":"道具","category_key":"block","name":"时尚铁墙","name_zh":"时尚铁墙","location":null,"image_url":"https://pokopiaguide.com/images/items/item-601.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-601.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:时尚阶梯","category":"item","category_zh":"道具","category_key":"building","name":"时尚阶梯","name_zh":"时尚阶梯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-687.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-687.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:时尚宝可梦球图样","category":"item","category_zh":"道具","category_key":"block","name":"时尚宝可梦球图样","name_zh":"时尚宝可梦球图样","location":null,"image_url":"https://pokopiaguide.com/images/items/item-851.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/stylish-stool.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:时尚地砖","category":"item","category_zh":"道具","category_key":"block","name":"时尚地砖","name_zh":"时尚地砖","location":null,"image_url":"https://pokopiaguide.com/images/items/item-857.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/stylish-door.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:清洁用品","category":"item","category_zh":"道具","category_key":"goods","name":"清洁用品","name_zh":"清洁用品","location":null,"image_url":"https://pokopiaguide.com/images/items/item-594.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/cleaning-supplies.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:花卉餐具组","category":"item","category_zh":"道具","category_key":"goods","name":"花卉餐具组","name_zh":"花卉餐具组","location":null,"image_url":"https://pokopiaguide.com/images/items/item-629.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/bathtime-set.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:花朵背包","category":"item","category_zh":"道具","category_key":"goods","name":"花朵背包","name_zh":"花朵背包","location":null,"image_url":"https://pokopiaguide.com/images/items/item-636.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/flower-backpack.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:便当","category":"item","category_zh":"道具","category_key":"goods","name":"便当","name_zh":"便当","location":null,"image_url":"https://pokopiaguide.com/images/items/item-634.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-634.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:音符踏垫（Sol）","category":"item","category_zh":"道具","category_key":"utility","name":"音符踏垫（Sol）","name_zh":"音符踏垫（Sol）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-279.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-279.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:音符踏垫（高Do）","category":"item","category_zh":"道具","category_key":"utility","name":"音符踏垫（高Do）","name_zh":"音符踏垫（高Do）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-280.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-280.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:音符踏垫（Mi）","category":"item","category_zh":"道具","category_key":"utility","name":"音符踏垫（Mi）","name_zh":"音符踏垫（Mi）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-281.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-281.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:音符踏垫（低Do）","category":"item","category_zh":"道具","category_key":"utility","name":"音符踏垫（低Do）","name_zh":"音符踏垫（低Do）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-282.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-282.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:音符踏垫（Fa）","category":"item","category_zh":"道具","category_key":"utility","name":"音符踏垫（Fa）","name_zh":"音符踏垫（Fa）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-305.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-305.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:音符踏垫（Re）","category":"item","category_zh":"道具","category_key":"utility","name":"音符踏垫（Re）","name_zh":"音符踏垫（Re）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-406.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-406.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:音符踏垫（La）","category":"item","category_zh":"道具","category_key":"utility","name":"音符踏垫（La）","name_zh":"音符踏垫（La）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-493.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-493.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:音符踏垫（Si）","category":"item","category_zh":"道具","category_key":"utility","name":"音符踏垫（Si）","name_zh":"音符踏垫（Si）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-499.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-499.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:拆除套件","category":"item","category_zh":"道具","category_key":"other","name":"拆除套件","name_zh":"拆除套件","location":null,"image_url":"https://pokopiaguide.com/images/items/item-323.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-323.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:快龙玩偶","category":"item","category_zh":"道具","category_key":"goods","name":"快龙玩偶","name_zh":"快龙玩偶","location":null,"image_url":"https://pokopiaguide.com/images/items/item-367.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-367.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:贝壳","category":"item","category_zh":"道具","category_key":"material","name":"贝壳","name_zh":"贝壳","location":null,"image_url":"https://pokopiaguide.com/images/items/item-369.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/seashell.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:贝壳灯","category":"item","category_zh":"道具","category_key":"utility","name":"贝壳灯","name_zh":"贝壳灯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-537.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/shell-lamp.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:怪力岩","category":"item","category_zh":"道具","category_key":"nature","name":"怪力岩","name_zh":"怪力岩","location":null,"image_url":"https://pokopiaguide.com/images/items/item-669.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-669.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:海藻","category":"item","category_zh":"道具","category_key":"food","name":"海藻","name_zh":"海藻","location":null,"image_url":"https://pokopiaguide.com/images/items/item-757.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/seaweed.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:火焰宝珠","category":"item","category_zh":"道具","category_key":"other","name":"火焰宝珠","name_zh":"火焰宝珠","location":null,"image_url":"https://pokopiaguide.com/images/items/item-558.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-558.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:大头贴看板","category":"item","category_zh":"道具","category_key":"outdoor","name":"大头贴看板","name_zh":"大头贴看板","location":null,"image_url":"https://pokopiaguide.com/images/items/item-177.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-177.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:fire pit","category":"item","category_zh":"道具","category_key":"outdoor","name":"fire pit","name_zh":"火盆","location":null,"image_url":"/images/items/firepit.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/firepit.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:刨冰","category":"item","category_zh":"道具","category_key":"goods","name":"刨冰","name_zh":"刨冰","location":null,"image_url":"https://pokopiaguide.com/images/items/item-152.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-152.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:挂轴","category":"item","category_zh":"道具","category_key":"goods","name":"挂轴","name_zh":"挂轴","location":null,"image_url":"https://pokopiaguide.com/images/items/item-668.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/hanging-scroll.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:零余果","category":"item","category_zh":"道具","category_key":"food","name":"零余果","name_zh":"零余果","location":null,"image_url":"https://pokopiaguide.com/images/items/item-607.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-607.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:风车","category":"item","category_zh":"道具","category_key":"goods","name":"风车","name_zh":"风车","location":null,"image_url":"https://pokopiaguide.com/images/items/item-19.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-19.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:火山灰","category":"item","category_zh":"道具","category_key":"block","name":"火山灰","name_zh":"火山灰","location":null,"image_url":"https://pokopiaguide.com/images/items/item-508.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/volcanic-ash.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:展示架","category":"item","category_zh":"道具","category_key":"goods","name":"展示架","name_zh":"展示架","location":null,"image_url":"https://pokopiaguide.com/images/items/item-730.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-730.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:加湿器","category":"item","category_zh":"道具","category_key":"goods","name":"加湿器","name_zh":"加湿器","location":null,"image_url":"https://pokopiaguide.com/images/items/item-523.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/humidifier.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:硬石头","category":"item","category_zh":"道具","category_key":"other","name":"硬石头","name_zh":"硬石头","location":null,"image_url":"https://pokopiaguide.com/images/items/item-96.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/hard-stone.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:铁网地板","category":"item","category_zh":"道具","category_key":"building","name":"铁网地板","name_zh":"铁网地板","location":null,"image_url":"https://pokopiaguide.com/images/items/item-60.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-60.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:独木舟","category":"item","category_zh":"道具","category_key":"outdoor","name":"独木舟","name_zh":"独木舟","location":null,"image_url":"https://pokopiaguide.com/images/items/item-459.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/canoe.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:钟","category":"item","category_zh":"道具","category_key":"outdoor","name":"钟","name_zh":"钟","location":null,"image_url":"https://pokopiaguide.com/images/items/item-219.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-219.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:壁挂开关","category":"item","category_zh":"道具","category_key":"utility","name":"壁挂开关","name_zh":"壁挂开关","location":null,"image_url":"https://pokopiaguide.com/images/items/item-286.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wall-switch.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:壁挂毛巾","category":"item","category_zh":"道具","category_key":"goods","name":"壁挂毛巾","name_zh":"壁挂毛巾","location":null,"image_url":"https://pokopiaguide.com/images/items/item-520.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-520.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:壁挂扶手","category":"item","category_zh":"道具","category_key":"building","name":"壁挂扶手","name_zh":"壁挂扶手","location":null,"image_url":"https://pokopiaguide.com/images/items/item-682.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wall-mounted-table.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:废纸","category":"item","category_zh":"道具","category_key":"material","name":"废纸","name_zh":"废纸","location":null,"image_url":"https://pokopiaguide.com/images/items/item-368.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wastepaper.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:纸","category":"item","category_zh":"道具","category_key":"material","name":"纸","name_zh":"纸","location":null,"image_url":"https://pokopiaguide.com/images/items/item-427.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-427.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:缠绕电线","category":"item","category_zh":"道具","category_key":"goods","name":"缠绕电线","name_zh":"缠绕电线","location":null,"image_url":"https://pokopiaguide.com/images/items/item-466.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-466.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:枯萎高草","category":"item","category_zh":"道具","category_key":"uncollectable","name":"枯萎高草","name_zh":"枯萎高草","location":null,"image_url":"https://pokopiaguide.com/images/items/item-107.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-107.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:可爱篱笆","category":"item","category_zh":"道具","category_key":"nature","name":"可爱篱笆","name_zh":"可爱篱笆","location":null,"image_url":"https://pokopiaguide.com/images/items/item-345.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-345.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:招牌","category":"item","category_zh":"道具","category_key":"outdoor","name":"招牌","name_zh":"招牌","location":null,"image_url":"https://pokopiaguide.com/images/items/item-38.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-38.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:混音台","category":"item","category_zh":"道具","category_key":"goods","name":"混音台","name_zh":"混音台","location":null,"image_url":"https://pokopiaguide.com/images/items/item-254.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-254.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:相框","category":"item","category_zh":"道具","category_key":"utility","name":"相框","name_zh":"相框","location":null,"image_url":"https://pokopiaguide.com/images/items/item-418.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-418.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:玻璃","category":"item","category_zh":"道具","category_key":"material","name":"玻璃","name_zh":"玻璃","location":null,"image_url":"https://pokopiaguide.com/images/items/item-214.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/glass.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:玻璃窗","category":"item","category_zh":"道具","category_key":"building","name":"玻璃窗","name_zh":"玻璃窗","location":null,"image_url":"https://pokopiaguide.com/images/items/item-287.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/glass-window.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:黄色高草","category":"item","category_zh":"道具","category_key":"nature","name":"黄色高草","name_zh":"黄色高草","location":null,"image_url":"https://pokopiaguide.com/images/items/item-110.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/yellow-tall-grass.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:黄色崖岩","category":"item","category_zh":"道具","category_key":"block","name":"黄色崖岩","name_zh":"黄色崖岩","location":null,"image_url":"https://pokopiaguide.com/images/items/item-761.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/molten-rock.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:黄色岩石","category":"item","category_zh":"道具","category_key":"block","name":"黄色岩石","name_zh":"黄色岩石","location":null,"image_url":"https://pokopiaguide.com/images/items/item-765.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/yellow-rock.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:奇迹种子","category":"item","category_zh":"道具","category_key":"other","name":"奇迹种子","name_zh":"奇迹种子","location":null,"image_url":"https://pokopiaguide.com/images/items/item-191.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/miracle-seed.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:珍贵骨头","category":"item","category_zh":"道具","category_key":"other","name":"珍贵骨头","name_zh":"珍贵骨头","location":null,"image_url":"https://pokopiaguide.com/images/items/item-182.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-182.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:木栅栏","category":"item","category_zh":"道具","category_key":"building","name":"木栅栏","name_zh":"木栅栏","location":null,"image_url":"https://pokopiaguide.com/images/items/item-10.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-10.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:木阶梯","category":"item","category_zh":"道具","category_key":"building","name":"木阶梯","name_zh":"木阶梯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-17.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-17.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:木盘","category":"item","category_zh":"道具","category_key":"goods","name":"木盘","name_zh":"木盘","location":null,"image_url":"https://pokopiaguide.com/images/items/item-23.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wooden-plate.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:木梯","category":"item","category_zh":"道具","category_key":"building","name":"木梯","name_zh":"木梯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-34.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wooden-ladder.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:木隔板（直线）","category":"item","category_zh":"道具","category_key":"building","name":"木隔板（直线）","name_zh":"木隔板（直线）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-40.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wood-fragments.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:木栈道","category":"item","category_zh":"道具","category_key":"building","name":"木栈道","name_zh":"木栈道","location":null,"image_url":"https://pokopiaguide.com/images/items/item-64.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-64.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:木制鸟巢箱","category":"item","category_zh":"道具","category_key":"outdoor","name":"木制鸟巢箱","name_zh":"木制鸟巢箱","location":null,"image_url":"https://pokopiaguide.com/images/items/item-119.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-119.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:蘑菇灯","category":"item","category_zh":"道具","category_key":"utility","name":"蘑菇灯","name_zh":"蘑菇灯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-124.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-124.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:木扶手","category":"item","category_zh":"道具","category_key":"building","name":"木扶手","name_zh":"木扶手","location":null,"image_url":"https://pokopiaguide.com/images/items/item-264.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wooden-handrail.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:蘑菇路灯","category":"item","category_zh":"道具","category_key":"other","name":"蘑菇路灯","name_zh":"蘑菇路灯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-312.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/mushroom-streetlight.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:树果篮","category":"item","category_zh":"道具","category_key":"goods","name":"树果篮","name_zh":"树果篮","location":null,"image_url":"https://pokopiaguide.com/images/items/item-326.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-326.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:木地板","category":"item","category_zh":"道具","category_key":"utility","name":"木地板","name_zh":"木地板","location":null,"image_url":"https://pokopiaguide.com/images/items/item-340.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-340.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:树果吊灯","category":"item","category_zh":"道具","category_key":"utility","name":"树果吊灯","name_zh":"树果吊灯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-412.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-412.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:树果墙饰","category":"item","category_zh":"道具","category_key":"goods","name":"树果墙饰","name_zh":"树果墙饰","location":null,"image_url":"https://pokopiaguide.com/images/items/item-414.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-414.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:树果台灯","category":"item","category_zh":"道具","category_key":"utility","name":"树果台灯","name_zh":"树果台灯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-470.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/log-table.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:树果时钟","category":"item","category_zh":"道具","category_key":"goods","name":"树果时钟","name_zh":"树果时钟","location":null,"image_url":"https://pokopiaguide.com/images/items/item-691.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-691.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:树果图样","category":"item","category_zh":"道具","category_key":"block","name":"树果图样","name_zh":"树果图样","location":null,"image_url":"https://pokopiaguide.com/images/items/item-731.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-731.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:木箱","category":"item","category_zh":"道具","category_key":"outdoor","name":"木箱","name_zh":"木箱","location":null,"image_url":"https://pokopiaguide.com/images/items/item-106.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-106.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:踏梯","category":"item","category_zh":"道具","category_key":"goods","name":"踏梯","name_zh":"踏梯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-253.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-253.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:营火","category":"item","category_zh":"道具","category_key":"outdoor","name":"营火","name_zh":"营火","location":null,"image_url":"https://pokopiaguide.com/images/items/item-307.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/campfire.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:空白画布","category":"item","category_zh":"道具","category_key":"outdoor","name":"空白画布","name_zh":"空白画布","location":null,"image_url":"https://pokopiaguide.com/images/items/item-814.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-814.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:画布（风景画）","category":"item","category_zh":"道具","category_key":"outdoor","name":"画布（风景画）","name_zh":"画布（风景画）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-815.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-815.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:画布（肖像画）","category":"item","category_zh":"道具","category_key":"outdoor","name":"画布（肖像画）","name_zh":"画布（肖像画）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-816.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/painting-portrait.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:画布（静物画）","category":"item","category_zh":"道具","category_key":"outdoor","name":"画布（静物画）","name_zh":"画布（静物画）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-817.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-817.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:急救箱","category":"item","category_zh":"道具","category_key":"goods","name":"急救箱","name_zh":"急救箱","location":null,"image_url":"https://pokopiaguide.com/images/items/item-104.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-104.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:可爱灯","category":"item","category_zh":"道具","category_key":"utility","name":"可爱灯","name_zh":"可爱灯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-410.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/cute-lamp.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:金珠","category":"item","category_zh":"道具","category_key":"other","name":"金珠","name_zh":"金珠","location":null,"image_url":"https://pokopiaguide.com/images/items/item-189.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-189.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:金王冠","category":"item","category_zh":"道具","category_key":"other","name":"金王冠","name_zh":"金王冠","location":null,"image_url":"https://pokopiaguide.com/images/items/item-190.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-190.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:金棒","category":"item","category_zh":"道具","category_key":"material","name":"金棒","name_zh":"金棒","location":null,"image_url":"https://pokopiaguide.com/images/items/item-197.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-197.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:金矿","category":"item","category_zh":"道具","category_key":"material","name":"金矿","name_zh":"金矿","location":null,"image_url":"https://pokopiaguide.com/images/items/item-218.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/stylish-gold-wall.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:金假牙","category":"item","category_zh":"道具","category_key":"goods","name":"金假牙","name_zh":"金假牙","location":null,"image_url":"https://pokopiaguide.com/images/items/item-823.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/stylish-gold-wall-wallpaper.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:花园装饰品","category":"item","category_zh":"道具","category_key":"other","name":"花园装饰品","name_zh":"花园装饰品","location":null,"image_url":"https://pokopiaguide.com/images/items/item-277.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-277.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:花园灯","category":"item","category_zh":"道具","category_key":"utility","name":"花园灯","name_zh":"花园灯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-329.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/garden-light.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:花园花卉","category":"item","category_zh":"道具","category_key":"outdoor","name":"花园花卉","name_zh":"花园花卉","location":null,"image_url":"https://pokopiaguide.com/images/items/item-827.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/garden-flowers.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:银色羽毛","category":"item","category_zh":"道具","category_key":"other","name":"银色羽毛","name_zh":"银色羽毛","location":null,"image_url":"https://pokopiaguide.com/images/items/item-203.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/silver-feather.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:银王冠","category":"item","category_zh":"道具","category_key":"other","name":"银王冠","name_zh":"银王冠","location":null,"image_url":"https://pokopiaguide.com/images/items/item-205.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-205.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:银粉","category":"item","category_zh":"道具","category_key":"other","name":"银粉","name_zh":"银粉","location":null,"image_url":"https://pokopiaguide.com/images/items/item-638.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/silver-powder.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:格纹图样","category":"item","category_zh":"道具","category_key":"block","name":"格纹图样","name_zh":"格纹图样","location":null,"image_url":"https://pokopiaguide.com/images/items/item-839.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-839.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:草藤墙饰","category":"item","category_zh":"道具","category_key":"goods","name":"草藤墙饰","name_zh":"草藤墙饰","location":null,"image_url":"https://pokopiaguide.com/images/items/item-438.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/protruding-wall.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:附着刺","category":"item","category_zh":"道具","category_key":"other","name":"附着刺","name_zh":"附着刺","location":null,"image_url":"https://pokopiaguide.com/images/items/item-181.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-181.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:工作台","category":"item","category_zh":"道具","category_key":"utility","name":"工作台","name_zh":"工作台","location":null,"image_url":"https://pokopiaguide.com/images/items/item-12.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/workbench.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:拉炮","category":"item","category_zh":"道具","category_key":"other","name":"拉炮","name_zh":"拉炮","location":null,"image_url":"https://pokopiaguide.com/images/items/item-337.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-337.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:冰淇淋汽水","category":"item","category_zh":"道具","category_key":"goods","name":"冰淇淋汽水","name_zh":"冰淇淋汽水","location":null,"image_url":"https://pokopiaguide.com/images/items/item-146.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-146.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:水晶碎片","category":"item","category_zh":"道具","category_key":"material","name":"水晶碎片","name_zh":"水晶碎片","location":null,"image_url":"https://pokopiaguide.com/images/items/item-170.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-170.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:净化护符","category":"item","category_zh":"道具","category_key":"other","name":"净化护符","name_zh":"净化护符","location":null,"image_url":"https://pokopiaguide.com/images/items/item-196.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-196.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:黑带","category":"item","category_zh":"道具","category_key":"other","name":"黑带","name_zh":"黑带","location":null,"image_url":"https://pokopiaguide.com/images/items/item-159.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/black-belt.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:黑色铁球","category":"item","category_zh":"道具","category_key":"other","name":"黑色铁球","name_zh":"黑色铁球","location":null,"image_url":"https://pokopiaguide.com/images/items/item-193.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-193.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:黑色污泥","category":"item","category_zh":"道具","category_key":"other","name":"黑色污泥","name_zh":"黑色污泥","location":null,"image_url":"https://pokopiaguide.com/images/items/item-552.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/black-sludge.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:黑色眼镜","category":"item","category_zh":"道具","category_key":"other","name":"黑色眼镜","name_zh":"黑色眼镜","location":null,"image_url":"https://pokopiaguide.com/images/items/item-639.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/black-glasses.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:软黏土","category":"item","category_zh":"道具","category_key":"material","name":"软黏土","name_zh":"软黏土","location":null,"image_url":"https://pokopiaguide.com/images/items/item-215.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-215.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:万能伞","category":"item","category_zh":"道具","category_key":"other","name":"万能伞","name_zh":"万能伞","location":null,"image_url":"https://pokopiaguide.com/images/items/item-194.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-194.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:灰色徽章","category":"item","category_zh":"道具","category_key":"key-item","name":"灰色徽章","name_zh":"灰色徽章","location":null,"image_url":"https://pokopiaguide.com/images/items/item-160.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-160.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:日光灯","category":"item","category_zh":"道具","category_key":"utility","name":"日光灯","name_zh":"日光灯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-740.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-740.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:显微镜","category":"item","category_zh":"道具","category_key":"goods","name":"显微镜","name_zh":"显微镜","location":null,"image_url":"https://pokopiaguide.com/images/items/item-528.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/microscope.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:茂盛篱笆","category":"item","category_zh":"道具","category_key":"nature","name":"茂盛篱笆","name_zh":"茂盛篱笆","location":null,"image_url":"https://pokopiaguide.com/images/items/item-800.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-800.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:鲤鱼王屋顶装饰","category":"item","category_zh":"道具","category_key":"building","name":"鲤鱼王屋顶装饰","name_zh":"鲤鱼王屋顶装饰","location":null,"image_url":"https://pokopiaguide.com/images/items/item-619.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-619.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:广角镜","category":"item","category_zh":"道具","category_key":"other","name":"广角镜","name_zh":"广角镜","location":null,"image_url":"https://pokopiaguide.com/images/items/item-76.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-76.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:后攻尾巴","category":"item","category_zh":"道具","category_key":"other","name":"后攻尾巴","name_zh":"后攻尾巴","location":null,"image_url":"https://pokopiaguide.com/images/items/item-154.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-154.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:冰块","category":"item","category_zh":"道具","category_key":"block","name":"冰块","name_zh":"冰块","location":null,"image_url":"https://pokopiaguide.com/images/items/item-172.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-172.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:苔藓","category":"item","category_zh":"道具","category_key":"nature","name":"苔藓","name_zh":"苔藓","location":null,"image_url":"https://pokopiaguide.com/images/items/item-126.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/moss.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:苔藓岩石","category":"item","category_zh":"道具","category_key":"nature","name":"苔藓岩石","name_zh":"苔藓岩石","location":null,"image_url":"https://pokopiaguide.com/images/items/item-127.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-127.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:小麦","category":"item","category_zh":"道具","category_key":"food","name":"小麦","name_zh":"小麦","location":null,"image_url":"https://pokopiaguide.com/images/items/item-422.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-422.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:水泥搅拌机","category":"item","category_zh":"道具","category_key":"utility","name":"水泥搅拌机","name_zh":"水泥搅拌机","location":null,"image_url":"https://pokopiaguide.com/images/items/item-220.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-220.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:水泥","category":"item","category_zh":"道具","category_key":"material","name":"水泥","name_zh":"水泥","location":null,"image_url":"https://pokopiaguide.com/images/items/item-221.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-221.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:炉灶","category":"item","category_zh":"道具","category_key":"goods","name":"炉灶","name_zh":"炉灶","location":null,"image_url":"https://pokopiaguide.com/images/items/item-503.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-503.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:电脑","category":"item","category_zh":"道具","category_key":"goods","name":"电脑","name_zh":"电脑","location":null,"image_url":"https://pokopiaguide.com/images/items/item-531.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-531.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:堆叠铁管","category":"item","category_zh":"道具","category_key":"outdoor","name":"堆叠铁管","name_zh":"堆叠铁管","location":null,"image_url":"https://pokopiaguide.com/images/items/item-535.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/iron-pipes.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:水泥盖板","category":"item","category_zh":"道具","category_key":"building","name":"水泥盖板","name_zh":"水泥盖板","location":null,"image_url":"https://pokopiaguide.com/images/items/item-613.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-613.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:水泥边框（直线）","category":"item","category_zh":"道具","category_key":"building","name":"水泥边框（直线）","name_zh":"水泥边框（直线）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-620.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/brick-border-line.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:水泥边框（小型）","category":"item","category_zh":"道具","category_key":"building","name":"水泥边框（小型）","name_zh":"水泥边框（小型）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-621.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-621.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:水泥边框（转角）","category":"item","category_zh":"道具","category_key":"building","name":"水泥边框（转角）","name_zh":"水泥边框（转角）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-622.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/concrete-border-corner.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:水泥阶梯","category":"item","category_zh":"道具","category_key":"building","name":"水泥阶梯","name_zh":"水泥阶梯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-716.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-716.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:Game Boy 主机","category":"item","category_zh":"道具","category_key":"goods","name":"Game Boy 主机","name_zh":"Game Boy 主机","location":null,"image_url":"https://pokopiaguide.com/images/items/item-625.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-625.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:电竞电脑","category":"item","category_zh":"道具","category_key":"goods","name":"电竞电脑","name_zh":"电竞电脑","location":null,"image_url":"https://pokopiaguide.com/images/items/item-670.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-670.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:电竞灯","category":"item","category_zh":"道具","category_key":"utility","name":"电竞灯","name_zh":"电竞灯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-725.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/gaming-light.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:豪华柱子（下段）","category":"item","category_zh":"道具","category_key":"building","name":"豪华柱子（下段）","name_zh":"豪华柱子（下段）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-267.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-267.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:豪华柱子（中段）","category":"item","category_zh":"道具","category_key":"building","name":"豪华柱子（中段）","name_zh":"豪华柱子（中段）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-268.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-268.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:豪华柱子（上段）","category":"item","category_zh":"道具","category_key":"building","name":"豪华柱子（上段）","name_zh":"豪华柱子（上段）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-269.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-269.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:豪华花朵","category":"item","category_zh":"道具","category_key":"goods","name":"豪华花朵","name_zh":"豪华花朵","location":null,"image_url":"https://pokopiaguide.com/images/items/item-596.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-596.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:垃圾袋","category":"item","category_zh":"道具","category_key":"outdoor","name":"垃圾袋","name_zh":"垃圾袋","location":null,"image_url":"https://pokopiaguide.com/images/items/item-116.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-116.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:垃圾桶","category":"item","category_zh":"道具","category_key":"outdoor","name":"垃圾桶","name_zh":"垃圾桶","location":null,"image_url":"https://pokopiaguide.com/images/items/item-117.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-117.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:霓虹地板","category":"item","category_zh":"道具","category_key":"block","name":"霓虹地板","name_zh":"霓虹地板","location":null,"image_url":"https://pokopiaguide.com/images/items/item-283.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-283.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:碳酸饮料","category":"item","category_zh":"道具","category_key":"food","name":"碳酸饮料","name_zh":"碳酸饮料","location":null,"image_url":"https://pokopiaguide.com/images/items/item-683.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/cart.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:霓虹地板（壁纸）","category":"item","category_zh":"道具","category_key":"other","name":"霓虹地板（壁纸）","name_zh":"霓虹地板（壁纸）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-777.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-777.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:手提包","category":"item","category_zh":"道具","category_key":"key-item","name":"手提包","name_zh":"手提包","location":null,"image_url":"https://pokopiaguide.com/images/items/item-59.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-59.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:光滑岩石","category":"item","category_zh":"道具","category_key":"outdoor","name":"光滑岩石","name_zh":"光滑岩石","location":null,"image_url":"https://pokopiaguide.com/images/items/item-41.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/smooth-rock.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:沙袋","category":"item","category_zh":"道具","category_key":"outdoor","name":"沙袋","name_zh":"沙袋","location":null,"image_url":"https://pokopiaguide.com/images/items/item-13.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-13.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:码头","category":"item","category_zh":"道具","category_key":"building","name":"码头","name_zh":"码头","location":null,"image_url":"https://pokopiaguide.com/images/items/item-28.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-28.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:三角树","category":"item","category_zh":"道具","category_key":"nature","name":"三角树","name_zh":"三角树","location":null,"image_url":"https://pokopiaguide.com/images/items/item-122.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-122.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:三明治","category":"item","category_zh":"道具","category_key":"goods","name":"三明治","name_zh":"三明治","location":null,"image_url":"https://pokopiaguide.com/images/items/item-151.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-151.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:码头板","category":"item","category_zh":"道具","category_key":"building","name":"码头板","name_zh":"码头板","location":null,"image_url":"https://pokopiaguide.com/images/items/item-402.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/information-board.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:三角花纹地板（壁纸）","category":"item","category_zh":"道具","category_key":"other","name":"三角花纹地板（壁纸）","name_zh":"三角花纹地板（壁纸）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-788.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-788.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:三角砖屋顶","category":"item","category_zh":"道具","category_key":"building","name":"三角砖屋顶","name_zh":"三角砖屋顶","location":null,"image_url":"https://pokopiaguide.com/images/items/item-818.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-818.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:豪华灯","category":"item","category_zh":"道具","category_key":"utility","name":"豪华灯","name_zh":"豪华灯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-511.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/luxury-lamp.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:木材","category":"item","category_zh":"道具","category_key":"material","name":"木材","name_zh":"木材","location":null,"image_url":"https://pokopiaguide.com/images/items/item-2.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-2.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:杂志架","category":"item","category_zh":"道具","category_key":"goods","name":"杂志架","name_zh":"杂志架","location":null,"image_url":"https://pokopiaguide.com/images/items/item-265.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/magazine-rack.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:粗糙墙壁","category":"item","category_zh":"道具","category_key":"block","name":"粗糙墙壁","name_zh":"粗糙墙壁","location":null,"image_url":"https://pokopiaguide.com/images/items/item-724.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-724.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:粗糙崖岩","category":"item","category_zh":"道具","category_key":"block","name":"粗糙崖岩","name_zh":"粗糙崖岩","location":null,"image_url":"https://pokopiaguide.com/images/items/item-758.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-758.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:粗糙岩石","category":"item","category_zh":"道具","category_key":"block","name":"粗糙岩石","name_zh":"粗糙岩石","location":null,"image_url":"https://pokopiaguide.com/images/items/item-762.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-762.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:幸运蛋","category":"item","category_zh":"道具","category_key":"other","name":"幸运蛋","name_zh":"幸运蛋","location":null,"image_url":"https://pokopiaguide.com/images/items/item-553.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/lucky-egg.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:方砖","category":"item","category_zh":"道具","category_key":"block","name":"方砖","name_zh":"方砖","location":null,"image_url":"https://pokopiaguide.com/images/items/item-429.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-429.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:典雅路灯","category":"item","category_zh":"道具","category_key":"utility","name":"典雅路灯","name_zh":"典雅路灯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-83.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-83.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:灰泥墙","category":"item","category_zh":"道具","category_key":"block","name":"灰泥墙","name_zh":"灰泥墙","location":null,"image_url":"https://pokopiaguide.com/images/items/item-341.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-341.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:湿润篱笆","category":"item","category_zh":"道具","category_key":"nature","name":"湿润篱笆","name_zh":"湿润篱笆","location":null,"image_url":"https://pokopiaguide.com/images/items/item-799.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-799.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:草坪地板","category":"item","category_zh":"道具","category_key":"block","name":"草坪地板","name_zh":"草坪地板","location":null,"image_url":"https://pokopiaguide.com/images/items/item-562.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-562.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:草坪地板（壁纸）","category":"item","category_zh":"道具","category_key":"other","name":"草坪地板（壁纸）","name_zh":"草坪地板（壁纸）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-808.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-808.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:栅栏","category":"item","category_zh":"道具","category_key":"utility","name":"栅栏","name_zh":"栅栏","location":null,"image_url":"https://pokopiaguide.com/images/items/item-137.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-137.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:淋浴设备","category":"item","category_zh":"道具","category_key":"goods","name":"淋浴设备","name_zh":"淋浴设备","location":null,"image_url":"https://pokopiaguide.com/images/items/item-456.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-456.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:雅致篱笆","category":"item","category_zh":"道具","category_key":"nature","name":"雅致篱笆","name_zh":"雅致篱笆","location":null,"image_url":"https://pokopiaguide.com/images/items/item-516.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-516.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:消防栓","category":"item","category_zh":"道具","category_key":"outdoor","name":"消防栓","name_zh":"消防栓","location":null,"image_url":"https://pokopiaguide.com/images/items/item-689.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/fire-hydrant.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:商店地板","category":"item","category_zh":"道具","category_key":"block","name":"商店地板","name_zh":"商店地板","location":null,"image_url":"https://pokopiaguide.com/images/items/item-732.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-732.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:丝绸围巾","category":"item","category_zh":"道具","category_key":"other","name":"丝绸围巾","name_zh":"丝绸围巾","location":null,"image_url":"https://pokopiaguide.com/images/items/item-212.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/silk-scarf.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:白色崖岩","category":"item","category_zh":"道具","category_key":"block","name":"白色崖岩","name_zh":"白色崖岩","location":null,"image_url":"https://pokopiaguide.com/images/items/item-766.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/spotted-cliff-rock.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:白色岩石","category":"item","category_zh":"道具","category_key":"block","name":"白色岩石","name_zh":"白色岩石","location":null,"image_url":"https://pokopiaguide.com/images/items/item-767.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/white-rock.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:简约方砖","category":"item","category_zh":"道具","category_key":"block","name":"简约方砖","name_zh":"简约方砖","location":null,"image_url":"https://pokopiaguide.com/images/items/item-425.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-425.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:水槽","category":"item","category_zh":"道具","category_key":"goods","name":"水槽","name_zh":"水槽","location":null,"image_url":"https://pokopiaguide.com/images/items/item-504.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/sink.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:神秘水滴","category":"item","category_zh":"道具","category_key":"other","name":"神秘水滴","name_zh":"神秘水滴","location":null,"image_url":"https://pokopiaguide.com/images/items/item-549.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/mysterious-slate-n.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:简约窗帘（左）","category":"item","category_zh":"道具","category_key":"building","name":"简约窗帘（左）","name_zh":"简约窗帘（左）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-651.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/simple-curtain-left.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:简约窗帘（右）","category":"item","category_zh":"道具","category_key":"building","name":"简约窗帘（右）","name_zh":"简约窗帘（右）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-652.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/simple-curtain-right.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:简约门","category":"item","category_zh":"道具","category_key":"building","name":"简约门","name_zh":"简约门","location":null,"image_url":"https://pokopiaguide.com/images/items/item-722.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/simple-door.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:简约地板","category":"item","category_zh":"道具","category_key":"block","name":"简约地板","name_zh":"简约地板","location":null,"image_url":"https://pokopiaguide.com/images/items/item-829.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/simple-flooring-wallpaper.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:实验器材","category":"item","category_zh":"道具","category_key":"goods","name":"实验器材","name_zh":"实验器材","location":null,"image_url":"https://pokopiaguide.com/images/items/item-527.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-527.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:脚踏车","category":"item","category_zh":"道具","category_key":"other","name":"脚踏车","name_zh":"脚踏车","location":null,"image_url":"https://pokopiaguide.com/images/items/item-295.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-295.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:自动贩卖机","category":"item","category_zh":"道具","category_key":"outdoor","name":"自动贩卖机","name_zh":"自动贩卖机","location":null,"image_url":"https://pokopiaguide.com/images/items/item-421.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/vending-machine.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:自动门","category":"item","category_zh":"道具","category_key":"building","name":"自动门","name_zh":"自动门","location":null,"image_url":"https://pokopiaguide.com/images/items/item-618.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/automatic-doors.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:道馆标志雕像","category":"item","category_zh":"道具","category_key":"goods","name":"道馆标志雕像","name_zh":"道馆标志雕像","location":null,"image_url":"https://pokopiaguide.com/images/items/item-202.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/moonlight-dance-statue-kit.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:弱点保险","category":"item","category_zh":"道具","category_key":"other","name":"弱点保险","name_zh":"弱点保险","location":null,"image_url":"https://pokopiaguide.com/images/items/item-157.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-157.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:马铃薯","category":"item","category_zh":"道具","category_key":"food","name":"马铃薯","name_zh":"马铃薯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-595.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/potato.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:坚固树枝","category":"item","category_zh":"道具","category_key":"material","name":"坚固树枝","name_zh":"坚固树枝","location":null,"image_url":"https://pokopiaguide.com/images/items/item-4.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-4.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:盾牌化石（尾）","category":"item","category_zh":"道具","category_key":"other","name":"盾牌化石（尾）","name_zh":"盾牌化石（尾）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-74.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/shield-fossil-tail.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:盾牌化石（身）","category":"item","category_zh":"道具","category_key":"other","name":"盾牌化石（身）","name_zh":"盾牌化石（身）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-84.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/shield-fossil-body.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:盾牌化石（头）","category":"item","category_zh":"道具","category_key":"other","name":"盾牌化石（头）","name_zh":"盾牌化石（头）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-161.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/shield-fossil-head.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:海玻璃碎片","category":"item","category_zh":"道具","category_key":"material","name":"海玻璃碎片","name_zh":"海玻璃碎片","location":null,"image_url":"https://pokopiaguide.com/images/items/item-200.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/sea-glass-fragments.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:水晶球","category":"item","category_zh":"道具","category_key":"goods","name":"水晶球","name_zh":"水晶球","location":null,"image_url":"https://pokopiaguide.com/images/items/item-457.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-457.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:废铁方块","category":"item","category_zh":"道具","category_key":"block","name":"废铁方块","name_zh":"废铁方块","location":null,"image_url":"https://pokopiaguide.com/images/items/item-447.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/scrap-cube.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:立式麦克风","category":"item","category_zh":"道具","category_key":"goods","name":"立式麦克风","name_zh":"立式麦克风","location":null,"image_url":"https://pokopiaguide.com/images/items/item-141.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/iron-stand.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:时尚门","category":"item","category_zh":"道具","category_key":"building","name":"时尚门","name_zh":"时尚门","location":null,"image_url":"https://pokopiaguide.com/images/items/item-288.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-288.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:小舞台","category":"item","category_zh":"道具","category_key":"outdoor","name":"小舞台","name_zh":"小舞台","location":null,"image_url":"https://pokopiaguide.com/images/items/item-139.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/small-stage.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:沙坑","category":"item","category_zh":"道具","category_key":"outdoor","name":"沙坑","name_zh":"沙坑","location":null,"image_url":"https://pokopiaguide.com/images/items/item-441.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-441.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:砂岩","category":"item","category_zh":"道具","category_key":"block","name":"砂岩","name_zh":"砂岩","location":null,"image_url":"https://pokopiaguide.com/images/items/item-772.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/sandstone.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:喇叭","category":"item","category_zh":"道具","category_key":"goods","name":"喇叭","name_zh":"喇叭","location":null,"image_url":"https://pokopiaguide.com/images/items/item-138.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-138.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:洒水器","category":"item","category_zh":"道具","category_key":"utility","name":"洒水器","name_zh":"洒水器","location":null,"image_url":"https://pokopiaguide.com/images/items/item-606.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/sprinkler.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:溜滑梯","category":"item","category_zh":"道具","category_key":"outdoor","name":"溜滑梯","name_zh":"溜滑梯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-524.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/slide.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:太空梭模型","category":"item","category_zh":"道具","category_key":"outdoor","name":"太空梭模型","name_zh":"太空梭模型","location":null,"image_url":"https://pokopiaguide.com/images/items/item-259.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-259.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:聚光灯","category":"item","category_zh":"道具","category_key":"utility","name":"聚光灯","name_zh":"聚光灯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-445.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/spotlight.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:锐利鸟嘴","category":"item","category_zh":"道具","category_key":"other","name":"锐利鸟嘴","name_zh":"锐利鸟嘴","location":null,"image_url":"https://pokopiaguide.com/images/items/item-187.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/sharp-beak.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:头盖化石","category":"item","category_zh":"道具","category_key":"other","name":"头盖化石","name_zh":"头盖化石","location":null,"image_url":"https://pokopiaguide.com/images/items/item-349.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-349.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:头锤化石（头）","category":"item","category_zh":"道具","category_key":"other","name":"头锤化石（头）","name_zh":"头锤化石（头）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-346.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-346.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:头锤化石（身）","category":"item","category_zh":"道具","category_key":"other","name":"头锤化石（身）","name_zh":"头锤化石（身）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-347.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-347.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:头锤化石（尾）","category":"item","category_zh":"道具","category_key":"other","name":"头锤化石（尾）","name_zh":"头锤化石（尾）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-348.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/headbutt-fossil-tail.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:石灰石","category":"item","category_zh":"道具","category_key":"block","name":"石灰石","name_zh":"石灰石","location":null,"image_url":"https://pokopiaguide.com/images/items/item-225.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/limestone.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:铁轨","category":"item","category_zh":"道具","category_key":"utility","name":"铁轨","name_zh":"铁轨","location":null,"image_url":"https://pokopiaguide.com/images/items/item-81.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-81.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:洗衣机","category":"item","category_zh":"道具","category_key":"goods","name":"洗衣机","name_zh":"洗衣机","location":null,"image_url":"https://pokopiaguide.com/images/items/item-455.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/washing-machine.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:洗脸台","category":"item","category_zh":"道具","category_key":"goods","name":"洗脸台","name_zh":"洗脸台","location":null,"image_url":"https://pokopiaguide.com/images/items/item-521.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-521.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:先制之爪","category":"item","category_zh":"道具","category_key":"other","name":"先制之爪","name_zh":"先制之爪","location":null,"image_url":"https://pokopiaguide.com/images/items/item-557.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/quick-claw.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:电风扇","category":"item","category_zh":"道具","category_key":"goods","name":"电风扇","name_zh":"电风扇","location":null,"image_url":"https://pokopiaguide.com/images/items/item-597.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-597.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:感应器","category":"item","category_zh":"道具","category_key":"utility","name":"感应器","name_zh":"感应器","location":null,"image_url":"https://pokopiaguide.com/images/items/item-858.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/laser-sensor.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:操控台","category":"item","category_zh":"道具","category_key":"goods","name":"操控台","name_zh":"操控台","location":null,"image_url":"https://pokopiaguide.com/images/items/item-464.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-464.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:草原草地","category":"item","category_zh":"道具","category_key":"block","name":"草原草地","name_zh":"草原草地","location":null,"image_url":"https://pokopiaguide.com/images/items/item-833.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-833.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:火把","category":"item","category_zh":"道具","category_key":"outdoor","name":"火把","name_zh":"火把","location":null,"image_url":"https://pokopiaguide.com/images/items/item-69.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/torch.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:格纹地板","category":"item","category_zh":"道具","category_key":"block","name":"格纹地板","name_zh":"格纹地板","location":null,"image_url":"https://pokopiaguide.com/images/items/item-284.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-284.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:平瓦屋顶","category":"item","category_zh":"道具","category_key":"building","name":"平瓦屋顶","name_zh":"平瓦屋顶","location":null,"image_url":"https://pokopiaguide.com/images/items/item-389.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/flat-tiled-roof.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:平帐篷屋顶","category":"item","category_zh":"道具","category_key":"building","name":"平帐篷屋顶","name_zh":"平帐篷屋顶","location":null,"image_url":"https://pokopiaguide.com/images/items/item-543.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-543.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:轮胎","category":"item","category_zh":"道具","category_key":"outdoor","name":"轮胎","name_zh":"轮胎","location":null,"image_url":"https://pokopiaguide.com/images/items/item-663.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-663.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:格纹地板（壁纸）","category":"item","category_zh":"道具","category_key":"other","name":"格纹地板（壁纸）","name_zh":"格纹地板（壁纸）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-747.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/levee-wallpaper.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:平砖屋顶","category":"item","category_zh":"道具","category_key":"building","name":"平砖屋顶","name_zh":"平砖屋顶","location":null,"image_url":"https://pokopiaguide.com/images/items/item-813.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/flat-brick-roof.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:城镇地图","category":"item","category_zh":"道具","category_key":"other","name":"城镇地图","name_zh":"城镇地图","location":null,"image_url":"https://pokopiaguide.com/images/items/item-296.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/town-map.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:篝火","category":"item","category_zh":"道具","category_key":"outdoor","name":"篝火","name_zh":"篝火","location":null,"image_url":"https://pokopiaguide.com/images/items/item-7.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/bonfire.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:石笋","category":"item","category_zh":"道具","category_key":"nature","name":"石笋","name_zh":"石笋","location":null,"image_url":"https://pokopiaguide.com/images/items/item-500.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/stalagmites.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:墨海马喷泉","category":"item","category_zh":"道具","category_key":"outdoor","name":"墨海马喷泉","name_zh":"墨海马喷泉","location":null,"image_url":"https://pokopiaguide.com/images/items/item-27.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-27.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:盾甲化石","category":"item","category_zh":"道具","category_key":"other","name":"盾甲化石","name_zh":"盾甲化石","location":null,"image_url":"https://pokopiaguide.com/images/items/item-79.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/armor-fossil.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:交叉木地板（壁纸）","category":"item","category_zh":"道具","category_key":"other","name":"交叉木地板（壁纸）","name_zh":"交叉木地板（壁纸）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-751.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/crisscross-wooden-flooring-wallpaper.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:直铁骨","category":"item","category_zh":"道具","category_key":"building","name":"直铁骨","name_zh":"直铁骨","location":null,"image_url":"https://pokopiaguide.com/images/items/item-753.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-753.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:直纹墙（壁纸）","category":"item","category_zh":"道具","category_key":"other","name":"直纹墙（壁纸）","name_zh":"直纹墙（壁纸）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-776.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-776.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:直圆木","category":"item","category_zh":"道具","category_key":"building","name":"直圆木","name_zh":"直圆木","location":null,"image_url":"https://pokopiaguide.com/images/items/item-834.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/upright-log.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:橡实果灯","category":"item","category_zh":"道具","category_key":"utility","name":"橡实果灯","name_zh":"橡实果灯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-178.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-178.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:平板电脑","category":"item","category_zh":"道具","category_key":"goods","name":"平板电脑","name_zh":"平板电脑","location":null,"image_url":"https://pokopiaguide.com/images/items/item-507.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-507.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:新鲜胡萝卜","category":"item","category_zh":"道具","category_key":"food","name":"新鲜胡萝卜","name_zh":"新鲜胡萝卜","location":null,"image_url":"https://pokopiaguide.com/images/items/item-18.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/fresh-carrot.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:洞窟蘑菇","category":"item","category_zh":"道具","category_key":"food","name":"洞窟蘑菇","name_zh":"洞窟蘑菇","location":null,"image_url":"https://pokopiaguide.com/images/items/item-89.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/cave-mushrooms.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:吃剩的东西","category":"item","category_zh":"道具","category_key":"other","name":"吃剩的东西","name_zh":"吃剩的东西","location":null,"image_url":"https://pokopiaguide.com/images/items/item-90.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-90.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:木桶","category":"item","category_zh":"道具","category_key":"outdoor","name":"木桶","name_zh":"木桶","location":null,"image_url":"https://pokopiaguide.com/images/items/item-133.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/barrel.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:大理石地板","category":"item","category_zh":"道具","category_key":"block","name":"大理石地板","name_zh":"大理石地板","location":null,"image_url":"https://pokopiaguide.com/images/items/item-276.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-276.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:深色大理石地板","category":"item","category_zh":"道具","category_key":"block","name":"深色大理石地板","name_zh":"深色大理石地板","location":null,"image_url":"https://pokopiaguide.com/images/items/item-623.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-623.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:大理石地板（壁纸）","category":"item","category_zh":"道具","category_key":"other","name":"大理石地板（壁纸）","name_zh":"大理石地板（壁纸）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-789.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/marble-wallpaper.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:探宝机","category":"item","category_zh":"道具","category_key":"other","name":"探宝机","name_zh":"探宝机","location":null,"image_url":"https://pokopiaguide.com/images/items/item-68.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-68.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:椭圆地毯","category":"item","category_zh":"道具","category_key":"other","name":"椭圆地毯","name_zh":"椭圆地毯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-430.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-430.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:纸箱","category":"item","category_zh":"道具","category_key":"goods","name":"纸箱","name_zh":"纸箱","location":null,"image_url":"https://pokopiaguide.com/images/items/item-115.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-115.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:小圆木","category":"item","category_zh":"道具","category_key":"material","name":"小圆木","name_zh":"小圆木","location":null,"image_url":"https://pokopiaguide.com/images/items/item-1.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-1.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:小型遗失物","category":"item","category_zh":"道具","category_key":"other","name":"小型遗失物","name_zh":"小型遗失物","location":null,"image_url":"https://pokopiaguide.com/images/items/item-70.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-70.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:小方形地毯","category":"item","category_zh":"道具","category_key":"other","name":"小方形地毯","name_zh":"小方形地毯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-343.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/small-square-rug.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:小圆形地毯","category":"item","category_zh":"道具","category_key":"other","name":"小圆形地毯","name_zh":"小圆形地毯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-653.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/small-round-rug.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:小窄长地毯","category":"item","category_zh":"道具","category_key":"other","name":"小窄长地毯","name_zh":"小窄长地毯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-654.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-654.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:小垃圾桶","category":"item","category_zh":"道具","category_key":"goods","name":"小垃圾桶","name_zh":"小垃圾桶","location":null,"image_url":"https://pokopiaguide.com/images/items/item-677.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-677.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:巧克力饼干","category":"item","category_zh":"道具","category_key":"goods","name":"巧克力饼干","name_zh":"巧克力饼干","location":null,"image_url":"https://pokopiaguide.com/images/items/item-150.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/chocolate-cookies.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:散落书籍","category":"item","category_zh":"道具","category_key":"goods","name":"散落书籍","name_zh":"散落书籍","location":null,"image_url":"https://pokopiaguide.com/images/items/item-262.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-262.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:辣酱","category":"item","category_zh":"道具","category_key":"food","name":"辣酱","name_zh":"辣酱","location":null,"image_url":"https://pokopiaguide.com/images/items/item-686.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-686.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:莓莓果","category":"item","category_zh":"道具","category_key":"food","name":"莓莓果","name_zh":"莓莓果","location":null,"image_url":"https://pokopiaguide.com/images/items/item-608.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/bruised-berry.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:藤绳","category":"item","category_zh":"道具","category_key":"material","name":"藤绳","name_zh":"藤绳","location":null,"image_url":"https://pokopiaguide.com/images/items/item-48.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/rope.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:翅膀化石（头）","category":"item","category_zh":"道具","category_key":"other","name":"翅膀化石（头）","name_zh":"翅膀化石（头）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-350.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wing-fossil-head.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:翅膀化石（右翼）","category":"item","category_zh":"道具","category_key":"other","name":"翅膀化石（右翼）","name_zh":"翅膀化石（右翼）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-351.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wing-fossil-right-wing.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:翅膀化石（左翼）","category":"item","category_zh":"道具","category_key":"other","name":"翅膀化石（左翼）","name_zh":"翅膀化石（左翼）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-352.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wing-fossil-left-wing.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:翅膀化石（身）","category":"item","category_zh":"道具","category_key":"other","name":"翅膀化石（身）","name_zh":"翅膀化石（身）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-353.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-353.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:翅膀化石（尾）","category":"item","category_zh":"道具","category_key":"other","name":"翅膀化石（尾）","name_zh":"翅膀化石（尾）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-354.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wing-fossil-tail.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:装饰花瓶","category":"item","category_zh":"道具","category_key":"goods","name":"装饰花瓶","name_zh":"装饰花瓶","location":null,"image_url":"https://pokopiaguide.com/images/items/item-461.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-461.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:积木","category":"item","category_zh":"道具","category_key":"goods","name":"积木","name_zh":"积木","location":null,"image_url":"https://pokopiaguide.com/images/items/item-22.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-22.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:干草堆","category":"item","category_zh":"道具","category_key":"block","name":"干草堆","name_zh":"干草堆","location":null,"image_url":"https://pokopiaguide.com/images/items/item-336.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-336.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:干草堆（壁纸）","category":"item","category_zh":"道具","category_key":"other","name":"干草堆（壁纸）","name_zh":"干草堆（壁纸）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-805.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/patterned-aged-stone-wall-wallpaper.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:冰冷岩石","category":"item","category_zh":"道具","category_key":"outdoor","name":"冰冷岩石","name_zh":"冰冷岩石","location":null,"image_url":"https://pokopiaguide.com/images/items/item-298.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-298.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:钓竿","category":"item","category_zh":"道具","category_key":"outdoor","name":"钓竿","name_zh":"钓竿","location":null,"image_url":"https://pokopiaguide.com/images/items/item-47.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/fishing-rod.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:光滑遮阳棚","category":"item","category_zh":"道具","category_key":"building","name":"光滑遮阳棚","name_zh":"光滑遮阳棚","location":null,"image_url":"https://pokopiaguide.com/images/items/item-423.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-423.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:冻原化石（尾）","category":"item","category_zh":"道具","category_key":"other","name":"冻原化石（尾）","name_zh":"冻原化石（尾）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-167.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/tundra-fossil-tail.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:冻原化石（头）","category":"item","category_zh":"道具","category_key":"other","name":"冻原化石（头）","name_zh":"冻原化石（头）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-169.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/tundra-fossil-head.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:冻原化石（身）","category":"item","category_zh":"道具","category_key":"other","name":"冻原化石（身）","name_zh":"冻原化石（身）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-213.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/tundra-fossil-body.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:茶具组","category":"item","category_zh":"道具","category_key":"goods","name":"茶具组","name_zh":"茶具组","location":null,"image_url":"https://pokopiaguide.com/images/items/item-798.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-798.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:防波堤","category":"item","category_zh":"道具","category_key":"block","name":"防波堤","name_zh":"防波堤","location":null,"image_url":"https://pokopiaguide.com/images/items/item-841.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-841.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:手推车","category":"item","category_zh":"道具","category_key":"outdoor","name":"手推车","name_zh":"手推车","location":null,"image_url":"https://pokopiaguide.com/images/items/item-131.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-131.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:铁板地板（壁纸）","category":"item","category_zh":"道具","category_key":"other","name":"铁板地板（壁纸）","name_zh":"铁板地板（壁纸）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-774.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-774.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:铁","category":"item","category_zh":"道具","category_key":"material","name":"铁","name_zh":"铁","location":null,"image_url":"https://pokopiaguide.com/images/items/item-35.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-35.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:铁阶梯","category":"item","category_zh":"道具","category_key":"building","name":"铁阶梯","name_zh":"铁阶梯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-57.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-57.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:铁管（横向）","category":"item","category_zh":"道具","category_key":"building","name":"铁管（横向）","name_zh":"铁管（横向）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-61.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-61.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:铁管（下弯）","category":"item","category_zh":"道具","category_key":"building","name":"铁管（下弯）","name_zh":"铁管（下弯）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-62.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/iron-pipe-downward-curve.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:铁棒","category":"item","category_zh":"道具","category_key":"material","name":"铁棒","name_zh":"铁棒","location":null,"image_url":"https://pokopiaguide.com/images/items/item-94.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-94.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:铁砖","category":"item","category_zh":"道具","category_key":"block","name":"铁砖","name_zh":"铁砖","location":null,"image_url":"https://pokopiaguide.com/images/items/item-270.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-270.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:铁鹰架","category":"item","category_zh":"道具","category_key":"building","name":"铁鹰架","name_zh":"铁鹰架","location":null,"image_url":"https://pokopiaguide.com/images/items/item-534.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-534.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:铁鹰架踏板","category":"item","category_zh":"道具","category_key":"building","name":"铁鹰架踏板","name_zh":"铁鹰架踏板","location":null,"image_url":"https://pokopiaguide.com/images/items/item-545.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-545.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:铁门","category":"item","category_zh":"道具","category_key":"building","name":"铁门","name_zh":"铁门","location":null,"image_url":"https://pokopiaguide.com/images/items/item-87.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-87.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:铁砖（壁纸）","category":"item","category_zh":"道具","category_key":"other","name":"铁砖（壁纸）","name_zh":"铁砖（壁纸）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-775.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-775.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:铁梯","category":"item","category_zh":"道具","category_key":"building","name":"铁梯","name_zh":"铁梯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-843.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-843.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:铁墙","category":"item","category_zh":"道具","category_key":"block","name":"铁墙","name_zh":"铁墙","location":null,"image_url":"https://pokopiaguide.com/images/items/item-856.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/iron-wall.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:漂浮泡泡晴天娃娃","category":"item","category_zh":"道具","category_key":"goods","name":"漂浮泡泡晴天娃娃","name_zh":"漂浮泡泡晴天娃娃","location":null,"image_url":"https://pokopiaguide.com/images/items/item-306.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/bubble-print.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:电视","category":"item","category_zh":"道具","category_key":"goods","name":"电视","name_zh":"电视","location":null,"image_url":"https://pokopiaguide.com/images/items/item-444.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/television.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:天窗","category":"item","category_zh":"道具","category_key":"building","name":"天窗","name_zh":"天窗","location":null,"image_url":"https://pokopiaguide.com/images/items/item-811.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/skylight.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:巨齿轮","category":"item","category_zh":"道具","category_key":"material","name":"巨齿轮","name_zh":"巨齿轮","location":null,"image_url":"https://pokopiaguide.com/images/items/item-301.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-301.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:大金珠","category":"item","category_zh":"道具","category_key":"goods","name":"大金珠","name_zh":"大金珠","location":null,"image_url":"https://pokopiaguide.com/images/items/item-373.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-373.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:凹凸木板","category":"item","category_zh":"道具","category_key":"building","name":"凹凸木板","name_zh":"凹凸木板","location":null,"image_url":"https://pokopiaguide.com/images/items/item-721.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-721.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:桌灯","category":"item","category_zh":"道具","category_key":"utility","name":"桌灯","name_zh":"桌灯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-313.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/industrial-desk.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:凸出瓦屋顶","category":"item","category_zh":"道具","category_key":"building","name":"凸出瓦屋顶","name_zh":"凸出瓦屋顶","location":null,"image_url":"https://pokopiaguide.com/images/items/item-387.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-387.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:凸出帐篷屋顶","category":"item","category_zh":"道具","category_key":"building","name":"凸出帐篷屋顶","name_zh":"凸出帐篷屋顶","location":null,"image_url":"https://pokopiaguide.com/images/items/item-541.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-541.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:凸出砖屋顶","category":"item","category_zh":"道具","category_key":"building","name":"凸出砖屋顶","name_zh":"凸出砖屋顶","location":null,"image_url":"https://pokopiaguide.com/images/items/item-819.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-819.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:电线杆","category":"item","category_zh":"道具","category_key":"utility","name":"电线杆","name_zh":"电线杆","location":null,"image_url":"https://pokopiaguide.com/images/items/item-443.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-443.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:微波炉","category":"item","category_zh":"道具","category_key":"goods","name":"微波炉","name_zh":"微波炉","location":null,"image_url":"https://pokopiaguide.com/images/items/item-664.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/microwave-oven.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:餐具组","category":"item","category_zh":"道具","category_key":"goods","name":"餐具组","name_zh":"餐具组","location":null,"image_url":"https://pokopiaguide.com/images/items/item-452.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-452.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:马桶","category":"item","category_zh":"道具","category_key":"goods","name":"马桶","name_zh":"马桶","location":null,"image_url":"https://pokopiaguide.com/images/items/item-737.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/toilet.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:透明铃铛","category":"item","category_zh":"道具","category_key":"goods","name":"透明铃铛","name_zh":"透明铃铛","location":null,"image_url":"https://pokopiaguide.com/images/items/item-372.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-372.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:特性护具","category":"item","category_zh":"道具","category_key":"other","name":"特性护具","name_zh":"特性护具","location":null,"image_url":"https://pokopiaguide.com/images/items/item-643.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-643.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:不融冰","category":"item","category_zh":"道具","category_key":"other","name":"不融冰","name_zh":"不融冰","location":null,"image_url":"https://pokopiaguide.com/images/items/item-551.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-551.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:栖木","category":"item","category_zh":"道具","category_key":"outdoor","name":"栖木","name_zh":"栖木","location":null,"image_url":"https://pokopiaguide.com/images/items/item-85.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/perch.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:番茄","category":"item","category_zh":"道具","category_key":"food","name":"番茄","name_zh":"番茄","location":null,"image_url":"https://pokopiaguide.com/images/items/item-401.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/tomato.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:矿车","category":"item","category_zh":"道具","category_key":"utility","name":"矿车","name_zh":"矿车","location":null,"image_url":"https://pokopiaguide.com/images/items/item-419.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-419.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:铜矿","category":"item","category_zh":"道具","category_key":"material","name":"铜矿","name_zh":"铜矿","location":null,"image_url":"https://pokopiaguide.com/images/items/item-75.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-75.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:铜棒","category":"item","category_zh":"道具","category_key":"material","name":"铜棒","name_zh":"铜棒","location":null,"image_url":"https://pokopiaguide.com/images/items/item-93.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-93.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:水泥管","category":"item","category_zh":"道具","category_key":"outdoor","name":"水泥管","name_zh":"水泥管","location":null,"image_url":"https://pokopiaguide.com/images/items/item-222.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-222.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:毒针","category":"item","category_zh":"道具","category_key":"other","name":"毒针","name_zh":"毒针","location":null,"image_url":"https://pokopiaguide.com/images/items/item-640.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-640.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:沙包","category":"item","category_zh":"道具","category_key":"outdoor","name":"沙包","name_zh":"沙包","location":null,"image_url":"https://pokopiaguide.com/images/items/item-77.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/sandbags.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:铁桶","category":"item","category_zh":"道具","category_key":"outdoor","name":"铁桶","name_zh":"铁桶","location":null,"image_url":"https://pokopiaguide.com/images/items/item-465.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-465.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:流星灯（黄）","category":"item","category_zh":"道具","category_key":"utility","name":"流星灯（黄）","name_zh":"流星灯（黄）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-51.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-51.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:流星灯（绿）","category":"item","category_zh":"道具","category_key":"utility","name":"流星灯（绿）","name_zh":"流星灯（绿）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-86.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-86.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:流星灯（橘）","category":"item","category_zh":"道具","category_key":"utility","name":"流星灯（橘）","name_zh":"流星灯（橘）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-155.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-155.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:流星灯（靛蓝）","category":"item","category_zh":"道具","category_key":"utility","name":"流星灯（靛蓝）","name_zh":"流星灯（靛蓝）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-179.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-179.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:流星灯（紫）","category":"item","category_zh":"道具","category_key":"utility","name":"流星灯（紫）","name_zh":"流星灯（紫）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-180.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-180.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:流星灯（红）","category":"item","category_zh":"道具","category_key":"utility","name":"流星灯（红）","name_zh":"流星灯（红）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-292.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-292.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:神秘底座","category":"item","category_zh":"道具","category_key":"other","name":"神秘底座","name_zh":"神秘底座","location":null,"image_url":"https://pokopiaguide.com/images/items/item-188.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/mysterious-stone.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:神秘石像","category":"item","category_zh":"道具","category_key":"other","name":"神秘石像","name_zh":"神秘石像","location":null,"image_url":"https://pokopiaguide.com/images/items/item-208.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-208.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:神秘石板（A）","category":"item","category_zh":"道具","category_key":"other","name":"神秘石板（A）","name_zh":"神秘石板（A）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-226.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-226.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:神秘石板（B）","category":"item","category_zh":"道具","category_key":"other","name":"神秘石板（B）","name_zh":"神秘石板（B）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-227.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-227.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:神秘石板（C）","category":"item","category_zh":"道具","category_key":"other","name":"神秘石板（C）","name_zh":"神秘石板（C）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-228.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-228.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:神秘石板（D）","category":"item","category_zh":"道具","category_key":"other","name":"神秘石板（D）","name_zh":"神秘石板（D）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-229.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-229.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:神秘石板（E）","category":"item","category_zh":"道具","category_key":"other","name":"神秘石板（E）","name_zh":"神秘石板（E）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-230.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-230.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:神秘石板（F）","category":"item","category_zh":"道具","category_key":"other","name":"神秘石板（F）","name_zh":"神秘石板（F）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-231.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-231.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:神秘石板（G）","category":"item","category_zh":"道具","category_key":"other","name":"神秘石板（G）","name_zh":"神秘石板（G）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-232.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-232.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:神秘石板（H）","category":"item","category_zh":"道具","category_key":"other","name":"神秘石板（H）","name_zh":"神秘石板（H）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-233.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-233.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:神秘石板（I）","category":"item","category_zh":"道具","category_key":"other","name":"神秘石板（I）","name_zh":"神秘石板（I）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-234.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-234.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:神秘石板（J）","category":"item","category_zh":"道具","category_key":"other","name":"神秘石板（J）","name_zh":"神秘石板（J）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-235.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-235.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:神秘石板（K）","category":"item","category_zh":"道具","category_key":"other","name":"神秘石板（K）","name_zh":"神秘石板（K）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-236.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-236.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:神秘石板（L）","category":"item","category_zh":"道具","category_key":"other","name":"神秘石板（L）","name_zh":"神秘石板（L）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-237.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-237.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:神秘石板（M）","category":"item","category_zh":"道具","category_key":"other","name":"神秘石板（M）","name_zh":"神秘石板（M）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-238.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-238.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:神秘石板（N）","category":"item","category_zh":"道具","category_key":"other","name":"神秘石板（N）","name_zh":"神秘石板（N）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-239.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-239.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:神秘石板（O）","category":"item","category_zh":"道具","category_key":"other","name":"神秘石板（O）","name_zh":"神秘石板（O）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-240.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-240.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:神秘石板（P）","category":"item","category_zh":"道具","category_key":"other","name":"神秘石板（P）","name_zh":"神秘石板（P）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-241.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-241.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:神秘石板（Q）","category":"item","category_zh":"道具","category_key":"other","name":"神秘石板（Q）","name_zh":"神秘石板（Q）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-242.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-242.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:神秘石板（R）","category":"item","category_zh":"道具","category_key":"other","name":"神秘石板（R）","name_zh":"神秘石板（R）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-243.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-243.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:神秘石板（S）","category":"item","category_zh":"道具","category_key":"other","name":"神秘石板（S）","name_zh":"神秘石板（S）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-244.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-244.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:神秘石板（T）","category":"item","category_zh":"道具","category_key":"other","name":"神秘石板（T）","name_zh":"神秘石板（T）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-245.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-245.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:神秘石板（U）","category":"item","category_zh":"道具","category_key":"other","name":"神秘石板（U）","name_zh":"神秘石板（U）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-246.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-246.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:神秘石板（V）","category":"item","category_zh":"道具","category_key":"other","name":"神秘石板（V）","name_zh":"神秘石板（V）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-247.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-247.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:神秘石板（W）","category":"item","category_zh":"道具","category_key":"other","name":"神秘石板（W）","name_zh":"神秘石板（W）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-248.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-248.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:神秘石板（X）","category":"item","category_zh":"道具","category_key":"other","name":"神秘石板（X）","name_zh":"神秘石板（X）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-249.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-249.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:神秘石板（Y）","category":"item","category_zh":"道具","category_key":"other","name":"神秘石板（Y）","name_zh":"神秘石板（Y）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-250.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-250.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:神秘石板（Z）","category":"item","category_zh":"道具","category_key":"other","name":"神秘石板（Z）","name_zh":"神秘石板（Z）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-251.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-251.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:神秘石板（?!）","category":"item","category_zh":"道具","category_key":"other","name":"神秘石板（?!）","name_zh":"神秘石板（?!）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-252.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/mysterious-slate.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:神秘护目镜","category":"item","category_zh":"道具","category_key":"key-item","name":"神秘护目镜","name_zh":"神秘护目镜","location":null,"image_url":"https://pokopiaguide.com/images/items/item-315.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/mysterious-goggles.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:自然风灯","category":"item","category_zh":"道具","category_key":"utility","name":"自然风灯","name_zh":"自然风灯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-434.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-434.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:交叉木地板","category":"item","category_zh":"道具","category_key":"block","name":"交叉木地板","name_zh":"交叉木地板","location":null,"image_url":"https://pokopiaguide.com/images/items/item-334.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-334.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:斜面瓦屋顶","category":"item","category_zh":"道具","category_key":"building","name":"斜面瓦屋顶","name_zh":"斜面瓦屋顶","location":null,"image_url":"https://pokopiaguide.com/images/items/item-386.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-386.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:斜面帐篷屋顶","category":"item","category_zh":"道具","category_key":"building","name":"斜面帐篷屋顶","name_zh":"斜面帐篷屋顶","location":null,"image_url":"https://pokopiaguide.com/images/items/item-540.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-540.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:柿仔果","category":"item","category_zh":"道具","category_key":"food","name":"柿仔果","name_zh":"柿仔果","location":null,"image_url":"https://pokopiaguide.com/images/items/item-610.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/papers.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:斜面石屋顶","category":"item","category_zh":"道具","category_key":"building","name":"斜面石屋顶","name_zh":"斜面石屋顶","location":null,"image_url":"https://pokopiaguide.com/images/items/item-809.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-809.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:斜面砖屋顶","category":"item","category_zh":"道具","category_key":"building","name":"斜面砖屋顶","name_zh":"斜面砖屋顶","location":null,"image_url":"https://pokopiaguide.com/images/items/item-812.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/stylish-brick-wall-middle.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:锅子","category":"item","category_zh":"道具","category_key":"utility","name":"锅子","name_zh":"锅子","location":null,"image_url":"https://pokopiaguide.com/images/items/item-439.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-439.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:牛车","category":"item","category_zh":"道具","category_key":"outdoor","name":"牛车","name_zh":"牛车","location":null,"image_url":"https://pokopiaguide.com/images/items/item-105.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-105.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:虹色羽毛","category":"item","category_zh":"道具","category_key":"other","name":"虹色羽毛","name_zh":"虹色羽毛","location":null,"image_url":"https://pokopiaguide.com/images/items/item-31.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-31.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:布墙","category":"item","category_zh":"道具","category_key":"block","name":"布墙","name_zh":"布墙","location":null,"image_url":"https://pokopiaguide.com/images/items/item-285.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-285.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:布墙（壁纸）","category":"item","category_zh":"道具","category_key":"other","name":"布墙（壁纸）","name_zh":"布墙（壁纸）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-749.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/cloth-wall-wallpaper.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:螺旋盆栽","category":"item","category_zh":"道具","category_key":"goods","name":"螺旋盆栽","name_zh":"螺旋盆栽","location":null,"image_url":"https://pokopiaguide.com/images/items/item-65.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/leafy-plant.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:标靶","category":"item","category_zh":"道具","category_key":"other","name":"标靶","name_zh":"标靶","location":null,"image_url":"https://pokopiaguide.com/images/items/item-195.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-195.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:高盆栽","category":"item","category_zh":"道具","category_key":"goods","name":"高盆栽","name_zh":"高盆栽","location":null,"image_url":"https://pokopiaguide.com/images/items/item-272.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/tall-potted-plant.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:喉咙喷雾","category":"item","category_zh":"道具","category_key":"other","name":"喉咙喷雾","name_zh":"喉咙喷雾","location":null,"image_url":"https://pokopiaguide.com/images/items/item-555.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-555.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:悠闲花种子","category":"item","category_zh":"道具","category_key":"nature","name":"悠闲花种子","name_zh":"悠闲花种子","location":null,"image_url":"https://pokopiaguide.com/images/items/item-627.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/rawst-seeds.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:悠闲花","category":"item","category_zh":"道具","category_key":"nature","name":"悠闲花","name_zh":"悠闲花","location":null,"image_url":"https://pokopiaguide.com/images/items/item-628.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-628.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:诅咒符","category":"item","category_zh":"道具","category_key":"other","name":"诅咒符","name_zh":"诅咒符","location":null,"image_url":"https://pokopiaguide.com/images/items/item-209.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-209.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:诅咒铠甲","category":"item","category_zh":"道具","category_key":"goods","name":"诅咒铠甲","name_zh":"诅咒铠甲","location":null,"image_url":"https://pokopiaguide.com/images/items/item-300.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-300.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:墓碑","category":"item","category_zh":"道具","category_key":"outdoor","name":"墓碑","name_zh":"墓碑","location":null,"image_url":"https://pokopiaguide.com/images/items/item-45.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-45.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:博士的收藏品","category":"item","category_zh":"道具","category_key":"other","name":"博士的收藏品","name_zh":"博士的收藏品","location":null,"image_url":"https://pokopiaguide.com/images/items/item-674.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-674.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:叶子","category":"item","category_zh":"道具","category_key":"material","name":"叶子","name_zh":"叶子","location":null,"image_url":"https://pokopiaguide.com/images/items/item-3.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-3.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:烟火弹","category":"item","category_zh":"道具","category_key":"other","name":"烟火弹","name_zh":"烟火弹","location":null,"image_url":"https://pokopiaguide.com/images/items/item-377.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-377.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:烟火弹（白）","category":"item","category_zh":"道具","category_key":"other","name":"烟火弹（白）","name_zh":"烟火弹（白）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-589.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-589.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:烟火弹（红）","category":"item","category_zh":"道具","category_key":"other","name":"烟火弹（红）","name_zh":"烟火弹（红）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-590.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-590.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:烟火弹（绿）","category":"item","category_zh":"道具","category_key":"other","name":"烟火弹（绿）","name_zh":"烟火弹（绿）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-591.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-591.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:烟火弹（黄）","category":"item","category_zh":"道具","category_key":"other","name":"烟火弹（黄）","name_zh":"烟火弹（黄）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-592.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-592.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:烟火弹（蓝）","category":"item","category_zh":"道具","category_key":"other","name":"烟火弹（蓝）","name_zh":"烟火弹（蓝）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-593.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-593.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:花朵墙饰","category":"item","category_zh":"道具","category_key":"goods","name":"花朵墙饰","name_zh":"花朵墙饰","location":null,"image_url":"https://pokopiaguide.com/images/items/item-637.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-637.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:毽子草水壶","category":"item","category_zh":"道具","category_key":"goods","name":"毽子草水壶","name_zh":"毽子草水壶","location":null,"image_url":"https://pokopiaguide.com/images/items/item-633.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-633.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:草原花","category":"item","category_zh":"道具","category_key":"nature","name":"草原花","name_zh":"草原花","location":null,"image_url":"https://pokopiaguide.com/images/items/item-15.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-15.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:笔记本电脑","category":"item","category_zh":"道具","category_key":"goods","name":"笔记本电脑","name_zh":"笔记本电脑","location":null,"image_url":"https://pokopiaguide.com/images/items/item-525.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/laptop.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:篮子","category":"item","category_zh":"道具","category_key":"goods","name":"篮子","name_zh":"篮子","location":null,"image_url":"https://pokopiaguide.com/images/items/item-50.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/picnic-basket.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:浴缸","category":"item","category_zh":"道具","category_key":"goods","name":"浴缸","name_zh":"浴缸","location":null,"image_url":"https://pokopiaguide.com/images/items/item-517.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-517.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:心型鳞片","category":"item","category_zh":"道具","category_key":"other","name":"心型鳞片","name_zh":"心型鳞片","location":null,"image_url":"https://pokopiaguide.com/images/items/item-80.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-80.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:拳击游戏机","category":"item","category_zh":"道具","category_key":"goods","name":"拳击游戏机","name_zh":"拳击游戏机","location":null,"image_url":"https://pokopiaguide.com/images/items/item-485.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-485.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:面包窑","category":"item","category_zh":"道具","category_key":"utility","name":"面包窑","name_zh":"面包窑","location":null,"image_url":"https://pokopiaguide.com/images/items/item-501.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-501.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:发光蘑菇","category":"item","category_zh":"道具","category_key":"material","name":"发光蘑菇","name_zh":"发光蘑菇","location":null,"image_url":"https://pokopiaguide.com/images/items/item-223.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/glowing-mushrooms.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:光之石","category":"item","category_zh":"道具","category_key":"block","name":"光之石","name_zh":"光之石","location":null,"image_url":"https://pokopiaguide.com/images/items/item-224.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-224.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:光之黏土","category":"item","category_zh":"道具","category_key":"other","name":"光之黏土","name_zh":"光之黏土","location":null,"image_url":"https://pokopiaguide.com/images/items/item-556.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/light-clay.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:搬家套件（准备）","category":"item","category_zh":"道具","category_key":"other","name":"搬家套件（准备）","name_zh":"搬家套件（准备）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-322.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-322.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:凹入瓦屋顶","category":"item","category_zh":"道具","category_key":"building","name":"凹入瓦屋顶","name_zh":"凹入瓦屋顶","location":null,"image_url":"https://pokopiaguide.com/images/items/item-388.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-388.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:凹入帐篷屋顶","category":"item","category_zh":"道具","category_key":"building","name":"凹入帐篷屋顶","name_zh":"凹入帐篷屋顶","location":null,"image_url":"https://pokopiaguide.com/images/items/item-542.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-542.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:龟裂砂岩","category":"item","category_zh":"道具","category_key":"block","name":"龟裂砂岩","name_zh":"龟裂砂岩","location":null,"image_url":"https://pokopiaguide.com/images/items/item-771.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/cracked-sandstone.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:橙橙果","category":"item","category_zh":"道具","category_key":"food","name":"橙橙果","name_zh":"橙橙果","location":null,"image_url":"https://pokopiaguide.com/images/items/item-16.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-16.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:鳍化石","category":"item","category_zh":"道具","category_key":"other","name":"鳍化石","name_zh":"鳍化石","location":null,"image_url":"https://pokopiaguide.com/images/items/item-168.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-168.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:派对餐盘","category":"item","category_zh":"道具","category_key":"goods","name":"派对餐盘","name_zh":"派对餐盘","location":null,"image_url":"https://pokopiaguide.com/images/items/item-451.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/party-platter.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:派对纸杯","category":"item","category_zh":"道具","category_key":"goods","name":"派对纸杯","name_zh":"派对纸杯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-506.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-506.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:惊吓箱","category":"item","category_zh":"道具","category_key":"goods","name":"惊吓箱","name_zh":"惊吓箱","location":null,"image_url":"https://pokopiaguide.com/images/items/item-175.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-175.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:充气船","category":"item","category_zh":"道具","category_key":"outdoor","name":"充气船","name_zh":"充气船","location":null,"image_url":"https://pokopiaguide.com/images/items/item-463.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-463.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:胆怯球","category":"item","category_zh":"道具","category_key":"other","name":"胆怯球","name_zh":"胆怯球","location":null,"image_url":"https://pokopiaguide.com/images/items/item-211.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-211.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:皮卡丘玩偶","category":"item","category_zh":"道具","category_key":"other","name":"皮卡丘玩偶","name_zh":"皮卡丘玩偶","location":null,"image_url":"https://pokopiaguide.com/images/items/item-206.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/pikachu-doll.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:披萨","category":"item","category_zh":"道具","category_key":"goods","name":"披萨","name_zh":"披萨","location":null,"image_url":"https://pokopiaguide.com/images/items/item-148.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/pizza.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:皮皮玩偶","category":"item","category_zh":"道具","category_key":"goods","name":"皮皮玩偶","name_zh":"皮皮玩偶","location":null,"image_url":"https://pokopiaguide.com/images/items/item-162.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/substitute-doll.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:弹跳浴缸","category":"item","category_zh":"道具","category_key":"goods","name":"弹跳浴缸","name_zh":"弹跳浴缸","location":null,"image_url":"https://pokopiaguide.com/images/items/item-166.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-166.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:粉红小屋套件","category":"item","category_zh":"道具","category_key":"kit","name":"粉红小屋套件","name_zh":"粉红小屋套件","location":null,"image_url":"https://pokopiaguide.com/images/items/item-321.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-321.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:粉红高草","category":"item","category_zh":"道具","category_key":"nature","name":"粉红高草","name_zh":"粉红高草","location":null,"image_url":"https://pokopiaguide.com/images/items/item-403.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/pink-tall-grass.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:气球","category":"item","category_zh":"道具","category_key":"goods","name":"气球","name_zh":"气球","location":null,"image_url":"https://pokopiaguide.com/images/items/item-255.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-255.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:对焦镜","category":"item","category_zh":"道具","category_key":"other","name":"对焦镜","name_zh":"对焦镜","location":null,"image_url":"https://pokopiaguide.com/images/items/item-644.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-644.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:蓬松地毯","category":"item","category_zh":"道具","category_key":"block","name":"蓬松地毯","name_zh":"蓬松地毯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-846.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-846.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:奇妙琴弦","category":"item","category_zh":"道具","category_key":"material","name":"奇妙琴弦","name_zh":"奇妙琴弦","location":null,"image_url":"https://pokopiaguide.com/images/items/item-399.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-399.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:普通泥土","category":"item","category_zh":"道具","category_key":"block","name":"普通泥土","name_zh":"普通泥土","location":null,"image_url":"https://pokopiaguide.com/images/items/item-831.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/ordinary-soil.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:船舵","category":"item","category_zh":"道具","category_key":"goods","name":"船舵","name_zh":"船舵","location":null,"image_url":"https://pokopiaguide.com/images/items/item-488.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-488.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:船门","category":"item","category_zh":"道具","category_key":"building","name":"船门","name_zh":"船门","location":null,"image_url":"https://pokopiaguide.com/images/items/item-679.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/large-wooden-door.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:船栅栏","category":"item","category_zh":"道具","category_key":"building","name":"船栅栏","name_zh":"船栅栏","location":null,"image_url":"https://pokopiaguide.com/images/items/item-850.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-850.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:踏脚石","category":"item","category_zh":"道具","category_key":"building","name":"踏脚石","name_zh":"踏脚石","location":null,"image_url":"https://pokopiaguide.com/images/items/item-332.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/stepping-stones.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:薯条","category":"item","category_zh":"道具","category_key":"goods","name":"薯条","name_zh":"薯条","location":null,"image_url":"https://pokopiaguide.com/images/items/item-147.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-147.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:平底锅","category":"item","category_zh":"道具","category_key":"utility","name":"平底锅","name_zh":"平底锅","location":null,"image_url":"https://pokopiaguide.com/images/items/item-156.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-156.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:窗框玻璃","category":"item","category_zh":"道具","category_key":"building","name":"窗框玻璃","name_zh":"窗框玻璃","location":null,"image_url":"https://pokopiaguide.com/images/items/item-720.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-720.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:毛毡垫","category":"item","category_zh":"道具","category_key":"other","name":"毛毡垫","name_zh":"毛毡垫","location":null,"image_url":"https://pokopiaguide.com/images/items/item-398.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/felt-mat-wallpaper.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:方块灯","category":"item","category_zh":"道具","category_key":"block","name":"方块灯","name_zh":"方块灯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-854.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-854.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:花盆","category":"item","category_zh":"道具","category_key":"outdoor","name":"花盆","name_zh":"花盆","location":null,"image_url":"https://pokopiaguide.com/images/items/item-217.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-217.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:油漆墙","category":"item","category_zh":"道具","category_key":"block","name":"油漆墙","name_zh":"油漆墙","location":null,"image_url":"https://pokopiaguide.com/images/items/item-828.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-828.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:星沙","category":"item","category_zh":"道具","category_key":"material","name":"星沙","name_zh":"星沙","location":null,"image_url":"https://pokopiaguide.com/images/items/item-290.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/bumpy-beach-sand.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:星星碎片","category":"item","category_zh":"道具","category_key":"other","name":"星星碎片","name_zh":"星星碎片","location":null,"image_url":"https://pokopiaguide.com/images/items/item-291.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/arched-tiling-fragments.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:星空墙","category":"item","category_zh":"道具","category_key":"block","name":"星空墙","name_zh":"星空墙","location":null,"image_url":"https://pokopiaguide.com/images/items/item-840.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/starry-sky-wall.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:细长蜡烛","category":"item","category_zh":"道具","category_key":"outdoor","name":"细长蜡烛","name_zh":"细长蜡烛","location":null,"image_url":"https://pokopiaguide.com/images/items/item-44.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/slender-candle.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:火焰鸭嘴宝宝雕像","category":"item","category_zh":"道具","category_key":"other","name":"火焰鸭嘴宝宝雕像","name_zh":"火焰鸭嘴宝宝雕像","location":null,"image_url":"https://pokopiaguide.com/images/items/item-207.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-207.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:白板","category":"item","category_zh":"道具","category_key":"goods","name":"白板","name_zh":"白板","location":null,"image_url":"https://pokopiaguide.com/images/items/item-530.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/whiteboard.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:书架","category":"item","category_zh":"道具","category_key":"goods","name":"书架","name_zh":"书架","location":null,"image_url":"https://pokopiaguide.com/images/items/item-266.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-266.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:暴君化石（头）","category":"item","category_zh":"道具","category_key":"other","name":"暴君化石（头）","name_zh":"暴君化石（头）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-142.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-142.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:暴君化石（身）","category":"item","category_zh":"道具","category_key":"other","name":"暴君化石（身）","name_zh":"暴君化石（身）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-143.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-143.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:暴君化石（腿）","category":"item","category_zh":"道具","category_key":"other","name":"暴君化石（腿）","name_zh":"暴君化石（腿）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-144.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-144.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:暴君化石（尾）","category":"item","category_zh":"道具","category_key":"other","name":"暴君化石（尾）","name_zh":"暴君化石（尾）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-145.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-145.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:瓶装果汁","category":"item","category_zh":"道具","category_key":"goods","name":"瓶装果汁","name_zh":"瓶装果汁","location":null,"image_url":"https://pokopiaguide.com/images/items/item-635.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-635.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:破旧木箱","category":"item","category_zh":"道具","category_key":"outdoor","name":"破旧木箱","name_zh":"破旧木箱","location":null,"image_url":"https://pokopiaguide.com/images/items/item-29.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-29.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:PP提升剂","category":"item","category_zh":"道具","category_key":"other","name":"PP提升剂","name_zh":"PP提升剂","location":null,"image_url":"https://pokopiaguide.com/images/items/item-56.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-56.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:宝可金属","category":"item","category_zh":"道具","category_key":"material","name":"宝可金属","name_zh":"宝可金属","location":null,"image_url":"https://pokopiaguide.com/images/items/item-78.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/pok-metal.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:宝可金属碎片","category":"item","category_zh":"道具","category_key":"material","name":"宝可金属碎片","name_zh":"宝可金属碎片","location":null,"image_url":"https://pokopiaguide.com/images/items/item-559.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/pok-eacute-metal-fragment.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:宝可梦中心墙（上段）","category":"item","category_zh":"道具","category_key":"block","name":"宝可梦中心墙（上段）","name_zh":"宝可梦中心墙（上段）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-726.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-726.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:宝可梦中心墙（中段）","category":"item","category_zh":"道具","category_key":"block","name":"宝可梦中心墙（中段）","name_zh":"宝可梦中心墙（中段）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-727.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-727.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:宝可梦中心墙（下段）","category":"item","category_zh":"道具","category_key":"block","name":"宝可梦中心墙（下段）","name_zh":"宝可梦中心墙（下段）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-728.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-728.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:宝可梦中心墙（边框）","category":"item","category_zh":"道具","category_key":"block","name":"宝可梦中心墙（边框）","name_zh":"宝可梦中心墙（边框）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-729.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-729.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:海洋海报","category":"item","category_zh":"道具","category_key":"other","name":"海洋海报","name_zh":"海洋海报","location":null,"image_url":"https://pokopiaguide.com/images/items/item-741.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/ocean-poster.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:热情海报","category":"item","category_zh":"道具","category_key":"other","name":"热情海报","name_zh":"热情海报","location":null,"image_url":"https://pokopiaguide.com/images/items/item-742.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-742.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:速度海报","category":"item","category_zh":"道具","category_key":"other","name":"速度海报","name_zh":"速度海报","location":null,"image_url":"https://pokopiaguide.com/images/items/item-743.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-743.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:成长海报","category":"item","category_zh":"道具","category_key":"other","name":"成长海报","name_zh":"成长海报","location":null,"image_url":"https://pokopiaguide.com/images/items/item-744.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/growth-poster.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:普普风灯","category":"item","category_zh":"道具","category_key":"utility","name":"普普风灯","name_zh":"普普风灯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-407.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-407.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:宝可梦球图样","category":"item","category_zh":"道具","category_key":"block","name":"宝可梦球图样","name_zh":"宝可梦球图样","location":null,"image_url":"https://pokopiaguide.com/images/items/item-745.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-745.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:球球玄关垫","category":"item","category_zh":"道具","category_key":"other","name":"球球玄关垫","name_zh":"球球玄关垫","location":null,"image_url":"https://pokopiaguide.com/images/items/item-855.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-855.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:弯曲汤匙","category":"item","category_zh":"道具","category_key":"other","name":"弯曲汤匙","name_zh":"弯曲汤匙","location":null,"image_url":"https://pokopiaguide.com/images/items/item-550.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-550.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:马克杯","category":"item","category_zh":"道具","category_key":"goods","name":"马克杯","name_zh":"马克杯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-72.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-72.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:岩浆岩石","category":"item","category_zh":"道具","category_key":"block","name":"岩浆岩石","name_zh":"岩浆岩石","location":null,"image_url":"https://pokopiaguide.com/images/items/item-198.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-198.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:城镇路灯","category":"item","category_zh":"道具","category_key":"utility","name":"城镇路灯","name_zh":"城镇路灯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-36.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/town-streetlight.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:砧板","category":"item","category_zh":"道具","category_key":"utility","name":"砧板","name_zh":"砧板","location":null,"image_url":"https://pokopiaguide.com/images/items/item-489.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-489.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:豆子种子","category":"item","category_zh":"道具","category_key":"nature","name":"豆子种子","name_zh":"豆子种子","location":null,"image_url":"https://pokopiaguide.com/images/items/item-46.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/bean-seeds.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:豆子","category":"item","category_zh":"道具","category_key":"food","name":"豆子","name_zh":"豆子","location":null,"image_url":"https://pokopiaguide.com/images/items/item-63.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-63.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:人孔盖","category":"item","category_zh":"道具","category_key":"outdoor","name":"人孔盖","name_zh":"人孔盖","location":null,"image_url":"https://pokopiaguide.com/images/items/item-665.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-665.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:交通锥","category":"item","category_zh":"道具","category_key":"outdoor","name":"交通锥","name_zh":"交通锥","location":null,"image_url":"https://pokopiaguide.com/images/items/item-599.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/traffic-cone.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:替身玩偶","category":"item","category_zh":"道具","category_key":"goods","name":"替身玩偶","name_zh":"替身玩偶","location":null,"image_url":"https://pokopiaguide.com/images/items/item-164.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-164.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:水桶","category":"item","category_zh":"道具","category_key":"outdoor","name":"水桶","name_zh":"水桶","location":null,"image_url":"https://pokopiaguide.com/images/items/item-309.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-309.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:水玉点点图样","category":"item","category_zh":"道具","category_key":"block","name":"水玉点点图样","name_zh":"水玉点点图样","location":null,"image_url":"https://pokopiaguide.com/images/items/item-826.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/fresh-water.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:绿色高草","category":"item","category_zh":"道具","category_key":"nature","name":"绿色高草","name_zh":"绿色高草","location":null,"image_url":"https://pokopiaguide.com/images/items/item-6.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-6.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:港口柱","category":"item","category_zh":"道具","category_key":"building","name":"港口柱","name_zh":"港口柱","location":null,"image_url":"https://pokopiaguide.com/images/items/item-58.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/extravagant-pillar-upper.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:港口路灯","category":"item","category_zh":"道具","category_key":"utility","name":"港口路灯","name_zh":"港口路灯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-533.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-533.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:迷你水闸","category":"item","category_zh":"道具","category_key":"utility","name":"迷你水闸","name_zh":"迷你水闸","location":null,"image_url":"https://pokopiaguide.com/images/items/item-55.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-55.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:迷你书架","category":"item","category_zh":"道具","category_key":"goods","name":"迷你书架","name_zh":"迷你书架","location":null,"image_url":"https://pokopiaguide.com/images/items/item-454.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/mini-bookcase.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:迷你发电机","category":"item","category_zh":"道具","category_key":"utility","name":"迷你发电机","name_zh":"迷你发电机","location":null,"image_url":"https://pokopiaguide.com/images/items/item-616.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-616.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:监视摄影机","category":"item","category_zh":"道具","category_key":"other","name":"监视摄影机","name_zh":"监视摄影机","location":null,"image_url":"https://pokopiaguide.com/images/items/item-311.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-311.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:镜球","category":"item","category_zh":"道具","category_key":"utility","name":"镜球","name_zh":"镜球","location":null,"image_url":"https://pokopiaguide.com/images/items/item-391.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-391.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:共用箱","category":"item","category_zh":"道具","category_key":"utility","name":"共用箱","name_zh":"共用箱","location":null,"image_url":"https://pokopiaguide.com/images/items/item-327.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-327.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:除虫喷雾","category":"item","category_zh":"道具","category_key":"goods","name":"除虫喷雾","name_zh":"除虫喷雾","location":null,"image_url":"https://pokopiaguide.com/images/items/item-183.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-183.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:食梦梦存钱筒","category":"item","category_zh":"道具","category_key":"goods","name":"食梦梦存钱筒","name_zh":"食梦梦存钱筒","location":null,"image_url":"https://pokopiaguide.com/images/items/item-185.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/storage-box.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:闹钟","category":"item","category_zh":"道具","category_key":"goods","name":"闹钟","name_zh":"闹钟","location":null,"image_url":"https://pokopiaguide.com/images/items/item-446.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/alarm-clock.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:百变怪旗帜","category":"item","category_zh":"道具","category_key":"utility","name":"百变怪旗帜","name_zh":"百变怪旗帜","location":null,"image_url":"https://pokopiaguide.com/images/items/item-42.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-42.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:金属膜","category":"item","category_zh":"道具","category_key":"other","name":"金属膜","name_zh":"金属膜","location":null,"image_url":"https://pokopiaguide.com/images/items/item-95.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/corrugated-metal.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:百变怪玩偶","category":"item","category_zh":"道具","category_key":"goods","name":"百变怪玩偶","name_zh":"百变怪玩偶","location":null,"image_url":"https://pokopiaguide.com/images/items/item-163.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-163.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:金属栅栏门","category":"item","category_zh":"道具","category_key":"building","name":"金属栅栏门","name_zh":"金属栅栏门","location":null,"image_url":"https://pokopiaguide.com/images/items/item-385.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-385.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:金属栅栏","category":"item","category_zh":"道具","category_key":"building","name":"金属栅栏","name_zh":"金属栅栏","location":null,"image_url":"https://pokopiaguide.com/images/items/item-717.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/metal-fencing.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:金属熔炉","category":"item","category_zh":"道具","category_key":"utility","name":"金属熔炉","name_zh":"金属熔炉","location":null,"image_url":"https://pokopiaguide.com/images/items/item-719.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/metallic-smelting-furnace.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:金属粉末","category":"item","category_zh":"道具","category_key":"other","name":"金属粉末","name_zh":"金属粉末","location":null,"image_url":"https://pokopiaguide.com/images/items/item-824.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/metal-powder.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:百变怪地毯","category":"item","category_zh":"道具","category_key":"other","name":"百变怪地毯","name_zh":"百变怪地毯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-830.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/caves-of-mt-moon.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:菜单板","category":"item","category_zh":"道具","category_key":"outdoor","name":"菜单板","name_zh":"菜单板","location":null,"image_url":"https://pokopiaguide.com/images/items/item-118.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-118.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:不可燃垃圾","category":"item","category_zh":"道具","category_key":"material","name":"不可燃垃圾","name_zh":"不可燃垃圾","location":null,"image_url":"https://pokopiaguide.com/images/items/item-397.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/nonburnable-garbage.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:木炭","category":"item","category_zh":"道具","category_key":"other","name":"木炭","name_zh":"木炭","location":null,"image_url":"https://pokopiaguide.com/images/items/item-92.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/charcoal.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:木木枭时钟","category":"item","category_zh":"道具","category_key":"goods","name":"木木枭时钟","name_zh":"木木枭时钟","location":null,"image_url":"https://pokopiaguide.com/images/items/item-204.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-204.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:马赛克砖","category":"item","category_zh":"道具","category_key":"block","name":"马赛克砖","name_zh":"马赛克砖","location":null,"image_url":"https://pokopiaguide.com/images/items/item-612.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/damaged-mosaic-tiling.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:现代风地毯","category":"item","category_zh":"道具","category_key":"block","name":"现代风地毯","name_zh":"现代风地毯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-602.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-602.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:现代风地毯（壁纸）","category":"item","category_zh":"道具","category_key":"other","name":"现代风地毯（壁纸）","name_zh":"现代风地毯（壁纸）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-748.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/modern-sink.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:现代风墙（壁纸）","category":"item","category_zh":"道具","category_key":"other","name":"现代风墙（壁纸）","name_zh":"现代风墙（壁纸）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-750.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/modern-wall-wallpaper.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:现代风墙","category":"item","category_zh":"道具","category_key":"block","name":"现代风墙","name_zh":"现代风墙","location":null,"image_url":"https://pokopiaguide.com/images/items/item-825.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-825.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:现代风门","category":"item","category_zh":"道具","category_key":"building","name":"现代风门","name_zh":"现代风门","location":null,"image_url":"https://pokopiaguide.com/images/items/item-847.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-847.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:桃桃果","category":"item","category_zh":"道具","category_key":"food","name":"桃桃果","name_zh":"桃桃果","location":null,"image_url":"https://pokopiaguide.com/images/items/item-609.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-609.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:精灵球灯","category":"item","category_zh":"道具","category_key":"utility","name":"精灵球灯","name_zh":"精灵球灯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-479.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-479.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:精灵球地垫","category":"item","category_zh":"道具","category_key":"other","name":"精灵球地垫","name_zh":"精灵球地垫","location":null,"image_url":"https://pokopiaguide.com/images/items/item-838.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/felt-mat.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:哞哞鲜乳咖啡","category":"item","category_zh":"道具","category_key":"food","name":"哞哞鲜乳咖啡","name_zh":"哞哞鲜乳咖啡","location":null,"image_url":"https://pokopiaguide.com/images/items/item-684.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-684.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:箭头招牌","category":"item","category_zh":"道具","category_key":"outdoor","name":"箭头招牌","name_zh":"箭头招牌","location":null,"image_url":"https://pokopiaguide.com/images/items/item-43.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/arrow-sign.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:呆呆兽地毯","category":"item","category_zh":"道具","category_key":"other","name":"呆呆兽地毯","name_zh":"呆呆兽地毯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-821.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/slowpoke-rug.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:瓦屋顶装饰","category":"item","category_zh":"道具","category_key":"building","name":"瓦屋顶装饰","name_zh":"瓦屋顶装饰","location":null,"image_url":"https://pokopiaguide.com/images/items/item-390.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/tiled-roof-decoration.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:挖掘工具","category":"item","category_zh":"道具","category_key":"outdoor","name":"挖掘工具","name_zh":"挖掘工具","location":null,"image_url":"https://pokopiaguide.com/images/items/item-132.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-132.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:柔软沙子","category":"item","category_zh":"道具","category_key":"other","name":"柔软沙子","name_zh":"柔软沙子","location":null,"image_url":"https://pokopiaguide.com/images/items/item-641.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/soft-sand.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:邮箱","category":"item","category_zh":"道具","category_key":"outdoor","name":"邮箱","name_zh":"邮箱","location":null,"image_url":"https://pokopiaguide.com/images/items/item-782.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/mailbox.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:地板开关","category":"item","category_zh":"道具","category_key":"utility","name":"地板开关","name_zh":"地板开关","location":null,"image_url":"https://pokopiaguide.com/images/items/item-328.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/floor-switch.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:温泉出水口","category":"item","category_zh":"道具","category_key":"outdoor","name":"温泉出水口","name_zh":"温泉出水口","location":null,"image_url":"https://pokopiaguide.com/images/items/item-458.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/hot-spring-spout.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:熔炉","category":"item","category_zh":"道具","category_key":"utility","name":"熔炉","name_zh":"熔炉","location":null,"image_url":"https://pokopiaguide.com/images/items/item-91.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/smelting-furnace.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:妖精之翼","category":"item","category_zh":"道具","category_key":"other","name":"妖精之翼","name_zh":"妖精之翼","location":null,"image_url":"https://pokopiaguide.com/images/items/item-199.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-199.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:横铁骨","category":"item","category_zh":"道具","category_key":"building","name":"横铁骨","name_zh":"横铁骨","location":null,"image_url":"https://pokopiaguide.com/images/items/item-752.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-752.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:横圆木","category":"item","category_zh":"道具","category_key":"building","name":"横圆木","name_zh":"横圆木","location":null,"image_url":"https://pokopiaguide.com/images/items/item-835.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-835.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:铠甲碎片","category":"item","category_zh":"道具","category_key":"material","name":"铠甲碎片","name_zh":"铠甲碎片","location":null,"image_url":"https://pokopiaguide.com/images/items/item-165.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/armor-fragment.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:雷丘招牌","category":"item","category_zh":"道具","category_key":"outdoor","name":"雷丘招牌","name_zh":"雷丘招牌","location":null,"image_url":"https://pokopiaguide.com/images/items/item-158.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/raichu-sign.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:浅色古典墙（上段）","category":"item","category_zh":"道具","category_key":"block","name":"浅色古典墙（上段）","name_zh":"浅色古典墙（上段）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-768.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-768.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:浅色古典墙（中段）","category":"item","category_zh":"道具","category_key":"block","name":"浅色古典墙（中段）","name_zh":"浅色古典墙（中段）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-769.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-769.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:浅色古典墙（下段）","category":"item","category_zh":"道具","category_key":"block","name":"浅色古典墙（下段）","name_zh":"浅色古典墙（下段）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-770.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-770.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:吉利蛋造型树","category":"item","category_zh":"道具","category_key":"outdoor","name":"吉利蛋造型树","name_zh":"吉利蛋造型树","location":null,"image_url":"https://pokopiaguide.com/images/items/item-460.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-460.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:木子果","category":"item","category_zh":"道具","category_key":"food","name":"木子果","name_zh":"木子果","location":null,"image_url":"https://pokopiaguide.com/images/items/item-611.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-611.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:提灯","category":"item","category_zh":"道具","category_key":"utility","name":"提灯","name_zh":"提灯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-134.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-134.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:喷火龙地毯","category":"item","category_zh":"道具","category_key":"other","name":"喷火龙地毯","name_zh":"喷火龙地毯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-822.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/charizard-rug.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:度假风灯","category":"item","category_zh":"道具","category_key":"utility","name":"度假风灯","name_zh":"度假风灯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-420.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-420.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:升降机平台","category":"item","category_zh":"道具","category_key":"utility","name":"升降机平台","name_zh":"升降机平台","location":null,"image_url":"https://pokopiaguide.com/images/items/item-302.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/lift-platform.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:缎带蛋糕","category":"item","category_zh":"道具","category_key":"goods","name":"缎带蛋糕","name_zh":"缎带蛋糕","location":null,"image_url":"https://pokopiaguide.com/images/items/item-153.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/ribbon-cake.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:龙之牙","category":"item","category_zh":"道具","category_key":"other","name":"龙之牙","name_zh":"龙之牙","location":null,"image_url":"https://pokopiaguide.com/images/items/item-88.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-88.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:花环","category":"item","category_zh":"道具","category_key":"goods","name":"花环","name_zh":"花环","location":null,"image_url":"https://pokopiaguide.com/images/items/item-374.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wreath.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:稀有宝可金属","category":"item","category_zh":"道具","category_key":"material","name":"稀有宝可金属","name_zh":"稀有宝可金属","location":null,"image_url":"https://pokopiaguide.com/images/items/item-366.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/rare-pok-metal.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:稀有宝可金属碎片","category":"item","category_zh":"道具","category_key":"material","name":"稀有宝可金属碎片","name_zh":"稀有宝可金属碎片","location":null,"image_url":"https://pokopiaguide.com/images/items/item-370.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/rare-pok-eacute-metal-fragment.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:冰箱","category":"item","category_zh":"道具","category_key":"goods","name":"冰箱","name_zh":"冰箱","location":null,"image_url":"https://pokopiaguide.com/images/items/item-598.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/refrigerator.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:皮革墙","category":"item","category_zh":"道具","category_key":"block","name":"皮革墙","name_zh":"皮革墙","location":null,"image_url":"https://pokopiaguide.com/images/items/item-853.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-853.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:收银机","category":"item","category_zh":"道具","category_key":"utility","name":"收银机","name_zh":"收银机","location":null,"image_url":"https://pokopiaguide.com/images/items/item-440.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/cash-register.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:野餐垫","category":"item","category_zh":"道具","category_key":"other","name":"野餐垫","name_zh":"野餐垫","location":null,"image_url":"https://pokopiaguide.com/images/items/item-632.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/music-mat-low-do.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:砖边框（直线）","category":"item","category_zh":"道具","category_key":"building","name":"砖边框（直线）","name_zh":"砖边框（直线）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-25.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-25.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:砖块","category":"item","category_zh":"道具","category_key":"material","name":"砖块","name_zh":"砖块","location":null,"image_url":"https://pokopiaguide.com/images/items/item-201.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-201.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:砖阶梯","category":"item","category_zh":"道具","category_key":"building","name":"砖阶梯","name_zh":"砖阶梯","location":null,"image_url":"https://pokopiaguide.com/images/items/item-330.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-330.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:砖墙（壁纸）","category":"item","category_zh":"道具","category_key":"other","name":"砖墙（壁纸）","name_zh":"砖墙（壁纸）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-786.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/brick-wall-wallpaper.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:砖边框（小型）","category":"item","category_zh":"道具","category_key":"building","name":"砖边框（小型）","name_zh":"砖边框（小型）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-844.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-844.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:砖边框（转角）","category":"item","category_zh":"道具","category_key":"building","name":"砖边框（转角）","name_zh":"砖边框（转角）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-845.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/brick-border-corner.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:砖墙","category":"item","category_zh":"道具","category_key":"block","name":"砖墙","name_zh":"砖墙","location":null,"image_url":"https://pokopiaguide.com/images/items/item-849.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/brick-wall.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:客房服务","category":"item","category_zh":"道具","category_key":"other","name":"客房服务","name_zh":"客房服务","location":null,"image_url":"https://pokopiaguide.com/images/items/item-210.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/room-service.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:火箭队壁挂","category":"item","category_zh":"道具","category_key":"other","name":"火箭队壁挂","name_zh":"火箭队壁挂","location":null,"image_url":"https://pokopiaguide.com/images/items/item-536.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-536.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:乃奶蔷薇茶","category":"item","category_zh":"道具","category_key":"food","name":"乃奶蔷薇茶","name_zh":"乃奶蔷薇茶","location":null,"image_url":"https://pokopiaguide.com/images/items/item-685.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/rose-tower.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:六角形地板","category":"item","category_zh":"道具","category_key":"block","name":"六角形地板","name_zh":"六角形地板","location":null,"image_url":"https://pokopiaguide.com/images/items/item-715.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/hexagonal-flooring.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:研究论文","category":"item","category_zh":"道具","category_key":"goods","name":"研究论文","name_zh":"研究论文","location":null,"image_url":"https://pokopiaguide.com/images/items/item-529.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-529.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:蕾丝垫","category":"item","category_zh":"道具","category_key":"other","name":"蕾丝垫","name_zh":"蕾丝垫","location":null,"image_url":"https://pokopiaguide.com/images/items/item-431.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/simple-cushion.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:钢索","category":"item","category_zh":"道具","category_key":"building","name":"钢索","name_zh":"钢索","location":null,"image_url":"https://pokopiaguide.com/images/items/item-538.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-538.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:行星模型","category":"item","category_zh":"道具","category_key":"utility","name":"行星模型","name_zh":"行星模型","location":null,"image_url":"https://pokopiaguide.com/images/items/item-258.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/model-planet.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:棉花","category":"item","category_zh":"道具","category_key":"material","name":"棉花","name_zh":"棉花","location":null,"image_url":"https://pokopiaguide.com/images/items/item-376.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-376.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:棉花孢子","category":"item","category_zh":"道具","category_key":"material","name":"棉花孢子","name_zh":"棉花孢子","location":null,"image_url":"https://pokopiaguide.com/images/items/item-626.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/cotton-spores.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:木屏风","category":"item","category_zh":"道具","category_key":"building","name":"木屏风","name_zh":"木屏风","location":null,"image_url":"https://pokopiaguide.com/images/items/item-380.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-380.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:木栅栏门","category":"item","category_zh":"道具","category_key":"building","name":"木栅栏门","name_zh":"木栅栏门","location":null,"image_url":"https://pokopiaguide.com/images/items/item-381.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-381.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:木墙","category":"item","category_zh":"道具","category_key":"block","name":"木墙","name_zh":"木墙","location":null,"image_url":"https://pokopiaguide.com/images/items/item-382.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wooden-wall.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:木制十字门","category":"item","category_zh":"道具","category_key":"building","name":"木制十字门","name_zh":"木制十字门","location":null,"image_url":"https://pokopiaguide.com/images/items/item-400.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-400.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:木围栏","category":"item","category_zh":"道具","category_key":"building","name":"木围栏","name_zh":"木围栏","location":null,"image_url":"https://pokopiaguide.com/images/items/item-408.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-408.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:木格栅","category":"item","category_zh":"道具","category_key":"building","name":"木格栅","name_zh":"木格栅","location":null,"image_url":"https://pokopiaguide.com/images/items/item-544.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-544.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:蓬松树柱","category":"item","category_zh":"道具","category_key":"block","name":"蓬松树柱","name_zh":"蓬松树柱","location":null,"image_url":"https://pokopiaguide.com/images/items/item-561.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-561.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:木边框（直线）","category":"item","category_zh":"道具","category_key":"building","name":"木边框（直线）","name_zh":"木边框（直线）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-603.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-603.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:木边框（小型）","category":"item","category_zh":"道具","category_key":"building","name":"木边框（小型）","name_zh":"木边框（小型）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-604.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-604.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:木边框（转角）","category":"item","category_zh":"道具","category_key":"building","name":"木边框（转角）","name_zh":"木边框（转角）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-605.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-605.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:浅色木墙","category":"item","category_zh":"道具","category_key":"block","name":"浅色木墙","name_zh":"浅色木墙","location":null,"image_url":"https://pokopiaguide.com/images/items/item-790.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/light-wooden-wall.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:木墙（壁纸）","category":"item","category_zh":"道具","category_key":"other","name":"木墙（壁纸）","name_zh":"木墙（壁纸）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-804.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wooden-wall-wallpaper.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:蓬松树柱（壁纸）","category":"item","category_zh":"道具","category_key":"other","name":"蓬松树柱（壁纸）","name_zh":"蓬松树柱（壁纸）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-806.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/fluff.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:浅色木墙（壁纸）","category":"item","category_zh":"道具","category_key":"other","name":"浅色木墙（壁纸）","name_zh":"浅色木墙（壁纸）","location":null,"image_url":"https://pokopiaguide.com/images/items/item-807.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/light-wooden-wall-wallpaper.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:水力发电机","category":"item","category_zh":"道具","category_key":"other","name":"水力发电机","name_zh":"水力发电机","location":null,"image_url":"https://pokopiaguide.com/images/items/item-486.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-486.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:石房间套件","category":"item","category_zh":"道具","category_key":"kit","name":"石房间套件","name_zh":"石房间套件","location":null,"image_url":"https://pokopiaguide.com/images/items/item-320.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-320.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:石小屋套件","category":"item","category_zh":"道具","category_key":"kit","name":"石小屋套件","name_zh":"石小屋套件","location":null,"image_url":"https://pokopiaguide.com/images/items/item-791.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-791.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:石屋套件","category":"item","category_zh":"道具","category_key":"kit","name":"石屋套件","name_zh":"石屋套件","location":null,"image_url":"https://pokopiaguide.com/images/items/item-792.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/stone-house-kit.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:豪华石屋套件","category":"item","category_zh":"道具","category_key":"kit","name":"豪华石屋套件","name_zh":"豪华石屋套件","location":null,"image_url":"https://pokopiaguide.com/images/items/item-793.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-793.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:疗愈公园套件","category":"item","category_zh":"道具","category_key":"kit","name":"疗愈公园套件","name_zh":"疗愈公园套件","location":null,"image_url":"https://pokopiaguide.com/images/items/item-842.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/relaxing-park-kit.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:沙房间套件","category":"item","category_zh":"道具","category_key":"kit","name":"沙房间套件","name_zh":"沙房间套件","location":null,"image_url":"https://pokopiaguide.com/images/items/item-319.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-319.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:沙小屋套件","category":"item","category_zh":"道具","category_key":"kit","name":"沙小屋套件","name_zh":"沙小屋套件","location":null,"image_url":"https://pokopiaguide.com/images/items/item-801.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/sand-hut-kit.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:沙屋套件","category":"item","category_zh":"道具","category_key":"kit","name":"沙屋套件","name_zh":"沙屋套件","location":null,"image_url":"https://pokopiaguide.com/images/items/item-802.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-802.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:豪华沙屋套件","category":"item","category_zh":"道具","category_key":"kit","name":"豪华沙屋套件","name_zh":"豪华沙屋套件","location":null,"image_url":"https://pokopiaguide.com/images/items/item-803.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-803.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:月夜之舞雕像套件","category":"item","category_zh":"道具","category_key":"kit","name":"月夜之舞雕像套件","name_zh":"月夜之舞雕像套件","location":null,"image_url":"https://pokopiaguide.com/images/items/item-510.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/dance-poster.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:都市房间套件","category":"item","category_zh":"道具","category_key":"kit","name":"都市房间套件","name_zh":"都市房间套件","location":null,"image_url":"https://pokopiaguide.com/images/items/item-794.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-794.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:都市小屋套件","category":"item","category_zh":"道具","category_key":"kit","name":"都市小屋套件","name_zh":"都市小屋套件","location":null,"image_url":"https://pokopiaguide.com/images/items/item-795.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-795.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:都市房屋套件","category":"item","category_zh":"道具","category_key":"kit","name":"都市房屋套件","name_zh":"都市房屋套件","location":null,"image_url":"https://pokopiaguide.com/images/items/item-796.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-796.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:豪华都市房屋套件","category":"item","category_zh":"道具","category_key":"kit","name":"豪华都市房屋套件","name_zh":"豪华都市房屋套件","location":null,"image_url":"https://pokopiaguide.com/images/items/item-797.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/luxury-table.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:灯火祭坛套件","category":"item","category_zh":"道具","category_key":"kit","name":"灯火祭坛套件","name_zh":"灯火祭坛套件","location":null,"image_url":"https://pokopiaguide.com/images/items/item-735.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/light-antique-wall-upper.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:叶之房间套件","category":"item","category_zh":"道具","category_key":"kit","name":"叶之房间套件","name_zh":"叶之房间套件","location":null,"image_url":"https://pokopiaguide.com/images/items/item-24.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-24.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:叶之小屋套件","category":"item","category_zh":"道具","category_key":"kit","name":"叶之小屋套件","name_zh":"叶之小屋套件","location":null,"image_url":"https://pokopiaguide.com/images/items/item-316.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/leaf-cottage-kit.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:叶之屋套件","category":"item","category_zh":"道具","category_key":"kit","name":"叶之屋套件","name_zh":"叶之屋套件","location":null,"image_url":"https://pokopiaguide.com/images/items/item-317.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/leaf-house-kit.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:豪华叶之屋套件","category":"item","category_zh":"道具","category_key":"kit","name":"豪华叶之屋套件","name_zh":"豪华叶之屋套件","location":null,"image_url":"https://pokopiaguide.com/images/items/item-318.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-318.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:风力发电套件","category":"item","category_zh":"道具","category_key":"kit","name":"风力发电套件","name_zh":"风力发电套件","location":null,"image_url":"https://pokopiaguide.com/images/items/item-113.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wireless-power-transmitter.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:双子冰室套件","category":"item","category_zh":"道具","category_key":"kit","name":"双子冰室套件","name_zh":"双子冰室套件","location":null,"image_url":"https://pokopiaguide.com/images/items/item-734.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-734.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:废弃发电厂套件","category":"item","category_zh":"道具","category_key":"kit","name":"废弃发电厂套件","name_zh":"废弃发电厂套件","location":null,"image_url":"https://pokopiaguide.com/images/items/item-736.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/abandoned-power-plant-kit.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:水力发电套件","category":"item","category_zh":"道具","category_key":"kit","name":"水力发电套件","name_zh":"水力发电套件","location":null,"image_url":"https://pokopiaguide.com/images/items/item-756.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-756.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:火力发电套件","category":"item","category_zh":"道具","category_key":"kit","name":"火力发电套件","name_zh":"火力发电套件","location":null,"image_url":"https://pokopiaguide.com/images/items/item-755.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-755.png","source_url":"https://pokopiaguide.com/zh-Hans/items"},{"key":"item:下午茶茶具","category":"item","category_zh":"道具","category_key":"goods","name":"Afternoon tea set","name_zh":"下午茶茶具","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/afternoon-tea-set.png","source_url":null},{"key":"item:街机","category":"item","category_zh":"道具","category_key":"goods","name":"Arcade machine","name_zh":"街机","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/arcade-machine.png","source_url":null},{"key":"item:风速狗布偶","category":"item","category_zh":"道具","category_key":"goods","name":"Arcanine doll","name_zh":"风速狗布偶","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/arcanine-doll.png","source_url":null},{"key":"item:盾之化石","category":"item","category_zh":"道具","category_key":"goods","name":"Armor fossil","name_zh":"盾之化石","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/armor-fossil.png","source_url":null},{"key":"item:箭头告示牌","category":"item","category_zh":"道具","category_key":"goods","name":"Arrow sign","name_zh":"箭头告示牌","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/arrow-sign.png","source_url":null},{"key":"item:祥瑞铠甲","category":"item","category_zh":"道具","category_key":"goods","name":"Auspicious armor","name_zh":"祥瑞铠甲","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/auspicious-armor.png","source_url":null},{"key":"item:床铺（任意）","category":"item","category_zh":"道具","category_key":"goods","name":"Bed (any)","name_zh":"床铺（任意）","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/plain-bed.png","source_url":null},{"key":"item:树果桌灯","category":"item","category_zh":"道具","category_key":"goods","name":"Berry table lamp","name_zh":"树果桌灯","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/berry-table-lamp.png","source_url":null},{"key":"item:自行车","category":"item","category_zh":"道具","category_key":"goods","name":"Bike","name_zh":"自行车","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/bike.png","source_url":null},{"key":"item:捉弄箱","category":"item","category_zh":"道具","category_key":"goods","name":"Boo-in-th-box","name_zh":"捉弄箱","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/boo-in-the-box.png","source_url":null},{"key":"item:烤面包炉","category":"item","category_zh":"道具","category_key":"goods","name":"Bread oven","name_zh":"烤面包炉","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/bread-oven.png","source_url":null},{"key":"item:大炮","category":"item","category_zh":"道具","category_key":"goods","name":"Cannon","name_zh":"大炮","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/cannon.png","source_url":null},{"key":"item:随天气改变的魔法石（雨天）","category":"item","category_zh":"道具","category_key":"goods","name":"Castform weather charm (rain)","name_zh":"随天气改变的魔法石（雨天）","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/castform-weather-charm.png","source_url":null},{"key":"item:随天气改变的魔法石（晴天）","category":"item","category_zh":"道具","category_key":"goods","name":"Castform weather charm (sun)","name_zh":"随天气改变的魔法石（晴天）","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/castform-weather-charm.png","source_url":null},{"key":"item:吉利蛋造型植物","category":"item","category_zh":"道具","category_key":"goods","name":"Chansey plant","name_zh":"吉利蛋造型植物","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/chansey-plant.png","source_url":null},{"key":"item:时尚椅","category":"item","category_zh":"道具","category_key":"goods","name":"Chic chair","name_zh":"时尚椅","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/chic-chair.png","source_url":null},{"key":"item:时尚沙发","category":"item","category_zh":"道具","category_key":"goods","name":"Chic sofa","name_zh":"时尚沙发","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/chic-sofa.png","source_url":null},{"key":"item:时尚桌","category":"item","category_zh":"道具","category_key":"goods","name":"Chic table","name_zh":"时尚桌","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/chic-table.png","source_url":null},{"key":"item:打扫用品","category":"item","category_zh":"道具","category_key":"goods","name":"Cleaning supplies","name_zh":"打扫用品","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/cleaning-supplies.png","source_url":null},{"key":"item:衣柜（任意）","category":"item","category_zh":"道具","category_key":"goods","name":"Closet (any)","name_zh":"衣柜（任意）","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/plain-closet.png","source_url":null},{"key":"item:混凝土管","category":"item","category_zh":"道具","category_key":"goods","name":"Concrete pipe","name_zh":"混凝土管","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/concrete-pipe.png","source_url":null},{"key":"item:控制台","category":"item","category_zh":"道具","category_key":"goods","name":"Control unit","name_zh":"控制台","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/control-unit.png","source_url":null},{"key":"item:平交道栏杆","category":"item","category_zh":"道具","category_key":"goods","name":"Crossing gate","name_zh":"平交道栏杆","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/crossing-gate.png","source_url":null},{"key":"item:暴君化石（躯体）","category":"item","category_zh":"道具","category_key":"goods","name":"Despot fossil (body)","name_zh":"暴君化石（躯体）","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/despot-fossil-body.png","source_url":null},{"key":"item:暴君化石（头部）","category":"item","category_zh":"道具","category_key":"goods","name":"Despot fossil (head)","name_zh":"暴君化石（头部）","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/despot-fossil-body.png","source_url":null},{"key":"item:暴君化石（腿部）","category":"item","category_zh":"道具","category_key":"goods","name":"Despot fossil (legs)","name_zh":"暴君化石（腿部）","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/despot-fossil-body.png","source_url":null},{"key":"item:暴君化石（尾部）","category":"item","category_zh":"道具","category_key":"goods","name":"Despot fossil (tail)","name_zh":"暴君化石（尾部）","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/despot-fossil-body.png","source_url":null},{"key":"item:布偶（任意）","category":"item","category_zh":"道具","category_key":"goods","name":"Doll (any)","name_zh":"布偶（任意）","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/pikachu-sofa.png","source_url":null},{"key":"item:快龙布偶","category":"item","category_zh":"道具","category_key":"goods","name":"Dragonite doll","name_zh":"快龙布偶","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/dragonite-doll.png","source_url":null},{"key":"item:梳妆台（任意）","category":"item","category_zh":"道具","category_key":"goods","name":"Dresser (any)","name_zh":"梳妆台（任意）","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/cute-dresser.png","source_url":null},{"key":"item:奇异蜡烛","category":"item","category_zh":"道具","category_key":"goods","name":"Eerie candle","name_zh":"奇异蜡烛","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/eerie-candle.png","source_url":null},{"key":"item:伊布布偶","category":"item","category_zh":"道具","category_key":"goods","name":"Eevee doll","name_zh":"伊布布偶","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/eevee-doll.png","source_url":null},{"key":"item:食物柜台","category":"item","category_zh":"道具","category_key":"goods","name":"Food counter","name_zh":"食物柜台","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/food-counter.png","source_url":null},{"key":"item:炸薯条","category":"item","category_zh":"道具","category_key":"goods","name":"Fried potatoes","name_zh":"炸薯条","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/fried-potatoes.png","source_url":null},{"key":"item:庭院椅","category":"item","category_zh":"道具","category_key":"goods","name":"Garden chair","name_zh":"庭院椅","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/garden-chair.png","source_url":null},{"key":"item:庭院灯","category":"item","category_zh":"道具","category_key":"goods","name":"Garden light","name_zh":"庭院灯","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/garden-light.png","source_url":null},{"key":"item:庭院桌","category":"item","category_zh":"道具","category_key":"goods","name":"Garden table","name_zh":"庭院桌","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/garden-table.png","source_url":null},{"key":"item:铁头化石（躯体）","category":"item","category_zh":"道具","category_key":"goods","name":"Headbut fossil (body)","name_zh":"铁头化石（躯体）","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/headbutt-fossil-body.png","source_url":null},{"key":"item:铁头化石（头部）","category":"item","category_zh":"道具","category_key":"goods","name":"Headbut fossil (head)","name_zh":"铁头化石（头部）","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/headbutt-fossil-head.png","source_url":null},{"key":"item:铁头化石（尾部）","category":"item","category_zh":"道具","category_key":"goods","name":"Headbut fossil (tail)","name_zh":"铁头化石（尾部）","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/headbutt-fossil-tail.png","source_url":null},{"key":"item:篱笆","category":"item","category_zh":"道具","category_key":"goods","name":"Hedge","name_zh":"篱笆","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/stylish-hedge.png","source_url":null},{"key":"item:篱笆（任意）","category":"item","category_zh":"道具","category_key":"goods","name":"Hedge (any)","name_zh":"篱笆（任意）","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/stylish-hedge.png","source_url":null},{"key":"item:温泉喷口","category":"item","category_zh":"道具","category_key":"goods","name":"Hot spring spout","name_zh":"温泉喷口","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/hot-spring-spout.png","source_url":null},{"key":"item:铁梁","category":"item","category_zh":"道具","category_key":"goods","name":"Iron beam","name_zh":"铁骨","location":null,"image_url":"https://pokopiaguide.com/images/items/iron-beam-or-column.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/iron-beam-or-column.png","source_url":null},{"key":"item:铁制床","category":"item","category_zh":"道具","category_key":"goods","name":"Iron bed","name_zh":"铁制床","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/iron-bed.png","source_url":null},{"key":"item:铁制椅","category":"item","category_zh":"道具","category_key":"goods","name":"Iron chair","name_zh":"铁制椅","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/iron-chair.png","source_url":null},{"key":"item:铁管","category":"item","category_zh":"道具","category_key":"goods","name":"Iron pipes","name_zh":"铁管","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/iron-pipes.png","source_url":null},{"key":"item:铁架","category":"item","category_zh":"道具","category_key":"goods","name":"Iron scaffold","name_zh":"铁架","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/iron-scaffold.png","source_url":null},{"key":"item:铁制桌","category":"item","category_zh":"道具","category_key":"goods","name":"Iron table","name_zh":"铁制桌","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/iron-table.png","source_url":null},{"key":"item:颚之化石","category":"item","category_zh":"道具","category_key":"goods","name":"Jaw fossil","name_zh":"颚之化石","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/jaw-fossil.png","source_url":null},{"key":"item:杂乱电线","category":"item","category_zh":"道具","category_key":"goods","name":"Jumbled cords","name_zh":"杂乱电线","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/jumbled-cords.png","source_url":null},{"key":"item:灯笼","category":"item","category_zh":"道具","category_key":"goods","name":"Lantern","name_zh":"灯笼","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/lantern.png","source_url":null},{"key":"item:灯具（任意）","category":"item","category_zh":"道具","category_key":"goods","name":"Lighting (any)","name_zh":"灯具（任意）","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/pop-art-lamp.png","source_url":null},{"key":"item:原木床","category":"item","category_zh":"道具","category_key":"goods","name":"Log bed","name_zh":"原木床","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/log-bed.png","source_url":null},{"key":"item:原木椅","category":"item","category_zh":"道具","category_key":"goods","name":"Log chair","name_zh":"原木椅","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/log-chair.png","source_url":null},{"key":"item:原木桌","category":"item","category_zh":"道具","category_key":"goods","name":"Log table","name_zh":"原木桌","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/log-table.png","source_url":null},{"key":"item:凶兆铠甲","category":"item","category_zh":"道具","category_key":"goods","name":"Malicious armor","name_zh":"凶兆铠甲","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/malicious-armor.png","source_url":null},{"key":"item:现代水槽","category":"item","category_zh":"道具","category_key":"goods","name":"Modern sink","name_zh":"现代水槽","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/modern-sink.png","source_url":null},{"key":"item:月光舞蹈雕像","category":"item","category_zh":"道具","category_key":"goods","name":"Moonlight dance statue","name_zh":"月光舞蹈雕像","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/moonlight-dance-statue-kit.png","source_url":null},{"key":"item:音乐地毯","category":"item","category_zh":"道具","category_key":"goods","name":"Music mat","name_zh":"音乐地毯","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/music-mat-fa.png","source_url":null},{"key":"item:报纸","category":"item","category_zh":"道具","category_key":"goods","name":"Newspaper","name_zh":"报纸","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/newspaper.png","source_url":null},{"key":"item:供品盘","category":"item","category_zh":"道具","category_key":"goods","name":"Offering dish","name_zh":"供品盘","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/table-setting.png","source_url":null},{"key":"item:纸杯","category":"item","category_zh":"道具","category_key":"goods","name":"Paper party cups","name_zh":"纸杯","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/paper-party-cups.png","source_url":null},{"key":"item:文件","category":"item","category_zh":"道具","category_key":"goods","name":"Papers","name_zh":"文件","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/papers.png","source_url":null},{"key":"item:隔板（任意）","category":"item","category_zh":"道具","category_key":"goods","name":"Partition (any)","name_zh":"隔板（任意）","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/house-partition.png","source_url":null},{"key":"item:拼盘","category":"item","category_zh":"道具","category_key":"goods","name":"Party platter","name_zh":"拼盘","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/party-platter.png","source_url":null},{"key":"item:人形立牌","category":"item","category_zh":"道具","category_key":"goods","name":"Photo cutout board","name_zh":"人形立牌","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/photo-cutout-board.png","source_url":null},{"key":"item:野餐篮","category":"item","category_zh":"道具","category_key":"goods","name":"Picnic basket","name_zh":"野餐篮","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/picnic-basket.png","source_url":null},{"key":"item:皮卡丘布偶","category":"item","category_zh":"道具","category_key":"goods","name":"Pikachu doll","name_zh":"皮卡丘布偶","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/pikachu-doll.png","source_url":null},{"key":"item:猪笼草盆栽","category":"item","category_zh":"道具","category_key":"goods","name":"Pitcher pot plant","name_zh":"猪笼草盆栽","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/pitcher-plant-pot.png","source_url":null},{"key":"item:简约床","category":"item","category_zh":"道具","category_key":"goods","name":"Plain bed","name_zh":"简约床","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/plain-bed.png","source_url":null},{"key":"item:简约灯","category":"item","category_zh":"道具","category_key":"goods","name":"Plain lamp","name_zh":"简约灯","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/plain-lamp.png","source_url":null},{"key":"item:简约沙发","category":"item","category_zh":"道具","category_key":"goods","name":"Plain sofa","name_zh":"简约沙发","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/plain-sofa.png","source_url":null},{"key":"item:简约桌","category":"item","category_zh":"道具","category_key":"goods","name":"Plain table","name_zh":"简约桌","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/plain-table.png","source_url":null},{"key":"item:盘子上的食物","category":"item","category_zh":"道具","category_key":"goods","name":"Plated food","name_zh":"盘子上的食物","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/sandwiches.png","source_url":null},{"key":"item:波普艺术床","category":"item","category_zh":"道具","category_key":"goods","name":"Pop art bed","name_zh":"波普艺术床","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/pop-art-bed.png","source_url":null},{"key":"item:波普艺术沙发","category":"item","category_zh":"道具","category_key":"goods","name":"Pop art sofa","name_zh":"波普艺术沙发","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/pop-art-sofa.png","source_url":null},{"key":"item:波普艺术桌","category":"item","category_zh":"道具","category_key":"goods","name":"Pop art table","name_zh":"波普艺术桌","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/pop-art-table.png","source_url":null},{"key":"item:告示牌（任意）","category":"item","category_zh":"道具","category_key":"goods","name":"Post (any)","name_zh":"告示牌（任意）","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/sign.png","source_url":null},{"key":"item:盆栽","category":"item","category_zh":"道具","category_key":"goods","name":"Potted plant","name_zh":"盆栽","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/twisted-potted-plant.png","source_url":null},{"key":"item:盆栽（任意）","category":"item","category_zh":"道具","category_key":"goods","name":"Potted plant (any)","name_zh":"盆栽（任意）","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/twisted-potted-plant.png","source_url":null},{"key":"item:教授的宝物堆","category":"item","category_zh":"道具","category_key":"goods","name":"Professor's treasure trove","name_zh":"教授的宝物堆","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/corkboard.png","source_url":null},{"key":"item:打靶游戏机","category":"item","category_zh":"道具","category_key":"goods","name":"Punching game","name_zh":"打靶游戏机","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/punching-game.png","source_url":null},{"key":"item:度假村吊床","category":"item","category_zh":"道具","category_key":"goods","name":"Resort hammock","name_zh":"度假村吊床","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/resort-hammock.png","source_url":null},{"key":"item:度假村灯饰","category":"item","category_zh":"道具","category_key":"goods","name":"Resort light","name_zh":"度假村灯饰","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/resort-light.png","source_url":null},{"key":"item:度假村沙发","category":"item","category_zh":"道具","category_key":"goods","name":"Resort sofa","name_zh":"度假村沙发","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/resort-sofa.png","source_url":null},{"key":"item:度假村桌子","category":"item","category_zh":"道具","category_key":"goods","name":"Resort table","name_zh":"度假村桌子","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/resort-table.png","source_url":null},{"key":"item:蝴蝶结蛋糕","category":"item","category_zh":"道具","category_key":"goods","name":"Ribbon cake","name_zh":"蝴蝶结蛋糕","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/ribbon-cake.png","source_url":null},{"key":"item:帆之化石","category":"item","category_zh":"道具","category_key":"goods","name":"Sail fossil","name_zh":"帆之化石","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/sail-fossil.png","source_url":null},{"key":"item:沙包袋","category":"item","category_zh":"道具","category_key":"goods","name":"Sandbags","name_zh":"沙包袋","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/sandbags.png","source_url":null},{"key":"item:科学实验台","category":"item","category_zh":"道具","category_key":"goods","name":"Science experiment","name_zh":"科学实验台","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/science-experiment.png","source_url":null},{"key":"item:椅子（任意）","category":"item","category_zh":"道具","category_key":"goods","name":"Seat (any)","name_zh":"椅子（任意）","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/public-seat.png","source_url":null},{"key":"item:长条椅","category":"item","category_zh":"道具","category_key":"goods","name":"Seat (wide)","name_zh":"长条椅","location":null,"image_url":"https://pokopiaguide.com/images/items/seat-wide.png","image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/seat-wide.png","source_url":null},{"key":"item:下水道盖板","category":"item","category_zh":"道具","category_key":"goods","name":"Sewer-hole cover","name_zh":"下水道盖板","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/sewer-hole-cover.png","source_url":null},{"key":"item:盾之化石（躯体）","category":"item","category_zh":"道具","category_key":"goods","name":"Shield fossil (body)","name_zh":"盾之化石（躯体）","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/shield-fossil-body.png","source_url":null},{"key":"item:盾之化石（头部）","category":"item","category_zh":"道具","category_key":"goods","name":"Shield fossil (head)","name_zh":"盾之化石（头部）","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/shield-fossil-body.png","source_url":null},{"key":"item:盾之化石（尾部）","category":"item","category_zh":"道具","category_key":"goods","name":"Shield tail (body)","name_zh":"盾之化石（尾部）","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/sail-fossil.png","source_url":null},{"key":"item:淋浴间","category":"item","category_zh":"道具","category_key":"goods","name":"Shower","name_zh":"淋浴间","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/shower.png","source_url":null},{"key":"item:侧桌","category":"item","category_zh":"道具","category_key":"goods","name":"Side table","name_zh":"侧桌","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/side-table.png","source_url":null},{"key":"item:招牌（任意）","category":"item","category_zh":"道具","category_key":"goods","name":"Sign (any)","name_zh":"招牌（任意）","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/sign.png","source_url":null},{"key":"item:骷髅化石","category":"item","category_zh":"道具","category_key":"goods","name":"Skull fossil","name_zh":"骷髅化石","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/skull-fossil.png","source_url":null},{"key":"item:细蜡烛","category":"item","category_zh":"道具","category_key":"goods","name":"Slender candle","name_zh":"细蜡烛","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/slender-candle.png","source_url":null},{"key":"item:小花瓶","category":"item","category_zh":"道具","category_key":"goods","name":"Small vase","name_zh":"小花瓶","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/small-vase.png","source_url":null},{"key":"item:冶炼炉","category":"item","category_zh":"道具","category_key":"goods","name":"Smelting furnace","name_zh":"冶炼炉","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/smelting-furnace.png","source_url":null},{"key":"item:冰淇淋苏打","category":"item","category_zh":"道具","category_key":"goods","name":"Soda float","name_zh":"冰淇淋苏打","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/soda-float.png","source_url":null},{"key":"item:踏脚凳","category":"item","category_zh":"道具","category_key":"goods","name":"Step stool","name_zh":"踏脚凳","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/step-stool.png","source_url":null},{"key":"item:石制壁炉","category":"item","category_zh":"道具","category_key":"goods","name":"Stone fireplace","name_zh":"石制壁炉","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/stone-fireplace.png","source_url":null},{"key":"item:稻草床","category":"item","category_zh":"道具","category_key":"goods","name":"Straw bed","name_zh":"稻草床","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/straw-bed.png","source_url":null},{"key":"item:稻草凳","category":"item","category_zh":"道具","category_key":"goods","name":"Straw stool","name_zh":"稻草凳","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/straw-stool.png","source_url":null},{"key":"item:稻草桌","category":"item","category_zh":"道具","category_key":"goods","name":"Straw table","name_zh":"稻草桌","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/straw-table.png","source_url":null},{"key":"item:路灯（任意）","category":"item","category_zh":"道具","category_key":"goods","name":"Streetlight (any)","name_zh":"路灯（任意）","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/chic-streetlight.png","source_url":null},{"key":"item:时尚料理锅","category":"item","category_zh":"道具","category_key":"goods","name":"Stylish cooking pot","name_zh":"时尚料理锅","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/stylish-cooking-pot.png","source_url":null},{"key":"item:桌子（任意）","category":"item","category_zh":"道具","category_key":"goods","name":"Table (any)","name_zh":"桌子（任意）","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/table-setting.png","source_url":null},{"key":"item:轮胎玩具","category":"item","category_zh":"道具","category_key":"goods","name":"Tire toy","name_zh":"轮胎玩具","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/tire-toy.png","source_url":null},{"key":"item:毛巾架","category":"item","category_zh":"道具","category_key":"goods","name":"Towel rack","name_zh":"毛巾架","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/towel-rack.png","source_url":null},{"key":"item:玩具（任意）","category":"item","category_zh":"道具","category_key":"goods","name":"Toy (any)","name_zh":"玩具（任意）","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/toy-blocks.png","source_url":null},{"key":"item:警示锥","category":"item","category_zh":"道具","category_key":"goods","name":"Traffic cone","name_zh":"警示锥","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/traffic-cone.png","source_url":null},{"key":"item:冻土化石（躯体）","category":"item","category_zh":"道具","category_key":"goods","name":"Tundra fossil (body)","name_zh":"冻土化石（躯体）","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/tundra-fossil-body.png","source_url":null},{"key":"item:冻土化石（头部）","category":"item","category_zh":"道具","category_key":"goods","name":"Tundra fossil (head)","name_zh":"冻土化石（头部）","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/tundra-fossil-body.png","source_url":null},{"key":"item:冻土化石（尾部）","category":"item","category_zh":"道具","category_key":"goods","name":"Tundra fossil (tail)","name_zh":"冻土化石（尾部）","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/tundra-fossil-body.png","source_url":null},{"key":"item:蔬菜田（任意）","category":"item","category_zh":"道具","category_key":"goods","name":"Vegetable field (any)","name_zh":"蔬菜田（任意）","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/potato-seeds.png","source_url":null},{"key":"item:走道","category":"item","category_zh":"道具","category_key":"goods","name":"Walkway","name_zh":"走道","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/walkway.png","source_url":null},{"key":"item:独轮手推车","category":"item","category_zh":"道具","category_key":"goods","name":"Wheelbarrow","name_zh":"独轮手推车","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wheelbarrow.png","source_url":null},{"key":"item:翼之化石（躯体）","category":"item","category_zh":"道具","category_key":"goods","name":"Wing fossil (body)","name_zh":"翼之化石（躯体）","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wing-fossil-body.png","source_url":null},{"key":"item:翼之化石（头部）","category":"item","category_zh":"道具","category_key":"goods","name":"Wing fossil (head)","name_zh":"翼之化石（头部）","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wing-fossil-body.png","source_url":null},{"key":"item:翼之化石（左翼）","category":"item","category_zh":"道具","category_key":"goods","name":"Wing fossil (left wing)","name_zh":"翼之化石（左翼）","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wing-fossil-body.png","source_url":null},{"key":"item:翼之化石（右翼）","category":"item","category_zh":"道具","category_key":"goods","name":"Wing fossil (right wing)","name_zh":"翼之化石（右翼）","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wing-fossil-body.png","source_url":null},{"key":"item:翼之化石（尾部）","category":"item","category_zh":"道具","category_key":"goods","name":"Wing fossil (tail)","name_zh":"翼之化石（尾部）","location":null,"image_url":null,"image_path":"https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wing-fossil-body.png","source_url":null},{"key":"env:waterwheel","category":"item","id":"waterwheel","name":"Waterwheel","name_zh":"水车","image_url":"https://pokopiaguide.com/images/items/waterwheel.png","image_path":null},{"key":"env:water","category":"item","id":"water","name":"Water","name_zh":"水","image_url":"https://pokopiaguide.com/images/items/water.png","image_path":null}];
+module.exports = [
+  {
+    "key": "item:CD播放器",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "CD播放器",
+    "name_zh": "CD播放器",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-135.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/cd-player.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "播放音乐用的机器。找到CD的话就放进去试试吧。",
+    "obtain": [
+      "从梦之岛的精灵球取得",
+      "在商店购买（空空镇Lv.3）"
+    ],
+    "recipe": [
+      "在商店购买（亮晶晶空岛 Lv. 3）"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "玻璃",
+        "count": 1
+      },
+      {
+        "name": "铁条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:CD架",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "CD架",
+    "name_zh": "CD架",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-437.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/cd-rack.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "放着CD的架子。可以展现出你是个音乐爱好者。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（亮晶晶空岛 Lv. 2）"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 1
+      },
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:红线",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "红线",
+    "name_zh": "红线",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-82.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/destiny-knot.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "细长的大红色丝线。放进相框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:红色高草",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "nature",
+    "name": "红色高草",
+    "name_zh": "红色高草",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-121.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/red-tall-grass.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "不管是高山还是火山都能蔓延生长的草。尖端像岩浆一样通红。",
+    "obtain": [
+      "在凸隆隆山地对红色草丛使用「翻耕」取得"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "红色岩石",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:红色崖岩",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "红色崖岩",
+    "name_zh": "红色崖岩",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-760.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-760.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "纯白之街环境等级9时解锁商店"
+    ],
+    "materials": [
+      {
+        "name": "红色岩石",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:红色岩石",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "红色岩石",
+    "name_zh": "红色岩石",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-764.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/red-rock.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [
+      "在火山的梦之岛取得",
+      "在凸隆隆山地城镇的洞窟中获得"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:回收桶",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "回收桶",
+    "name_zh": "回收桶",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-723.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/recycling-bin.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "丢空罐用的垃圾桶。大到连宝可梦都能整只塞进去。",
+    "obtain": [
+      "在亮晶晶空岛取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "铜条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:上下推拉窗",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "上下推拉窗",
+    "name_zh": "上下推拉窗",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-848.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/stained-glass-window-upper.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "十字分隔超可爱的直式窗户。把下面的窗户往上推就能打开。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（暗沉沉海边 Lv. 5）"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "玻璃",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:颚骨化石",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "颚骨化石",
+    "name_zh": "颚骨化石",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-393.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-393.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "古代宝可梦的化石。看起来像一个大下巴。",
+    "obtain": [
+      "在凸隆隆山地用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "水泥",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:柏油路",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "柏油路",
+    "name_zh": "柏油路",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-718.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/asphalt-road.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "在商店购买（亮晶晶空岛 Lv. 2）"
+    ],
+    "materials": [
+      {
+        "name": "水泥",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:熔岩岩石",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "nature",
+    "name": "熔岩岩石",
+    "name_zh": "熔岩岩石",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-129.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/lava-rock.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "岩浆正在冷却凝固的过程中。浇水的话会一口气凝固。",
+    "obtain": [
+      "在宝可梦中心复制照片",
+      "通过“电磁飘浮”回收"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:热岩",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "热岩",
+    "name_zh": "热岩",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-297.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-297.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "散发热气的神奇岩石。放置后周围温度会上升。",
+    "obtain": [
+      "与索财灵交换随机获得"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:下午茶组",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "下午茶组",
+    "name_zh": "下午茶组",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-149.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-149.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "伊布家族喜欢的东西。准备好桌子和椅子吧。",
+    "obtain": [
+      "在空空镇的特殊挑战中取得"
+    ],
+    "recipe": [
+      "完成特别挑战后在商店购买（每日随机）"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:甜甜蜜",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "甜甜蜜",
+    "name_zh": "甜甜蜜",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-14.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-14.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "散发甜甜香味的蜜。在巢穴里使用的话，住在那里的宝可梦就会回来。",
+    "obtain": [
+      "从花朵的闪光中取得",
+      "通过三蜜蜂的「乱丢」能力取得"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 1
+      },
+      {
+        "name": "棉花",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:编织用品",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "编织用品",
+    "name_zh": "编织用品",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-120.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/knitting-supplies.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "编织帽子和毛衣的工具。圆滚滚的毛线让宝可梦们兴趣满满。",
+    "obtain": [
+      "在暗沉沉海边捡取",
+      "在商店购买（暗沉沉海边Lv.3）"
+    ],
+    "recipe": [
+      "宝可梦图鉴收录190只宝可梦时的奖励"
+    ],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 1
+      },
+      {
+        "name": "棉花",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:奇特扩香瓶",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "奇特扩香瓶",
+    "name_zh": "奇特扩香瓶",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-174.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/funky-diffuser.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "虽然画着看起来很危险的图案，但好像不会喷出毒气。",
+    "obtain": [
+      "鉴定大型遗失物"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:诡异蜡烛",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "诡异蜡烛",
+    "name_zh": "诡异蜡烛",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-186.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-186.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "点火后会「呼——」地亮起蓝色火焰。因为很小，放在桌上也OK。",
+    "obtain": [
+      "在亮晶晶空岛城镇的北边岛屿获得",
+      "鉴定大型遗失物"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:古典时钟",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "古典时钟",
+    "name_zh": "古典时钟",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-754.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/antique-clock.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "永不停歇地刻画着时间。到了固定时间就会「当——」地响起。",
+    "obtain": [
+      "在凸隆隆山地博物馆取得"
+    ],
+    "recipe": [
+      "在商店购买（空空镇 Lv. 8）"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      },
+      {
+        "name": "线头",
+        "count": 1
+      },
+      {
+        "name": "铁",
+        "count": 1
+      },
+      {
+        "name": "玻璃",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:古典墙（上段）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "古典墙（上段）",
+    "name_zh": "古典墙（上段）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-778.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-778.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "在商店购买「复古墙壁配方组」(需要：空空镇环境等级7)"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:古典墙（中段）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "古典墙（中段）",
+    "name_zh": "古典墙（中段）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-779.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-779.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "在商店购买「复古墙壁配方组」(需要：空空镇环境等级7)"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:古典墙（下段）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "古典墙（下段）",
+    "name_zh": "古典墙（下段）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-780.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-780.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "在商店购买「复古墙壁配方组」(需要：空空镇环境等级7)"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:古典吊灯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "古典吊灯",
+    "name_zh": "古典吊灯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-781.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-781.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "挂在天花板上会柔和地照亮房间。很适合洋馆之类的地方。",
+    "obtain": [
+      "在凸隆隆山地城镇的博物馆获得",
+      "在暗沉沉海边城镇的船上获得",
+      "在亮晶晶空岛的大楼4楼取得"
+    ],
+    "recipe": [
+      "空空镇环境等级 7 解锁商店"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      },
+      {
+        "name": "线头",
+        "count": 1
+      },
+      {
+        "name": "铁",
+        "count": 2
+      },
+      {
+        "name": "玻璃",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:大型电玩机台",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "大型电玩机台",
+    "name_zh": "大型电玩机台",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-293.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-293.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "某个设施里的游戏机台。像新的一样干净，好像还能启动。",
+    "obtain": [
+      "鉴定大型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:拱形砖",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "拱形砖",
+    "name_zh": "拱形砖",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-335.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-335.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [
+      "在干巴巴荒野取得"
+    ],
+    "recipe": [
+      "在商店购买（干巴巴荒野 Lv. 3）"
+    ],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:房屋隔间",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "房屋隔间",
+    "name_zh": "房屋隔间",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-333.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-333.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "简单的直式隔板。可以在家里轻松隔出小房间。",
+    "obtain": [
+      "在华丽套件系列的室内获得",
+      "用3D打印机复制"
+    ],
+    "recipe": [
+      "干巴巴荒野的城镇环境等级达到4时在商店解锁"
+    ],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:帅气电贝斯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "帅气电贝斯",
+    "name_zh": "帅气电贝斯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-140.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-140.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "装了神奇琴弦的帅气贝斯。拿在手里会变得很Low的感觉。",
+    "obtain": [
+      "用宝可梦中心的3D打印机复制"
+    ],
+    "recipe": [
+      "获得神秘琴弦时领悟"
+    ],
+    "materials": [
+      {
+        "name": "奇妙琴弦",
+        "count": 1
+      },
+      {
+        "name": "木材",
+        "count": 1
+      },
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:帅气电吉他",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Cool electric guitar",
+    "name_zh": "帅气电吉他",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-404.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-404.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "装了神奇琴弦的帅气吉他。拿在手里会变得超High的感觉。",
+    "obtain": [
+      "用宝可梦中心的3D打印机复制"
+    ],
+    "recipe": [
+      "获得神秘琴弦时领悟"
+    ],
+    "materials": [
+      {
+        "name": "奇妙琴弦",
+        "count": 1
+      },
+      {
+        "name": "木材",
+        "count": 1
+      },
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:作弊骰子",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "作弊骰子",
+    "name_zh": "作弊骰子",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-642.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-642.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "只会骰出好点数的骰子。放进相框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:石头",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "石头",
+    "name_zh": "石头",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-5.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-5.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "随手可得的普通石头。可以当作各种东西的材料。",
+    "obtain": [
+      "在场地上捡到",
+      "从部分宝可梦的栖息地取得",
+      "破坏大石头后获得",
+      "破坏特定方块后获得"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:石阶梯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "石阶梯",
+    "name_zh": "石阶梯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-39.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-39.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "用大量石头堆砌而成的阶梯。排列起来很有庄严的氛围。",
+    "obtain": [
+      "在干巴巴荒野捡取"
+    ],
+    "recipe": [
+      "在地图上获得▶获取地点图像"
+    ],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:石柱（中段）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "石柱（中段）",
+    "name_zh": "石柱（中段）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-271.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-271.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [
+      "在凸隆隆山地北侧博物馆遗址取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:石栅栏",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "石栅栏",
+    "name_zh": "石栅栏",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-273.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/sloped-stone-roof.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "只放一个或排列连接起来都很好看。",
+    "obtain": [
+      "在凸隆隆山地北侧博物馆遗址取得"
+    ],
+    "recipe": [
+      "在商店购买（凸隆隆山地 Lv. 4）"
+    ],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:石柱（下段）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "石柱（下段）",
+    "name_zh": "石柱（下段）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-274.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-274.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [
+      "在凸隆隆山地北侧博物馆遗址取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:石柱（上段）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "石柱（上段）",
+    "name_zh": "石柱（上段）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-275.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-275.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [
+      "在凸隆隆山地北侧博物馆遗址取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:石地板",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "石地板",
+    "name_zh": "石地板",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-383.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-383.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "在商店购买「山地房屋建造配方套组」"
+    ],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:碎石墙",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "碎石墙",
+    "name_zh": "碎石墙",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-384.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-384.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "在商店购买「山地房屋建造配方套组」"
+    ],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:石壁炉",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "石壁炉",
+    "name_zh": "石壁炉",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-394.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/stone-fireplace.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "非常大的壁炉。点火后周围立刻变得暖呼呼。",
+    "obtain": [
+      "在商店购买（亮晶晶空岛Lv.5）"
+    ],
+    "recipe": [
+      "宝可梦图鉴登录 120 只时的奖励"
+    ],
+    "materials": [
+      {
+        "name": "砖块",
+        "count": 2
+      },
+      {
+        "name": "石头",
+        "count": 2
+      },
+      {
+        "name": "结实的树枝",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:石纹地板",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "石纹地板",
+    "name_zh": "石纹地板",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-424.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-424.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [
+      "在凸隆隆山地取得"
+    ],
+    "recipe": [
+      "在地图上获得▶获取地点图像"
+    ],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:石砖",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "石砖",
+    "name_zh": "石砖",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-428.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-428.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "宝可梦图鉴收录20只宝可梦时的奖励"
+    ],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:石砖（壁纸）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "石砖（壁纸）",
+    "name_zh": "石砖（壁纸）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-785.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-785.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "大房子用的壁纸。可以贴在房间的墙壁、地板和天花板上。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买「坚硬墙纸配方组」(需要：空空镇环境等级5)"
+    ],
+    "materials": [
+      {
+        "name": "纸",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "key": "item:石屋顶装饰",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "石屋顶装饰",
+    "name_zh": "石屋顶装饰",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-810.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/stone-roof-decoration.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "放在屋顶上试试吧。排列使用或当作点缀都很棒。",
+    "obtain": [
+      "在凸隆隆山地取得"
+    ],
+    "recipe": [
+      "在商店购买「石屋顶配方组」(需要：凸隆隆山地环境等级5)"
+    ],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:花瓶",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "花瓶",
+    "name_zh": "花瓶",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-453.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-453.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "插着可爱花朵的花瓶。放在各种地方为生活增添色彩吧。",
+    "obtain": [],
+    "recipe": [
+      "获得软塌塌黏土时取得"
+    ],
+    "materials": [
+      {
+        "name": "软塌塌黏土",
+        "count": 1
+      },
+      {
+        "name": "草原花",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:线头",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "线头",
+    "name_zh": "线头",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-52.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-52.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "破坏布制的垃圾就能取得。虫属性的宝可梦有时也会制作。",
+    "obtain": [
+      "从部分宝可梦的栖息地取得",
+      "对布或蜘蛛网使用「居合斩」取得",
+      "在商店购买（凸隆隆山地Lv.2）"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:生命宝珠",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "生命宝珠",
+    "name_zh": "生命宝珠",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-192.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/life-orb.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "红色的美丽宝珠。放进相框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:彩色气球（白）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "彩色气球（白）",
+    "name_zh": "彩色气球（白）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-563.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-563.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "装满颜料的彩色气球。使用后可以帮道具和建筑物上色。",
+    "obtain": [],
+    "recipe": [
+      "通过暗沉沉海边城镇中图图犬的委托获得"
+    ],
+    "materials": [
+      {
+        "name": "白色颜料",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:彩色气球（红）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "彩色气球（红）",
+    "name_zh": "彩色气球（红）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-564.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-564.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "装满颜料的彩色气球。使用后可以帮道具和建筑物上色。",
+    "obtain": [],
+    "recipe": [
+      "通过暗沉沉海边城镇中图图犬的委托获得"
+    ],
+    "materials": [
+      {
+        "name": "红色颜料",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:彩色气球（黄）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "彩色气球（黄）",
+    "name_zh": "彩色气球（黄）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-565.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-565.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "装满颜料的彩色气球。使用后可以帮道具和建筑物上色。",
+    "obtain": [],
+    "recipe": [
+      "通过暗沉沉海边城镇中图图犬的委托获得"
+    ],
+    "materials": [
+      {
+        "name": "黄色颜料",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:彩色气球（绿）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "彩色气球（绿）",
+    "name_zh": "彩色气球（绿）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-566.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-566.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "装满颜料的彩色气球。使用后可以帮道具和建筑物上色。",
+    "obtain": [],
+    "recipe": [
+      "通过暗沉沉海边城镇中图图犬的委托获得"
+    ],
+    "materials": [
+      {
+        "name": "绿色颜料",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:彩色气球（深红）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "彩色气球（深红）",
+    "name_zh": "彩色气球（深红）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-567.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-567.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "装满颜料的彩色气球。使用后可以帮道具和建筑物上色。",
+    "obtain": [],
+    "recipe": [
+      "通过暗沉沉海边城镇中图图犬的委托获得"
+    ],
+    "materials": [
+      {
+        "name": "红色颜料",
+        "count": 1
+      },
+      {
+        "name": "粉红色颜料",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:彩色气球（粉红）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "彩色气球（粉红）",
+    "name_zh": "彩色气球（粉红）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-568.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-568.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "装满颜料的彩色气球。使用后可以帮道具和建筑物上色。",
+    "obtain": [],
+    "recipe": [
+      "通过暗沉沉海边城镇中图图犬的委托获得"
+    ],
+    "materials": [
+      {
+        "name": "粉红色颜料",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:彩色气球（橘）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "彩色气球（橘）",
+    "name_zh": "彩色气球（橘）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-569.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-569.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "装满颜料的彩色气球。使用后可以帮道具和建筑物上色。",
+    "obtain": [],
+    "recipe": [
+      "通过暗沉沉海边城镇中图图犬的委托获得"
+    ],
+    "materials": [
+      {
+        "name": "红色颜料",
+        "count": 1
+      },
+      {
+        "name": "黄色颜料",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:彩色气球（紫）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "彩色气球（紫）",
+    "name_zh": "彩色气球（紫）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-570.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-570.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "装满颜料的彩色气球。使用后可以帮道具和建筑物上色。",
+    "obtain": [],
+    "recipe": [
+      "通过暗沉沉海边城镇中图图犬的委托获得"
+    ],
+    "materials": [
+      {
+        "name": "粉红色颜料",
+        "count": 1
+      },
+      {
+        "name": "蓝色颜料",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:彩色气球（米色）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "彩色气球（米色）",
+    "name_zh": "彩色气球（米色）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-571.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-571.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "装满颜料的彩色气球。使用后可以帮道具和建筑物上色。",
+    "obtain": [],
+    "recipe": [
+      "通过暗沉沉海边城镇中图图犬的委托获得"
+    ],
+    "materials": [
+      {
+        "name": "红色颜料",
+        "count": 1
+      },
+      {
+        "name": "绿色颜料",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:彩色气球（卡其）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "彩色气球（卡其）",
+    "name_zh": "彩色气球（卡其）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-572.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-572.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "装满颜料的彩色气球。使用后可以帮道具和建筑物上色。",
+    "obtain": [],
+    "recipe": [
+      "通过暗沉沉海边城镇中图图犬的委托获得"
+    ],
+    "materials": [
+      {
+        "name": "白色颜料",
+        "count": 1
+      },
+      {
+        "name": "黑色颜料",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:彩色气球（黑）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "彩色气球（黑）",
+    "name_zh": "彩色气球（黑）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-573.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-573.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "装满颜料的彩色气球。使用后可以帮道具和建筑物上色。",
+    "obtain": [],
+    "recipe": [
+      "通过暗沉沉海边城镇中图图犬的委托获得"
+    ],
+    "materials": [
+      {
+        "name": "黑色颜料",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:彩色气球（黄绿）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "彩色气球（黄绿）",
+    "name_zh": "彩色气球（黄绿）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-574.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-574.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "装满颜料的彩色气球。使用后可以帮道具和建筑物上色。",
+    "obtain": [],
+    "recipe": [
+      "通过暗沉沉海边城镇中图图犬的委托获得"
+    ],
+    "materials": [
+      {
+        "name": "绿色颜料",
+        "count": 1
+      },
+      {
+        "name": "黄色颜料",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:彩色气球（深紫）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "彩色气球（深紫）",
+    "name_zh": "彩色气球（深紫）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-575.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-575.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "装满颜料的彩色气球。使用后可以帮道具和建筑物上色。",
+    "obtain": [],
+    "recipe": [
+      "通过暗沉沉海边城镇中图图犬的委托获得"
+    ],
+    "materials": [
+      {
+        "name": "红色颜料",
+        "count": 1
+      },
+      {
+        "name": "蓝色颜料",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:彩色气球（深蓝）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "彩色气球（深蓝）",
+    "name_zh": "彩色气球（深蓝）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-576.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-576.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "装满颜料的彩色气球。使用后可以帮道具和建筑物上色。",
+    "obtain": [],
+    "recipe": [
+      "通过暗沉沉海边城镇中图图犬的委托获得"
+    ],
+    "materials": [
+      {
+        "name": "蓝色颜料",
+        "count": 1
+      },
+      {
+        "name": "黑色颜料",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:彩色气球（蓝）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "彩色气球（蓝）",
+    "name_zh": "彩色气球（蓝）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-577.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-577.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "装满颜料的彩色气球。使用后可以帮道具和建筑物上色。",
+    "obtain": [],
+    "recipe": [
+      "通过暗沉沉海边城镇中图图犬的委托获得"
+    ],
+    "materials": [
+      {
+        "name": "蓝色颜料",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:彩色气球（水蓝）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "彩色气球（水蓝）",
+    "name_zh": "彩色气球（水蓝）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-578.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-578.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "装满颜料的彩色气球。使用后可以帮道具和建筑物上色。",
+    "obtain": [],
+    "recipe": [
+      "通过暗沉沉海边城镇中图图犬的委托获得"
+    ],
+    "materials": [
+      {
+        "name": "水蓝色颜料",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:彩色气球（灰）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "彩色气球（灰）",
+    "name_zh": "彩色气球（灰）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-579.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-579.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "装满颜料的彩色气球。使用后可以帮道具和建筑物上色。",
+    "obtain": [],
+    "recipe": [
+      "通过暗沉沉海边城镇中图图犬的委托获得"
+    ],
+    "materials": [
+      {
+        "name": "蓝色颜料",
+        "count": 1
+      },
+      {
+        "name": "白色颜料",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:彩色气球（青绿）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "彩色气球（青绿）",
+    "name_zh": "彩色气球（青绿）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-580.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-580.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "装满颜料的彩色气球。使用后可以帮道具和建筑物上色。",
+    "obtain": [],
+    "recipe": [
+      "通过暗沉沉海边城镇中图图犬的委托获得"
+    ],
+    "materials": [
+      {
+        "name": "绿色颜料",
+        "count": 1
+      },
+      {
+        "name": "水蓝色颜料",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:山岩花",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "nature",
+    "name": "山岩花",
+    "name_zh": "山岩花",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-123.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-123.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "即使在险峻的岩场也凛然绽放的花。总是高雅又美丽。",
+    "obtain": [
+      "在凸隆隆山地捡取"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "铠甲碎片",
+        "count": 1
+      },
+      {
+        "name": "铁条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:祝庆铠甲",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "祝庆铠甲",
+    "name_zh": "祝庆铠甲",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-299.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-299.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "用铠甲碎片制成的沉重盔甲。蕴藏着祝福的情感。",
+    "obtain": [
+      "通过制作取得"
+    ],
+    "recipe": [
+      "获得铠甲碎片时领悟"
+    ],
+    "materials": [
+      {
+        "name": "铠甲碎片",
+        "count": 1
+      },
+      {
+        "name": "铁条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:伊布玩偶",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "伊布玩偶",
+    "name_zh": "伊布玩偶",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-54.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-54.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "给飘飘球看看吧。说不定会带你去梦之岛喔。",
+    "obtain": [
+      "用探宝器找到发光的地面并挖掘",
+      "在商店购买（空空镇Lv.2）"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:风速狗玩偶",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "风速狗玩偶",
+    "name_zh": "风速狗玩偶",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-216.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-216.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "放下来调查的话，飘飘球可能会飞过来带你去梦之岛。",
+    "obtain": [
+      "用探宝器找到发光的地面并挖掘",
+      "在商店购买（空空镇Lv.5）"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:壁灯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "壁灯",
+    "name_zh": "壁灯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-820.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-820.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "装在墙上的灯。通电后温暖的光芒会照亮四周。",
+    "obtain": [
+      "在暗沉沉海边取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:浮萍",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "nature",
+    "name": "浮萍",
+    "name_zh": "浮萍",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-125.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/duckweed.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "放在水面上会摇摇晃晃地漂浮。可能有宝可梦喜欢站在上面。",
+    "obtain": [
+      "对水面使用料理强化的「飞叶快刀」取得"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:浮岛花",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "nature",
+    "name": "浮岛花",
+    "name_zh": "浮岛花",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-396.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-396.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "在浮岛上能看到的毛茸茸花朵。蓬松可爱地盛开着。",
+    "obtain": [
+      "在亮晶晶空岛捡取"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:浅棕崖岩",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "浅棕崖岩",
+    "name_zh": "浅棕崖岩",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-759.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-759.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "纯白之街环境等级9时解锁商店"
+    ],
+    "materials": [
+      {
+        "name": "浅棕岩石",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:浅棕岩石",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "浅棕岩石",
+    "name_zh": "浅棕岩石",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-763.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/light-brown-rock.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [
+      "在大海的梦之岛取得",
+      "在暗沉沉海边取得"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:太空船",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "太空船",
+    "name_zh": "太空船",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-176.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/spaceship.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "一辆用于前往太空的载具。密封严实，防止空气泄漏。",
+    "obtain": [
+      "鉴定大型遗失物"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:太空衣",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "太空衣",
+    "name_zh": "太空衣",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-260.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-260.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "在宇宙生活用的衣服。即使在没有空气的地方也没问题。",
+    "obtain": [
+      "在凸隆隆山地北侧博物馆遗址取得"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 1
+      },
+      {
+        "name": "木材",
+        "count": 1
+      },
+      {
+        "name": "藤绳",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:烟火发射筒",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "烟火发射筒",
+    "name_zh": "烟火发射筒",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-375.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-375.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "把烟火弹或擅长「爆炸」的宝可梦放进去点火试试吧。",
+    "obtain": [],
+    "recipe": [
+      "完成凸隆隆山地剧情后"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 1
+      },
+      {
+        "name": "木材",
+        "count": 1
+      },
+      {
+        "name": "藤绳",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:清水模墙",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "清水模墙",
+    "name_zh": "清水模墙",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-617.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/clear-bell.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "在商店购买「浮岛房屋建造配方套组」（亮晶晶空岛 Lv. 3）"
+    ],
+    "materials": [
+      {
+        "name": "水泥",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:清水模墙（壁纸）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "清水模墙（壁纸）",
+    "name_zh": "清水模墙（壁纸）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-787.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-787.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "大房子用的壁纸。可以贴在房间的墙壁、地板和天花板上。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买「坚硬墙纸配方组」(需要：空空镇环境等级5)"
+    ],
+    "materials": [
+      {
+        "name": "纸",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "key": "item:海滨花",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "nature",
+    "name": "海滨花",
+    "name_zh": "海滨花",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-111.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/seashore-flowers.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "海洋与城镇的象征。看着它会让心情变得清爽。",
+    "obtain": [
+      "在暗沉沉海边捡取"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:潮汐铃铛",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "潮汐铃铛",
+    "name_zh": "潮汐铃铛",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-355.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/tidal-bell.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "能听到令人安心音色的古老铃铛。在开阔的地方摇响来召唤洛奇亚吧。",
+    "obtain": [],
+    "recipe": [
+      "与火焰鸟、闪电鸟、急冻鸟成为朋友后解锁"
+    ],
+    "materials": [
+      {
+        "name": "稀有宝可金属",
+        "count": 5
+      },
+      {
+        "name": "银色羽毛",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "key": "item:海边沙",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "海边沙",
+    "name_zh": "海边沙",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-442.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/beach-sand.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [
+      "在暗沉沉海边取得",
+      "在大海的梦之岛取得",
+      "在空空镇获得"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 10
+      },
+      {
+        "name": "砖块",
+        "count": 30
+      },
+      {
+        "name": "海玻璃碎片",
+        "count": 10
+      },
+      {
+        "name": "铁",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "key": "item:白色颜料",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "白色颜料",
+    "name_zh": "白色颜料",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-581.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/white-paint.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "用树果捣碎制成的颜料。「上色」的时候会用到。",
+    "obtain": [
+      "制作颜料时有几率获得",
+      "在商店购买（空空镇Lv.5）"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:红色颜料",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "红色颜料",
+    "name_zh": "红色颜料",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-582.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-582.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "用树果捣碎制成的颜料。「上色」的时候会用到。",
+    "obtain": [
+      "将苹野果交给擅长「压碎」的宝可梦",
+      "在商店购买（空空镇Lv.5）"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:黄色颜料",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "黄色颜料",
+    "name_zh": "黄色颜料",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-583.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-583.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "用树果捣碎制成的颜料。「上色」的时候会用到。",
+    "obtain": [
+      "将柿仔果交给擅长「压碎」的宝可梦",
+      "在商店购买（空空镇Lv.5）"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:绿色颜料",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "绿色颜料",
+    "name_zh": "绿色颜料",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-584.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/green-paint.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "用树果捣碎制成的颜料。「上色」的时候会用到。",
+    "obtain": [
+      "将木子果交给擅长「压碎」的宝可梦",
+      "在商店购买（空空镇Lv.5）"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:黑色颜料",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "黑色颜料",
+    "name_zh": "黑色颜料",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-585.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/black-paint.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "用树果捣碎制成的颜料。「上色」的时候会用到。",
+    "obtain": [
+      "制作颜料时有几率获得",
+      "在商店购买（空空镇Lv.5）"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:蓝色颜料",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "蓝色颜料",
+    "name_zh": "蓝色颜料",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-586.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/bouncy-blue-bathtub.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "用树果捣碎制成的颜料。「上色」的时候会用到。",
+    "obtain": [
+      "将零余果交给擅长「压碎」的宝可梦",
+      "在商店购买（空空镇Lv.5）"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:粉红色颜料",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "粉红色颜料",
+    "name_zh": "粉红色颜料",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-587.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/dry-pink-tall-grass.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "用树果捣碎制成的颜料。「上色」的时候会用到。",
+    "obtain": [
+      "将桃桃果交给擅长「压碎」的宝可梦",
+      "在商店购买（空空镇Lv.5）"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:水蓝色颜料",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "水蓝色颜料",
+    "name_zh": "水蓝色颜料",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-588.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-588.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "用树果捣碎制成的颜料。「上色」的时候会用到。",
+    "obtain": [
+      "将rawst果实交给擅长「压碎」的宝可梦",
+      "在商店购买（空空镇Lv.5）"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "玻璃",
+        "count": 8
+      },
+      {
+        "name": "水泥",
+        "count": 8
+      },
+      {
+        "name": "巨齿轮",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:电梯平台",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "电梯平台",
+    "name_zh": "电梯平台",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-560.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/elevator-platform.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "用梯子把两个电梯乘降处上下连接起来，电梯就会动了。",
+    "obtain": [
+      "在亮晶晶空岛取得"
+    ],
+    "recipe": [
+      "在蚊香泳士的委托进行中解锁"
+    ],
+    "materials": [
+      {
+        "name": "玻璃",
+        "count": 8
+      },
+      {
+        "name": "水泥",
+        "count": 8
+      },
+      {
+        "name": "巨齿轮",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:笔筒",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "笔筒",
+    "name_zh": "笔筒",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-522.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/pencil-holder.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "装了很多铅笔的笔筒。放在书桌上试试吧。",
+    "obtain": [
+      "在凸隆隆山地博物馆1楼取得",
+      "用宝可梦中心的3D打印机复制"
+    ],
+    "recipe": [
+      "宝可梦图鉴登录 150 只时的奖励"
+    ],
+    "materials": [
+      {
+        "name": "软塌塌黏土",
+        "count": 1
+      },
+      {
+        "name": "木材",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:好喝的水",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "food",
+    "name": "好喝的水",
+    "name_zh": "好喝的水",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-136.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-136.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "很适合当汤底材料的美味水。含在嘴里喷出来的话会弄得到处都是水。",
+    "obtain": [
+      "从自动贩卖机取得",
+      "在商店购买（凸隆隆山地Lv.3）"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "key": "item:扇形瓦屋顶",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "扇形瓦屋顶",
+    "name_zh": "扇形瓦屋顶",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-392.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-392.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "扇形的简约屋顶。很适合设施等大型建筑物。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "key": "item:黄金墙（壁纸）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "黄金墙（壁纸）",
+    "name_zh": "黄金墙（壁纸）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-773.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-773.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "大房子用的壁纸。可以贴在房间的墙壁、地板和天花板上。",
+    "obtain": [],
+    "recipe": [
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "纸",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "key": "item:大木门",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "大木门",
+    "name_zh": "大木门",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-32.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/boat-door.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "木制的附把手门扉。宝可梦们也能轻松开关。",
+    "obtain": [
+      "在干巴巴荒野捡取"
+    ],
+    "recipe": [
+      "在商店购买「荒野房屋建造配方套组」（干巴巴荒野 Lv. 3）"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:大型遗失物",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "大型遗失物",
+    "name_zh": "大型遗失物",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-53.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-53.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "该不会是时空胶囊？蔓藤怪的话搞不好知道些什么。",
+    "obtain": [
+      "三蜜蜂的请求"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:大岩石",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "nature",
+    "name": "大岩石",
+    "name_zh": "大岩石",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-97.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-97.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "又大又重的石头。就算用硬拳头好像也砸不碎。",
+    "obtain": [
+      "在宝可梦中心复制照片",
+      "通过“电磁飘浮”回收"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:大棕榈树",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "nature",
+    "name": "大棕榈树",
+    "name_zh": "大棕榈树",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-112.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-112.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "生长在海边的大树。外型简直就像椰蛋树。",
+    "obtain": [
+      "在暗沉沉海边对大棕榈树使用「居合斩」",
+      "拍照后用3D打印机复制"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:大换气扇",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "大换气扇",
+    "name_zh": "大换气扇",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-468.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/large-ventilation-fan.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "平放型的巨大换气扇。大楼或房屋的屋顶上常会看到。",
+    "obtain": [
+      "在亮晶晶空岛城镇的巨型大楼获得",
+      "在黄色小屋的屋顶获得",
+      "在天空梦之岛获得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 2
+      },
+      {
+        "name": "铁条",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:大根茎",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "大根茎",
+    "name_zh": "大根茎",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-554.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-554.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "某种植物的根。放进相框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 4
+      },
+      {
+        "name": "棉花",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "key": "item:大方形地毯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "大方形地毯",
+    "name_zh": "大方形地毯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-647.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/large-square-rug.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "简约设计的地垫。铺在重要的道具下面吧。",
+    "obtain": [
+      "与蜂女王交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 4
+      },
+      {
+        "name": "棉花",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "key": "item:大窄长地毯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "大窄长地毯",
+    "name_zh": "大窄长地毯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-648.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/large-narrow-rug.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "简约设计的地垫。铺在重要的道具下面吧。",
+    "obtain": [
+      "与蜂女王交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 3
+      },
+      {
+        "name": "棉花",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "key": "item:大鼓",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "大鼓",
+    "name_zh": "大鼓",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-667.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-667.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "气势满分的帅气大鼓。咚咚咚地敲打就能心情舒畅。",
+    "obtain": [
+      "在商店购买（亮晶晶空岛Lv.9）"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "铁条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:大圆形地毯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "大圆形地毯",
+    "name_zh": "大圆形地毯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-783.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/large-round-rug.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "简约设计的地垫。铺在重要的道具下面吧。",
+    "obtain": [
+      "与蜂女王交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 3
+      },
+      {
+        "name": "棉花",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "key": "item:果然翁不倒翁",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "果然翁不倒翁",
+    "name_zh": "果然翁不倒翁",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-548.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-548.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "非常坚固的果然翁人偶。不管推倒几次都会站起来。",
+    "obtain": [
+      "鉴定大型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "软塌塌黏土",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:盘子",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "盘子",
+    "name_zh": "盘子",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-325.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/plate.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "用黏土烧制而成的盘子。放上食物的话宝可梦可能会来吃。",
+    "obtain": [
+      "在暗沉沉海边捡取"
+    ],
+    "recipe": [
+      "在商店购买（暗沉沉海边 Lv. 2）"
+    ],
+    "materials": [
+      {
+        "name": "软塌塌黏土",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:时尚锅",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "时尚锅",
+    "name_zh": "时尚锅",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-303.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-303.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "煮汤用的料理工具。放在营火或炉子上吧。",
+    "obtain": [
+      "在凸隆隆山地取得",
+      "在亮晶晶空岛取得",
+      "在商店购买（凸隆隆山地Lv.5）"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "玻璃",
+        "count": 1
+      },
+      {
+        "name": "铁条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:时尚砖",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "时尚砖",
+    "name_zh": "时尚砖",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-426.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-426.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "宝可梦图鉴收录60只宝可梦时的奖励"
+    ],
+    "materials": [
+      {
+        "name": "软塌塌黏土",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:时尚铁墙",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "时尚铁墙",
+    "name_zh": "时尚铁墙",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-601.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-601.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:时尚阶梯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "时尚阶梯",
+    "name_zh": "时尚阶梯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-687.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-687.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "灰泥和木头搭配的时尚阶梯。和灰泥墙壁也很搭。",
+    "obtain": [
+      "在暗沉沉海边取得"
+    ],
+    "recipe": [
+      "在商店购买（空空镇 Lv. 4）"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 1
+      },
+      {
+        "name": "线头",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:时尚宝可梦球图样",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "时尚宝可梦球图样",
+    "name_zh": "时尚宝可梦球图样",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-851.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/stylish-stool.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "在商店购买（凸隆隆山地 Lv. 10）"
+    ],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:时尚地砖",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "时尚地砖",
+    "name_zh": "时尚地砖",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-857.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/stylish-door.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "在商店购买（凸隆隆山地 Lv. 6）"
+    ],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:清洁用品",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "清洁用品",
+    "name_zh": "清洁用品",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-594.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/cleaning-supplies.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "清洁剂、抹布和咩利羊造型的海绵。有了这些就能成为扫除达人。",
+    "obtain": [
+      "在亮晶晶空岛的大楼4楼取得",
+      "用宝可梦中心的3D打印机复制"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:花卉餐具组",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "花卉餐具组",
+    "name_zh": "花卉餐具组",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-629.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/bathtime-set.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "可爱花朵图案的餐具组。餐垫是毽子棉花纹。",
+    "obtain": [
+      "在「毽子棉收集棉花」活动期间于宝可梦中心用10个棉花交换"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:花朵背包",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "花朵背包",
+    "name_zh": "花朵背包",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-636.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/flower-backpack.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "大花朵是招牌标志的背包。里面好像装着野餐需要的东西。",
+    "obtain": [
+      "在「毽子棉收集棉花」活动期间于宝可梦中心用5个棉花交换"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:便当",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "便当",
+    "name_zh": "便当",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-634.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-634.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "做成宝可梦造型的可爱便当。野餐的午餐最适合了。",
+    "obtain": [
+      "在「毽子棉收集棉花」活动期间于宝可梦中心用5个棉花交换"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:音符踏垫（Sol）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "音符踏垫（Sol）",
+    "name_zh": "音符踏垫（Sol）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-279.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-279.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "踩上去就会发出声音的神奇垫子。根据放置方向声音也会改变。",
+    "obtain": [
+      "在凸隆隆山地北侧博物馆遗址取得",
+      "用宝可梦中心的3D打印机复制",
+      "与索财灵交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "光之石",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:音符踏垫（高Do）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "音符踏垫（高Do）",
+    "name_zh": "音符踏垫（高Do）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-280.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-280.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "踩上去就会发出声音的神奇垫子。根据放置方向声音也会改变。",
+    "obtain": [
+      "在凸隆隆山地北侧博物馆遗址取得",
+      "用宝可梦中心的3D打印机复制",
+      "与索财灵交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "光之石",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:音符踏垫（Mi）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "音符踏垫（Mi）",
+    "name_zh": "音符踏垫（Mi）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-281.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-281.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "踩上去就会发出声音的神奇垫子。根据放置方向声音也会改变。",
+    "obtain": [
+      "在凸隆隆山地北侧博物馆遗址取得",
+      "用宝可梦中心的3D打印机复制",
+      "与索财灵交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "光之石",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:音符踏垫（低Do）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "音符踏垫（低Do）",
+    "name_zh": "音符踏垫（低Do）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-282.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-282.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "踩上去就会发出声音的神奇垫子。根据放置方向声音也会改变。",
+    "obtain": [
+      "在凸隆隆山地北侧博物馆遗址取得",
+      "用宝可梦中心的3D打印机复制",
+      "与索财灵交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "光之石",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:音符踏垫（Fa）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "音符踏垫（Fa）",
+    "name_zh": "音符踏垫（Fa）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-305.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-305.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "踩上去就会发出声音的神奇垫子。根据放置方向声音也会改变。",
+    "obtain": [
+      "用宝可梦中心的3D打印机复制",
+      "与索财灵交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "光之石",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:音符踏垫（Re）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "音符踏垫（Re）",
+    "name_zh": "音符踏垫（Re）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-406.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-406.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "踩上去就会发出声音的神奇垫子。根据放置方向声音也会改变。",
+    "obtain": [
+      "用宝可梦中心的3D打印机复制",
+      "与索财灵交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "光之石",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:音符踏垫（La）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "音符踏垫（La）",
+    "name_zh": "音符踏垫（La）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-493.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-493.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "踩上去就会发出声音的神奇垫子。根据放置方向声音也会改变。",
+    "obtain": [
+      "用宝可梦中心的3D打印机复制",
+      "与索财灵交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "光之石",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:音符踏垫（Si）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "音符踏垫（Si）",
+    "name_zh": "音符踏垫（Si）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-499.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-499.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "踩上去就会发出声音的神奇垫子。根据放置方向声音也会改变。",
+    "obtain": [
+      "用宝可梦中心的3D打印机复制",
+      "与索财灵交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "光之石",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:拆除套件",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "拆除套件",
+    "name_zh": "拆除套件",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-323.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-323.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "放在想拆除的建筑物前面，和擅长「整地」的伙伴一起拆掉吧。",
+    "obtain": [
+      "在商店购买",
+      "在商店购买（需要：第2个城镇环境等级1）"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:快龙玩偶",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "快龙玩偶",
+    "name_zh": "快龙玩偶",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-367.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-367.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "放下来调查的话，飘飘球可能会飞过来带你去梦之岛。",
+    "obtain": [
+      "在亮晶晶空岛捡取",
+      "在商店购买（空空镇Lv.6）"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:贝壳",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "贝壳",
+    "name_zh": "贝壳",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-369.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/seashell.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "掉在沙滩上的普通贝壳。也能当作盖房子的材料。",
+    "obtain": [
+      "在暗沉沉海边捡取",
+      "在大海的梦之岛捡取",
+      "从海边的沙子中概率获得"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:贝壳灯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "贝壳灯",
+    "name_zh": "贝壳灯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-537.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/shell-lamp.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "乍看只是普通贝壳，但挂在墙上通电后会散发柔和的光芒。",
+    "obtain": [
+      "在亮晶晶空岛取得"
+    ],
+    "recipe": [
+      "在暗沉沉海边的城镇剧情中获得"
+    ],
+    "materials": [
+      {
+        "name": "贝壳",
+        "count": 1
+      },
+      {
+        "name": "海玻璃碎片",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:怪力岩",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "nature",
+    "name": "怪力岩",
+    "name_zh": "怪力岩",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-669.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-669.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "超级大的岩石，但如果使用「怪力」的话似乎可以推动它。",
+    "obtain": [
+      "在凸隆隆山地等地用「电磁浮游」捡取",
+      "用宝可梦中心的3D打印机复制",
+      "在岩山的梦之岛随机获得"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:海藻",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "food",
+    "name": "海藻",
+    "name_zh": "海藻",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-757.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/seaweed.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "被冲上海滩的海藻。吃了可以恢复PP。",
+    "obtain": [
+      "在暗沉沉海边捡取"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:火焰宝珠",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "火焰宝珠",
+    "name_zh": "火焰宝珠",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-558.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-558.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "会一直持续发热的不可思议之球。放进相框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:大头贴看板",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "大头贴看板",
+    "name_zh": "大头贴看板",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-177.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-177.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "把脸对准看板上的洞，变身成正电拍拍和负电拍拍吧。",
+    "obtain": [
+      "鉴定大型遗失物",
+      "在商店购买（空空镇Lv.9）"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:fire pit",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "fire pit",
+    "name_zh": "篝火",
+    "location": null,
+    "image_url": "/images/items/firepit.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/firepit.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "用树枝收集起来做成的营火。点燃后就能温暖地照亮四周。",
+    "obtain": [],
+    "recipe": [
+      "剧情中解锁工作台时取得"
+    ],
+    "materials": [
+      {
+        "name": "结实的树枝",
+        "count": 1
+      },
+      {
+        "name": "石头",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:刨冰",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "刨冰",
+    "name_zh": "刨冰",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-152.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-152.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "伊布家族喜欢的东西。准备好桌子和椅子吧。",
+    "obtain": [
+      "在空空镇的特殊挑战中取得"
+    ],
+    "recipe": [
+      "完成特别挑战后在商店购买（每日随机）"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:挂轴",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "挂轴",
+    "name_zh": "挂轴",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-668.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/hanging-scroll.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "笔法精湛的书法作品。挂在墙上会营造出庄严的氛围。",
+    "obtain": [
+      "在亮晶晶空岛取得"
+    ],
+    "recipe": [
+      "宝可梦图鉴收录270只宝可梦时的奖励"
+    ],
+    "materials": [
+      {
+        "name": "纸",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:零余果",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "food",
+    "name": "零余果",
+    "name_zh": "零余果",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-607.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-607.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "带有涩味、硬邦邦的树果。吃了可以恢复PP。",
+    "obtain": [
+      "从自然生长的树木取得",
+      "捡取种子、种树并收获",
+      "与宝可梦交易",
+      "在其他玩家的城镇拍摄树木并复制"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "结实的树枝",
+        "count": 1
+      },
+      {
+        "name": "藤绳",
+        "count": 1
+      },
+      {
+        "name": "废纸",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:风车",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "风车",
+    "name_zh": "风车",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-19.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-19.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "宝可梦们会转着玩的东西。能制造风的宝可梦似乎会特别开心。",
+    "obtain": [
+      "在商店购买（初始开放）"
+    ],
+    "recipe": [
+      "获得废纸"
+    ],
+    "materials": [
+      {
+        "name": "结实的树枝",
+        "count": 1
+      },
+      {
+        "name": "藤绳",
+        "count": 1
+      },
+      {
+        "name": "废纸",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:火山灰",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "火山灰",
+    "name_zh": "火山灰",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-508.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/volcanic-ash.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [
+      "在凸隆隆山地取得",
+      "在火山的梦之岛取得"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 1
+      },
+      {
+        "name": "玻璃",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:展示架",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "展示架",
+    "name_zh": "展示架",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-730.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-730.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "排列了许多陶器容器的展示架。装在墙上增添热闹气氛吧。",
+    "obtain": [
+      "在亮晶晶空岛取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 1
+      },
+      {
+        "name": "玻璃",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:加湿器",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "加湿器",
+    "name_zh": "加湿器",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-523.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/humidifier.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "圆滚滚的外型是特征的加湿器。打开后周围的湿润度会增加。",
+    "obtain": [
+      "在亮晶晶空岛取得"
+    ],
+    "recipe": [
+      "宝可梦图鉴收录260只宝可梦时的奖励"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "玻璃",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:硬石头",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "硬石头",
+    "name_zh": "硬石头",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-96.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/hard-stone.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "绝对不会碎裂的石头。放进相框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:铁网地板",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "铁网地板",
+    "name_zh": "铁网地板",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-60.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-60.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "常用于排水沟等处的金属网。让水从下方流过的话可以看得很清楚。",
+    "obtain": [
+      "在亮晶晶空岛取得"
+    ],
+    "recipe": [
+      "在商店购买（暗沉沉海边 Lv. 4）"
+    ],
+    "materials": [
+      {
+        "name": "铁",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:独木舟",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "独木舟",
+    "name_zh": "独木舟",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-459.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/canoe.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "上面放了很多航海所需的东西，像是桨、绳索、水桶等等。",
+    "obtain": [
+      "在亮晶晶空岛捡取"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:钟",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "钟",
+    "name_zh": "钟",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-219.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-219.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "安装在墙上的金色钟。用拳头敲击的话会发出悦耳的声音。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "铜条",
+        "count": 1
+      },
+      {
+        "name": "金条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:壁挂开关",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "壁挂开关",
+    "name_zh": "壁挂开关",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-286.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wall-switch.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "非常适合家中墙壁的开关。按下去周围的东西会很棒地运作起来。",
+    "obtain": [
+      "在亮晶晶空岛取得",
+      "在凸隆隆山地北侧博物馆遗址取得"
+    ],
+    "recipe": [
+      "在商店购买（暗沉沉海边 Lv. 6）"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "铁条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:壁挂毛巾",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "壁挂毛巾",
+    "name_zh": "壁挂毛巾",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-520.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-520.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "挂在简单把手上的毛巾。放在洗手台旁边也很搭。",
+    "obtain": [
+      "在暗沉沉海边取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 1
+      },
+      {
+        "name": "铁条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:壁挂扶手",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "壁挂扶手",
+    "name_zh": "壁挂扶手",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-682.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wall-mounted-table.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "古典优雅的扶手。试着装在建筑物的墙上吧。",
+    "obtain": [
+      "在暗沉沉海边取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      },
+      {
+        "name": "金条",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:废纸",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "废纸",
+    "name_zh": "废纸",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-368.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wastepaper.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "直接用来制作东西有点困难。回收再利用做成纸吧。",
+    "obtain": [
+      "在天空的梦之岛捡取",
+      "在亮晶晶空岛捡取"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:纸",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "纸",
+    "name_zh": "纸",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-427.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-427.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "一个污点都没有的洁白纸张。将纸类垃圾「回收」而成的东西。",
+    "obtain": [
+      "回收废纸取得"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:缠绕电线",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "缠绕电线",
+    "name_zh": "缠绕电线",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-466.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-466.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "乱七八糟地缠在一起，已经没办法解开了。",
+    "obtain": [
+      "在亮晶晶空岛的东侧区域捡取",
+      "在入团挑战后的洞中捡取",
+      "在商店购买（空空镇Lv.5）"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "铜条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:枯萎高草",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "uncollectable",
+    "name": "枯萎高草",
+    "name_zh": "枯萎高草",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-107.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-107.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "软趴趴的草，但如果浇水的话好像会恢复精神。",
+    "obtain": [
+      "在干巴巴荒野捡取"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:可爱篱笆",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "nature",
+    "name": "可爱篱笆",
+    "name_zh": "可爱篱笆",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-345.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-345.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "在草原上可以看到的圆形树篱。开着可爱的花朵。",
+    "obtain": [
+      "在干巴巴荒野捡取"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:招牌",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "招牌",
+    "name_zh": "招牌",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-38.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-38.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "木头做的看板。上面或许写着重要的公告。",
+    "obtain": [
+      "在干巴巴荒野捡取"
+    ],
+    "recipe": [
+      "宝可梦图鉴收录25只宝可梦时的奖励"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:混音台",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "混音台",
+    "name_zh": "混音台",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-254.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-254.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "通电开启屏幕，来体验一下DJ的感觉吧。",
+    "obtain": [
+      "在凸隆隆山地北侧博物馆遗址取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 1
+      },
+      {
+        "name": "玻璃",
+        "count": 1
+      },
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "木材",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:相框",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "相框",
+    "name_zh": "相框",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-418.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-418.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "把拍摄的照片放进去装饰在墙上吧。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "纸",
+        "count": 1
+      },
+      {
+        "name": "木材",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:玻璃",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "玻璃",
+    "name_zh": "玻璃",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-214.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/glass.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "把沙子或砂岩放进熔炉里融化就能制作。打碎破裂的窗玻璃也能取得。",
+    "obtain": [
+      "在熔炉中加工沙子或砂岩",
+      "破坏碎裂的窗玻璃捡取"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:玻璃窗",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "玻璃窗",
+    "name_zh": "玻璃窗",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-287.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/glass-window.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "简约又百搭的窗户。试着上下左右连接组成喜欢的形状吧。",
+    "obtain": [
+      "在凸隆隆山地北侧博物馆遗址取得"
+    ],
+    "recipe": [
+      "在商店购买（亮晶晶空岛 Lv. 5）"
+    ],
+    "materials": [
+      {
+        "name": "玻璃",
+        "count": 2
+      },
+      {
+        "name": "木材",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:黄色高草",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "nature",
+    "name": "黄色高草",
+    "name_zh": "黄色高草",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-110.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/yellow-tall-grass.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "常生长在海边的草。色调明亮又充满热带风情。",
+    "obtain": [
+      "对黄色草丛使用「翻耕」取得"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "黄色岩石",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:黄色崖岩",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "黄色崖岩",
+    "name_zh": "黄色崖岩",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-761.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/molten-rock.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "纯白之街环境等级9时解锁商店"
+    ],
+    "materials": [
+      {
+        "name": "黄色岩石",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:黄色岩石",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "黄色岩石",
+    "name_zh": "黄色岩石",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-765.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/yellow-rock.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [
+      "在岩山梦之岛的洞窟内获得",
+      "在凸隆隆山地城镇的西边洞窟中获得"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "水泥",
+        "count": 10
+      },
+      {
+        "name": "玻璃",
+        "count": 10
+      },
+      {
+        "name": "铁",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "key": "item:奇迹种子",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "奇迹种子",
+    "name_zh": "奇迹种子",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-191.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/miracle-seed.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "蕴含生命力的种子。放进相框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:珍贵骨头",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "珍贵骨头",
+    "name_zh": "珍贵骨头",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-182.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-182.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "非常古老且珍贵的骨头。放进相框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:木栅栏",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "木栅栏",
+    "name_zh": "木栅栏",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-10.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-10.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "只放一个或排列连接起来都很好看。",
+    "obtain": [
+      "在干巴巴荒野捡取"
+    ],
+    "recipe": [
+      "在商店购买「木制建材配方组」(需要：干巴巴荒野环境等级3)"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:木阶梯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "木阶梯",
+    "name_zh": "木阶梯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-17.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-17.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "有高低落差的路只要做了阶梯，宝可梦们就能轻松行走。",
+    "obtain": [
+      "在干巴巴荒野捡取"
+    ],
+    "recipe": [
+      "剧情中与呆呆兽对话时获得"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:木盘",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "木盘",
+    "name_zh": "木盘",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-23.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wooden-plate.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "在盘子上放食物的话，宝可梦们可能会来吃。",
+    "obtain": [
+      "在干巴巴荒野捡取",
+      "在商店购买（初始开放）"
+    ],
+    "recipe": [
+      "宝可梦图鉴收录15只宝可梦时的奖励"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:木梯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "木梯",
+    "name_zh": "木梯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-34.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wooden-ladder.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "大量垂直连接的话，再高的墙壁也能轻松攀爬。",
+    "obtain": [
+      "在干巴巴荒野捡取"
+    ],
+    "recipe": [
+      "在商店购买（干巴巴荒野 Lv. 4）"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:木隔板（直线）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "木隔板（直线）",
+    "name_zh": "木隔板（直线）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-40.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wood-fragments.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "装在岩石或土墙上吧。环绕排列的话也能当作围栏。",
+    "obtain": [
+      "在干巴巴荒野捡取"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:木栈道",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "木栈道",
+    "name_zh": "木栈道",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-64.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-64.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "只是普通的木板，排列起来就能摇身一变成为时尚小径。",
+    "obtain": [
+      "在干巴巴荒野取得"
+    ],
+    "recipe": [
+      "在商店购买「木制建材配方套组」（干巴巴荒野 Lv. 3）"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:木制鸟巢箱",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "木制鸟巢箱",
+    "name_zh": "木制鸟巢箱",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-119.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-119.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "里面塞满松软干草的巢箱。鸟宝可梦似乎能舒适地待在里面。",
+    "obtain": [
+      "在暗沉沉海边捡取",
+      "在商店购买（暗沉沉海边Lv.2）"
+    ],
+    "recipe": [
+      "宝可梦图鉴登录55只宝可梦时的奖励"
+    ],
+    "materials": [
+      {
+        "name": "叶子",
+        "count": 1
+      },
+      {
+        "name": "木材",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:蘑菇灯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "蘑菇灯",
+    "name_zh": "蘑菇灯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-124.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-124.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "蘑菇柔和的光芒会一直照亮周围。",
+    "obtain": [],
+    "recipe": [
+      "获得发光蘑菇"
+    ],
+    "materials": [
+      {
+        "name": "发光蘑菇",
+        "count": 1
+      },
+      {
+        "name": "结实的树枝",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:木扶手",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "木扶手",
+    "name_zh": "木扶手",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-264.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wooden-handrail.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "用来隔间很方便的木制栏杆。排列起来会很漂亮地连接在一起。",
+    "obtain": [
+      "在凸隆隆山地北侧博物馆遗址取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:蘑菇路灯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "蘑菇路灯",
+    "name_zh": "蘑菇路灯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-312.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/mushroom-streetlight.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "有了蘑菇微微发光的光芒，在黑暗中也不怕。",
+    "obtain": [
+      "在凸隆隆山地取得",
+      "在商店购买（干巴巴荒野Lv.4）"
+    ],
+    "recipe": [
+      "在地图上获得▶获取地点图像"
+    ],
+    "materials": [
+      {
+        "name": "发光蘑菇",
+        "count": 1
+      },
+      {
+        "name": "木材",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:树果篮",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "树果篮",
+    "name_zh": "树果篮",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-326.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-326.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "装满满树果的篮子。排列起来就有商店般的氛围。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（干巴巴荒野 Lv. 4）"
+    ],
+    "materials": [
+      {
+        "name": "零余果",
+        "count": 1
+      },
+      {
+        "name": "莓莓果",
+        "count": 1
+      },
+      {
+        "name": "桃桃果",
+        "count": 1
+      },
+      {
+        "name": "柿仔果",
+        "count": 1
+      },
+      {
+        "name": "木子果",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:木地板",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "木地板",
+    "name_zh": "木地板",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-340.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-340.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [
+      "在商店购买（干巴巴荒野Lv.5）"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:树果吊灯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "树果吊灯",
+    "name_zh": "树果吊灯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-412.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-412.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "挂在天花板上通电后，龙睛果的尖端会微微发光。",
+    "obtain": [
+      "在暗沉沉海边取得",
+      "与索财灵交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（干巴巴荒野 Lv. 10）"
+    ],
+    "materials": [
+      {
+        "name": "零余果",
+        "count": 1
+      },
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "线头",
+        "count": 1
+      },
+      {
+        "name": "铜条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:树果墙饰",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "树果墙饰",
+    "name_zh": "树果墙饰",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-414.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-414.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "6颗树果摇摇晃晃。每颗看起来都很好吃，但不能吃。",
+    "obtain": [
+      "与索财灵交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（干巴巴荒野 Lv. 10）"
+    ],
+    "materials": [
+      {
+        "name": "木子果",
+        "count": 1
+      },
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "线头",
+        "count": 1
+      },
+      {
+        "name": "铜条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:树果台灯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "树果台灯",
+    "name_zh": "树果台灯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-470.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/log-table.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "玻璃做成的芝芝果。通电后会发出水蓝色的光芒照亮周围。",
+    "obtain": [
+      "用宝可梦中心的3D打印机复制",
+      "与索财灵交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（干巴巴荒野 Lv. 9）"
+    ],
+    "materials": [
+      {
+        "name": "莓莓果",
+        "count": 1
+      },
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "线头",
+        "count": 1
+      },
+      {
+        "name": "铜条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:树果时钟",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "树果时钟",
+    "name_zh": "树果时钟",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-691.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-691.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "像是把柑柑果利落地切成一半的时钟。挂在墙上看看吧。",
+    "obtain": [
+      "在亮晶晶空岛取得",
+      "与索财灵交换随机获得"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:树果图样",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "树果图样",
+    "name_zh": "树果图样",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-731.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-731.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "在商店购买（亮晶晶空岛 Lv. 10）"
+    ],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:木箱",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "木箱",
+    "name_zh": "木箱",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-106.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-106.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "不知道该怎么打开的箱子。只是在上面放东西的话倒是可以。",
+    "obtain": [
+      "在凸隆隆山地捡取"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:踏梯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "踏梯",
+    "name_zh": "踏梯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-253.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-253.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "拿高处东西时使用的脚踏台。试着站上去吧。",
+    "obtain": [
+      "在亮晶晶空岛取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:营火",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "火堆",
+    "name_zh": "火堆",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-307.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/campfire.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "点燃中间的木材后，会温暖地照亮大范围的区域。",
+    "obtain": [
+      "在商店购买（干巴巴荒野Lv.5）"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "结实的树枝",
+        "count": 1
+      },
+      {
+        "name": "石头",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:空白画布",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "空白画布",
+    "name_zh": "空白画布",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-814.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-814.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "雪白的画布。擅长画画的宝可梦也许会在上面画些什么。",
+    "obtain": [
+      "对画布使用水枪",
+      "用3D打印机复制"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "废纸",
+        "count": 1
+      },
+      {
+        "name": "木材",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:画布（风景画）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "画布（风景画）",
+    "name_zh": "画布（风景画）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-815.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-815.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "图图犬老师的呕心沥血之作。森林与山峦的对比非常美丽。",
+    "obtain": [
+      "在暗沉沉海边捡取",
+      "重新绘制空白画布",
+      "用宝可梦中心的3D打印机复制"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:画布（肖像画）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "画布（肖像画）",
+    "name_zh": "画布（肖像画）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-816.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/painting-portrait.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "图图犬老师的呕心沥血之作。连软绵绵的感觉都完美重现了。",
+    "obtain": [
+      "重新绘制空白画布",
+      "用3D打印机复制"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:画布（静物画）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "画布（静物画）",
+    "name_zh": "画布（静物画）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-817.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-817.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "图图犬老师的呕心沥血之作。每一个都跟真的一模一样。",
+    "obtain": [
+      "重新绘制空白画布",
+      "用3D打印机复制"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:急救箱",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "急救箱",
+    "name_zh": "急救箱",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-104.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-104.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "里面装了很多治疗伤口用的药品和工具的箱子。",
+    "obtain": [
+      "在干巴巴荒野捡取",
+      "在商店购买（暗沉沉海边Lv.3）"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:可爱灯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "可爱灯",
+    "name_zh": "可爱灯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-410.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/cute-lamp.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "当摆饰也很可爱的灯。通电后中间的爱心会亮起来。",
+    "obtain": [
+      "用宝可梦中心的3D打印机复制",
+      "与索财灵交换随机获得",
+      "与蜂女王交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（暗沉沉海边 Lv. 9）"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "木材",
+        "count": 1
+      },
+      {
+        "name": "线头",
+        "count": 1
+      },
+      {
+        "name": "玻璃",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:金珠",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "金珠",
+    "name_zh": "金珠",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-189.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-189.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "因为是纯金打造所以永远闪闪发亮。放进相框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:金王冠",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "金王冠",
+    "name_zh": "金王冠",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-190.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-190.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "金色的漂亮王冠。放进相框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:金棒",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "金棒",
+    "name_zh": "金条",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-197.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-197.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "在熔炉中加工黄金。光是拿着就有种奢华的感觉。",
+    "obtain": [
+      "在熔炉中加工黄金"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:金矿",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "金矿",
+    "name_zh": "金矿",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-218.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/stylish-gold-wall.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "从金矿石中提取的金属。闪亮亮的，充满奢华氛围。",
+    "obtain": [
+      "破坏金矿石取得"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:金假牙",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "金假牙",
+    "name_zh": "金假牙",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-823.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/stylish-gold-wall-wallpaper.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "金光闪闪的光辉永远不会改变。也许是很久以前某个人遗落的？",
+    "obtain": [
+      "鉴定大型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:花园装饰品",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "花园装饰品",
+    "name_zh": "花园装饰品",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-277.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-277.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "看起来就像一家鼠鼠在圆木上团聚的样子。",
+    "obtain": [
+      "鉴定大型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "铁",
+        "count": 1
+      },
+      {
+        "name": "玻璃",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:花园灯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "花园灯",
+    "name_zh": "花园灯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-329.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/garden-light.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "非常适合放在庭院的灯。即使在夜晚也能美丽地照亮花朵。",
+    "obtain": [
+      "在亮晶晶空岛的巨大大楼屋顶取得",
+      "与索财灵交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（干巴巴荒野 Lv. 6）"
+    ],
+    "materials": [
+      {
+        "name": "铁",
+        "count": 1
+      },
+      {
+        "name": "玻璃",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:花园花卉",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "花园花卉",
+    "name_zh": "花园花卉",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-827.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/garden-flowers.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "时尚的花盆里开满了可爱的花朵。放在桌上装饰也很好看。",
+    "obtain": [
+      "用宝可梦中心的3D打印机复制",
+      "与索财灵交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（干巴巴荒野 Lv. 8）"
+    ],
+    "materials": [
+      {
+        "name": "铁",
+        "count": 2
+      },
+      {
+        "name": "草原花",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:银色羽毛",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "银色羽毛",
+    "name_zh": "银色羽毛",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-203.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/silver-feather.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "闪耀着银色光芒的不可思议羽毛。好像是会飞的宝可梦掉落的。",
+    "obtain": [
+      "在雨天或阴天捡取洛奇亚掉落的物品（用居合斩消除龙卷风取得）"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:银王冠",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "银王冠",
+    "name_zh": "银王冠",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-205.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-205.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "银色的漂亮王冠。放进相框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:银粉",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "银粉",
+    "name_zh": "银粉",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-638.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/silver-powder.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "闪耀着银色光芒的粉末。放进相框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:格纹图样",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "格纹图样",
+    "name_zh": "格纹图样",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-839.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-839.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "在商店购买（暗沉沉海边 Lv. 10）"
+    ],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:草藤墙饰",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "草藤墙饰",
+    "name_zh": "草藤墙饰",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-438.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/protruding-wall.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "只要有叶子和藤绳就能做出时尚的墙壁装饰。",
+    "obtain": [],
+    "recipe": [
+      "宝可梦图鉴登录45只宝可梦时的奖励"
+    ],
+    "materials": [
+      {
+        "name": "叶子",
+        "count": 1
+      },
+      {
+        "name": "藤绳",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:附着刺",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "附着刺",
+    "name_zh": "附着刺",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-181.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-181.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "容易黏附而且刺刺的针。放进相框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:工作台",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "工作台",
+    "name_zh": "工作台",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-12.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/workbench.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "收集大量素材，来制作各种东西吧！",
+    "obtain": [
+      "在干巴巴荒野从一开始就设置"
+    ],
+    "recipe": [
+      "在商店购买（干巴巴荒野 Lv. 2）"
+    ],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:拉炮",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "拉炮",
+    "name_zh": "拉炮",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-337.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-337.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "用盛大的声响和彩色纸花庆祝。注意是一次性使用的。",
+    "obtain": [
+      "将干巴巴荒野环境等级提升至5后取得"
+    ],
+    "recipe": [
+      "在商店购买（干巴巴荒野 Lv. 5）"
+    ],
+    "materials": [
+      {
+        "name": "纸",
+        "count": 1
+      },
+      {
+        "name": "藤绳",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:冰淇淋汽水",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "冰淇淋汽水",
+    "name_zh": "冰淇淋汽水",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-146.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-146.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "伊布家族喜欢的东西。准备好桌子和椅子吧。",
+    "obtain": [
+      "在空空镇的特殊挑战中取得"
+    ],
+    "recipe": [
+      "完成特别挑战后在商店购买（每日随机）"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:水晶碎片",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "水晶碎片",
+    "name_zh": "水晶碎片",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-170.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-170.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "水晶碎裂而成的碎片。因为是透明的，可以看穿到另一侧。",
+    "obtain": [
+      "破坏凸隆隆山地矿山内的水晶"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:净化护符",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "净化护符",
+    "name_zh": "净化护符",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-196.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-196.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "永不褪色的闪耀吊饰。放进相框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "水晶碎片",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:黑带",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "黑带",
+    "name_zh": "黑带",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-159.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/black-belt.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "黑色的细长带子。放进相框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:黑色铁球",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "黑色铁球",
+    "name_zh": "黑色铁球",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-193.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-193.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "黑色的圆铁球。放进相框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:黑色污泥",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "黑色污泥",
+    "name_zh": "黑色污泥",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-552.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/black-sludge.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "散发出难闻气味的污泥。放进相框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:黑色眼镜",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "黑色眼镜",
+    "name_zh": "黑色眼镜",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-639.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/black-glasses.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "看起来很可疑的眼镜。放进相框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:软黏土",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "软塌塌黏土",
+    "name_zh": "软塌塌黏土",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-215.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-215.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "柔软又能当作各种东西的材料。烧硬之后还能变成砖块。",
+    "obtain": [
+      "在野外破坏黏土方块",
+      "从乌波或土王的栖息地捡取"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:万能伞",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "万能伞",
+    "name_zh": "万能伞",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-194.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-194.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "看起来能喷洒到很大范围的喷雾器。放进相框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "玻璃",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:灰色徽章",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "key-item",
+    "name": "灰色徽章",
+    "name_zh": "灰色徽章",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-160.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-160.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "克服困难课题的证明。散发着灰色的光辉。",
+    "obtain": [
+      "完成重要请求「挑战入团测验(?)吧！」的第1关"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:日光灯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "日光灯",
+    "name_zh": "日光灯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-740.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-740.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "通电后会发出耀眼的光芒。即使是夜晚也能像白天一样明亮。",
+    "obtain": [
+      "在亮晶晶空岛取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "玻璃",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:显微镜",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "显微镜",
+    "name_zh": "显微镜",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-528.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/microscope.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "在科学教室或研究所常见的显微镜。做实验时的必需品。",
+    "obtain": [
+      "在亮晶晶空岛取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "玻璃",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:茂盛篱笆",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "nature",
+    "name": "茂盛篱笆",
+    "name_zh": "茂盛篱笆",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-800.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-800.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "在阳光下茁壮成长的绿篱。看着它就觉得充满活力。",
+    "obtain": [
+      "在暗沉沉海边取得"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "金条",
+        "count": 1
+      },
+      {
+        "name": "软塌塌黏土",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:鲤鱼王屋顶装饰",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "鲤鱼王屋顶装饰",
+    "name_zh": "鲤鱼王屋顶装饰",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-619.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-619.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "放在屋顶中间的话，似乎能成为不错的点缀。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买「屋瓦配方套组」（干巴巴荒野 Lv. 5）"
+    ],
+    "materials": [
+      {
+        "name": "金条",
+        "count": 1
+      },
+      {
+        "name": "软塌塌黏土",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:广角镜",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "广角镜",
+    "name_zh": "广角镜",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-76.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-76.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "透明的镜片永远保持清澈。放进相框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:后攻尾巴",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "后攻尾巴",
+    "name_zh": "后攻尾巴",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-154.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-154.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "非常沉重的不知什么的尾巴。放进相框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:冰块",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "冰块",
+    "name_zh": "冰块",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-172.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-172.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [
+      "在空空镇的洞窟取得"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:苔藓",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "nature",
+    "name": "苔藓",
+    "name_zh": "苔藓",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-126.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/moss.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "只要是阴暗潮湿的地方，即使在岩石上也能生长的植物。",
+    "obtain": [
+      "在岩石等坚硬地形上，使用料理强化过的“树叶”使其生长"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:苔藓岩石",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "nature",
+    "name": "苔藓岩石",
+    "name_zh": "苔藓岩石",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-127.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-127.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "密密麻麻地长满了苔藓，看起来根本拔不掉⋯",
+    "obtain": [
+      "在宝可梦中心复制照片",
+      "通过“电磁飘浮”回收"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:小麦",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "food",
+    "name": "小麦",
+    "name_zh": "小麦",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-422.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-422.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "直接吃的话也不是不能吃。吃了可以恢复PP。",
+    "obtain": [
+      "在凸隆隆山地城，从田地里获得",
+      "购买种子栽培（凸隆隆山地城环境等级3以上）",
+      "在梦幻岛随机出现的田地获得"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 4
+      },
+      {
+        "name": "纸",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:水泥搅拌机",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "水泥搅拌机",
+    "name_zh": "水泥搅拌机",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-220.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-220.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "用水和石灰石做成混凝土。找擅长「碾碎」的宝可梦来帮忙吧。",
+    "obtain": [],
+    "recipe": [
+      "与修建老匠对话取得"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:水泥",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "水泥",
+    "name_zh": "水泥",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-221.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-221.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "黏稠的液体凝固而成。硬邦邦的非常坚固。",
+    "obtain": [
+      "在混凝土搅拌机加工石灰石"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:炉灶",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "炉灶",
+    "name_zh": "炉灶",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-503.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-503.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "简约又时尚的炉子。转动旋钮就会噗地点着火。",
+    "obtain": [
+      "在凸隆隆山地的建筑物内取得",
+      "在暗沉沉海边各处取得",
+      "在亮晶晶空岛各处取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:电脑",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "电脑",
+    "name_zh": "电脑",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-531.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-531.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "研究室里常见的电脑。到处贴满了便条纸。",
+    "obtain": [
+      "在亮晶晶空岛取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 2
+      },
+      {
+        "name": "玻璃",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:堆叠铁管",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "堆叠铁管",
+    "name_zh": "堆叠铁管",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-535.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/iron-pipes.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "工地上常见的堆得高高的铁管。",
+    "obtain": [
+      "在亮晶晶空岛取得",
+      "在凸隆隆山地取得",
+      "用宝可梦中心的3D打印机复制"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:水泥盖板",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "水泥盖板",
+    "name_zh": "水泥盖板",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-613.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-613.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "用来盖住小水沟的盖子。咻地嵌进地面的洞里吧。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（亮晶晶空岛 Lv. 4）"
+    ],
+    "materials": [
+      {
+        "name": "水泥",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:水泥边框（直线）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "水泥边框（直线）",
+    "name_zh": "水泥边框（直线）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-620.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/brick-border-line.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "不管是花草、道路还是岩场，都来帅气地加上边框吧。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买「混凝土边框配方套组」"
+    ],
+    "materials": [
+      {
+        "name": "水泥",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:水泥边框（小型）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "水泥边框（小型）",
+    "name_zh": "水泥边框（小型）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-621.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-621.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "不管是花草、道路还是岩场，都来帅气地加上边框吧。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买「混凝土边框配方套组」"
+    ],
+    "materials": [
+      {
+        "name": "水泥",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:水泥边框（转角）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "水泥边框（转角）",
+    "name_zh": "水泥边框（转角）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-622.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/concrete-border-corner.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "不管是花草、道路还是岩场，都来帅气地加上边框吧。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买「混凝土边框配方套组」"
+    ],
+    "materials": [
+      {
+        "name": "水泥",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:水泥阶梯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "水泥阶梯",
+    "name_zh": "水泥阶梯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-716.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-716.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "混凝土制成的坚固楼梯。放在大楼里或道路上试试看吧。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（亮晶晶空岛 Lv. 2）"
+    ],
+    "materials": [
+      {
+        "name": "水泥",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:Game Boy 主机",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Game Boy 主机",
+    "name_zh": "Game Boy 主机",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-625.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-625.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "看起来非常坚固的游戏机。虽然很旧但好像还能启动。",
+    "obtain": [
+      "将亮晶晶空岛环境等级提升至5后取得"
+    ],
+    "recipe": [
+      "在商店购买（亮晶晶空岛 Lv. 5）"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:电竞电脑",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "电竞电脑",
+    "name_zh": "电竞电脑",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-670.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-670.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "附带耳机的电脑组合。通电后可以在屏幕上显示照片。",
+    "obtain": [
+      "用宝可梦中心的3D打印机复制",
+      "与索财灵交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（亮晶晶空岛 Lv. 10）"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 2
+      },
+      {
+        "name": "玻璃",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:电竞灯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "电竞灯",
+    "name_zh": "电竞灯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-725.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/gaming-light.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "挂在墙上通电后就会闪闪发出彩虹色的光。",
+    "obtain": [
+      "用宝可梦中心的3D打印机复制",
+      "与索财灵交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（亮晶晶空岛 Lv. 9）"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "金条",
+        "count": 1
+      },
+      {
+        "name": "玻璃",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:豪华柱子（下段）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "豪华柱子（下段）",
+    "name_zh": "豪华柱子（下段）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-267.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-267.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "装饰精美、气势磅礴的柱子。好好地欣赏一番吧。",
+    "obtain": [
+      "在凸隆隆山地北侧博物馆遗址取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:豪华柱子（中段）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "豪华柱子（中段）",
+    "name_zh": "豪华柱子（中段）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-268.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-268.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "装饰精美、气势磅礴的柱子。好好地欣赏一番吧。",
+    "obtain": [
+      "在凸隆隆山地北侧博物馆遗址取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:豪华柱子（上段）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "豪华柱子（上段）",
+    "name_zh": "豪华柱子（上段）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-269.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-269.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "装饰精美、气势磅礴的柱子。好好地欣赏一番吧。",
+    "obtain": [
+      "在凸隆隆山地北侧博物馆遗址取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:豪华花朵",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "豪华花朵",
+    "name_zh": "豪华花朵",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-596.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-596.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "橘色的花朵精神饱满地绽放着。摆出来让周围更加缤纷吧。",
+    "obtain": [
+      "在凸隆隆山地取得",
+      "用宝可梦中心的3D打印机复制"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "软塌塌黏土",
+        "count": 1
+      },
+      {
+        "name": "草原花",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:垃圾袋",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "垃圾袋",
+    "name_zh": "垃圾袋",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-116.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-116.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "随处可见的普通垃圾袋。对某些宝可梦来说是无法抗拒的香味。",
+    "obtain": [
+      "通过制作取得",
+      "在暗沉沉海边之街东南方的岛屿上拾取",
+      "在亮晶晶空岛之街的大楼旁边拾取"
+    ],
+    "recipe": [
+      "获得不可燃垃圾时领悟"
+    ],
+    "materials": [
+      {
+        "name": "不可燃垃圾",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:垃圾桶",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "垃圾桶",
+    "name_zh": "垃圾桶",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-117.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-117.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "垃圾桶蛮大的，宝可梦好像也能整个钻进去。",
+    "obtain": [],
+    "recipe": [
+      "在地图上获得▶获取地点图像"
+    ],
+    "materials": [
+      {
+        "name": "铁",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:霓虹地板",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "霓虹地板",
+    "name_zh": "霓虹地板",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-283.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-283.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [
+      "在亮晶晶空岛取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "海玻璃碎片",
+        "count": 1
+      },
+      {
+        "name": "铁",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:碳酸饮料",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "food",
+    "name": "碳酸饮料",
+    "name_zh": "碳酸饮料",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-683.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/cart.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "滋滋冒泡的苏打。含在嘴里吐出来就会变成海水。",
+    "obtain": [
+      "从自动贩卖机取得"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "纸",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "key": "item:霓虹地板（壁纸）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "霓虹地板（壁纸）",
+    "name_zh": "霓虹地板（壁纸）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-777.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-777.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "大房子用的壁纸。可以贴在房间的墙壁、地板和天花板上。",
+    "obtain": [],
+    "recipe": [
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "纸",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "key": "item:手提包",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "key-item",
+    "name": "手提包",
+    "name_zh": "手提包",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-59.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-59.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "可以随时显示持有物品。不用打开背包超方便。",
+    "obtain": [
+      "在商店购买（干巴巴荒野Lv.3）"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:光滑岩石",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "光滑岩石",
+    "name_zh": "光滑岩石",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-41.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/smooth-rock.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "触感滑溜溜的神奇岩石。放置后会让周围大范围变得干燥。",
+    "obtain": [
+      "在干巴巴荒野的洞窟内捡取",
+      "与索财灵交换随机获得"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 1
+      },
+      {
+        "name": "藤绳",
+        "count": 1
+      },
+      {
+        "name": "铁",
+        "count": 1
+      },
+      {
+        "name": "海边沙",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:沙袋",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "沙袋",
+    "name_zh": "沙袋",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-13.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-13.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "里面塞满了沙子非常重。拿来练习拳击和踢腿再适合不过了。",
+    "obtain": [
+      "在干巴巴荒野捡取"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 1
+      },
+      {
+        "name": "藤绳",
+        "count": 1
+      },
+      {
+        "name": "铁",
+        "count": 1
+      },
+      {
+        "name": "海边沙",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:码头",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "码头",
+    "name_zh": "码头",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-28.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-28.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "不管是凹凸不平的地方还是水上，放上栈桥就能变成平坦的路。",
+    "obtain": [
+      "在干巴巴荒野取得",
+      "在暗沉沉海边取得"
+    ],
+    "recipe": [
+      "在干巴巴荒野获得 在地图上获得▶获取地点图像"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:三角树",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "nature",
+    "name": "三角树",
+    "name_zh": "三角树",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-122.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-122.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "三角尖尖的树木到处都在生长。摸起来好像会刺刺的。",
+    "obtain": [
+      "在凸隆隆山地对尖形树木使用「居合斩」",
+      "在亮晶晶空岛对尖形树木使用「居合斩」",
+      "拍照后用3D打印机复制"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:三明治",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "三明治",
+    "name_zh": "三明治",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-151.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-151.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "伊布家族喜欢的东西。准备好桌子和椅子吧。",
+    "obtain": [
+      "在空空镇的特殊挑战中取得"
+    ],
+    "recipe": [
+      "完成特别挑战后在商店购买（每日随机）"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:码头板",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "码头板",
+    "name_zh": "码头板",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-402.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/information-board.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "栈桥上面的木板。排到对岸就能搭出一座像样的桥。",
+    "obtain": [
+      "在干巴巴荒野取得",
+      "在暗沉沉海边取得"
+    ],
+    "recipe": [
+      "在干巴巴荒野获得 在地图上获得▶获取地点图像"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:三角花纹地板（壁纸）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "三角花纹地板（壁纸）",
+    "name_zh": "三角花纹地板（壁纸）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-788.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-788.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "大房子用的壁纸。可以贴在房间的墙壁、地板和天花板上。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买「坚硬墙纸配方组」(需要：空空镇环境等级5)"
+    ],
+    "materials": [
+      {
+        "name": "纸",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "key": "item:三角砖屋顶",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "三角砖屋顶",
+    "name_zh": "三角砖屋顶",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-818.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-818.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "放在屋顶中间的话，似乎能成为不错的点缀。",
+    "obtain": [
+      "在暗沉沉海边取得"
+    ],
+    "recipe": [
+      "在商店购买「屋顶配方组」(需要：暗沉沉海边环境等级5)"
+    ],
+    "materials": [
+      {
+        "name": "砖块",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:豪华灯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "豪华灯",
+    "name_zh": "豪华灯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-511.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/luxury-lamp.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "通电后会发出柔和的光芒，照亮周围。",
+    "obtain": [
+      "在暗沉沉海边南侧船只取得",
+      "在亮晶晶空岛的大楼4楼取得",
+      "与索财灵交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（凸隆隆山地 Lv. 9）"
+    ],
+    "materials": [
+      {
+        "name": "石灰石",
+        "count": 2
+      },
+      {
+        "name": "金条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:木材",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "木材",
+    "name_zh": "木材",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-2.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-2.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "把小圆木切成方便使用的大小。用来当木制品的材料再适合不过了。",
+    "obtain": [
+      "让擅长「居合斩」的宝可梦加工",
+      "在干巴巴荒野捡取",
+      "偶尔从亲密的宝可梦获得"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:杂志架",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "杂志架",
+    "name_zh": "杂志架",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-265.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/magazine-rack.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "从周刊到写真集，摆放着各式各样的杂志。",
+    "obtain": [
+      "在凸隆隆山地北侧博物馆遗址取得",
+      "在亮晶晶空岛的大楼3楼取得",
+      "用3D打印机复制",
+      "在商店购买（亮晶晶空岛Lv.3）"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      },
+      {
+        "name": "纸",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:粗糙墙壁",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "粗糙墙壁",
+    "name_zh": "粗糙墙壁",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-724.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-724.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "在商店购买（亮晶晶空岛 Lv. 7）"
+    ],
+    "materials": [
+      {
+        "name": "水泥",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:粗糙崖岩",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "粗糙崖岩",
+    "name_zh": "粗糙崖岩",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-758.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-758.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "纯白之街环境等级9时解锁商店"
+    ],
+    "materials": [
+      {
+        "name": "粗糙岩石",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:粗糙岩石",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "粗糙岩石",
+    "name_zh": "粗糙岩石",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-762.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-762.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [
+      "在天空梦之岛获得",
+      "在凸隆隆山地取得"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "纸",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "key": "item:幸运蛋",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "幸运蛋",
+    "name_zh": "幸运蛋",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-553.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/lucky-egg.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "白白圆圆的蛋。放进相框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:方砖",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "方砖",
+    "name_zh": "方砖",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-429.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-429.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [
+      "在暗沉沉海边取得"
+    ],
+    "recipe": [
+      "在暗沉沉海边的黄色精灵球中获得 在地图上获得▶获取地点图像"
+    ],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:典雅路灯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "典雅路灯",
+    "name_zh": "典雅路灯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-83.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-83.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "通电后会微微发光，淡淡地照亮四周。",
+    "obtain": [
+      "在凸隆隆山地取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 2
+      },
+      {
+        "name": "水晶碎片",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:灰泥墙",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "灰泥墙",
+    "name_zh": "灰泥墙",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-341.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-341.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [
+      "在亮晶晶空岛取得",
+      "在商店购买（干巴巴荒野Lv.5）"
+    ],
+    "recipe": [
+      "在商店购买（暗沉沉海边 Lv. 5）"
+    ],
+    "materials": [
+      {
+        "name": "贝壳",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:湿润篱笆",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "nature",
+    "name": "湿润篱笆",
+    "name_zh": "湿润篱笆",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-799.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-799.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "开着娇艳花朵的绿篱。下雨天看起来可能会更加美丽。",
+    "obtain": [
+      "在凸隆隆山地取得"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "纸",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "key": "item:草坪地板",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "草坪地板",
+    "name_zh": "草坪地板",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-562.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-562.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [
+      "在亮晶晶空岛取得"
+    ],
+    "recipe": [
+      "宝可梦图鉴登录50只宝可梦时的奖励"
+    ],
+    "materials": [
+      {
+        "name": "叶子",
+        "count": 1
+      },
+      {
+        "name": "线头",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:草坪地板（壁纸）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "草坪地板（壁纸）",
+    "name_zh": "草坪地板（壁纸）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-808.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-808.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "大房子用的壁纸。可以贴在房间的墙壁、地板和天花板上。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买「自然墙纸配方组」(需要：空空镇环境等级3)"
+    ],
+    "materials": [
+      {
+        "name": "纸",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "key": "item:栅栏",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "栅栏",
+    "name_zh": "栅栏",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-137.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-137.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "黄黑相间的条纹是它的特征。可以当作矿车上下车的标记。",
+    "obtain": [
+      "在凸隆隆山地捡取",
+      "在火山梦幻岛捡到"
+    ],
+    "recipe": [
+      "听取大炭车的委托"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 1
+      },
+      {
+        "name": "铁条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:淋浴设备",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "淋浴设备",
+    "name_zh": "淋浴设备",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-456.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-456.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "设计简约的淋浴设备。放在浴缸旁边浴室就完成了。",
+    "obtain": [
+      "在暗沉沉海边剧情中制作"
+    ],
+    "recipe": [
+      "在暗沉沉海边剧情中取得"
+    ],
+    "materials": [
+      {
+        "name": "铁",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:雅致篱笆",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "nature",
+    "name": "雅致篱笆",
+    "name_zh": "雅致篱笆",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-516.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-516.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "花瓣层层叠叠地绽放着毛茸茸的。简直像咩利羊的毛一样。",
+    "obtain": [
+      "在亮晶晶空岛取得"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:消防栓",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "消防栓",
+    "name_zh": "消防栓",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-689.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/fire-hydrant.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "是用来灭火喷水的装置，但不太会用。",
+    "obtain": [
+      "在亮晶晶空岛取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:商店地板",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "商店地板",
+    "name_zh": "商店地板",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-732.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-732.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:丝绸围巾",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "丝绸围巾",
+    "name_zh": "丝绸围巾",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-212.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/silk-scarf.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "触感很好的围巾。放进相框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "白色岩石",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:白色崖岩",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "白色崖岩",
+    "name_zh": "白色崖岩",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-766.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/spotted-cliff-rock.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [
+      "在暗沉沉海边城镇的洞窟中获得"
+    ],
+    "recipe": [
+      "纯白之街环境等级9时解锁商店"
+    ],
+    "materials": [
+      {
+        "name": "白色岩石",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:白色岩石",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "白色岩石",
+    "name_zh": "白色岩石",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-767.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/white-rock.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [
+      "在梦之岛的地面上获得",
+      "在干巴巴荒野城镇里的洞窟获得",
+      "在空空镇的东边区域获得"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:简约方砖",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "简约方砖",
+    "name_zh": "简约方砖",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-425.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-425.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [
+      "在暗沉沉海边取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:水槽",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "水槽",
+    "name_zh": "水槽",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-504.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/sink.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "连排水口都齐全的水槽。转开水龙头就有水流出来。",
+    "obtain": [
+      "在暗沉沉海边取得",
+      "在凸隆隆山地取得",
+      "在亮晶晶空岛取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:神秘水滴",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "神秘水滴",
+    "name_zh": "神秘水滴",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-549.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/mysterious-slate-n.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "水滴形状的宝石。放进相框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:简约窗帘（左）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "简约窗帘（左）",
+    "name_zh": "简约窗帘（左）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-651.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/simple-curtain-left.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "素色的简约窗帘。什么房间都很容易搭配。",
+    "obtain": [
+      "与蜂女王交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:简约窗帘（右）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "简约窗帘（右）",
+    "name_zh": "简约窗帘（右）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-652.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/simple-curtain-right.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "素色的简约窗帘。什么房间都很容易搭配。",
+    "obtain": [
+      "与蜂女王交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:简约门",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "简约门",
+    "name_zh": "简约门",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-722.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/simple-door.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "上面附有玻璃窗的简约门。装在小屋或仓库上也很搭。",
+    "obtain": [
+      "在暗沉沉海边取得",
+      "在亮晶晶空岛取得"
+    ],
+    "recipe": [
+      "亮晶晶空岛的城镇环境等级达到5时在商店解锁"
+    ],
+    "materials": [
+      {
+        "name": "玻璃",
+        "count": 1
+      },
+      {
+        "name": "铁条",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:简约地板",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "简约地板",
+    "name_zh": "简约地板",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-829.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/simple-flooring-wallpaper.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "在商店购买（干巴巴荒野 Lv. 8）"
+    ],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:实验器材",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "实验器材",
+    "name_zh": "实验器材",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-527.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-527.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "药品、检验仪器和报告用纸。实验的准备万全了。",
+    "obtain": [
+      "在凸隆隆山地博物馆1楼取得"
+    ],
+    "recipe": [
+      "宝可梦图鉴登录230只宝可梦时的奖励"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "玻璃",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:脚踏车",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "脚踏车",
+    "name_zh": "脚踏车",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-295.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-295.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "看起来很高级的帅气脚踏车。跟新的一样闪闪发亮。",
+    "obtain": [
+      "鉴定大型遗失物"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:自动贩卖机",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "自动贩卖机",
+    "name_zh": "自动贩卖机",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-421.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/vending-machine.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "通电后会闪闪发光。里面好像还有商品。",
+    "obtain": [
+      "在场地上获得",
+      "建筑友好商店后获得",
+      "从每日商店购买"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "铜条",
+        "count": 2
+      },
+      {
+        "name": "宝可金属",
+        "count": 2
+      },
+      {
+        "name": "玻璃",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:自动门",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "自动门",
+    "name_zh": "自动门",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-618.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/automatic-doors.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "原本没办法开关，但接上电源就会变成自动门。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买「浮岛房屋建造配方套组」（亮晶晶空岛 Lv. 3）"
+    ],
+    "materials": [
+      {
+        "name": "玻璃",
+        "count": 1
+      },
+      {
+        "name": "铁条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:道馆标志雕像",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "道馆标志雕像",
+    "name_zh": "道馆标志雕像",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-202.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/moonlight-dance-statue-kit.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "看着就觉得充满干劲的石像。放在底座上也很有感觉。",
+    "obtain": [
+      "鉴定大型遗失物"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:弱点保险",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "弱点保险",
+    "name_zh": "弱点保险",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-157.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-157.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "密密麻麻排列着细小的文字。放进相框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:马铃薯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "food",
+    "name": "马铃薯",
+    "name_zh": "马铃薯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-595.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/potato.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "连皮吃也很好吃的马铃薯。吃了可以恢复PP。",
+    "obtain": [
+      "购买种子并栽培（亮晶晶空岛环境等级3后）",
+      "在天空梦之岛收获"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:坚固树枝",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "结实的树枝",
+    "name_zh": "结实的树枝",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-4.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-4.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "从某棵树上掉下来的树枝。拿来做玩具或日用品最适合了。",
+    "obtain": [
+      "在干巴巴荒野捡取"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:盾牌化石（尾）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "盾牌化石（尾）",
+    "name_zh": "盾牌化石（尾）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-74.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/shield-fossil-tail.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "古代宝可梦的尾巴化石。后脚的蹄子是超大尺寸。",
+    "obtain": [
+      "在干巴巴荒野用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:盾牌化石（身）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "盾牌化石（身）",
+    "name_zh": "盾牌化石（身）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-84.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/shield-fossil-body.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "古代宝可梦的躯干化石。用粗壮的骨头支撑沉重的头部。",
+    "obtain": [
+      "在干巴巴荒野用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:盾牌化石（头）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "盾牌化石（头）",
+    "name_zh": "盾牌化石（头）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-161.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/shield-fossil-head.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "古代宝可梦的头部化石。像巨大盾牌一样坚固。",
+    "obtain": [
+      "在干巴巴荒野用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:海玻璃碎片",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "海玻璃碎片",
+    "name_zh": "海玻璃碎片",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-200.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/sea-glass-fragments.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "被海浪磨得圆圆的玻璃。可以当作玻璃制品的材料。",
+    "obtain": [
+      "在暗沉沉海边捡取",
+      "在大海的梦之岛捡取",
+      "从海边的沙子中概率获得"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:水晶球",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "水晶球",
+    "name_zh": "水晶球",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-457.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-457.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "用来占卜的大水晶球。超能力属性的宝可梦碰到的话⋯",
+    "obtain": [
+      "用3D打印机复制"
+    ],
+    "recipe": [
+      "完成蚊香泳士的请求 2 次后取得"
+    ],
+    "materials": [
+      {
+        "name": "玻璃",
+        "count": 3
+      },
+      {
+        "name": "线头",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:废铁方块",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "废铁方块",
+    "name_zh": "废铁方块",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-447.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/scrap-cube.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [
+      "在亮晶晶空岛取得",
+      "使用电磁飘浮获得",
+      "用宝可梦中心的3D打印机复制"
+    ],
+    "recipe": [
+      "在地图上获得▶获取地点图像"
+    ],
+    "materials": [
+      {
+        "name": "不可燃垃圾",
+        "count": 1
+      },
+      {
+        "name": "铁",
+        "count": 1
+      },
+      {
+        "name": "铜矿",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:立式麦克风",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "立式麦克风",
+    "name_zh": "立式麦克风",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-141.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/iron-stand.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "最适合舞台的麦克风。站在前面就会忍不住想唱歌。",
+    "obtain": [
+      "在凸隆隆山地博物馆取得",
+      "在商店购买（凸隆隆山地Lv.2）"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "铁条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:时尚门",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "时尚门",
+    "name_zh": "时尚门",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-288.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-288.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "从上到下都是玻璃做的门。感觉很适合现代风格的房间。",
+    "obtain": [
+      "在凸隆隆山地北侧博物馆遗址取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "玻璃",
+        "count": 2
+      },
+      {
+        "name": "铁条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:小舞台",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "小舞台",
+    "name_zh": "小舞台",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-139.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/small-stage.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "爬上去尽情跳舞吧！通电后灯光也会亮起。",
+    "obtain": [
+      "在凸隆隆山地的厨房取得",
+      "在商店购买（凸隆隆山地Lv.3）"
+    ],
+    "recipe": [
+      "在商店购买（凸隆隆山地 Lv. 5）"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 2
+      },
+      {
+        "name": "光之石",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:沙坑",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "沙坑",
+    "name_zh": "沙坑",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-441.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-441.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "放下来就可以玩沙。试试看能做出什么东西吧。",
+    "obtain": [],
+    "recipe": [
+      "在暗沉沉海边捡到 在地图上获得▶获取地点图像"
+    ],
+    "materials": [
+      {
+        "name": "海边沙",
+        "count": 1
+      },
+      {
+        "name": "木材",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:砂岩",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "砂岩",
+    "name_zh": "砂岩",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-772.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/sandstone.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "堆积的沙子在无尽的岁月中一点一点凝固成了岩石。",
+    "obtain": [],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "贝壳",
+        "count": 10
+      },
+      {
+        "name": "石头",
+        "count": 10
+      },
+      {
+        "name": "海边沙",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "key": "item:喇叭",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "喇叭",
+    "name_zh": "喇叭",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-138.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-138.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "放在舞台旁边或混音器旁边，感觉超嗨的。",
+    "obtain": [
+      "在凸隆隆山地博物馆1楼捡取",
+      "在商店购买（凸隆隆山地Lv.4）"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "铁条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:洒水器",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "洒水器",
+    "name_zh": "洒水器",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-606.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/sprinkler.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "噗哗地喷水，让大范围变得湿润的机器。放在水边试试看吧。",
+    "obtain": [
+      "在凸隆隆山地的农田取得",
+      "从暗沉沉海边的隐藏房间取得",
+      "从梦之岛的精灵球随机获得",
+      "在商店以100金币购买（每日更换）",
+      "用3D打印机复制"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "铁",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:溜滑梯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "溜滑梯",
+    "name_zh": "溜滑梯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-524.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/slide.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "公园里不可或缺的游乐设施。超大的存在感十足。",
+    "obtain": [
+      "在亮晶晶空岛取得",
+      "在商店购买（亮晶晶空岛Lv.2）"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "key": "item:太空梭模型",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "太空梭模型",
+    "name_zh": "太空梭模型",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-259.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-259.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "栩栩如生仿佛随时会动起来的模型。之前有在哪个博物馆展示过⋯？",
+    "obtain": [
+      "对“大遗失物”进行“鉴定”",
+      "在凸隆隆山地岳之街的博物馆遗址获得",
+      "用3D打印机复制"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:聚光灯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "聚光灯",
+    "name_zh": "聚光灯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-445.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/spotlight.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "通电后会发出强烈的光芒，照亮眼前的东西。",
+    "obtain": [
+      "在暗沉沉海边捡取",
+      "在凸隆隆山地捡取"
+    ],
+    "recipe": [
+      "在暗沉沉海边捡到 在地图上获得▶获取地点图像"
+    ],
+    "materials": [
+      {
+        "name": "海玻璃碎片",
+        "count": 1
+      },
+      {
+        "name": "铁",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:锐利鸟嘴",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "锐利鸟嘴",
+    "name_zh": "锐利鸟嘴",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-187.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/sharp-beak.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "又长又尖的鸟喙。放进相框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:头盖化石",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "头盖化石",
+    "name_zh": "头盖化石",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-349.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-349.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "古代宝可梦的化石。像硬邦邦的头盖骨。",
+    "obtain": [
+      "在亮晶晶空岛用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:头锤化石（头）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "头锤化石（头）",
+    "name_zh": "头锤化石（头）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-346.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-346.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "古代宝可梦的头部化石。头盖骨高高隆起。",
+    "obtain": [
+      "在亮晶晶空岛用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:头锤化石（身）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "头锤化石（身）",
+    "name_zh": "头锤化石（身）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-347.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-347.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "古代宝可梦的躯干化石。身体很大但手臂偏小。",
+    "obtain": [
+      "在亮晶晶空岛用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:头锤化石（尾）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "头锤化石（尾）",
+    "name_zh": "头锤化石（尾）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-348.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/headbutt-fossil-tail.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "古代宝可梦的尾巴化石。根部粗壮又结实。",
+    "obtain": [
+      "在亮晶晶空岛用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:石灰石",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "石灰石",
+    "name_zh": "石灰石",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-225.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/limestone.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [
+      "在凸隆隆山地洞窟周围取得",
+      "在亮晶晶空岛取得",
+      "在岩山梦之岛获得"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 1
+      },
+      {
+        "name": "石头",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:铁轨",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "铁轨",
+    "name_zh": "铁轨",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-81.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-81.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "铺设轨道来建造道路吧。搭上矿车就能一口气移动过去。",
+    "obtain": [
+      "在凸隆隆山地捡取"
+    ],
+    "recipe": [
+      "在地图上获得▶获取地点图像"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 1
+      },
+      {
+        "name": "石头",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:洗衣机",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "洗衣机",
+    "name_zh": "洗衣机",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-455.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/washing-machine.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "通电后会发出声音，但好像没办法用来洗衣服。",
+    "obtain": [
+      "将暗沉沉海边环境等级提升至5后取得"
+    ],
+    "recipe": [
+      "在商店购买（暗沉沉海边 Lv. 5）"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:洗脸台",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "洗脸台",
+    "name_zh": "洗脸台",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-521.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-521.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "用木头打造的时尚洗脸台。转开水龙头就会哗哗地流出水来。",
+    "obtain": [
+      "在暗沉沉海边南侧船只取得",
+      "在亮晶晶空岛的大楼4楼取得",
+      "用宝可梦中心的3D打印机复制"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "软塌塌黏土",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:先制之爪",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "先制之爪",
+    "name_zh": "先制之爪",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-557.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/quick-claw.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "轻巧又锐利的爪子。放进相框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:电风扇",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "电风扇",
+    "name_zh": "电风扇",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-597.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-597.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "通电让它动起来的话，说不定能变成宝可梦们的玩具喔。",
+    "obtain": [
+      "在暗沉沉海边取得",
+      "在商店购买（空空镇Lv.4）"
+    ],
+    "recipe": [
+      "宝可梦图鉴登录170只宝可梦时的奖励"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:感应器",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "感应器",
+    "name_zh": "感应器",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-858.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/laser-sensor.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "侦测到某种动静后，周围的东西就会很巧妙地动起来。",
+    "obtain": [
+      "用宝可梦中心的3D打印机复制"
+    ],
+    "recipe": [
+      "在商店购买（凸隆隆山地 Lv. 6）"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "铁条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:操控台",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "操控台",
+    "name_zh": "操控台",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-464.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-464.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "上面有各式各样的开关，但好像都没有反应。",
+    "obtain": [
+      "在亮晶晶空岛的大楼3楼捡取"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "玻璃",
+        "count": 1
+      },
+      {
+        "name": "铁条",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:草原草地",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "草原草地",
+    "name_zh": "草原草地",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-833.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-833.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [
+      "在干巴巴荒野取得",
+      "在空空镇获得",
+      "在荒野梦幻岛获得",
+      "滋润“干枯的草原草地”后获得"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "结实的树枝",
+        "count": 1
+      },
+      {
+        "name": "叶子",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:火把",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "火把",
+    "name_zh": "火把",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-69.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/torch.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "点上火之后就会慢慢持续燃烧，把周围照得亮亮的。",
+    "obtain": [
+      "在干巴巴荒野取得",
+      "在暗沉沉海边取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "结实的树枝",
+        "count": 1
+      },
+      {
+        "name": "叶子",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:格纹地板",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "格纹地板",
+    "name_zh": "格纹地板",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-284.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-284.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [
+      "在凸隆隆山地北侧博物馆遗址取得"
+    ],
+    "recipe": [
+      "在商店购买「浮岛房屋建造配方套组」"
+    ],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:平瓦屋顶",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "平瓦屋顶",
+    "name_zh": "平瓦屋顶",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-389.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/flat-tiled-roof.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "把屋顶稍微弄平一点，看起来就很时尚很赞。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买「屋瓦配方套组」"
+    ],
+    "materials": [
+      {
+        "name": "软塌塌黏土",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:平帐篷屋顶",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "平帐篷屋顶",
+    "name_zh": "平帐篷屋顶",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-543.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-543.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "把屋顶稍微弄平一点，看起来就很时尚很赞。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:轮胎",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "轮胎",
+    "name_zh": "轮胎",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-663.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-663.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "高高堆叠的轮胎。看起来随时要倒，但意外地不会塌。",
+    "obtain": [
+      "在亮晶晶空岛捡取",
+      "在天空的梦之岛捡取"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:格纹地板（壁纸）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "格纹地板（壁纸）",
+    "name_zh": "格纹地板（壁纸）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-747.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/levee-wallpaper.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "大房子用的壁纸。可以贴在房间的墙壁、地板和天花板上。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买「现代墙纸配方组」(需要：空空镇环境等级9)"
+    ],
+    "materials": [
+      {
+        "name": "纸",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "key": "item:平砖屋顶",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "平砖屋顶",
+    "name_zh": "平砖屋顶",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-813.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/flat-brick-roof.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "把屋顶稍微弄平一点，看起来就很时尚很赞。",
+    "obtain": [
+      "在暗沉沉海边取得"
+    ],
+    "recipe": [
+      "在商店购买「屋顶配方组」(需要：暗沉沉海边环境等级5)"
+    ],
+    "materials": [
+      {
+        "name": "砖块",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:城镇地图",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "城镇地图",
+    "name_zh": "城镇地图",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-296.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/town-map.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "某个地方的地图。虽然搞不清楚方向，但挂在墙上挺好看的。",
+    "obtain": [
+      "鉴定大型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "结实的树枝",
+        "count": 1
+      },
+      {
+        "name": "石头",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:篝火",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "篝火",
+    "name_zh": "篝火",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-7.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/bonfire.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "用树枝收集起来做成的营火。点燃后就能温暖地照亮四周。",
+    "obtain": [],
+    "recipe": [
+      "剧情中解锁工作台时取得"
+    ],
+    "materials": [
+      {
+        "name": "结实的树枝",
+        "count": 1
+      },
+      {
+        "name": "石头",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:石笋",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "nature",
+    "name": "石笋",
+    "name_zh": "石笋",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-500.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/stalagmites.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "在钟乳洞里冒出来的石笋。看起来就像大型宝可梦的獠牙。",
+    "obtain": [],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "叶子",
+        "count": 1
+      },
+      {
+        "name": "线头",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:墨海马喷泉",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "墨海马喷泉",
+    "name_zh": "墨海马喷泉",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-27.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-27.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "放在有水的地方，感觉周围的「湿润度」会增加。",
+    "obtain": [
+      "在干巴巴荒野捡取",
+      "鉴定大型遗失物",
+      "在商店购买（干巴巴荒野Lv.3）"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:盾甲化石",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "盾甲化石",
+    "name_zh": "盾甲化石",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-79.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/armor-fossil.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "古代宝可梦的化石。看起来像闪亮亮的盾牌。",
+    "obtain": [
+      "在干巴巴荒野用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "纸",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "key": "item:交叉木地板（壁纸）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "交叉木地板（壁纸）",
+    "name_zh": "交叉木地板（壁纸）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-751.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/crisscross-wooden-flooring-wallpaper.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "大房子用的壁纸。可以贴在房间的墙壁、地板和天花板上。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买「现代墙纸配方组」(需要：空空镇环境等级9)"
+    ],
+    "materials": [
+      {
+        "name": "纸",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "key": "item:直铁骨",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "直铁骨",
+    "name_zh": "直铁骨",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-753.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-753.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "往上堆叠就能完成一根气派的铁柱。",
+    "obtain": [
+      "在亮晶晶空岛取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "铁",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:直纹墙（壁纸）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "直纹墙（壁纸）",
+    "name_zh": "直纹墙（壁纸）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-776.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-776.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "大房子用的壁纸。可以贴在房间的墙壁、地板和天花板上。",
+    "obtain": [],
+    "recipe": [
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "纸",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "key": "item:直圆木",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "直圆木",
+    "name_zh": "直圆木",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-834.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/upright-log.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "圆滚滚地矗立着。排列起来也能变成原木墙壁。",
+    "obtain": [
+      "在暗沉沉海边捡取"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "小圆木",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:橡实果灯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "橡实果灯",
+    "name_zh": "橡实果灯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-178.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-178.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "挂在墙上的样子，看起来就像从树枝上垂吊下来的橡实果。",
+    "obtain": [
+      "鉴定大型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "玻璃",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:平板电脑",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "平板电脑",
+    "name_zh": "平板电脑",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-507.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-507.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "方便携带的装置。因为装在硬壳里，掉了也不用担心。",
+    "obtain": [
+      "在凸隆隆山地博物馆取得",
+      "在商店购买（凸隆隆山地Lv.5）"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "玻璃",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:新鲜胡萝卜",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "food",
+    "name": "新鲜胡萝卜",
+    "name_zh": "新鲜胡萝卜",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-18.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/fresh-carrot.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "一种吃了能恢复PP的辛辣胡萝卜。拉住叶子就能收获。",
+    "obtain": [
+      "在野外拔草取得"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:洞窟蘑菇",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "food",
+    "name": "洞窟蘑菇",
+    "name_zh": "洞窟蘑菇",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-89.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/cave-mushrooms.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "生长在洞窟或树荫等潮湿地方的蘑菇。吃了可以回复PP。",
+    "obtain": [
+      "在凸隆隆山地取得"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:吃剩的东西",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "吃剩的东西",
+    "name_zh": "吃剩的东西",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-90.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-90.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "被某个家伙吃剩的残骸。放进相框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 1
+      },
+      {
+        "name": "铁条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:木桶",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "木桶",
+    "name_zh": "木桶",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-133.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/barrel.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "什么都没装的空木桶。在上面放东西也挺不错的。",
+    "obtain": [
+      "在凸隆隆山地取得",
+      "在暗沉沉海边客船地下1楼取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 1
+      },
+      {
+        "name": "铁条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:大理石地板",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "大理石地板",
+    "name_zh": "大理石地板",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-276.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-276.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [
+      "在凸隆隆山地北侧博物馆遗址取得"
+    ],
+    "recipe": [
+      "获得石灰石"
+    ],
+    "materials": [
+      {
+        "name": "石灰石",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "key": "item:深色大理石地板",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "深色大理石地板",
+    "name_zh": "深色大理石地板",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-623.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-623.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "在商店购买（凸隆隆山地 Lv. 4）"
+    ],
+    "materials": [
+      {
+        "name": "石灰石",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "key": "item:大理石地板（壁纸）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "大理石地板（壁纸）",
+    "name_zh": "大理石地板（壁纸）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-789.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/marble-wallpaper.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "大房子用的壁纸。可以贴在房间的墙壁、地板和天花板上。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买「坚硬墙纸配方组」(需要：空空镇环境等级5)"
+    ],
+    "materials": [
+      {
+        "name": "纸",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "key": "item:探宝机",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "探宝机",
+    "name_zh": "探宝机",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-68.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-68.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "和擅长「寻宝」的宝可梦一起去找隐藏的宝物吧。",
+    "obtain": [
+      "在干巴巴荒野取得"
+    ],
+    "recipe": [
+      "空空镇的城镇环境等级达到2时在商店解锁"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:椭圆地毯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "椭圆地毯",
+    "name_zh": "椭圆地毯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-430.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-430.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "简约设计的地垫。铺在重要的道具下面吧。",
+    "obtain": [
+      "与蜂女王交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 3
+      },
+      {
+        "name": "棉花",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "key": "item:纸箱",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "纸箱",
+    "name_zh": "纸箱",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-115.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-115.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "非常轻的纸箱。里面好像什么都没装。",
+    "obtain": [
+      "在凸隆隆山地废弃矿坑深处的建筑物捡取"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "废纸",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:小圆木",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "小圆木",
+    "name_zh": "小圆木",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-1.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-1.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "加工后会变成木材，但有时也能直接当材料使用。",
+    "obtain": [
+      "在干巴巴荒野捡取"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:小型遗失物",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "小型遗失物",
+    "name_zh": "小型遗失物",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-70.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-70.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "看起来像罐头但好像不是食物。拿给蔓藤怪看看吧。",
+    "obtain": [
+      "咕咕的请求"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 2
+      },
+      {
+        "name": "棉花",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:小方形地毯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "小方形地毯",
+    "name_zh": "小方形地毯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-343.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/small-square-rug.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "简约设计的地垫。铺在重要的道具下面吧。",
+    "obtain": [
+      "在商店购买（干巴巴荒野Lv.4）",
+      "与蜂女王交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 2
+      },
+      {
+        "name": "棉花",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:小圆形地毯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "小圆形地毯",
+    "name_zh": "小圆形地毯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-653.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/small-round-rug.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "简约设计的地垫。铺在重要的道具下面吧。",
+    "obtain": [
+      "与蜂女王交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 2
+      },
+      {
+        "name": "棉花",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:小窄长地毯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "小窄长地毯",
+    "name_zh": "小窄长地毯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-654.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-654.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "简约设计的地垫。铺在重要的道具下面吧。",
+    "obtain": [
+      "与蜂女王交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 1
+      },
+      {
+        "name": "棉花",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:小垃圾桶",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "小垃圾桶",
+    "name_zh": "小垃圾桶",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-677.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-677.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "有颜色的简约垃圾桶。放在家里刚刚好。",
+    "obtain": [
+      "在暗沉沉海边取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:巧克力饼干",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "巧克力饼干",
+    "name_zh": "巧克力饼干",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-150.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/chocolate-cookies.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "伊布家族喜欢的东西。准备好桌子和椅子吧。",
+    "obtain": [
+      "在空空镇的特殊挑战中取得",
+      "用宝可梦中心的3D打印机复制"
+    ],
+    "recipe": [
+      "完成特别挑战后在商店购买（每日随机）"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:散落书籍",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "散落书籍",
+    "name_zh": "散落书籍",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-262.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-262.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "翻倒或破损的书本。看起来像是从书架上掉下来的。",
+    "obtain": [
+      "在凸隆隆山地北侧博物馆遗址取得"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:辣酱",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "food",
+    "name": "辣酱",
+    "name_zh": "辣酱",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-686.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-686.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "独特辣味让人上瘾的酱料。含在嘴里吐出来的话会变成岩浆。",
+    "obtain": [
+      "从自动贩卖机取得"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:莓莓果",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "food",
+    "name": "莓莓果",
+    "name_zh": "莓莓果",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-608.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/bruised-berry.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "叶子卷得越长就越苦。吃了可以回复PP。",
+    "obtain": [
+      "从自然生长的树木取得",
+      "捡取种子、种树并收获",
+      "与宝可梦交易",
+      "在其他玩家的城镇拍摄树木并复制"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:藤绳",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "藤绳",
+    "name_zh": "藤绳",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-48.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/rope.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "砍断生长在高处或洞窟里的植物藤蔓就能取得。",
+    "obtain": [
+      "用居合斩切断藤蔓取得"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:翅膀化石（头）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "翅膀化石（头）",
+    "name_zh": "翅膀化石（头）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-350.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wing-fossil-head.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "古代宝可梦的头部化石。锯齿状的牙齿简直像锯子一样。",
+    "obtain": [
+      "在凸隆隆山地用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:翅膀化石（右翼）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "翅膀化石（右翼）",
+    "name_zh": "翅膀化石（右翼）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-351.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wing-fossil-right-wing.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "古代宝可梦的右翼化石。指骨已经成为翅膀的一部分。",
+    "obtain": [
+      "在凸隆隆山地用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:翅膀化石（左翼）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "翅膀化石（左翼）",
+    "name_zh": "翅膀化石（左翼）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-352.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wing-fossil-left-wing.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "古代宝可梦的左翼化石。把骨头连起来就能知道翅膀的大小。",
+    "obtain": [
+      "在凸隆隆山地用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:翅膀化石（身）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "翅膀化石（身）",
+    "name_zh": "翅膀化石（身）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-353.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-353.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "古代宝可梦的躯干化石。崎岖的脊椎中央耸立着一个隆起。",
+    "obtain": [
+      "在凸隆隆山地用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:翅膀化石（尾）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "翅膀化石（尾）",
+    "name_zh": "翅膀化石（尾）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-354.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wing-fossil-tail.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "古代宝可梦的尾巴化石。细长的形状看起来能灵活弯曲。",
+    "obtain": [
+      "在凸隆隆山地用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:装饰花瓶",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "装饰花瓶",
+    "name_zh": "装饰花瓶",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-461.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-461.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "粉红色边缘像宝可梦嘴巴的花瓶。散发着淡淡的甜香。",
+    "obtain": [
+      "鉴定大型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:积木",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "积木",
+    "name_zh": "积木",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-22.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-22.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "堆叠着玩的玩具。来挑战看看能拼出什么形状吧。",
+    "obtain": [
+      "在商店购买（干巴巴荒野Lv.3）"
+    ],
+    "recipe": [
+      "完成索罗亚的委托后获得"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:干草堆",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "干草堆",
+    "name_zh": "干草堆",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-336.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-336.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [
+      "在干巴巴荒野取得"
+    ],
+    "recipe": [
+      "在商店购买（干巴巴荒野 Lv. 3）"
+    ],
+    "materials": [
+      {
+        "name": "叶子",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:干草堆（壁纸）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "干草堆（壁纸）",
+    "name_zh": "干草堆（壁纸）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-805.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/patterned-aged-stone-wall-wallpaper.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "大房子用的壁纸。可以贴在房间的墙壁、地板和天花板上。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买「自然墙纸配方组」(需要：空空镇环境等级3)"
+    ],
+    "materials": [
+      {
+        "name": "纸",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "key": "item:冰冷岩石",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "冰冷岩石",
+    "name_zh": "冰冷岩石",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-298.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-298.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "会散发冷气的不可思议岩石。放置后周围温度会下降。",
+    "obtain": [
+      "与索财灵交换随机获得"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:钓竿",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "钓竿",
+    "name_zh": "钓竿",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-47.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/fishing-rod.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "钓宝可梦的必需品。放在水边静静地等待看看吧。",
+    "obtain": [
+      "在干巴巴荒野捡取",
+      "鉴定大型遗失物",
+      "用3D打印机复制",
+      "在商店购买（空空镇Lv.3）"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:光滑遮阳棚",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "光滑遮阳棚",
+    "name_zh": "光滑遮阳棚",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-423.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-423.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "排列几个装在墙上的话，强烈日晒或下雨都不怕。",
+    "obtain": [
+      "与蜂女王交换随机获得"
+    ],
+    "recipe": [
+      "首次获得线头时"
+    ],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:冻原化石（尾）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "冻原化石（尾）",
+    "name_zh": "冻原化石（尾）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-167.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/tundra-fossil-tail.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "古代宝可梦的尾巴化石。尖端卷起来就像发条一样。",
+    "obtain": [
+      "在暗沉沉海边用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:冻原化石（头）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "冻原化石（头）",
+    "name_zh": "冻原化石（头）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-169.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/tundra-fossil-head.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "古代宝可梦的头部化石。拥有像极光般的鳍。",
+    "obtain": [
+      "在暗沉沉海边用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:冻原化石（身）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "冻原化石（身）",
+    "name_zh": "冻原化石（身）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-213.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/tundra-fossil-body.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "古代宝可梦的躯干化石。光是脊椎就相当高了。",
+    "obtain": [
+      "在暗沉沉海边用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:茶具组",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "茶具组",
+    "name_zh": "茶具组",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-798.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-798.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "豪华的茶壶和茶杯组合。来享受优雅的下午茶时光吧。",
+    "obtain": [
+      "在亮晶晶空岛取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "软塌塌黏土",
+        "count": 1
+      },
+      {
+        "name": "乃奶蔷薇茶",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:防波堤",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "防波堤",
+    "name_zh": "防波堤",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-841.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-841.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [
+      "在暗沉沉海边取得"
+    ],
+    "recipe": [
+      "在商店购买（暗沉沉海边 Lv. 8）"
+    ],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:手推车",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "手推车",
+    "name_zh": "手推车",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-131.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-131.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "装满泥土的手推车。看起来很像工地上常见的那种。",
+    "obtain": [
+      "在凸隆隆山地取得"
+    ],
+    "recipe": [
+      "宝可梦图鉴登录 200 只时的奖励"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 2
+      },
+      {
+        "name": "条纹土",
+        "count": 1
+      },
+      {
+        "name": "石头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:铁板地板（壁纸）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "铁板地板（壁纸）",
+    "name_zh": "铁板地板（壁纸）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-774.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-774.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "大房子用的壁纸。可以贴在房间的墙壁、地板和天花板上。",
+    "obtain": [],
+    "recipe": [
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "纸",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "key": "item:铁",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "铁",
+    "name_zh": "铁",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-35.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-35.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "从铁矿石中提取的金属。也会混在金属垃圾里面。",
+    "obtain": [
+      "破坏铁矿石取得",
+      "从部分宝可梦的栖息地取得",
+      "破坏方块和障碍物取得",
+      "让人回收不可燃垃圾",
+      "在野外或梦之岛捡取"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:铁阶梯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "铁阶梯",
+    "name_zh": "铁阶梯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-57.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-57.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "像工厂里会有的楼梯。因为表面有些凹凸不平，看起来不容易打滑。",
+    "obtain": [
+      "在干巴巴荒野取得"
+    ],
+    "recipe": [
+      "在商店购买（凸隆隆山地 Lv. 5）"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:铁管（横向）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "铁管（横向）",
+    "name_zh": "铁管（横向）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-61.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-61.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "把各种铁管接在一起，做出超～长的管子吧。",
+    "obtain": [
+      "在干巴巴荒野取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "铁",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:铁管（下弯）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "铁管（下弯）",
+    "name_zh": "铁管（下弯）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-62.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/iron-pipe-downward-curve.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "把各种铁管接在一起，做出超～长的管子吧。",
+    "obtain": [
+      "在干巴巴荒野取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "铁",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:铁棒",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "铁棒",
+    "name_zh": "铁条",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-94.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-94.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "在熔炉中加工的铁。非常坚硬而且沉甸甸的。",
+    "obtain": [
+      "在熔炉中加工铁"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:铁砖",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "铁砖",
+    "name_zh": "铁砖",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-270.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-270.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [
+      "在凸隆隆山地北侧博物馆遗址取得"
+    ],
+    "recipe": [
+      "在商店购买（凸隆隆山地 Lv. 4）"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:铁鹰架",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "铁鹰架",
+    "name_zh": "铁鹰架",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-534.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-534.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "建筑工地使用的坚固鹰架。板面凹凸不平不容易打滑。",
+    "obtain": [
+      "在亮晶晶空岛取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:铁鹰架踏板",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "铁鹰架踏板",
+    "name_zh": "铁鹰架踏板",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-545.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-545.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "铁制鹰架上的板子。延伸鹰架的时候可以用用看。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:铁门",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "铁门",
+    "name_zh": "铁门",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-87.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-87.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "可以双开的大门。放在庭院入口进出吧。",
+    "obtain": [
+      "在凸隆隆山地取得"
+    ],
+    "recipe": [
+      "在商店购买「海边筑屋配方组」(需要：暗沉沉海边环境等级3)"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:铁砖（壁纸）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "铁砖（壁纸）",
+    "name_zh": "铁砖（壁纸）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-775.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-775.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "大房子用的壁纸。可以贴在房间的墙壁、地板和天花板上。",
+    "obtain": [],
+    "recipe": [
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "纸",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "key": "item:铁梯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "铁梯",
+    "name_zh": "铁梯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-843.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-843.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "想去高处的时候很方便。垂直连接起来往上爬吧。",
+    "obtain": [
+      "在暗沉沉海边取得"
+    ],
+    "recipe": [
+      "在商店购买（凸隆隆山地 Lv. 5）"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:铁墙",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "铁墙",
+    "name_zh": "铁墙",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-856.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/iron-wall.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "在商店购买（凸隆隆山地 Lv. 7）"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:漂浮泡泡晴天娃娃",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "漂浮泡泡晴天娃娃",
+    "name_zh": "漂浮泡泡晴天娃娃",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-306.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/bubble-print.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "可以翻转的飘浮泡泡人偶。据说改变姿态的话天气也会跟着变呢。",
+    "obtain": [
+      "在最初的洞窟取得",
+      "每天在梦之岛取得1个",
+      "在商店购买（干巴巴荒野Lv.3）"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 2
+      },
+      {
+        "name": "玻璃",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:电视",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "电视",
+    "name_zh": "电视",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-444.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/television.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "从远处也能看清楚的大电视。因为是薄型的，搬运起来很轻松。",
+    "obtain": [
+      "在暗沉沉海边捡取",
+      "在商店购买（空空镇Lv.5）"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 2
+      },
+      {
+        "name": "玻璃",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:天窗",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "天窗",
+    "name_zh": "天窗",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-811.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/skylight.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "放在屋顶中间的话，似乎能成为不错的点缀。",
+    "obtain": [
+      "在凸隆隆山地取得"
+    ],
+    "recipe": [
+      "在商店购买「石屋顶配方组」(需要：凸隆隆山地环境等级5)"
+    ],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 1
+      },
+      {
+        "name": "玻璃",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:巨齿轮",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "巨齿轮",
+    "name_zh": "巨齿轮",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-301.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-301.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "巨锻匠加工的帅气齿轮。充满了匠人的坚持与讲究。",
+    "obtain": [
+      "让亮晶晶空岛的巨锻匠加工「铁棒」"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:大金珠",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "大金珠",
+    "name_zh": "大金珠",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-373.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-373.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "因为是纯金制的所以永远闪闪发亮。好像在收藏家之间很受欢迎。",
+    "obtain": [
+      "鉴定大型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "铜条",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:凹凸木板",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "凹凸木板",
+    "name_zh": "凹凸木板",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-721.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-721.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "大量排列起来当屋顶的话，也许能挡挡风雨。",
+    "obtain": [
+      "在亮晶晶空岛取得"
+    ],
+    "recipe": [
+      "亮晶晶空岛的城镇环境等级达到4时在商店解锁"
+    ],
+    "materials": [
+      {
+        "name": "铜条",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:桌灯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "桌灯",
+    "name_zh": "桌灯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-313.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/industrial-desk.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "简约设计的灯。放在桌上的话感觉能专心工作。",
+    "obtain": [
+      "在电脑「商店」购买",
+      "用3D打印机复制",
+      "在商店购买（暗沉沉海边Lv.2）"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "铁条",
+        "count": 1
+      },
+      {
+        "name": "木材",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:凸出瓦屋顶",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "凸出瓦屋顶",
+    "name_zh": "凸出瓦屋顶",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-387.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-387.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "做屋顶的时候用用看吧。感觉能漂亮地收在边角。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买「屋瓦配方套组」"
+    ],
+    "materials": [
+      {
+        "name": "软塌塌黏土",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:凸出帐篷屋顶",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "凸出帐篷屋顶",
+    "name_zh": "凸出帐篷屋顶",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-541.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-541.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "做屋顶的时候用用看吧。感觉能漂亮地收在边角。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:凸出砖屋顶",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "凸出砖屋顶",
+    "name_zh": "凸出砖屋顶",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-819.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-819.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "砖瓦屋顶的凸出部分。看起来能刚好收在边角。",
+    "obtain": [
+      "在暗沉沉海边取得"
+    ],
+    "recipe": [
+      "在商店购买「屋顶配方组」(需要：暗沉沉海边环境等级5)"
+    ],
+    "materials": [
+      {
+        "name": "砖块",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:电线杆",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "电线杆",
+    "name_zh": "电线杆",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-443.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-443.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "连接到发电机上使用吧。接上电线杆就能把电送到远处。",
+    "obtain": [
+      "在暗沉沉海边捡取",
+      "在大海的梦之岛捡取"
+    ],
+    "recipe": [
+      "在地图上获得▶获取地点图像"
+    ],
+    "materials": [
+      {
+        "name": "铁",
+        "count": 2
+      },
+      {
+        "name": "石头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:微波炉",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "微波炉",
+    "name_zh": "微波炉",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-664.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/microwave-oven.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "通电后会亮起来，但好像没办法加热东西。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:餐具组",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "餐具组",
+    "name_zh": "餐具组",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-452.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-452.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "摆在桌上的话，瞬间就变成高级餐厅的感觉。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "软塌塌黏土",
+        "count": 1
+      },
+      {
+        "name": "线头",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:马桶",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "马桶",
+    "name_zh": "马桶",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-737.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/toilet.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "打开盖子就能坐的马桶。在这里慢慢放松一下吧。",
+    "obtain": [
+      "在亮晶晶空岛取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "软塌塌黏土",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:透明铃铛",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "透明铃铛",
+    "name_zh": "透明铃铛",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-372.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-372.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "能听到令人安心音色的古老铃铛。在开阔的地方摇响它来召唤凤王吧。",
+    "obtain": [],
+    "recipe": [
+      "与雷公、炎帝、水君成为朋友后解锁"
+    ],
+    "materials": [
+      {
+        "name": "稀有宝可金属",
+        "count": 5
+      },
+      {
+        "name": "虹色羽毛",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "key": "item:特性护具",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "特性护具",
+    "name_zh": "特性护具",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-643.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-643.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "可爱又有个性的盾牌。放进相框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:不融冰",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "不融冰",
+    "name_zh": "不融冰",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-551.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-551.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "不受热度影响的冰。放进相框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:栖木",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "栖木",
+    "name_zh": "栖木",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-85.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/perch.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "给鸟宝可梦等停靠用的木头。摆着的话说不定会有谁飞来停呢。",
+    "obtain": [],
+    "recipe": [
+      "在地图上获得▶获取地点图像"
+    ],
+    "materials": [
+      {
+        "name": "小圆木",
+        "count": 2
+      },
+      {
+        "name": "叶子",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:番茄",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "food",
+    "name": "番茄",
+    "name_zh": "番茄",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-401.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/tomato.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "圆滚滚看起来很好吃的番茄。吃了可以回复PP。",
+    "obtain": [
+      "从暗沉沉海边的农田取得",
+      "购买种子并栽培",
+      "在梦幻岛随机出现的田地获得"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:矿车",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "矿车",
+    "name_zh": "矿车",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-419.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-419.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "在轨道上咔嗒咔嗒地跑来跑去吧。排列起来还能连接着一起跑。",
+    "obtain": [
+      "在凸隆隆山地取得",
+      "在火山的梦之岛取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "铜条",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:铜矿",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "铜矿",
+    "name_zh": "铜矿",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-75.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-75.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "含有铜的原石。做成铜锭的话就能当各种道具的材料。",
+    "obtain": [
+      "破坏铜矿石后获得"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:铜棒",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "铜棒",
+    "name_zh": "铜条",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-93.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-93.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "在熔炉中加工的铜。外观可能有点像巧克力。",
+    "obtain": [
+      "在熔炉中加工铜"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:水泥管",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "水泥管",
+    "name_zh": "水泥管",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-222.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-222.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "越接越长。就算往里面看也是一片漆黑。",
+    "obtain": [
+      "在亮晶晶空岛捡取",
+      "用3D打印机复制"
+    ],
+    "recipe": [
+      "获得混凝土时领悟"
+    ],
+    "materials": [
+      {
+        "name": "水泥",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:毒针",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "毒针",
+    "name_zh": "毒针",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-640.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-640.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "带有毒性的小针。放进相框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "软塌塌黏土",
+        "count": 1
+      },
+      {
+        "name": "线头",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:沙包",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "沙包",
+    "name_zh": "沙包",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-77.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/sandbags.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "里面装满泥土和沙子的布袋。感觉沉甸甸很重。",
+    "obtain": [
+      "在凸隆隆山地取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "软塌塌黏土",
+        "count": 1
+      },
+      {
+        "name": "线头",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:铁桶",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "铁桶",
+    "name_zh": "铁桶",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-465.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-465.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "干净滑溜的油桶。因为什么都没装所以还蛮轻的。",
+    "obtain": [
+      "在亮晶晶空岛的中央区域捡取",
+      "在入团挑战后的洞中捡取"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "铁",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:流星灯（黄）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "流星灯（黄）",
+    "name_zh": "流星灯（黄）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-51.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-51.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "通电后就像流星一样闪闪发亮。周围瞬间变得超有神秘氛围。",
+    "obtain": [
+      "鉴定大型遗失物"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:流星灯（绿）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "流星灯（绿）",
+    "name_zh": "流星灯（绿）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-86.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-86.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "通电后就像流星一样闪闪发亮。周围瞬间变得超有神秘氛围。",
+    "obtain": [
+      "鉴定大型遗失物"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:流星灯（橘）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "流星灯（橘）",
+    "name_zh": "流星灯（橘）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-155.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-155.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "通电后就像流星一样闪闪发亮。周围瞬间变得超有神秘氛围。",
+    "obtain": [
+      "鉴定大型遗失物"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:流星灯（靛蓝）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "流星灯（靛蓝）",
+    "name_zh": "流星灯（靛蓝）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-179.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-179.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "通电后就像流星一样闪闪发亮。周围瞬间变得超有神秘氛围。",
+    "obtain": [
+      "鉴定大型遗失物"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:流星灯（紫）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "流星灯（紫）",
+    "name_zh": "流星灯（紫）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-180.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-180.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "通电后就像流星一样闪闪发亮。周围瞬间变得超有神秘氛围。",
+    "obtain": [
+      "鉴定大型遗失物"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:流星灯（红）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "流星灯（红）",
+    "name_zh": "流星灯（红）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-292.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-292.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "通电后就像流星一样闪闪发亮。周围瞬间变得超有神秘氛围。",
+    "obtain": [
+      "鉴定大型遗失物"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:神秘底座",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "神秘底座",
+    "name_zh": "神秘底座",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-188.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/mysterious-stone.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "上面原本好像放着什么东西⋯⋯",
+    "obtain": [
+      "鉴定大型遗失物"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:神秘石像",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "神秘石像",
+    "name_zh": "神秘石像",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-208.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-208.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "到底是什么的雕像，好像没有人知道⋯⋯",
+    "obtain": [
+      "鉴定大型遗失物"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:神秘石板（A）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "神秘石板（A）",
+    "name_zh": "神秘石板（A）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-226.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-226.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "正面刻着图画、背面刻着类似文字的东西的神秘石板。",
+    "obtain": [
+      "用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:神秘石板（B）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "神秘石板（B）",
+    "name_zh": "神秘石板（B）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-227.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-227.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "正面刻着图画、背面刻着类似文字的东西的神秘石板。",
+    "obtain": [
+      "用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:神秘石板（C）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "神秘石板（C）",
+    "name_zh": "神秘石板（C）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-228.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-228.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "正面刻着图画、背面刻着类似文字的东西的神秘石板。",
+    "obtain": [
+      "用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:神秘石板（D）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "神秘石板（D）",
+    "name_zh": "神秘石板（D）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-229.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-229.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "正面刻着图画、背面刻着类似文字的东西的神秘石板。",
+    "obtain": [
+      "用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:神秘石板（E）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "神秘石板（E）",
+    "name_zh": "神秘石板（E）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-230.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-230.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "正面刻着图画、背面刻着类似文字的东西的神秘石板。",
+    "obtain": [
+      "用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:神秘石板（F）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "神秘石板（F）",
+    "name_zh": "神秘石板（F）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-231.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-231.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "正面刻着图画、背面刻着类似文字的东西的神秘石板。",
+    "obtain": [
+      "用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:神秘石板（G）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "神秘石板（G）",
+    "name_zh": "神秘石板（G）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-232.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-232.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "正面刻着图画、背面刻着类似文字的东西的神秘石板。",
+    "obtain": [
+      "用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:神秘石板（H）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "神秘石板（H）",
+    "name_zh": "神秘石板（H）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-233.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-233.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "正面刻着图画、背面刻着类似文字的东西的神秘石板。",
+    "obtain": [
+      "用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:神秘石板（I）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "神秘石板（I）",
+    "name_zh": "神秘石板（I）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-234.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-234.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "正面刻着图画、背面刻着类似文字的东西的神秘石板。",
+    "obtain": [
+      "用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:神秘石板（J）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "神秘石板（J）",
+    "name_zh": "神秘石板（J）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-235.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-235.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "正面刻着图画、背面刻着类似文字的东西的神秘石板。",
+    "obtain": [
+      "用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:神秘石板（K）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "神秘石板（K）",
+    "name_zh": "神秘石板（K）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-236.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-236.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "正面刻着图画、背面刻着类似文字的东西的神秘石板。",
+    "obtain": [
+      "用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:神秘石板（L）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "神秘石板（L）",
+    "name_zh": "神秘石板（L）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-237.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-237.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "正面刻着图画、背面刻着类似文字的东西的神秘石板。",
+    "obtain": [
+      "用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:神秘石板（M）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "神秘石板（M）",
+    "name_zh": "神秘石板（M）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-238.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-238.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "正面刻着图画、背面刻着类似文字的东西的神秘石板。",
+    "obtain": [
+      "用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:神秘石板（N）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "神秘石板（N）",
+    "name_zh": "神秘石板（N）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-239.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-239.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "正面刻着图画、背面刻着类似文字的东西的神秘石板。",
+    "obtain": [
+      "用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:神秘石板（O）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "神秘石板（O）",
+    "name_zh": "神秘石板（O）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-240.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-240.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "正面刻着图画、背面刻着类似文字的东西的神秘石板。",
+    "obtain": [
+      "用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:神秘石板（P）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "神秘石板（P）",
+    "name_zh": "神秘石板（P）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-241.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-241.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "正面刻着图画、背面刻着类似文字的东西的神秘石板。",
+    "obtain": [
+      "用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:神秘石板（Q）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "神秘石板（Q）",
+    "name_zh": "神秘石板（Q）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-242.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-242.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "正面刻着图画、背面刻着类似文字的东西的神秘石板。",
+    "obtain": [
+      "用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:神秘石板（R）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "神秘石板（R）",
+    "name_zh": "神秘石板（R）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-243.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-243.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "正面刻着图画、背面刻着类似文字的东西的神秘石板。",
+    "obtain": [
+      "用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:神秘石板（S）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "神秘石板（S）",
+    "name_zh": "神秘石板（S）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-244.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-244.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "正面刻着图画、背面刻着类似文字的东西的神秘石板。",
+    "obtain": [
+      "用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:神秘石板（T）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "神秘石板（T）",
+    "name_zh": "神秘石板（T）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-245.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-245.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "正面刻着图画、背面刻着类似文字的东西的神秘石板。",
+    "obtain": [
+      "用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:神秘石板（U）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "神秘石板（U）",
+    "name_zh": "神秘石板（U）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-246.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-246.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "正面刻着图画、背面刻着类似文字的东西的神秘石板。",
+    "obtain": [
+      "用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:神秘石板（V）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "神秘石板（V）",
+    "name_zh": "神秘石板（V）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-247.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-247.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "正面刻着图画、背面刻着类似文字的东西的神秘石板。",
+    "obtain": [
+      "用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:神秘石板（W）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "神秘石板（W）",
+    "name_zh": "神秘石板（W）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-248.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-248.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "正面刻着图画、背面刻着类似文字的东西的神秘石板。",
+    "obtain": [
+      "用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:神秘石板（X）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "神秘石板（X）",
+    "name_zh": "神秘石板（X）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-249.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-249.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "正面刻着图画、背面刻着类似文字的东西的神秘石板。",
+    "obtain": [
+      "用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:神秘石板（Y）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "神秘石板（Y）",
+    "name_zh": "神秘石板（Y）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-250.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-250.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "正面刻着图画、背面刻着类似文字的东西的神秘石板。",
+    "obtain": [
+      "用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:神秘石板（Z）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "神秘石板（Z）",
+    "name_zh": "神秘石板（Z）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-251.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-251.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "正面刻着图画、背面刻着类似文字的东西的神秘石板。",
+    "obtain": [
+      "用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:神秘石板（?!）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "神秘石板（?!）",
+    "name_zh": "神秘石板（?!）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-252.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/mysterious-slate.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "正面刻着图画、背面刻着类似文字的东西的神秘石板。",
+    "obtain": [
+      "用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:神秘护目镜",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "key-item",
+    "name": "神秘护目镜",
+    "name_zh": "神秘护目镜",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-315.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/mysterious-goggles.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "拥有神秘力量的护目镜。戴上后就能窥探别人的云端岛。",
+    "obtain": [
+      "在商店购买（干巴巴荒野Lv.3）"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:自然风灯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "自然风灯",
+    "name_zh": "自然风灯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-434.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-434.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "通电后就会亮起温暖的光芒，照亮周围。",
+    "obtain": [
+      "与蜂女王交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（暗沉沉海边 Lv. 4）"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 1
+      },
+      {
+        "name": "线头",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:交叉木地板",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "交叉木地板",
+    "name_zh": "交叉木地板",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-334.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-334.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "在商店购买（干巴巴荒野 Lv. 6）"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:斜面瓦屋顶",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "斜面瓦屋顶",
+    "name_zh": "斜面瓦屋顶",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-386.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-386.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "不管直的横的都排排看，试着做出屋顶吧。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买「屋瓦配方套组」"
+    ],
+    "materials": [
+      {
+        "name": "软塌塌黏土",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:斜面帐篷屋顶",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "斜面帐篷屋顶",
+    "name_zh": "斜面帐篷屋顶",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-540.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-540.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "不管直的横的都排排看，试着做出屋顶吧。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:柿仔果",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "food",
+    "name": "柿仔果",
+    "name_zh": "柿仔果",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-610.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/papers.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "特色是清爽的酸味。吃了可以恢复PP。",
+    "obtain": [
+      "从自然生长的树木取得",
+      "捡取种子、种树并收获",
+      "与宝可梦交易",
+      "在其他玩家的城镇拍摄树木并复制"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:斜面石屋顶",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "斜面石屋顶",
+    "name_zh": "斜面石屋顶",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-809.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-809.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "不管直的横的都排排看，试着做出屋顶吧。",
+    "obtain": [
+      "在凸隆隆山地取得"
+    ],
+    "recipe": [
+      "在商店购买「石屋顶配方组」(需要：凸隆隆山地环境等级5)"
+    ],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:斜面砖屋顶",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "斜面砖屋顶",
+    "name_zh": "斜面砖屋顶",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-812.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/stylish-brick-wall-middle.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "不管直的横的都排排看，试着做出屋顶吧。",
+    "obtain": [
+      "在暗沉沉海边取得"
+    ],
+    "recipe": [
+      "在商店购买「屋顶配方组」(需要：暗沉沉海边环境等级5)"
+    ],
+    "materials": [
+      {
+        "name": "砖块",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:锅子",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "锅子",
+    "name_zh": "锅子",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-439.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-439.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "煮汤用的料理工具。放在营火或炉子上吧。",
+    "obtain": [],
+    "recipe": [
+      "在凸隆隆山地捡到 在地图上获得▶获取地点图像"
+    ],
+    "materials": [
+      {
+        "name": "铜条",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:牛车",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "牛车",
+    "name_zh": "牛车",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-105.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-105.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "因为载货台很宽敞，稍微大一点的东西也放得上去。",
+    "obtain": [
+      "在凸隆隆山地捡取",
+      "在商店购买（干巴巴荒野Lv.4）"
+    ],
+    "recipe": [
+      "宝可梦图鉴登录 70 只时的奖励"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "key": "item:虹色羽毛",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "虹色羽毛",
+    "name_zh": "虹色羽毛",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-31.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-31.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "闪耀着彩虹色光芒的不可思议羽毛。好像是会飞的宝可梦掉落的。",
+    "obtain": [
+      "在晴天捡取凤王掉落的物品（用水枪灭火取得）"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:布墙",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "布墙",
+    "name_zh": "布墙",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-285.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-285.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [
+      "在凸隆隆山地北侧博物馆遗址取得"
+    ],
+    "recipe": [
+      "在商店购买（暗沉沉海边 Lv. 7）"
+    ],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:布墙（壁纸）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "布墙（壁纸）",
+    "name_zh": "布墙（壁纸）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-749.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/cloth-wall-wallpaper.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "大房子用的壁纸。可以贴在房间的墙壁、地板和天花板上。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买「现代墙纸配方组」(需要：空空镇环境等级9)"
+    ],
+    "materials": [
+      {
+        "name": "纸",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "key": "item:螺旋盆栽",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "螺旋盆栽",
+    "name_zh": "螺旋盆栽",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-65.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/leafy-plant.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "树干像螺丝一样扭转的盆栽。好像不会再长更大了。",
+    "obtain": [
+      "在暗沉沉海边取得",
+      "在商店购买（干巴巴荒野Lv.2）"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:标靶",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "标靶",
+    "name_zh": "标靶",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-195.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-195.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "以黑白圆圈为特色的靶子。放进画框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:高盆栽",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "高盆栽",
+    "name_zh": "高盆栽",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-272.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/tall-potted-plant.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "小巧纤细的棕榈树。附有花盆，放在室内也不会弄脏。",
+    "obtain": [
+      "在凸隆隆山地北侧博物馆遗址取得"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:喉咙喷雾",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "喉咙喷雾",
+    "name_zh": "喉咙喷雾",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-555.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-555.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "对疲惫喉咙很有效的喷雾。放进画框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:悠闲花种子",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "nature",
+    "name": "悠闲花种子",
+    "name_zh": "悠闲花种子",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-627.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/rawst-seeds.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "长大后会开出悠闲花朵的种子。试着种在地上吧。",
+    "obtain": [
+      "在「毽子棉收集棉花」活动期间于宝可梦中心用5个棉花交换"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:悠闲花",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "nature",
+    "name": "悠闲花",
+    "name_zh": "悠闲花",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-628.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-628.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "蓬松的黄色花朵。总是悠闲地在阳光下绽放。",
+    "obtain": [
+      "培育悠闲花种子"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:诅咒符",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "诅咒符",
+    "name_zh": "诅咒符",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-209.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-209.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "可疑又诡异的符咒。放进画框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "铠甲碎片",
+        "count": 1
+      },
+      {
+        "name": "铁条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:诅咒铠甲",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "诅咒铠甲",
+    "name_zh": "诅咒铠甲",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-300.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-300.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "用盔甲碎片做成的沉重铠甲。蕴藏着诅咒的情感。",
+    "obtain": [
+      "通过制作取得"
+    ],
+    "recipe": [
+      "获得铠甲碎片时领悟"
+    ],
+    "materials": [
+      {
+        "name": "铠甲碎片",
+        "count": 1
+      },
+      {
+        "name": "铁条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:墓碑",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "墓碑",
+    "name_zh": "墓碑",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-45.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-45.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "灵魂安详沉睡的地方。幽灵属性的宝可梦应该会很开心。",
+    "obtain": [
+      "在干巴巴荒野捡取"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:博士的收藏品",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "博士的收藏品",
+    "name_zh": "博士的收藏品",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-674.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-674.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "看起来全是破烂，但对博士来说每样都是研究对象。",
+    "obtain": [
+      "在干巴巴荒野南侧洞窟取得"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "水泥",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:叶子",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "叶子",
+    "name_zh": "叶子",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-3.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-3.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "郁郁葱葱又水嫩的叶子。砍树或割草就能取得。",
+    "obtain": [
+      "在野外割草丛捡取"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:烟火弹",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "烟火弹",
+    "name_zh": "烟火弹",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-377.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-377.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items"
+  },
+  {
+    "key": "item:烟火弹（白）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "烟火弹（白）",
+    "name_zh": "烟火弹（白）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-589.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-589.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "放进发射筒里点火，砰地发射上天吧。",
+    "obtain": [],
+    "recipe": [
+      "在凸隆隆山地剧情中取得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "结实的树枝",
+        "count": 1
+      },
+      {
+        "name": "光之石",
+        "count": 1
+      },
+      {
+        "name": "白色颜料",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:烟火弹（红）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "烟火弹（红）",
+    "name_zh": "烟火弹（红）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-590.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-590.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "放进发射筒里点火，砰地发射上天吧。",
+    "obtain": [],
+    "recipe": [
+      "在凸隆隆山地剧情中取得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "结实的树枝",
+        "count": 1
+      },
+      {
+        "name": "光之石",
+        "count": 1
+      },
+      {
+        "name": "红色颜料",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:烟火弹（绿）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "烟火弹（绿）",
+    "name_zh": "烟火弹（绿）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-591.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-591.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "放进发射筒里点火，砰地发射上天吧。",
+    "obtain": [],
+    "recipe": [
+      "在凸隆隆山地剧情中取得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "结实的树枝",
+        "count": 1
+      },
+      {
+        "name": "光之石",
+        "count": 1
+      },
+      {
+        "name": "绿色颜料",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:烟火弹（黄）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "烟火弹（黄）",
+    "name_zh": "烟火弹（黄）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-592.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-592.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "放进发射筒里点火，砰地发射上天吧。",
+    "obtain": [],
+    "recipe": [
+      "在凸隆隆山地剧情中取得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "结实的树枝",
+        "count": 1
+      },
+      {
+        "name": "光之石",
+        "count": 1
+      },
+      {
+        "name": "黄色颜料",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:烟火弹（蓝）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "烟火弹（蓝）",
+    "name_zh": "烟火弹（蓝）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-593.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-593.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "放进发射筒里点火，砰地发射上天吧。",
+    "obtain": [],
+    "recipe": [
+      "在凸隆隆山地剧情中取得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "结实的树枝",
+        "count": 1
+      },
+      {
+        "name": "光之石",
+        "count": 1
+      },
+      {
+        "name": "蓝色颜料",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:花朵墙饰",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "花朵墙饰",
+    "name_zh": "花朵墙饰",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-637.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-637.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "用各种颜色的花朵组合而成的超可爱墙壁装饰。",
+    "obtain": [
+      "在「毽子棉收集棉花」活动期间于宝可梦中心用5个棉花交换"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:毽子草水壶",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "毽子草水壶",
+    "name_zh": "毽子草水壶",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-633.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-633.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "野餐必备的肩背水壶。毽子花图案超级可爱。",
+    "obtain": [
+      "在「毽子棉收集棉花」活动期间于宝可梦中心用5个棉花交换"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:草原花",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "nature",
+    "name": "草原花",
+    "name_zh": "草原花",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-15.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-15.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "在水润大地上绽放的美丽花朵。看着看着心灵好像就被疗愈了。",
+    "obtain": [
+      "在干巴巴荒野捡取"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:笔记本电脑",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "笔记本电脑",
+    "name_zh": "笔记本电脑",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-525.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/laptop.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "方便携带的薄型笔记本电脑。试着在屏幕上显示照片吧。",
+    "obtain": [
+      "在亮晶晶空岛取得",
+      "在每日更换商店购买",
+      "用3D打印机复制"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "玻璃",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:篮子",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "篮子",
+    "name_zh": "篮子",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-50.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/picnic-basket.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "把食物放进去吧。肚子饿的宝可梦说不定会来吃喔。",
+    "obtain": [],
+    "recipe": [
+      "获得藤绳时解锁"
+    ],
+    "materials": [
+      {
+        "name": "结实的树枝",
+        "count": 1
+      },
+      {
+        "name": "藤绳",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:浴缸",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "浴缸",
+    "name_zh": "浴缸",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-517.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-517.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "设计简约的浴缸。蓄满水慢慢泡澡吧。",
+    "obtain": [
+      "在暗沉沉海边取得",
+      "在商店购买（亮晶晶空岛Lv.3）"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:心型鳞片",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "心型鳞片",
+    "name_zh": "心型鳞片",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-80.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-80.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "非常珍贵的鳞片。放进画框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "结实的树枝",
+        "count": 1
+      },
+      {
+        "name": "藤绳",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:拳击游戏机",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "拳击游戏机",
+    "name_zh": "拳击游戏机",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-485.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-485.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "测量拳击力道的机器。尽全力挥拳打下去吧。",
+    "obtain": [
+      "用宝可梦中心的3D打印机复制",
+      "在商店购买（凸隆隆山地Lv.9）"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:面包窑",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "面包窑",
+    "name_zh": "面包窑",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-501.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-501.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "做面包用的料理工具。请宝可梦帮忙点火吧。",
+    "obtain": [],
+    "recipe": [
+      "在凸隆隆山地剧情中取得"
+    ],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 2
+      },
+      {
+        "name": "小圆木",
+        "count": 2
+      },
+      {
+        "name": "火山灰",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "key": "item:发光蘑菇",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "发光蘑菇",
+    "name_zh": "发光蘑菇",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-223.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/glowing-mushrooms.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "在黑暗中也会微微发光的蘑菇。虽然不能吃，但可以当照明用。",
+    "obtain": [
+      "在干巴巴荒野捡取",
+      "在凸隆隆山地捡取",
+      "在暗沉沉海边捡取",
+      "在荒野的梦之岛捡取"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:光之石",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "光之石",
+    "name_zh": "光之石",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-224.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-224.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [
+      "在凸隆隆山地的矿山取得",
+      "在火山的梦之岛取得"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:光之黏土",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "光之黏土",
+    "name_zh": "光之黏土",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-556.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/light-clay.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "黄绿色的黏土。放进画框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:搬家套件（准备）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "搬家套件（准备）",
+    "name_zh": "搬家套件（准备）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-322.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-322.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "放在想搬移的建筑物前面，和擅长「整地」的伙伴一起拆解吧。",
+    "obtain": [
+      "在商店购买",
+      "在商店购买（需要：第2个城镇环境等级1）"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "软塌塌黏土",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:凹入瓦屋顶",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "凹入瓦屋顶",
+    "name_zh": "凹入瓦屋顶",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-388.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-388.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "想要变化屋顶造型时，放在角落就很赞。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买「屋瓦配方套组」"
+    ],
+    "materials": [
+      {
+        "name": "软塌塌黏土",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:凹入帐篷屋顶",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "凹入帐篷屋顶",
+    "name_zh": "凹入帐篷屋顶",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-542.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-542.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "想要变化屋顶造型时，放在角落就很赞。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:龟裂砂岩",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "龟裂砂岩",
+    "name_zh": "龟裂砂岩",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-771.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/cracked-sandstone.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "空空镇环境等级 8 解锁商店"
+    ],
+    "materials": [
+      {
+        "name": "砂岩",
+        "count": 1
+      },
+      {
+        "name": "石头",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:橙橙果",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "food",
+    "name": "橙橙果",
+    "name_zh": "橙橙果",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-16.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-16.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "味道朴实的树果。吃了可以恢复PP。",
+    "obtain": [
+      "用头锤从树上撞落"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:鳍化石",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "鳍化石",
+    "name_zh": "鳍化石",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-168.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-168.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "古代宝可梦的化石。看起来像薄薄的鱼鳍。",
+    "obtain": [
+      "在暗沉沉海边用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:派对餐盘",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "派对餐盘",
+    "name_zh": "派对餐盘",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-451.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/party-platter.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "派对用的盛菜盘子。在派对开始前严禁偷吃喔。",
+    "obtain": [],
+    "recipe": [
+      "在凸隆隆山地剧情中取得"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:派对纸杯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "派对纸杯",
+    "name_zh": "派对纸杯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-506.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-506.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "方便携带的纸杯。办派对的时候超好用。",
+    "obtain": [
+      "在凸隆隆山地博物馆外取得",
+      "在商店购买（凸隆隆山地Lv.4）"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "纸",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:惊吓箱",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "惊吓箱",
+    "name_zh": "惊吓箱",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-175.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-175.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "打开箱子，耿鬼就会咻地弹出来。",
+    "obtain": [
+      "在凸隆隆山地博物馆取得",
+      "鉴定大型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "key": "item:充气船",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "充气船",
+    "name_zh": "充气船",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-463.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-463.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "像床一样躺在上面也好，放在水上漂浮也很赞。",
+    "obtain": [
+      "用3D打印机复制",
+      "在商店购买（干巴巴荒野Lv.9）"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:胆怯球",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "胆怯球",
+    "name_zh": "胆怯球",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-211.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-211.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "蓝色的圆球。放进画框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:皮卡丘玩偶",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "皮卡丘玩偶",
+    "name_zh": "皮卡丘玩偶",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-206.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/pikachu-doll.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "放下来调查的话，飘飘球可能会飞过来带你去梦之岛。",
+    "obtain": [
+      "在暗沉沉海边捡取",
+      "用探宝器取得",
+      "在商店购买（空空镇Lv.3）"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:披萨",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "披萨",
+    "name_zh": "披萨",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-148.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/pizza.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "伊布家族喜欢的东西。准备好桌子和椅子吧。",
+    "obtain": [
+      "在空空镇的特殊挑战中取得"
+    ],
+    "recipe": [
+      "完成特别挑战后在商店购买（每日随机）"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:皮皮玩偶",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "皮皮玩偶",
+    "name_zh": "皮皮玩偶",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-162.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/substitute-doll.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "放下来调查的话，飘飘球可能会飞过来带你去梦之岛。",
+    "obtain": [
+      "在凸隆隆山地用探宝器取得",
+      "用3D打印机复制",
+      "在商店购买（空空镇Lv.4）"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:弹跳浴缸",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "弹跳浴缸",
+    "name_zh": "弹跳浴缸",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-166.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-166.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "就算没有放水，也能感受到波浪和泡泡的浴缸。",
+    "obtain": [
+      "鉴定大型遗失物"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:粉红小屋套件",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "kit",
+    "name": "粉红小屋套件",
+    "name_zh": "粉红小屋套件",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-321.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-321.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "可以成为百变怪和宝可梦的栖息地",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（干巴巴荒野 Lv. 5）"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 10
+      },
+      {
+        "name": "石头",
+        "count": 10
+      },
+      {
+        "name": "叶子",
+        "count": 5
+      },
+      {
+        "name": "软塌塌黏土",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "key": "item:粉红高草",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "nature",
+    "name": "粉红高草",
+    "name_zh": "粉红高草",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-403.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/pink-tall-grass.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "像花一样色彩鲜艳的草。把浮岛点缀成粉红色。",
+    "obtain": [
+      "对粉色草丛使用「翻耕」捡取"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:气球",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "气球",
+    "name_zh": "气球",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-255.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-255.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "色彩缤纷又可爱的气球。一点点微风就会摇摇晃晃。",
+    "obtain": [
+      "在暗沉沉海边船只1楼取得",
+      "在凸隆隆山地北侧博物馆旁取得",
+      "在亮晶晶空岛的巨大大楼2楼取得",
+      "在商店购买（凸隆隆山地Lv.3）"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:对焦镜",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "对焦镜",
+    "name_zh": "对焦镜",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-644.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-644.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "透明的镜片永远保持清澈。放进相框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:蓬松地毯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "蓬松地毯",
+    "name_zh": "蓬松地毯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-846.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-846.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [
+      "在暗沉沉海边城镇的船上获得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）"
+    ],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:奇妙琴弦",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "奇妙琴弦",
+    "name_zh": "奇妙琴弦",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-399.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-399.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "拨动就会发出帅气音色的弦。制作吉他或贝斯时可以用到。",
+    "obtain": [
+      "用探宝器找到发光的地面并挖掘",
+      "与索财灵交换随机获得"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:普通泥土",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "普通泥土",
+    "name_zh": "普通泥土",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-831.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/ordinary-soil.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [
+      "在干巴巴荒野取得",
+      "在空空镇获得",
+      "在荒野梦幻岛获得",
+      "滋润“干涸的普通土地”后获得"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:船舵",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "船舵",
+    "name_zh": "船舵",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-488.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-488.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "用来操控船舵的方向盘。碰一下就会转啊转。",
+    "obtain": [
+      "在暗沉沉海边南侧船只3楼取得"
+    ],
+    "recipe": [
+      "在地图上获得▶获取地点图像"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 1
+      },
+      {
+        "name": "木材",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:船门",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "船门",
+    "name_zh": "船门",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-679.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/large-wooden-door.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "附有门牌号码的高级门扉。超适合豪华客船的客房。",
+    "obtain": [
+      "在暗沉沉海边取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:船栅栏",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "船栅栏",
+    "name_zh": "船栅栏",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-850.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-850.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "船甲板上防止坠落的栏杆。排列起来就能漂亮地连接。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（暗沉沉海边 Lv. 4）"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      },
+      {
+        "name": "铁",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:踏脚石",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "踏脚石",
+    "name_zh": "踏脚石",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-332.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/stepping-stones.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "就算只是普通的石头，整齐排在地上就能变成有情调的小路。",
+    "obtain": [],
+    "recipe": [
+      "凸隆隆山地环境等级 2 解锁商店"
+    ],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:薯条",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "薯条",
+    "name_zh": "薯条",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-147.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-147.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "伊布家族喜欢的东西。准备好桌子和椅子吧。",
+    "obtain": [
+      "在空空镇的特殊挑战中取得"
+    ],
+    "recipe": [
+      "完成特别挑战后在商店购买（每日随机）"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:平底锅",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "平底锅",
+    "name_zh": "平底锅",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-156.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-156.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "做汉堡排用的料理工具。放在营火或炉子上面吧。",
+    "obtain": [],
+    "recipe": [
+      "在凸隆隆山地剧情中取得"
+    ],
+    "materials": [
+      {
+        "name": "铜条",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:窗框玻璃",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "窗框玻璃",
+    "name_zh": "窗框玻璃",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-720.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-720.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "附框架的玻璃板。当窗户或隔板都很适合。",
+    "obtain": [
+      "在亮晶晶空岛取得",
+      "在梦之岛获得",
+      "从使用建筑套件建造的建筑中获得"
+    ],
+    "recipe": [
+      "亮晶晶空岛的城镇环境等级达到4时在商店解锁"
+    ],
+    "materials": [
+      {
+        "name": "玻璃",
+        "count": 2
+      },
+      {
+        "name": "铁条",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:毛毡垫",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "毛毡垫",
+    "name_zh": "毛毡垫",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-398.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/felt-mat-wallpaper.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "让人忍不住想躺上去的蓬松地垫。摆上家饰品也很时尚。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 4
+      },
+      {
+        "name": "棉花",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "key": "item:方块灯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "方块灯",
+    "name_zh": "方块灯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-854.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-854.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "在商店购买（凸隆隆山地 Lv. 8）"
+    ],
+    "materials": [
+      {
+        "name": "光之石",
+        "count": 1
+      },
+      {
+        "name": "玻璃",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:花盆",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "花盆",
+    "name_zh": "花盆",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-217.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-217.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "种下花或蔬菜的种子，培育到长大吧。",
+    "obtain": [
+      "在亮晶晶空岛取得",
+      "在天空梦之岛获得"
+    ],
+    "recipe": [
+      "和喵喵对话后获得"
+    ],
+    "materials": [
+      {
+        "name": "砖块",
+        "count": 1
+      },
+      {
+        "name": "石头",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:油漆墙",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "油漆墙",
+    "name_zh": "油漆墙",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-828.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-828.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "在商店购买（干巴巴荒野 Lv. 7）"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:星沙",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "星沙",
+    "name_zh": "星沙",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-290.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/bumpy-beach-sand.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "加工后会变成星星碎片的沙子。可以在梦之岛取得。",
+    "obtain": [
+      "在梦之岛捡取"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:星星碎片",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "星星碎片",
+    "name_zh": "星星碎片",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-291.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/arched-tiling-fragments.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "交给从远方来的宝可梦的话，好像有时候会收到伴手礼。",
+    "obtain": [],
+    "recipe": [
+      "获得星星沙子时领悟"
+    ],
+    "materials": [
+      {
+        "name": "星沙",
+        "count": 99
+      }
+    ]
+  },
+  {
+    "key": "item:星空墙",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "星空墙",
+    "name_zh": "星空墙",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-840.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/starry-sky-wall.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [
+      "在凸隆隆山地北侧博物馆遗址取得"
+    ],
+    "recipe": [
+      "在商店购买（暗沉沉海边 Lv. 9）"
+    ],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 1
+      },
+      {
+        "name": "光之石",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "key": "item:细长蜡烛",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "细长蜡烛",
+    "name_zh": "细长蜡烛",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-44.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/slender-candle.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "点燃后火红的火焰摇摇晃晃。因为很小，放在桌上也没问题。",
+    "obtain": [
+      "在干巴巴荒野捡取",
+      "在商店购买（干巴巴荒野Lv.2）"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "结实的树枝",
+        "count": 1
+      },
+      {
+        "name": "石头",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:火焰鸭嘴宝宝雕像",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "火焰鸭嘴宝宝雕像",
+    "name_zh": "火焰鸭嘴宝宝雕像",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-207.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-207.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "在旁边放个开关按下去，嘴巴就会呼地喷出火焰。",
+    "obtain": [
+      "鉴定大型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 1
+      },
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:白板",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "白板",
+    "name_zh": "白板",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-530.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/whiteboard.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "实验室里常见的那种白板。上面写满了字和便利贴。",
+    "obtain": [
+      "在亮晶晶空岛取得",
+      "用3D打印机复制"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 1
+      },
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:书架",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "书架",
+    "name_zh": "书架",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-266.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-266.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "书本色彩缤纷排列的书架。看起来还能放很多的大小。",
+    "obtain": [
+      "在凸隆隆山地宝可梦中心前的房间取得",
+      "在凸隆隆山地博物馆遗址2楼取得",
+      "在暗沉沉海边船只3楼客房取得",
+      "在亮晶晶空岛的大楼2楼取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      },
+      {
+        "name": "纸",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:暴君化石（头）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "暴君化石（头）",
+    "name_zh": "暴君化石（头）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-142.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-142.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "古代宝可梦头部的化石。巨大的牙齿像刀子一样锐利。",
+    "obtain": [
+      "在凸隆隆山地用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:暴君化石（身）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "暴君化石（身）",
+    "name_zh": "暴君化石（身）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-143.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-143.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "古代宝可梦身体的化石。锐利的爪子好像能撕裂一切。",
+    "obtain": [
+      "在凸隆隆山地用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:暴君化石（腿）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "暴君化石（腿）",
+    "name_zh": "暴君化石（腿）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-144.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-144.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "古代宝可梦脚部的化石。两条粗壮的腿支撑着身体。",
+    "obtain": [
+      "在凸隆隆山地北侧博物馆遗址取得",
+      "在凸隆隆山地用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:暴君化石（尾）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "暴君化石（尾）",
+    "name_zh": "暴君化石（尾）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-145.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-145.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "古代宝可梦尾巴的化石。尖端像鬃毛一样刺刺的。",
+    "obtain": [
+      "在凸隆隆山地用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 1
+      },
+      {
+        "name": "棉花",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:瓶装果汁",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "瓶装果汁",
+    "name_zh": "瓶装果汁",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-635.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-635.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "瓶装的五颜六色果汁。花朵造型的瓶盖是亮点。",
+    "obtain": [
+      "在「毽子棉收集棉花」活动期间于宝可梦中心用5个棉花交换"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:破旧木箱",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "破旧木箱",
+    "name_zh": "破旧木箱",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-29.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-29.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "虽然有点破旧但很坚固的箱子。堆很多的话就有仓库的感觉了。",
+    "obtain": [
+      "在梦之岛获得",
+      "在暗沉沉海边取得"
+    ],
+    "recipe": [
+      "从水中闪光取得"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:PP提升剂",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "PP提升剂",
+    "name_zh": "PP提升剂",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-56.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-56.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "装在瓶子里的神奇液体。使用后PP的最大值会稍微提升。",
+    "obtain": [
+      "在商店购买（干巴巴荒野Lv.3等）"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:宝可金属",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "宝可金属",
+    "name_zh": "宝可金属",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-78.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/pok-metal.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "用熔炉加工宝可金属碎片。可以成为各种道具的材料。",
+    "obtain": [
+      "在熔炉中加工宝可金属碎片",
+      "通过「交易」取得",
+      "从梦之岛的黄色精灵球取得",
+      "在商店购买（干巴巴荒野Lv.6等）"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:宝可金属碎片",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "宝可金属碎片",
+    "name_zh": "宝可金属碎片",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-559.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/pok-eacute-metal-fragment.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "从宝可金属矿石中取得的金属。色彩缤纷又闪闪发亮。",
+    "obtain": [
+      "从金属矿石中采集获得"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:宝可梦中心墙（上段）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "宝可梦中心墙（上段）",
+    "name_zh": "宝可梦中心墙（上段）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-726.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-726.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:宝可梦中心墙（中段）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "宝可梦中心墙（中段）",
+    "name_zh": "宝可梦中心墙（中段）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-727.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-727.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:宝可梦中心墙（下段）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "宝可梦中心墙（下段）",
+    "name_zh": "宝可梦中心墙（下段）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-728.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-728.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:宝可梦中心墙（边框）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "宝可梦中心墙（边框）",
+    "name_zh": "宝可梦中心墙（边框）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-729.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-729.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:海洋海报",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "海洋海报",
+    "name_zh": "海洋海报",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-741.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/ocean-poster.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "充满个性的图案海报。贴在墙上展现你的品味吧。",
+    "obtain": [
+      "在前往暗沉沉海边的闸门取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "纸",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:热情海报",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "热情海报",
+    "name_zh": "热情海报",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-742.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-742.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "充满个性的图案海报。贴在墙上展现你的品味吧。",
+    "obtain": [
+      "在前往亮晶晶空岛的闸门取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "纸",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:速度海报",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "速度海报",
+    "name_zh": "速度海报",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-743.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-743.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "充满个性的图案海报。贴在墙上展现你的品味吧。",
+    "obtain": [
+      "在前往凸隆隆山地的闸门取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "纸",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:成长海报",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "成长海报",
+    "name_zh": "成长海报",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-744.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/growth-poster.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "充满个性的图案海报。贴在墙上展现你的品味吧。",
+    "obtain": [
+      "在前往干巴巴荒野的闸门取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "纸",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:普普风灯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "普普风灯",
+    "name_zh": "普普风灯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-407.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-407.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "灯泡和灯罩都亮晶晶。看着看着心情好像就变好了。",
+    "obtain": [
+      "在亮晶晶空岛城镇中央的大楼获得",
+      "与索财灵交换随机获得",
+      "与蜂女王交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（亮晶晶空岛 Lv. 8）"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "线头",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:宝可梦球图样",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "宝可梦球图样",
+    "name_zh": "宝可梦球图样",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-745.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-745.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "在商店购买（空空镇 Lv. 10）"
+    ],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:球球玄关垫",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "球球玄关垫",
+    "name_zh": "球球玄关垫",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-855.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-855.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "精灵球图案的地垫。放在家门口刚刚好。",
+    "obtain": [
+      "在宝可梦中心获得"
+    ],
+    "recipe": [
+      "在商店购买（凸隆隆山地 Lv. 7）"
+    ],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:弯曲汤匙",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "弯曲汤匙",
+    "name_zh": "弯曲汤匙",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-550.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-550.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "蕴含某人念力的汤匙。放进画框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:马克杯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "马克杯",
+    "name_zh": "马克杯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-72.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-72.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "简约又好用的马克杯。换个颜色也很赞。",
+    "obtain": [
+      "在凸隆隆山地取得",
+      "在商店购买（干巴巴荒野Lv.2）"
+    ],
+    "recipe": [
+      "登录35只宝可梦时的报酬"
+    ],
+    "materials": []
+  },
+  {
+    "key": "item:岩浆岩石",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "岩浆岩石",
+    "name_zh": "岩浆岩石",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-198.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-198.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [
+      "在凸隆隆山地的矿山取得",
+      "在火山的梦之岛取得"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "铁",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:城镇路灯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "城镇路灯",
+    "name_zh": "城镇路灯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-36.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/town-streetlight.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "通电后就会柔和地发光，照亮四周。",
+    "obtain": [
+      "在干巴巴荒野捡取"
+    ],
+    "recipe": [
+      "在商店购买（空空镇 Lv. 3）"
+    ],
+    "materials": [
+      {
+        "name": "铁",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:砧板",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "砧板",
+    "name_zh": "砧板",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-489.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-489.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "做沙拉用的料理工具。把材料放进去，开始做菜吧。",
+    "obtain": [],
+    "recipe": [
+      "在凸隆隆山地剧情中取得"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:豆子种子",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "nature",
+    "name": "豆子种子",
+    "name_zh": "豆子种子",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-46.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/bean-seeds.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "长大后会结出豆子的种子。试着种在田里吧。",
+    "obtain": [
+      "从螺钉地鼠取得",
+      "在商店购买（干巴巴荒野Lv.3）"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "小圆木",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:豆子",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "food",
+    "name": "豆子",
+    "name_zh": "豆子",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-63.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-63.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "营养满满的小豆子。吃了可以恢复PP。",
+    "obtain": [
+      "在凸隆隆山地城，从田地里获得",
+      "购买种子并栽培（干燥荒野环境等级3以后）",
+      "在梦幻岛随机出现的田地获得"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "小圆木",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:人孔盖",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "人孔盖",
+    "name_zh": "人孔盖",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-665.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-665.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "像门一样啪地打开的人孔盖。放在洞口上面就能当入口。",
+    "obtain": [
+      "在亮晶晶空岛的大楼前取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:交通锥",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "交通锥",
+    "name_zh": "交通锥",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-599.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/traffic-cone.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "排列起来柱子会自动连接。非常适合施工中的场所。",
+    "obtain": [
+      "在亮晶晶空岛取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:替身玩偶",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "替身玩偶",
+    "name_zh": "替身玩偶",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-164.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-164.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "放下来调查的话，飘飘球可能会飞过来带你去梦之岛。",
+    "obtain": [
+      "用探宝器找到发光的地面并挖掘",
+      "用3D打印机复制",
+      "在商店购买（空空镇Lv.7）"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:水桶",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "水桶",
+    "name_zh": "水桶",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-309.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-309.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "在桶里蓄水，让宝可梦们来帮忙浇水吧。",
+    "obtain": [
+      "在商店购买（干巴巴荒野Lv.3）"
+    ],
+    "recipe": [
+      "在干巴巴荒野获得 在地图上获得▶获取地点图像"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      },
+      {
+        "name": "藤绳",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:水玉点点图样",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "水玉点点图样",
+    "name_zh": "水玉点点图样",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-826.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/fresh-water.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "在商店购买（干巴巴荒野 Lv. 10）"
+    ],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:绿色高草",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "nature",
+    "name": "绿色草",
+    "name_zh": "绿色草",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-6.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-6.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "散发着淡淡泥土香气的草丛。宝可梦好像会跑来躲藏呢。",
+    "obtain": [
+      "在干巴巴荒野等地对绿色的草丛使用「翻耕」"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:港口柱",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "港口柱",
+    "name_zh": "港口柱",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-58.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/extravagant-pillar-upper.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "港口常见的链条连接柱。排列起来会漂亮地连在一起。",
+    "obtain": [
+      "在干巴巴荒野取得"
+    ],
+    "recipe": [
+      "在商店购买（暗沉沉海边 Lv. 3）"
+    ],
+    "materials": [
+      {
+        "name": "铁",
+        "count": 2
+      },
+      {
+        "name": "藤绳",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:港口路灯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "港口路灯",
+    "name_zh": "港口路灯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-533.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-533.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "能感受港湾小镇氛围的街灯。游泳圈装饰是一大亮点。",
+    "obtain": [
+      "在暗沉沉海边取得"
+    ],
+    "recipe": [
+      "在商店购买"
+    ],
+    "materials": [
+      {
+        "name": "铁",
+        "count": 1
+      },
+      {
+        "name": "石头",
+        "count": 1
+      },
+      {
+        "name": "海玻璃碎片",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:迷你水闸",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "迷你水闸",
+    "name_zh": "迷你水闸",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-55.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-55.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "转动上方的把手来控制水流的通行与阻断吧。",
+    "obtain": [
+      "在干巴巴荒野取得",
+      "在商店购买（暗沉沉海边Lv.5）"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "铁",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:迷你书架",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "迷你书架",
+    "name_zh": "迷你书架",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-454.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/mini-bookcase.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "塞满了好多书的小书架。放在小角落也很合适。",
+    "obtain": [
+      "在亮晶晶空岛取得"
+    ],
+    "recipe": [
+      "获得纸时领悟"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 1
+      },
+      {
+        "name": "纸",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:迷你发电机",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "迷你发电机",
+    "name_zh": "迷你发电机",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-616.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-616.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "只要随意放在喜欢的地方就能自动发电的优秀好物。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买“迷你发电机配方”(亮晶晶空岛城Lv6)"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:监视摄影机",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "监视摄影机",
+    "name_zh": "监视摄影机",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-311.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-311.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "观察周围状况的摄影机。放在想观察的地方试试看吧。",
+    "obtain": [
+      "在干巴巴荒野取得",
+      "在商店购买（干巴巴荒野Lv.2）"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "金条",
+        "count": 1
+      },
+      {
+        "name": "水晶碎片",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:镜球",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "镜球",
+    "name_zh": "镜球",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-391.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-391.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "一开电源就闪闪发光，周围瞬间变成派对会场。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "金条",
+        "count": 1
+      },
+      {
+        "name": "水晶碎片",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:共用箱",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "共用箱",
+    "name_zh": "共用箱",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-327.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-327.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "用来放宝可梦们捡到的东西，或是选择要加工物品的箱子。",
+    "obtain": [
+      "从干巴巴荒野的球中捡取",
+      "捡取野外放置的物品"
+    ],
+    "recipe": [
+      "在商店购买（干巴巴荒野 Lv. 4）"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:除虫喷雾",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "除虫喷雾",
+    "name_zh": "除虫喷雾",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-183.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-183.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "按下按钮就会噗嘶地喷出，不可思议的气味弥漫四周。",
+    "obtain": [
+      "鉴定大型遗失物"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:食梦梦存钱筒",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "食梦梦存钱筒",
+    "name_zh": "食梦梦存钱筒",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-185.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/storage-box.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "沉甸甸的存钱筒。里面好像装了很多硬币呢。",
+    "obtain": [
+      "鉴定大型遗失物"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:闹钟",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "闹钟",
+    "name_zh": "闹钟",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-446.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/alarm-clock.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "按下去会发出很大的声响。会被吓到不由自主地醒来呢。",
+    "obtain": [
+      "在暗沉沉海边捡取",
+      "在亮晶晶空岛捡取"
+    ],
+    "recipe": [
+      "在暗沉沉海边捡到 在地图上获得▶获取地点图像"
+    ],
+    "materials": [
+      {
+        "name": "铁",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:百变怪旗帜",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "百变怪旗帜",
+    "name_zh": "百变怪旗帜",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-42.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-42.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "百变怪之家的标志。插在想住的房子前面吧！",
+    "obtain": [
+      "在剧情中从小火龙取得"
+    ],
+    "recipe": [
+      "剧情中在自宅设置旗帜后解锁"
+    ],
+    "materials": [
+      {
+        "name": "结实的树枝",
+        "count": 1
+      },
+      {
+        "name": "线头",
+        "count": 1
+      },
+      {
+        "name": "苹野果",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:金属膜",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "金属膜",
+    "name_zh": "金属膜",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-95.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/corrugated-metal.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "特殊的金属薄膜。放进相框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:百变怪玩偶",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "百变怪玩偶",
+    "name_zh": "百变怪玩偶",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-163.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-163.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "放下来调查的话，飘飘球可能会飞过来带你去梦之岛。",
+    "obtain": [
+      "用探宝器找到发光的地面并挖掘",
+      "用3D打印机复制",
+      "在商店购买（纯白之街8级）"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:金属栅栏门",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "金属栅栏门",
+    "name_zh": "金属栅栏门",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-385.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-385.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "有着卷曲花纹的时尚大门。跟金属栅栏搭配起来超好看。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买「山地房屋建造配方套组」"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:金属栅栏",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "金属栅栏",
+    "name_zh": "金属栅栏",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-717.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/metal-fencing.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "只放一个或排列连接起来都很好看。",
+    "obtain": [
+      "在亮晶晶空岛取得"
+    ],
+    "recipe": [
+      "亮晶晶空岛的城镇环境等级达到2时在商店解锁"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:金属熔炉",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "金属熔炉",
+    "name_zh": "金属熔炉",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-719.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/metallic-smelting-furnace.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "能快速加工金属等材料的高性能金属熔炉。",
+    "obtain": [
+      "在亮晶晶空岛取得"
+    ],
+    "recipe": [
+      "亮晶晶空岛的城镇环境等级达到4时在商店解锁"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 10
+      },
+      {
+        "name": "宝可金属",
+        "count": 3
+      },
+      {
+        "name": "巨齿轮",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "key": "item:金属粉末",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "金属粉末",
+    "name_zh": "金属粉末",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-824.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/metal-powder.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "非常细致坚硬的金属粉末。放进相框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "key": "item:百变怪地毯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "百变怪地毯",
+    "name_zh": "百变怪地毯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-830.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/caves-of-mt-moon.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "笑咪咪的百变怪超可爱。坐上去软绵绵的好舒服。",
+    "obtain": [
+      "与索财灵交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（干巴巴荒野 Lv. 7）"
+    ],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "key": "item:菜单板",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "菜单板",
+    "name_zh": "菜单板",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-118.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-118.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "上面写着推荐菜单，不过宝可梦们好像看不懂呢。",
+    "obtain": [
+      "在暗沉沉海边捡取"
+    ],
+    "recipe": [
+      "宝可梦图鉴登录 130 只时的奖励"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 1
+      },
+      {
+        "name": "铁",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:不可燃垃圾",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "不可燃垃圾",
+    "name_zh": "不可燃垃圾",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-397.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/nonburnable-garbage.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "随处可见的垃圾。听说有些宝可梦还蛮喜欢的。",
+    "obtain": [
+      "在暗沉沉海边捡取",
+      "破坏废料方块时随机获得"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:木炭",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "木炭",
+    "name_zh": "木炭",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-92.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/charcoal.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "烧木头制成的木炭。放进相框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:木木枭时钟",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "木木枭时钟",
+    "name_zh": "木木枭时钟",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-204.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-204.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "小木屋造型的挂钟。木木枭会帮你报时喔。",
+    "obtain": [
+      "鉴定大型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:马赛克砖",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "马赛克砖",
+    "name_zh": "马赛克砖",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-612.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/damaged-mosaic-tiling.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [
+      "在亮晶晶空岛取得"
+    ],
+    "recipe": [
+      "亮晶晶空岛的城镇环境等级达到2时在商店解锁"
+    ],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:现代风地毯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "现代风地毯",
+    "name_zh": "现代风地毯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-602.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-602.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [
+      "在亮晶晶空岛取得",
+      "在暗沉沉海边取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:现代风地毯（壁纸）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "现代风地毯（壁纸）",
+    "name_zh": "现代风地毯（壁纸）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-748.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/modern-sink.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "大房子用的壁纸。可以贴在房间的墙壁、地板和天花板上。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买「现代墙纸配方组」(需要：空空镇环境等级9)"
+    ],
+    "materials": [
+      {
+        "name": "纸",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "key": "item:现代风墙（壁纸）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "现代风墙（壁纸）",
+    "name_zh": "现代风墙（壁纸）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-750.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/modern-wall-wallpaper.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "大房子用的壁纸。可以贴在房间的墙壁、地板和天花板上。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买「现代墙纸配方组」(需要：空空镇环境等级9)"
+    ],
+    "materials": [
+      {
+        "name": "纸",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "key": "item:现代风墙",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "现代风墙",
+    "name_zh": "现代风墙",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-825.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-825.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "在商店购买（干巴巴荒野 Lv. 9）"
+    ],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:现代风门",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "现代风门",
+    "name_zh": "现代风门",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-847.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-847.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "简约但坚固的门。非常适合当家里的大门。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（暗沉沉海边 Lv. 5）"
+    ],
+    "materials": [
+      {
+        "name": "玻璃",
+        "count": 1
+      },
+      {
+        "name": "铁条",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:桃桃果",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "food",
+    "name": "桃桃果",
+    "name_zh": "桃桃果",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-609.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-609.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "香甜好吃的树果。吃了可以恢复PP。",
+    "obtain": [
+      "从自然生长的树木取得",
+      "捡取种子、种树并收获",
+      "与宝可梦交易",
+      "在其他玩家的城镇拍摄树木并复制"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:精灵球灯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "精灵球灯",
+    "name_zh": "精灵球灯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-479.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-479.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "通电后会发出耀眼的光。放在台子上感觉也不错。",
+    "obtain": [
+      "在亮晶晶空岛城镇的东侧获得",
+      "完成入团挑战后在地下获得",
+      "在建筑好的双子冰窖入口获得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "玻璃",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:精灵球地垫",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "精灵球地垫",
+    "name_zh": "精灵球地垫",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-838.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/felt-mat.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "精灵球图案的地垫。放在家门口刚刚好。",
+    "obtain": [
+      "与索财灵交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（暗沉沉海边 Lv. 7）"
+    ],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 1
+      },
+      {
+        "name": "棉花",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:哞哞鲜乳咖啡",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "food",
+    "name": "哞哞鲜乳咖啡",
+    "name_zh": "哞哞鲜乳咖啡",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-684.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-684.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "温柔甜味让人放松的牛奶咖啡。含在嘴里吐出来会变成泥水。",
+    "obtain": [
+      "从自动贩卖机取得"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "铁条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:箭头招牌",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "箭头招牌",
+    "name_zh": "箭头招牌",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-43.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/arrow-sign.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "箭头形状的告示牌。放在岔路口就能指引方向。",
+    "obtain": [
+      "在干巴巴荒野捡取"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:呆呆兽地毯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "呆呆兽地毯",
+    "name_zh": "呆呆兽地毯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-821.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/slowpoke-rug.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "慵懒躺着的呆呆兽图案地毯。放空的表情真是太赞了。",
+    "obtain": [
+      "在暗沉沉海边捡取精灵球",
+      "鉴定大型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "软塌塌黏土",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:瓦屋顶装饰",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "瓦屋顶装饰",
+    "name_zh": "瓦屋顶装饰",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-390.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/tiled-roof-decoration.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "放在屋顶上试试吧。排列使用或当作点缀都很棒。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买「屋瓦配方套组」"
+    ],
+    "materials": [
+      {
+        "name": "软塌塌黏土",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:挖掘工具",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "挖掘工具",
+    "name_zh": "挖掘工具",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-132.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-132.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "看起来很坚固的鹤嘴锄和铲子，但对会挖土的宝可梦来说只是废物。",
+    "obtain": [
+      "在凸隆隆山地钟乳洞入口取得",
+      "在凸隆隆山地废弃矿坑深处取得",
+      "在岩山的梦之岛稀有获得"
+    ],
+    "recipe": [
+      "宝可梦图鉴登录 220 只时的奖励"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 1
+      },
+      {
+        "name": "木材",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:柔软沙子",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "柔软沙子",
+    "name_zh": "柔软沙子",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-641.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/soft-sand.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "触感滑顺的细砂。放进相框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:邮箱",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "邮箱",
+    "name_zh": "邮箱",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-782.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/mailbox.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "放收到信件的箱子。摆在家门前感觉很棒。",
+    "obtain": [
+      "在亮晶晶空岛取得",
+      "在商店购买（亮晶晶空岛Lv.2）"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:地板开关",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "地板开关",
+    "name_zh": "地板开关",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-328.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/floor-switch.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "安装在地面上的开关。踩上去周围的东西就会很棒地动起来。",
+    "obtain": [
+      "在凸隆隆山地取得"
+    ],
+    "recipe": [
+      "在商店购买（干巴巴荒野 Lv. 6）"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "光之石",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:温泉出水口",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "温泉出水口",
+    "name_zh": "温泉出水口",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-458.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/hot-spring-spout.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "放在滚烫的热水旁边就会营造出温泉般的氛围。",
+    "obtain": [],
+    "recipe": [
+      "宝可梦图鉴登录 90 只时的奖励"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:熔炉",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "熔炉",
+    "name_zh": "熔炉",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-91.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/smelting-furnace.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "加工金属等材料的炉子。请擅长「燃烧」的宝可梦来帮忙吧。",
+    "obtain": [
+      "在凸隆隆山地取得",
+      "在亮晶晶空岛取得"
+    ],
+    "recipe": [
+      "在熔炉制作铁棒"
+    ],
+    "materials": [
+      {
+        "name": "铁",
+        "count": 4
+      },
+      {
+        "name": "石头",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "key": "item:妖精之翼",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "妖精之翼",
+    "name_zh": "妖精之翼",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-199.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-199.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "照到光就会淡淡发光的羽毛。放进相框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "铁",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:横铁骨",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "横铁骨",
+    "name_zh": "横铁骨",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-752.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-752.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "坚硬又非常牢固。可以支撑建筑物的地板和屋顶。",
+    "obtain": [
+      "在亮晶晶空岛取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "铁",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:横圆木",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "横圆木",
+    "name_zh": "横圆木",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-835.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-835.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "又大又结实的圆木。排列起来就能盖成桥。",
+    "obtain": [
+      "在暗沉沉海边捡取"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "小圆木",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:铠甲碎片",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "铠甲碎片",
+    "name_zh": "铠甲碎片",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-165.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/armor-fragment.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "碎裂散落的铠甲碎片。收集起来就能打造充满心意的铠甲。",
+    "obtain": [
+      "用探宝器找到发光的地面并挖掘",
+      "与索财灵交换随机获得"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:雷丘招牌",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "雷丘招牌",
+    "name_zh": "雷丘招牌",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-158.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/raichu-sign.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "通电后霓虹灯闪闪发亮。图案是正在放电的雷丘。",
+    "obtain": [
+      "鉴定大型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 1
+      },
+      {
+        "name": "金条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:浅色古典墙（上段）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "浅色古典墙（上段）",
+    "name_zh": "浅色古典墙（上段）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-768.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-768.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "在商店购买「浅色复古墙壁配方组」(需要：空空镇环境等级8)"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 1
+      },
+      {
+        "name": "金条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:浅色古典墙（中段）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "浅色古典墙（中段）",
+    "name_zh": "浅色古典墙（中段）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-769.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-769.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "在商店购买「浅色复古墙壁配方组」(需要：空空镇环境等级8)"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 1
+      },
+      {
+        "name": "金条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:浅色古典墙（下段）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "浅色古典墙（下段）",
+    "name_zh": "浅色古典墙（下段）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-770.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-770.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "在商店购买「浅色复古墙壁配方组」(需要：空空镇环境等级8)"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 1
+      },
+      {
+        "name": "金条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:吉利蛋造型树",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "outdoor",
+    "name": "吉利蛋造型树",
+    "name_zh": "吉利蛋造型树",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-460.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-460.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "跟真正的吉利蛋一模一样的树。看着看着心情好像会变得很温柔。",
+    "obtain": [
+      "建筑治愈公园后获得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "叶子",
+        "count": 3
+      },
+      {
+        "name": "结实的树枝",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "key": "item:木子果",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "food",
+    "name": "木子果",
+    "name_zh": "木子果",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-611.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-611.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "味道均衡的树果。吃了可以恢复PP。",
+    "obtain": [
+      "从自然生长的树木取得",
+      "捡取种子、种树并收获",
+      "与宝可梦交易",
+      "在其他玩家的城镇拍摄树木并复制"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 1
+      },
+      {
+        "name": "玻璃",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:提灯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "提灯",
+    "name_zh": "提灯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-134.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-134.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "通电后会发出耀眼的光。有了它就算在黑暗的洞窟也很安心。",
+    "obtain": [
+      "在凸隆隆山地取得",
+      "在亮晶晶空岛取得"
+    ],
+    "recipe": [
+      "在商店购买（凸隆隆山地 Lv. 6）"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 1
+      },
+      {
+        "name": "玻璃",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:喷火龙地毯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "喷火龙地毯",
+    "name_zh": "喷火龙地毯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-822.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/charizard-rug.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "喷出火焰的喷火龙图案地毯。气宇轩昂的姿态魄力十足。",
+    "obtain": [
+      "鉴定大型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "铁",
+        "count": 1
+      },
+      {
+        "name": "藤绳",
+        "count": 1
+      },
+      {
+        "name": "海玻璃碎片",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:度假风灯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "度假风灯",
+    "name_zh": "度假风灯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-420.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-420.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "绳结缠绕造型的灯饰。柔和的光线营造出时尚氛围。",
+    "obtain": [],
+    "recipe": [
+      "在地图上获得▶获取地点图像"
+    ],
+    "materials": [
+      {
+        "name": "铁",
+        "count": 1
+      },
+      {
+        "name": "藤绳",
+        "count": 1
+      },
+      {
+        "name": "海玻璃碎片",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:升降机平台",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "升降机平台",
+    "name_zh": "升降机平台",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-302.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/lift-platform.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "稍微隔开放两个就能自动搬运，缆车就完成啦。",
+    "obtain": [
+      "在亮晶晶空岛取得"
+    ],
+    "recipe": [
+      "在亮晶晶空岛城的故事中获得"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 5
+      },
+      {
+        "name": "水泥",
+        "count": 5
+      },
+      {
+        "name": "巨齿轮",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:缎带蛋糕",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "缎带蛋糕",
+    "name_zh": "缎带蛋糕",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-153.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/ribbon-cake.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "伊布家族喜欢的东西。准备好桌子和椅子吧。",
+    "obtain": [
+      "在空空镇的特殊挑战中取得"
+    ],
+    "recipe": [
+      "完成特别挑战后在商店购买（每日随机）"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:龙之牙",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "龙之牙",
+    "name_zh": "龙之牙",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-88.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-88.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "又硬又尖锐的牙齿。放进相框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "叶子",
+        "count": 1
+      },
+      {
+        "name": "藤绳",
+        "count": 1
+      },
+      {
+        "name": "结实的树枝",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:花环",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "花环",
+    "name_zh": "花环",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-374.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wreath.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "用树枝和叶子做成的简约花环。挂在墙上优雅又好看。",
+    "obtain": [],
+    "recipe": [
+      "宝可梦图鉴登录 65 只时的奖励"
+    ],
+    "materials": [
+      {
+        "name": "叶子",
+        "count": 1
+      },
+      {
+        "name": "藤绳",
+        "count": 1
+      },
+      {
+        "name": "结实的树枝",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:稀有宝可金属",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "稀有宝可金属",
+    "name_zh": "稀有宝可金属",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-366.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/rare-pok-metal.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "将稀有宝可金属碎片放入熔炉加工。可以作为珍贵道具的材料。",
+    "obtain": [
+      "在熔炉中加工稀有宝可金属碎片",
+      "通过「交易」取得",
+      "从梦之岛的黄色精灵球取得",
+      "在商店购买（干巴巴荒野Lv.7等）"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:稀有宝可金属碎片",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "稀有宝可金属碎片",
+    "name_zh": "稀有宝可金属碎片",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-370.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/rare-pok-eacute-metal-fragment.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "偶尔能从宝可金属矿石中取得。因为很稀有，能拿到就很幸运。",
+    "obtain": [
+      "在亮晶晶空岛破坏宝可金属方块取得（需要汉堡排）",
+      "在快龙玩偶的梦之岛破坏宝可金属方块取得（需要汉堡排）"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:冰箱",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "冰箱",
+    "name_zh": "冰箱",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-598.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/refrigerator.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "摸起来有点凉凉的，但好像没办法冰东西呢。",
+    "obtain": [
+      "将凸隆隆山地环境等级提升至5后取得"
+    ],
+    "recipe": [
+      "在商店购买（凸隆隆山地 Lv. 5）"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:皮革墙",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "皮革墙",
+    "name_zh": "皮革墙",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-853.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-853.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "在商店购买（凸隆隆山地 Lv. 9）"
+    ],
+    "materials": [
+      {
+        "name": "金条",
+        "count": 1
+      },
+      {
+        "name": "棉花",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:收银机",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "收银机",
+    "name_zh": "收银机",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-440.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/cash-register.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "通电后放在桌上，宝可梦就会来「交易」喔。",
+    "obtain": [
+      "在暗沉沉海边客船内取得"
+    ],
+    "recipe": [
+      "在商店购买(需要：完成小福蛋的委托)"
+    ],
+    "materials": [
+      {
+        "name": "铁",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:野餐垫",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "野餐垫",
+    "name_zh": "野餐垫",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-632.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/music-mat-low-do.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "铺在地上，和毽子草、毽子花们一起享受野餐吧。",
+    "obtain": [
+      "在「毽子棉收集棉花」活动期间于宝可梦中心用15个棉花交换"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "砖块",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:砖边框（直线）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "砖边框（直线）",
+    "name_zh": "砖边框（直线）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-25.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-25.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "花草、田地到小池塘，全都时尚地围起来装饰吧。",
+    "obtain": [
+      "在干巴巴荒野捡取"
+    ],
+    "recipe": [
+      "在商店购买「砖块边缘配方组」(需要：暗沉沉海边环境等级6)"
+    ],
+    "materials": [
+      {
+        "name": "砖块",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:砖块",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "砖块",
+    "name_zh": "砖块",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-201.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-201.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "最适合盖建筑和铺路的砖块。其实是用黏土烧制而成的喔。",
+    "obtain": [
+      "让擅长燃烧的宝可梦加工软塌塌黏土"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "软塌塌黏土",
+        "count": 1
+      }
+    ],
+    "craft_yield": 2
+  },
+  {
+    "key": "item:砖阶梯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "砖阶梯",
+    "name_zh": "砖阶梯",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-330.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-330.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "砖造的现代风阶梯。多放几个打造时尚的街道吧。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（暗沉沉海边 Lv. 2）"
+    ],
+    "materials": [
+      {
+        "name": "砖块",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:砖墙（壁纸）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "砖墙（壁纸）",
+    "name_zh": "砖墙（壁纸）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-786.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/brick-wall-wallpaper.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "大房子用的壁纸。可以贴在房间的墙壁、地板和天花板上。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买「坚硬墙纸配方组」(需要：空空镇环境等级5)"
+    ],
+    "materials": [
+      {
+        "name": "纸",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "key": "item:砖边框（小型）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "砖边框（小型）",
+    "name_zh": "砖边框（小型）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-844.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-844.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "花草、田地到小池塘，全都时尚地围起来装饰吧。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买「砖块边缘配方组」(需要：暗沉沉海边环境等级6)"
+    ],
+    "materials": [
+      {
+        "name": "砖块",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:砖边框（转角）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "砖边框（转角）",
+    "name_zh": "砖边框（转角）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-845.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/brick-border-corner.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "花草、田地到小池塘，全都时尚地围起来装饰吧。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买「砖块边缘配方组」(需要：暗沉沉海边环境等级6)"
+    ],
+    "materials": [
+      {
+        "name": "砖块",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:砖墙",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "砖墙",
+    "name_zh": "砖墙",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-849.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/brick-wall.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "砖块",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:客房服务",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "客房服务",
+    "name_zh": "客房服务",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-210.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/room-service.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "充满高级感的餐盖和餐车。放进相框里装饰吧。",
+    "obtain": [
+      "鉴定小型遗失物"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:火箭队壁挂",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "火箭队壁挂",
+    "name_zh": "火箭队壁挂",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-536.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-536.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "某个组织的标志。看着看着就想搞些坏心眼呢。",
+    "obtain": [
+      "鉴定大型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:乃奶蔷薇茶",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "food",
+    "name": "乃奶蔷薇茶",
+    "name_zh": "乃奶蔷薇茶",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-685.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/rose-tower.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "散发着优雅香气的茶。含在嘴里吐出来会变成温泉。",
+    "obtain": [
+      "从自动贩卖机取得"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:六角形地板",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "六角形地板",
+    "name_zh": "六角形地板",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-715.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/hexagonal-flooring.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:研究论文",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "研究论文",
+    "name_zh": "研究论文",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-529.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-529.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "白纸上密密麻麻写满了细小的文字。还画有彩色的图形。",
+    "obtain": [
+      "在亮晶晶空岛的东侧区域取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "纸",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:蕾丝垫",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "蕾丝垫",
+    "name_zh": "蕾丝垫",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-431.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/simple-cushion.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "用蕾丝细密编织而成的垫子。上面摆放家饰也很时尚。",
+    "obtain": [
+      "用宝可梦中心的3D打印机复制"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 3
+      },
+      {
+        "name": "棉花",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "key": "item:钢索",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "钢索",
+    "name_zh": "钢索",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-538.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-538.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "能承受任何重量的钢线。最适合从天花板吊挂家具。",
+    "obtain": [
+      "在凸隆隆山地取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:行星模型",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "utility",
+    "name": "行星模型",
+    "name_zh": "行星模型",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-258.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/model-planet.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "来自遥远未知星球的摆饰。看起来像糖果一样好好吃。",
+    "obtain": [
+      "在凸隆隆山地北侧博物馆遗址取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:棉花",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "棉花",
+    "name_zh": "棉花",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-376.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-376.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "蓬松的触感让人爱不释手。宝可梦有时候也会来「弄乱」喔。",
+    "obtain": [
+      "从部分宝可梦的栖息地取得",
+      "在商店购买（凸隆隆山地Lv.3）"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:棉花孢子",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "material",
+    "name": "棉花孢子",
+    "name_zh": "棉花孢子",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-626.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/cotton-spores.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "小小的纯白棉絮。带去毽子草那里吧。",
+    "obtain": [
+      "在「毽子棉收集棉花」活动期间于梦之岛捡取"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "棉花",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:木屏风",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "木屏风",
+    "name_zh": "木屏风",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-380.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-380.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "高高的屏风。只放一个或排成一排当隔间都很好看。",
+    "obtain": [],
+    "recipe": [
+      "宝可梦图鉴登录 75 只时的奖励"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:木栅栏门",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "木栅栏门",
+    "name_zh": "木栅栏门",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-381.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-381.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "当建筑物的门也行，和木栅栏排在一起也很棒。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买「木制建材配方套组」（干巴巴荒野 Lv. 3）"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:木墙",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "木墙",
+    "name_zh": "木墙",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-382.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wooden-wall.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "在商店购买「荒野房屋建造配方套组」（干巴巴荒野 Lv. 3）"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:木制十字门",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "木制十字门",
+    "name_zh": "木制十字门",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-400.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-400.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "用大十字加固的门。最适合安装在船上或小屋上。",
+    "obtain": [],
+    "recipe": [
+      "在地图上获得▶获取地点图像"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:木围栏",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "木围栏",
+    "name_zh": "木围栏",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-408.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-408.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "单独一根只是细柱子，但排成一排就能做成漂亮的围栏。",
+    "obtain": [
+      "在暗沉沉海边城镇的栈桥获得"
+    ],
+    "recipe": [
+      "在暗沉沉海边的黄色精灵球中获得 在地图上获得▶获取地点图像"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:木格栅",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "木格栅",
+    "name_zh": "木格栅",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-544.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-544.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "横排时会有些缝隙的隔板。直立的话还能当屏风呢。",
+    "obtain": [
+      "在暗沉沉海边取得"
+    ],
+    "recipe": [
+      "登录80只宝可梦时的报酬"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:蓬松树柱",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "蓬松树柱",
+    "name_zh": "蓬松树柱",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-561.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-561.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "登录40只宝可梦时的报酬"
+    ],
+    "materials": [
+      {
+        "name": "叶子",
+        "count": 1
+      },
+      {
+        "name": "线头",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:木边框（直线）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "木边框（直线）",
+    "name_zh": "木边框（直线）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-603.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-603.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "花草、房屋角落到沙滩，全都漂亮地围起来装饰吧。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买「木制边框配方套组」"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:木边框（小型）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "木边框（小型）",
+    "name_zh": "木边框（小型）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-604.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-604.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "花草、房屋角落到沙滩，全都漂亮地围起来装饰吧。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买「木制边框配方套组」"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:木边框（转角）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "building",
+    "name": "木边框（转角）",
+    "name_zh": "木边框（转角）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-605.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-605.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "花草、房屋角落到沙滩，全都漂亮地围起来装饰吧。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买「木制边框配方套组」"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:浅色木墙",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "block",
+    "name": "浅色木墙",
+    "name_zh": "浅色木墙",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-790.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/light-wooden-wall.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": null,
+    "obtain": [],
+    "recipe": [
+      "空空镇环境等级 7 解锁商店"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:木墙（壁纸）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "木墙（壁纸）",
+    "name_zh": "木墙（壁纸）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-804.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wooden-wall-wallpaper.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "大房子用的壁纸。可以贴在房间的墙壁、地板和天花板上。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买「自然墙纸配方组」(需要：空空镇环境等级3)"
+    ],
+    "materials": [
+      {
+        "name": "纸",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "key": "item:蓬松树柱（壁纸）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "蓬松树柱（壁纸）",
+    "name_zh": "蓬松树柱（壁纸）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-806.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/fluff.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "大房子用的壁纸。可以贴在房间的墙壁、地板和天花板上。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买「自然墙纸配方组」(需要：空空镇环境等级3)"
+    ],
+    "materials": [
+      {
+        "name": "纸",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "key": "item:浅色木墙（壁纸）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "浅色木墙（壁纸）",
+    "name_zh": "浅色木墙（壁纸）",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-807.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/light-wooden-wall-wallpaper.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "大房子用的壁纸。可以贴在房间的墙壁、地板和天花板上。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买「自然墙纸配方组」(需要：空空镇环境等级3)"
+    ],
+    "materials": [
+      {
+        "name": "纸",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "key": "item:水力发电机",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "other",
+    "name": "水力发电机",
+    "name_zh": "水力发电机",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-486.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-486.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "建造在河流上即可发电",
+    "obtain": [],
+    "recipe": [
+      "在商店购买(需要：完成波加曼的委托)"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 15
+      },
+      {
+        "name": "石头",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "key": "item:石房间套件",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "kit",
+    "name": "石房间套件",
+    "name_zh": "石房间套件",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-320.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-320.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "可以成为百变怪和宝可梦的栖息地",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（凸隆隆山地 Lv. 2）"
+    ],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 5
+      },
+      {
+        "name": "火山灰",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "key": "item:石小屋套件",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "kit",
+    "name": "石小屋套件",
+    "name_zh": "石小屋套件",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-791.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-791.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "可以成为百变怪和宝可梦的栖息地",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（凸隆隆山地 Lv. 3）"
+    ],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 10
+      },
+      {
+        "name": "火山灰",
+        "count": 20
+      },
+      {
+        "name": "铜条",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "key": "item:石屋套件",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "kit",
+    "name": "石屋套件",
+    "name_zh": "石屋套件",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-792.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/stone-house-kit.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "可以成为百变怪和宝可梦的栖息地",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（凸隆隆山地 Lv. 4）"
+    ],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 25
+      },
+      {
+        "name": "砖块",
+        "count": 25
+      },
+      {
+        "name": "铁条",
+        "count": 25
+      }
+    ]
+  },
+  {
+    "key": "item:豪华石屋套件",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "kit",
+    "name": "豪华石屋套件",
+    "name_zh": "豪华石屋套件",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-793.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-793.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "可以成为百变怪和宝可梦的栖息地",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（凸隆隆山地 Lv. 5）"
+    ],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 25
+      },
+      {
+        "name": "砖块",
+        "count": 25
+      },
+      {
+        "name": "铁条",
+        "count": 25
+      },
+      {
+        "name": "水泥",
+        "count": 25
+      }
+    ]
+  },
+  {
+    "key": "item:疗愈公园套件",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "kit",
+    "name": "疗愈公园套件",
+    "name_zh": "疗愈公园套件",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-842.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/relaxing-park-kit.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "栖息地「吉利蛋休息站」所需的道具会出现",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（干巴巴荒野 Lv. 8）"
+    ],
+    "materials": [
+      {
+        "name": "叶子",
+        "count": 20
+      },
+      {
+        "name": "小圆木",
+        "count": 20
+      },
+      {
+        "name": "木材",
+        "count": 20
+      }
+    ]
+  },
+  {
+    "key": "item:沙房间套件",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "kit",
+    "name": "沙房间套件",
+    "name_zh": "沙房间套件",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-319.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-319.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "可以成为百变怪和宝可梦的栖息地",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（暗沉沉海边 Lv. 2）"
+    ],
+    "materials": [
+      {
+        "name": "贝壳",
+        "count": 5
+      },
+      {
+        "name": "石头",
+        "count": 5
+      },
+      {
+        "name": "海边沙",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "key": "item:沙小屋套件",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "kit",
+    "name": "沙小屋套件",
+    "name_zh": "沙小屋套件",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-801.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/sand-hut-kit.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "可以成为百变怪和宝可梦的栖息地",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（暗沉沉海边 Lv. 3）"
+    ],
+    "materials": [
+      {
+        "name": "贝壳",
+        "count": 10
+      },
+      {
+        "name": "石头",
+        "count": 10
+      },
+      {
+        "name": "海边沙",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "key": "item:沙屋套件",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "kit",
+    "name": "沙屋套件",
+    "name_zh": "沙屋套件",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-802.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-802.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "可以成为百变怪和宝可梦的栖息地",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（暗沉沉海边 Lv. 4）"
+    ],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 20
+      },
+      {
+        "name": "砖块",
+        "count": 20
+      },
+      {
+        "name": "海边沙",
+        "count": 20
+      },
+      {
+        "name": "贝壳",
+        "count": 20
+      }
+    ]
+  },
+  {
+    "key": "item:豪华沙屋套件",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "kit",
+    "name": "豪华沙屋套件",
+    "name_zh": "豪华沙屋套件",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-803.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-803.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "可以成为百变怪和宝可梦的栖息地",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（暗沉沉海边 Lv. 5）"
+    ],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 25
+      },
+      {
+        "name": "砖块",
+        "count": 25
+      },
+      {
+        "name": "海边沙",
+        "count": 25
+      },
+      {
+        "name": "贝壳",
+        "count": 25
+      }
+    ]
+  },
+  {
+    "key": "item:月夜之舞雕像套件",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "kit",
+    "name": "月夜之舞雕像套件",
+    "name_zh": "月夜之舞雕像套件",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-510.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/dance-poster.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "可以成为皮皮和皮可西的栖息地",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（凸隆隆山地 Lv. 3）"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 10
+      },
+      {
+        "name": "铜条",
+        "count": 10
+      },
+      {
+        "name": "石头",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "key": "item:都市房间套件",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "kit",
+    "name": "都市房间套件",
+    "name_zh": "都市房间套件",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-794.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-794.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "可以成为百变怪和宝可梦的栖息地",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（亮晶晶空岛 Lv. 2）"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 5
+      },
+      {
+        "name": "木材",
+        "count": 5
+      },
+      {
+        "name": "石头",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "key": "item:都市小屋套件",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "kit",
+    "name": "都市小屋套件",
+    "name_zh": "都市小屋套件",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-795.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-795.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "可以成为百变怪和宝可梦的栖息地",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（亮晶晶空岛 Lv. 3）"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 10
+      },
+      {
+        "name": "木材",
+        "count": 10
+      },
+      {
+        "name": "石头",
+        "count": 10
+      },
+      {
+        "name": "玻璃",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "key": "item:都市房屋套件",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "kit",
+    "name": "都市房屋套件",
+    "name_zh": "都市房屋套件",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-796.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-796.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "可以成为百变怪和宝可梦的栖息地",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（亮晶晶空岛 Lv. 4）"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 20
+      },
+      {
+        "name": "玻璃",
+        "count": 20
+      },
+      {
+        "name": "砖块",
+        "count": 20
+      },
+      {
+        "name": "水泥",
+        "count": 20
+      }
+    ]
+  },
+  {
+    "key": "item:豪华都市房屋套件",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "kit",
+    "name": "豪华都市房屋套件",
+    "name_zh": "豪华都市房屋套件",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-797.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/luxury-table.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "可以成为百变怪和宝可梦的栖息地",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（亮晶晶空岛 Lv. 5）"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 25
+      },
+      {
+        "name": "玻璃",
+        "count": 25
+      },
+      {
+        "name": "水泥",
+        "count": 25
+      },
+      {
+        "name": "铁条",
+        "count": 25
+      }
+    ]
+  },
+  {
+    "key": "item:灯火祭坛套件",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "kit",
+    "name": "灯火祭坛套件",
+    "name_zh": "灯火祭坛套件",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-735.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/light-antique-wall-upper.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "可以和火焰鸟成为朋友",
+    "obtain": [],
+    "recipe": [
+      "在空空镇北部捡取"
+    ],
+    "materials": [
+      {
+        "name": "铜条",
+        "count": 50
+      },
+      {
+        "name": "金条",
+        "count": 50
+      },
+      {
+        "name": "岩浆岩石",
+        "count": 50
+      },
+      {
+        "name": "宝可金属",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "key": "item:叶之房间套件",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "kit",
+    "name": "叶之房间套件",
+    "name_zh": "叶之房间套件",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-24.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-24.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "可以成为百变怪和宝可梦的栖息地",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（干巴巴荒野 Lv. 2）"
+    ],
+    "materials": [
+      {
+        "name": "结实的树枝",
+        "count": 3
+      },
+      {
+        "name": "叶子",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "key": "item:叶之小屋套件",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "kit",
+    "name": "叶之小屋套件",
+    "name_zh": "叶之小屋套件",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-316.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/leaf-cottage-kit.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "可以成为百变怪和宝可梦的栖息地",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（干巴巴荒野 Lv. 3）"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 15
+      },
+      {
+        "name": "叶子",
+        "count": 15
+      }
+    ]
+  },
+  {
+    "key": "item:叶之屋套件",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "kit",
+    "name": "叶之屋套件",
+    "name_zh": "叶之屋套件",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-317.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/leaf-house-kit.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "可以成为百变怪和宝可梦的栖息地",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（干巴巴荒野 Lv. 4）"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 20
+      },
+      {
+        "name": "叶子",
+        "count": 20
+      },
+      {
+        "name": "石头",
+        "count": 20
+      }
+    ]
+  },
+  {
+    "key": "item:豪华叶之屋套件",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "kit",
+    "name": "豪华叶之屋套件",
+    "name_zh": "豪华叶之屋套件",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-318.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-318.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "可以成为百变怪和宝可梦的栖息地",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（干巴巴荒野 Lv. 5）"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 25
+      },
+      {
+        "name": "叶子",
+        "count": 25
+      },
+      {
+        "name": "石头",
+        "count": 25
+      },
+      {
+        "name": "藤绳",
+        "count": 25
+      }
+    ]
+  },
+  {
+    "key": "item:风力发电套件",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "kit",
+    "name": "风力发电套件",
+    "name_zh": "风力发电套件",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-113.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wireless-power-transmitter.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "设置后就能发电",
+    "obtain": [],
+    "recipe": [
+      "在商店购买(需要：完成薄丘的委托)"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 5
+      },
+      {
+        "name": "线头",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "key": "item:双子冰室套件",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "kit",
+    "name": "双子冰室套件",
+    "name_zh": "双子冰室套件",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-734.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-734.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "可以和急冻鸟成为朋友",
+    "obtain": [],
+    "recipe": [
+      "在空空镇东部捡取"
+    ],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 50
+      },
+      {
+        "name": "冰块",
+        "count": 50
+      },
+      {
+        "name": "水晶碎片",
+        "count": 10
+      },
+      {
+        "name": "宝可金属",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "key": "item:废弃发电厂套件",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "kit",
+    "name": "废弃发电厂套件",
+    "name_zh": "废弃发电厂套件",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-736.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/abandoned-power-plant-kit.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "可以和闪电鸟成为朋友",
+    "obtain": [],
+    "recipe": [
+      "在空空镇南部捡取"
+    ],
+    "materials": [
+      {
+        "name": "铜条",
+        "count": 50
+      },
+      {
+        "name": "铁条",
+        "count": 50
+      },
+      {
+        "name": "海玻璃碎片",
+        "count": 50
+      },
+      {
+        "name": "砖块",
+        "count": 50
+      },
+      {
+        "name": "宝可金属",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "key": "item:火力发电套件",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "kit",
+    "name": "火力发电套件",
+    "name_zh": "火力发电套件",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/item-755.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/item-755.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/items",
+    "description": "放入燃料就能发电",
+    "obtain": [],
+    "recipe": [
+      "在商店购买(需要：完成火稚鸡的委托)"
+    ],
+    "materials": [
+      {
+        "name": "铁",
+        "count": 15
+      },
+      {
+        "name": "海玻璃碎片",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "key": "item:下午茶茶具",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Afternoon tea set",
+    "name_zh": "下午茶组",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/afternoon-tea-set.png",
+    "source_url": null,
+    "description": "伊布家族喜欢的东西。准备好桌子和椅子吧。",
+    "obtain": [
+      "在空空镇的特殊挑战中取得"
+    ],
+    "recipe": [
+      "完成特别挑战后在商店购买（每日随机）"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:街机",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Arcade machine",
+    "name_zh": "大型电玩机台",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/arcade-machine.png",
+    "source_url": null,
+    "description": "某个设施里的游戏机台。像新的一样干净，好像还能启动。",
+    "obtain": [
+      "鉴定大型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:风速狗布偶",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Arcanine doll",
+    "name_zh": "风速狗玩偶",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/arcanine-doll.png",
+    "source_url": null,
+    "description": "放下来调查的话，飘飘球可能会飞过来带你去梦之岛。",
+    "obtain": [
+      "用探宝器找到发光的地面并挖掘",
+      "在商店购买（空空镇Lv.5）"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:盾之化石",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Armor fossil",
+    "name_zh": "盾甲化石",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/armor-fossil.png",
+    "source_url": null,
+    "description": "古代宝可梦的化石。看起来像闪亮亮的盾牌。",
+    "obtain": [
+      "在干巴巴荒野用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "纸",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "key": "item:箭头告示牌",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Arrow sign",
+    "name_zh": "箭头招牌",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/arrow-sign.png",
+    "source_url": null,
+    "description": "箭头形状的告示牌。放在岔路口就能指引方向。",
+    "obtain": [
+      "在干巴巴荒野捡取"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:祥瑞铠甲",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Auspicious armor",
+    "name_zh": "祝庆铠甲",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/auspicious-armor.png",
+    "source_url": null,
+    "description": "用铠甲碎片制成的沉重盔甲。蕴藏着祝福的情感。",
+    "obtain": [
+      "通过制作取得"
+    ],
+    "recipe": [
+      "获得铠甲碎片时领悟"
+    ],
+    "materials": [
+      {
+        "name": "铠甲碎片",
+        "count": 1
+      },
+      {
+        "name": "铁条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:床铺（任意）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Bed (any)",
+    "name_zh": "床铺（任意）",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/plain-bed.png",
+    "source_url": null
+  },
+  {
+    "key": "item:树果桌灯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Berry table lamp",
+    "name_zh": "树果台灯",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/berry-table-lamp.png",
+    "source_url": null,
+    "description": "玻璃做成的芝芝果。通电后会发出水蓝色的光芒照亮周围。",
+    "obtain": [
+      "用宝可梦中心的3D打印机复制",
+      "与索财灵交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（干巴巴荒野 Lv. 9）"
+    ],
+    "materials": [
+      {
+        "name": "莓莓果",
+        "count": 1
+      },
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "线头",
+        "count": 1
+      },
+      {
+        "name": "铜条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:自行车",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Bike",
+    "name_zh": "脚踏车",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/bike.png",
+    "source_url": null,
+    "description": "看起来很高级的帅气脚踏车。跟新的一样闪闪发亮。",
+    "obtain": [
+      "鉴定大型遗失物"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:捉弄箱",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Boo-in-th-box",
+    "name_zh": "惊吓箱",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/boo-in-the-box.png",
+    "source_url": null,
+    "description": "打开箱子，耿鬼就会咻地弹出来。",
+    "obtain": [
+      "在凸隆隆山地博物馆取得",
+      "鉴定大型遗失物"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "key": "item:烤面包炉",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Bread oven",
+    "name_zh": "面包窑",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/bread-oven.png",
+    "source_url": null,
+    "description": "做面包用的料理工具。请宝可梦帮忙点火吧。",
+    "obtain": [],
+    "recipe": [
+      "在凸隆隆山地剧情中取得"
+    ],
+    "materials": [
+      {
+        "name": "石头",
+        "count": 2
+      },
+      {
+        "name": "小圆木",
+        "count": 2
+      },
+      {
+        "name": "火山灰",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "key": "item:大炮",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Cannon",
+    "name_zh": "烟火发射筒",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/cannon.png",
+    "source_url": null,
+    "description": "把烟火弹或擅长「爆炸」的宝可梦放进去点火试试吧。",
+    "obtain": [],
+    "recipe": [
+      "完成凸隆隆山地剧情后"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 1
+      },
+      {
+        "name": "木材",
+        "count": 1
+      },
+      {
+        "name": "藤绳",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:随天气改变的魔法石（雨天）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "晴雨漂浮泡泡（雨）",
+    "name_zh": "晴雨漂浮泡泡（雨）",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/castform-weather-charm.png",
+    "source_url": null,
+    "description": "可以翻转的飘浮泡泡人偶。据说改变姿态的话天气也会跟着变呢。",
+    "obtain": [
+      "在最初的洞窟取得",
+      "每天在梦之岛取得1个",
+      "在商店购买（干巴巴荒野Lv.3）"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:随天气改变的魔法石（晴天）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "晴雨漂浮泡泡（晴）",
+    "name_zh": "晴雨漂浮泡泡（晴）",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/castform-weather-charm.png",
+    "source_url": null,
+    "description": "可以翻转的飘浮泡泡人偶。据说改变姿态的话天气也会跟着变呢。",
+    "obtain": [
+      "在最初的洞窟取得",
+      "每天在梦之岛取得1个",
+      "在商店购买（干巴巴荒野Lv.3）"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:吉利蛋造型植物",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Chansey plant",
+    "name_zh": "吉利蛋造型树",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/chansey-plant.png",
+    "source_url": null,
+    "description": "跟真正的吉利蛋一模一样的树。看着看着心情好像会变得很温柔。",
+    "obtain": [
+      "建筑治愈公园后获得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "叶子",
+        "count": 3
+      },
+      {
+        "name": "结实的树枝",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "key": "item:时尚椅",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Chic chair",
+    "name_zh": "典雅椅",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/chic-chair.png",
+    "source_url": null,
+    "description": "充满高级感的迷你沙发。软绵绵的坐起来超舒服。",
+    "obtain": [
+      "在凸隆隆山地北侧博物馆遗址取得",
+      "与蜂女王交换随机获得"
+    ],
+    "recipe": [
+      "宝可梦图鉴登录95只宝可梦时的奖励"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 1
+      },
+      {
+        "name": "棉花",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:时尚沙发",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Chic sofa",
+    "name_zh": "典雅沙发",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/chic-sofa.png",
+    "source_url": null,
+    "description": "很有高级感的沙发。跟圣乘安妮号上摆的一模一样。",
+    "obtain": [
+      "在凸隆隆山地北侧博物馆遗址取得",
+      "与蜂女王交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      },
+      {
+        "name": "棉花",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:时尚桌",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Chic table",
+    "name_zh": "典雅桌",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/chic-table.png",
+    "source_url": null,
+    "description": "高级餐厅里会有的桌子。用来摆放豪华料理最合适了。",
+    "obtain": [
+      "在暗沉沉海边取得",
+      "与蜂女王交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      },
+      {
+        "name": "线头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:打扫用品",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Cleaning supplies",
+    "name_zh": "清洁用品",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/cleaning-supplies.png",
+    "source_url": null,
+    "description": "清洁剂、抹布和咩利羊造型的海绵。有了这些就能成为扫除达人。",
+    "obtain": [
+      "在亮晶晶空岛的大楼4楼取得",
+      "用宝可梦中心的3D打印机复制"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:衣柜（任意）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Closet (any)",
+    "name_zh": "衣柜（任意）",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/plain-closet.png",
+    "source_url": null
+  },
+  {
+    "key": "item:混凝土管",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Concrete pipe",
+    "name_zh": "水泥管",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/concrete-pipe.png",
+    "source_url": null,
+    "description": "越接越长。就算往里面看也是一片漆黑。",
+    "obtain": [
+      "在亮晶晶空岛捡取",
+      "用3D打印机复制"
+    ],
+    "recipe": [
+      "获得混凝土时领悟"
+    ],
+    "materials": [
+      {
+        "name": "水泥",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:控制台",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Control unit",
+    "name_zh": "操控台",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/control-unit.png",
+    "source_url": null,
+    "description": "上面有各式各样的开关，但好像都没有反应。",
+    "obtain": [
+      "在亮晶晶空岛的大楼3楼捡取"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "玻璃",
+        "count": 1
+      },
+      {
+        "name": "铁条",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:平交道栏杆",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Crossing gate",
+    "name_zh": "栅栏",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/crossing-gate.png",
+    "source_url": null,
+    "description": "黄黑相间的条纹是它的特征。可以当作矿车上下车的标记。",
+    "obtain": [
+      "在凸隆隆山地捡取",
+      "在火山梦幻岛捡到"
+    ],
+    "recipe": [
+      "听取大炭车的委托"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 1
+      },
+      {
+        "name": "铁条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:暴君化石（躯体）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Despot fossil (body)",
+    "name_zh": "暴君化石（身）",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/despot-fossil-body.png",
+    "source_url": null,
+    "description": "古代宝可梦身体的化石。锐利的爪子好像能撕裂一切。",
+    "obtain": [
+      "在凸隆隆山地用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:暴君化石（头部）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Despot fossil (head)",
+    "name_zh": "暴君化石（头）",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/despot-fossil-body.png",
+    "source_url": null,
+    "description": "古代宝可梦头部的化石。巨大的牙齿像刀子一样锐利。",
+    "obtain": [
+      "在凸隆隆山地用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:暴君化石（腿部）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Despot fossil (legs)",
+    "name_zh": "暴君化石（腿）",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/despot-fossil-body.png",
+    "source_url": null,
+    "description": "古代宝可梦脚部的化石。两条粗壮的腿支撑着身体。",
+    "obtain": [
+      "在凸隆隆山地北侧博物馆遗址取得",
+      "在凸隆隆山地用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:暴君化石（尾部）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Despot fossil (tail)",
+    "name_zh": "暴君化石（尾）",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/despot-fossil-body.png",
+    "source_url": null,
+    "description": "古代宝可梦尾巴的化石。尖端像鬃毛一样刺刺的。",
+    "obtain": [
+      "在凸隆隆山地用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 1
+      },
+      {
+        "name": "棉花",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:布偶（任意）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Doll (any)",
+    "name_zh": "布偶（任意）",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/pikachu-sofa.png",
+    "source_url": null
+  },
+  {
+    "key": "item:快龙布偶",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Dragonite doll",
+    "name_zh": "快龙玩偶",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/dragonite-doll.png",
+    "source_url": null,
+    "description": "放下来调查的话，飘飘球可能会飞过来带你去梦之岛。",
+    "obtain": [
+      "在亮晶晶空岛捡取",
+      "在商店购买（空空镇Lv.6）"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:梳妆台（任意）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Dresser (any)",
+    "name_zh": "梳妆台（任意）",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/cute-dresser.png",
+    "source_url": null
+  },
+  {
+    "key": "item:奇异蜡烛",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Eerie candle",
+    "name_zh": "诡异蜡烛",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/eerie-candle.png",
+    "source_url": null,
+    "description": "点火后会「呼——」地亮起蓝色火焰。因为很小，放在桌上也OK。",
+    "obtain": [
+      "在亮晶晶空岛城镇的北边岛屿获得",
+      "鉴定大型遗失物"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:伊布布偶",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Eevee doll",
+    "name_zh": "伊布玩偶",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/eevee-doll.png",
+    "source_url": null,
+    "description": "给飘飘球看看吧。说不定会带你去梦之岛喔。",
+    "obtain": [
+      "用探宝器找到发光的地面并挖掘",
+      "在商店购买（空空镇Lv.2）"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:食物柜台",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Food counter",
+    "name_zh": "餐饮柜台",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/food-counter.png",
+    "source_url": null,
+    "description": "派对等场合用来摆放料理最适合不过的吧台。",
+    "obtain": [
+      "在凸隆隆山地博物馆外取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      },
+      {
+        "name": "线头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:炸薯条",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Fried potatoes",
+    "name_zh": "薯条",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/fried-potatoes.png",
+    "source_url": null,
+    "description": "伊布家族喜欢的东西。准备好桌子和椅子吧。",
+    "obtain": [
+      "在空空镇的特殊挑战中取得"
+    ],
+    "recipe": [
+      "完成特别挑战后在商店购买（每日随机）"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:庭院椅",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Garden chair",
+    "name_zh": "花园椅",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/garden-chair.png",
+    "source_url": null,
+    "description": "非常适合放在庭院的椅子。坐上去就能享受优雅的心情。",
+    "obtain": [
+      "在亮晶晶空岛的东侧小岛取得",
+      "在亮晶晶空岛的大楼屋顶取得",
+      "与索财灵交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（干巴巴荒野 Lv. 7）"
+    ],
+    "materials": [
+      {
+        "name": "铁",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:庭院灯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Garden light",
+    "name_zh": "花园灯",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/garden-light.png",
+    "source_url": null,
+    "description": "非常适合放在庭院的灯。即使在夜晚也能美丽地照亮花朵。",
+    "obtain": [
+      "在亮晶晶空岛的巨大大楼屋顶取得",
+      "与索财灵交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（干巴巴荒野 Lv. 6）"
+    ],
+    "materials": [
+      {
+        "name": "铁",
+        "count": 1
+      },
+      {
+        "name": "玻璃",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:庭院桌",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Garden table",
+    "name_zh": "花园桌",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/garden-table.png",
+    "source_url": null,
+    "description": "时尚的桌子。跟庭园椅搭配放置很好看。",
+    "obtain": [
+      "在亮晶晶空岛的东侧小岛取得",
+      "在亮晶晶空岛的大楼屋顶取得",
+      "与索财灵交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（干巴巴荒野 Lv. 8）"
+    ],
+    "materials": [
+      {
+        "name": "铁",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:铁头化石（躯体）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Headbut fossil (body)",
+    "name_zh": "头锤化石（身）",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/headbutt-fossil-body.png",
+    "source_url": null,
+    "description": "古代宝可梦的躯干化石。身体很大但手臂偏小。",
+    "obtain": [
+      "在亮晶晶空岛用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:铁头化石（头部）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Headbut fossil (head)",
+    "name_zh": "头锤化石（头）",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/headbutt-fossil-head.png",
+    "source_url": null,
+    "description": "古代宝可梦的头部化石。头盖骨高高隆起。",
+    "obtain": [
+      "在亮晶晶空岛用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:铁头化石（尾部）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Headbut fossil (tail)",
+    "name_zh": "头锤化石（尾）",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/headbutt-fossil-tail.png",
+    "source_url": null,
+    "description": "古代宝可梦的尾巴化石。根部粗壮又结实。",
+    "obtain": [
+      "在亮晶晶空岛用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:篱笆",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Hedge",
+    "name_zh": "篱笆",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/stylish-hedge.png",
+    "source_url": null
+  },
+  {
+    "key": "item:篱笆（任意）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Hedge (any)",
+    "name_zh": "篱笆（任意）",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/stylish-hedge.png",
+    "source_url": null
+  },
+  {
+    "key": "item:温泉喷口",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Hot spring spout",
+    "name_zh": "温泉出水口",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/hot-spring-spout.png",
+    "source_url": null,
+    "description": "放在滚烫的热水旁边就会营造出温泉般的氛围。",
+    "obtain": [],
+    "recipe": [
+      "宝可梦图鉴登录 90 只时的奖励"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:铁梁",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Iron beam",
+    "name_zh": "横铁骨",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/iron-beam-or-column.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/iron-beam-or-column.png",
+    "source_url": null,
+    "description": "坚硬又非常牢固。可以支撑建筑物的地板和屋顶。",
+    "obtain": [
+      "在亮晶晶空岛取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "铁",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:铁制床",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Iron bed",
+    "name_zh": "铁床",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/iron-bed.png",
+    "source_url": null,
+    "description": "宽度稍微窄一点的床。很坚固，能睡得很香。",
+    "obtain": [
+      "与蜂女王交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（凸隆隆山地 Lv. 3）"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 2
+      },
+      {
+        "name": "棉花",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:铁制椅",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Iron chair",
+    "name_zh": "铁椅",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/iron-chair.png",
+    "source_url": null,
+    "description": "虽然小小的但相当坚固。看起来不会轻易坏掉。",
+    "obtain": [],
+    "recipe": [
+      "在地图上获得▶获取地点图像"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:铁管",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Iron pipes",
+    "name_zh": "堆叠铁管",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/iron-pipes.png",
+    "source_url": null,
+    "description": "工地上常见的堆得高高的铁管。",
+    "obtain": [
+      "在亮晶晶空岛取得",
+      "在凸隆隆山地取得",
+      "用宝可梦中心的3D打印机复制"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:铁架",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Iron scaffold",
+    "name_zh": "铁鹰架踏板",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/iron-scaffold.png",
+    "source_url": null,
+    "description": "铁制鹰架上的板子。延伸鹰架的时候可以用用看。",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:铁制桌",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Iron table",
+    "name_zh": "铁桌",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/iron-table.png",
+    "source_url": null,
+    "description": "铁制的简约设计。感觉很适合酷酷的房间风格。",
+    "obtain": [],
+    "recipe": [
+      "在地图上获得▶获取地点图像"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:颚之化石",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Jaw fossil",
+    "name_zh": "颚骨化石",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/jaw-fossil.png",
+    "source_url": null,
+    "description": "古代宝可梦的化石。看起来像一个大下巴。",
+    "obtain": [
+      "在凸隆隆山地用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "水泥",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:杂乱电线",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Jumbled cords",
+    "name_zh": "缠绕电线",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/jumbled-cords.png",
+    "source_url": null,
+    "description": "乱七八糟地缠在一起，已经没办法解开了。",
+    "obtain": [
+      "在亮晶晶空岛的东侧区域捡取",
+      "在入团挑战后的洞中捡取",
+      "在商店购买（空空镇Lv.5）"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "铜条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:灯笼",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Lantern",
+    "name_zh": "提灯",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/lantern.png",
+    "source_url": null,
+    "description": "通电后会发出耀眼的光。有了它就算在黑暗的洞窟也很安心。",
+    "obtain": [
+      "在凸隆隆山地取得",
+      "在亮晶晶空岛取得"
+    ],
+    "recipe": [
+      "在商店购买（凸隆隆山地 Lv. 6）"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 1
+      },
+      {
+        "name": "玻璃",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:灯具（任意）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Lighting (any)",
+    "name_zh": "灯具（任意）",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/pop-art-lamp.png",
+    "source_url": null
+  },
+  {
+    "key": "item:原木床",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Log bed",
+    "name_zh": "圆木床",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/log-bed.png",
+    "source_url": null,
+    "description": "用小圆木拼凑而成的床。在木头香气中好像能睡得很香。",
+    "obtain": [
+      "用宝可梦中心的3D打印机复制",
+      "在商店购买（干巴巴荒野Lv.2）"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "小圆木",
+        "count": 2
+      },
+      {
+        "name": "线头",
+        "count": 2
+      },
+      {
+        "name": "棉花",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:原木椅",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Log chair",
+    "name_zh": "圆木椅",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/log-chair.png",
+    "source_url": null,
+    "description": "坐在圆木上休息一下。宝可梦们说不定也会来休息喔。",
+    "obtain": [
+      "在剧情中从巨蔓藤取得"
+    ],
+    "recipe": [
+      "剧情中解锁工作台时取得"
+    ],
+    "materials": [
+      {
+        "name": "小圆木",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:原木桌",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Log table",
+    "name_zh": "圆木桌",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/log-table.png",
+    "source_url": null,
+    "description": "光是把圆木切开磨光就能变成像样的桌子。",
+    "obtain": [],
+    "recipe": [
+      "剧情中解锁工作台时取得"
+    ],
+    "materials": [
+      {
+        "name": "小圆木",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:凶兆铠甲",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Malicious armor",
+    "name_zh": "诅咒铠甲",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/malicious-armor.png",
+    "source_url": null,
+    "description": "用盔甲碎片做成的沉重铠甲。蕴藏着诅咒的情感。",
+    "obtain": [
+      "通过制作取得"
+    ],
+    "recipe": [
+      "获得铠甲碎片时领悟"
+    ],
+    "materials": [
+      {
+        "name": "铠甲碎片",
+        "count": 1
+      },
+      {
+        "name": "铁条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:现代水槽",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Modern sink",
+    "name_zh": "洗脸台",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/modern-sink.png",
+    "source_url": null,
+    "description": "用木头打造的时尚洗脸台。转开水龙头就会哗哗地流出水来。",
+    "obtain": [
+      "在暗沉沉海边南侧船只取得",
+      "在亮晶晶空岛的大楼4楼取得",
+      "用宝可梦中心的3D打印机复制"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "软塌塌黏土",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:月光舞蹈雕像",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Moonlight dance statue",
+    "name_zh": "月夜之舞雕像套件",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/moonlight-dance-statue-kit.png",
+    "source_url": null,
+    "description": "可以成为皮皮和皮可西的栖息地",
+    "obtain": [],
+    "recipe": [
+      "在商店购买（凸隆隆山地 Lv. 3）"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 10
+      },
+      {
+        "name": "铜条",
+        "count": 10
+      },
+      {
+        "name": "石头",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "key": "item:音乐地毯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Music mat",
+    "name_zh": "音乐地毯",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/music-mat-fa.png",
+    "source_url": null
+  },
+  {
+    "key": "item:报纸",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Newspaper",
+    "name_zh": "报纸",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/newspaper.png",
+    "source_url": null,
+    "description": "密密麻麻的小字。写了些什么呢？",
+    "obtain": [
+      "用3D打印机复制",
+      "在商店购买（亮晶晶空岛Lv.4）"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "纸",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:供品盘",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Offering dish",
+    "name_zh": "供奉台",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/table-setting.png",
+    "source_url": null,
+    "description": "把食物放在台子上，作为供奉给苔藓卡比兽的祭品吧。",
+    "obtain": [
+      "从云朵岛的电脑“商店”购买",
+      "完成苔藓卡比兽的委托后获得"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:纸杯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Paper party cups",
+    "name_zh": "派对纸杯",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/paper-party-cups.png",
+    "source_url": null,
+    "description": "方便携带的纸杯。办派对的时候超好用。",
+    "obtain": [
+      "在凸隆隆山地博物馆外取得",
+      "在商店购买（凸隆隆山地Lv.4）"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "纸",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:文件",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Papers",
+    "name_zh": "文件",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/papers.png",
+    "source_url": null
+  },
+  {
+    "key": "item:隔板（任意）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Partition (any)",
+    "name_zh": "隔板（任意）",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/house-partition.png",
+    "source_url": null
+  },
+  {
+    "key": "item:拼盘",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Party platter",
+    "name_zh": "派对餐盘",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/party-platter.png",
+    "source_url": null,
+    "description": "派对用的盛菜盘子。在派对开始前严禁偷吃喔。",
+    "obtain": [],
+    "recipe": [
+      "在凸隆隆山地剧情中取得"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:人形立牌",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Photo cutout board",
+    "name_zh": "大头贴看板",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/photo-cutout-board.png",
+    "source_url": null,
+    "description": "把脸对准看板上的洞，变身成正电拍拍和负电拍拍吧。",
+    "obtain": [
+      "鉴定大型遗失物",
+      "在商店购买（空空镇Lv.9）"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:野餐篮",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Picnic basket",
+    "name_zh": "篮子",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/picnic-basket.png",
+    "source_url": null,
+    "description": "把食物放进去吧。肚子饿的宝可梦说不定会来吃喔。",
+    "obtain": [],
+    "recipe": [
+      "获得藤绳时解锁"
+    ],
+    "materials": [
+      {
+        "name": "结实的树枝",
+        "count": 1
+      },
+      {
+        "name": "藤绳",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:皮卡丘布偶",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Pikachu doll",
+    "name_zh": "皮卡丘玩偶",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/pikachu-doll.png",
+    "source_url": null,
+    "description": "放下来调查的话，飘飘球可能会飞过来带你去梦之岛。",
+    "obtain": [
+      "在暗沉沉海边捡取",
+      "用探宝器取得",
+      "在商店购买（空空镇Lv.3）"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:猪笼草盆栽",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Pitcher pot plant",
+    "name_zh": "猪笼草盆栽",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/pitcher-plant-pot.png",
+    "source_url": null
+  },
+  {
+    "key": "item:简约床",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Plain bed",
+    "name_zh": "简约床",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/plain-bed.png",
+    "source_url": null
+  },
+  {
+    "key": "item:简约灯",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Plain lamp",
+    "name_zh": "自然风灯",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/plain-lamp.png",
+    "source_url": null,
+    "description": "通电后就会亮起温暖的光芒，照亮周围。",
+    "obtain": [
+      "与蜂女王交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（暗沉沉海边 Lv. 4）"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 1
+      },
+      {
+        "name": "线头",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:简约沙发",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Plain sofa",
+    "name_zh": "自然风沙发",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/plain-sofa.png",
+    "source_url": null,
+    "description": "如果有小宝可梦坐在上面的话，就坐到旁边看看吧。",
+    "obtain": [
+      "与蜂女王交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（暗沉沉海边 Lv. 3）"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 1
+      },
+      {
+        "name": "棉花",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:简约桌",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Plain table",
+    "name_zh": "自然风桌",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/plain-table.png",
+    "source_url": null,
+    "description": "简约又好摆放的桌子。试着在上面放各种东西吧。",
+    "obtain": [
+      "在暗沉沉海边取得",
+      "与蜂女王交换随机获得"
+    ],
+    "recipe": [
+      "在暗沉沉海边获得 在地图上获得▶获取地点图像"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 1
+      },
+      {
+        "name": "线头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:盘子上的食物",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "盘装食物",
+    "name_zh": "盘装食物",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/sandwiches.png",
+    "source_url": null
+  },
+  {
+    "key": "item:波普艺术床",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Pop art bed",
+    "name_zh": "普普风床",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/pop-art-bed.png",
+    "source_url": null,
+    "description": "躺下来就像在胶囊里一样。床垫也软呼呼的，感觉能睡得很沉。",
+    "obtain": [
+      "与索财灵交换随机获得",
+      "与蜂女王交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（亮晶晶空岛 Lv. 6）"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 2
+      },
+      {
+        "name": "棉花",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:波普艺术沙发",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Pop art sofa",
+    "name_zh": "普普风沙发",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/pop-art-sofa.png",
+    "source_url": null,
+    "description": "看起来软绵绵的沙发。圆润的造型超级可爱。",
+    "obtain": [
+      "在凸隆隆山地北侧博物馆遗址取得",
+      "在亮晶晶空岛的东侧小岛捡取",
+      "在商店购买（亮晶晶空岛Lv.3）",
+      "与索财灵交换随机获得",
+      "与蜂女王交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（亮晶晶空岛 Lv. 7）"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      },
+      {
+        "name": "棉花",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:波普艺术桌",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Pop art table",
+    "name_zh": "普普风桌",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/pop-art-table.png",
+    "source_url": null,
+    "description": "亮晶晶又圆滚滚的桌子。跟3D龙2一样光滑。",
+    "obtain": [
+      "在亮晶晶空岛的大楼2楼捡取",
+      "与索财灵交换随机获得",
+      "与蜂女王交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（亮晶晶空岛 Lv. 7）"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 2
+      },
+      {
+        "name": "线头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:告示牌（任意）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Post (any)",
+    "name_zh": "告示牌（任意）",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/sign.png",
+    "source_url": null
+  },
+  {
+    "key": "item:盆栽",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Potted plant",
+    "name_zh": "盆栽",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/twisted-potted-plant.png",
+    "source_url": null
+  },
+  {
+    "key": "item:盆栽（任意）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Potted plant (any)",
+    "name_zh": "盆栽（任意）",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/twisted-potted-plant.png",
+    "source_url": null
+  },
+  {
+    "key": "item:教授的宝物堆",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Professor's treasure trove",
+    "name_zh": "博士的收藏品",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/corkboard.png",
+    "source_url": null,
+    "description": "看起来全是破烂，但对博士来说每样都是研究对象。",
+    "obtain": [
+      "在干巴巴荒野南侧洞窟取得"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "水泥",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:打靶游戏机",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Punching game",
+    "name_zh": "拳击游戏机",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/punching-game.png",
+    "source_url": null,
+    "description": "测量拳击力道的机器。尽全力挥拳打下去吧。",
+    "obtain": [
+      "用宝可梦中心的3D打印机复制",
+      "在商店购买（凸隆隆山地Lv.9）"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:度假村吊床",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Resort hammock",
+    "name_zh": "度假风床",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/resort-hammock.png",
+    "source_url": null,
+    "description": "用藤蔓编织而成的清凉感床铺。躺下来就像在度假村一样。",
+    "obtain": [
+      "与蜂女王交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（暗沉沉海边 Lv. 8）"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      },
+      {
+        "name": "棉花",
+        "count": 2
+      },
+      {
+        "name": "藤绳",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:度假村灯饰",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Resort light",
+    "name_zh": "度假风灯",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/resort-light.png",
+    "source_url": null,
+    "description": "绳结缠绕造型的灯饰。柔和的光线营造出时尚氛围。",
+    "obtain": [],
+    "recipe": [
+      "在地图上获得▶获取地点图像"
+    ],
+    "materials": [
+      {
+        "name": "铁",
+        "count": 1
+      },
+      {
+        "name": "藤绳",
+        "count": 1
+      },
+      {
+        "name": "海玻璃碎片",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:度假村沙发",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Resort sofa",
+    "name_zh": "度假风沙发",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/resort-sofa.png",
+    "source_url": null,
+    "description": "坐上去仿佛置身南国。在沙发上悠闲度过吧。",
+    "obtain": [
+      "与蜂女王交换随机获得"
+    ],
+    "recipe": [
+      "在商店购买（暗沉沉海边 Lv. 7）"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      },
+      {
+        "name": "棉花",
+        "count": 1
+      },
+      {
+        "name": "藤绳",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:度假村桌子",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Resort table",
+    "name_zh": "度假风桌",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/resort-table.png",
+    "source_url": null,
+    "description": "不怕淋雨也不怕吹风的材质，放在户外也很安心。",
+    "obtain": [
+      "在暗沉沉海边取得",
+      "用宝可梦中心的3D打印机复制"
+    ],
+    "recipe": [
+      "在商店购买（暗沉沉海边 Lv. 8）"
+    ],
+    "materials": [
+      {
+        "name": "木材",
+        "count": 2
+      },
+      {
+        "name": "线头",
+        "count": 2
+      },
+      {
+        "name": "藤绳",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:蝴蝶结蛋糕",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Ribbon cake",
+    "name_zh": "缎带蛋糕",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/ribbon-cake.png",
+    "source_url": null,
+    "description": "伊布家族喜欢的东西。准备好桌子和椅子吧。",
+    "obtain": [
+      "在空空镇的特殊挑战中取得"
+    ],
+    "recipe": [
+      "完成特别挑战后在商店购买（每日随机）"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:帆之化石",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Sail fossil",
+    "name_zh": "鳍化石",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/sail-fossil.png",
+    "source_url": null,
+    "description": "古代宝可梦的化石。看起来像薄薄的鱼鳍。",
+    "obtain": [
+      "在暗沉沉海边用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:沙包袋",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Sandbags",
+    "name_zh": "沙包",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/sandbags.png",
+    "source_url": null,
+    "description": "里面装满泥土和沙子的布袋。感觉沉甸甸很重。",
+    "obtain": [
+      "在凸隆隆山地取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "软塌塌黏土",
+        "count": 1
+      },
+      {
+        "name": "线头",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:科学实验台",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Science experiment",
+    "name_zh": "实验器材",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/science-experiment.png",
+    "source_url": null,
+    "description": "药品、检验仪器和报告用纸。实验的准备万全了。",
+    "obtain": [
+      "在凸隆隆山地博物馆1楼取得"
+    ],
+    "recipe": [
+      "宝可梦图鉴登录230只宝可梦时的奖励"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "玻璃",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:椅子（任意）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Seat (any)",
+    "name_zh": "椅子（任意）",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/public-seat.png",
+    "source_url": null
+  },
+  {
+    "key": "item:长条椅",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Seat (wide)",
+    "name_zh": "长条椅",
+    "location": null,
+    "image_url": "https://pokopiaguide.com/images/items/seat-wide.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/seat-wide.png",
+    "source_url": null
+  },
+  {
+    "key": "item:下水道盖板",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Sewer-hole cover",
+    "name_zh": "人孔盖",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/sewer-hole-cover.png",
+    "source_url": null,
+    "description": "像门一样啪地打开的人孔盖。放在洞口上面就能当入口。",
+    "obtain": [
+      "在亮晶晶空岛的大楼前取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:盾之化石（躯体）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Shield fossil (body)",
+    "name_zh": "盾牌化石（身）",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/shield-fossil-body.png",
+    "source_url": null,
+    "description": "古代宝可梦的躯干化石。用粗壮的骨头支撑沉重的头部。",
+    "obtain": [
+      "在干巴巴荒野用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:盾之化石（头部）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Shield fossil (head)",
+    "name_zh": "盾牌化石（头）",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/shield-fossil-body.png",
+    "source_url": null,
+    "description": "古代宝可梦的头部化石。像巨大盾牌一样坚固。",
+    "obtain": [
+      "在干巴巴荒野用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:盾之化石（尾部）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Shield tail (body)",
+    "name_zh": "盾牌化石（尾）",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/sail-fossil.png",
+    "source_url": null,
+    "description": "古代宝可梦的尾巴化石。后脚的蹄子是超大尺寸。",
+    "obtain": [
+      "在干巴巴荒野用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:淋浴间",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Shower",
+    "name_zh": "淋浴设备",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/shower.png",
+    "source_url": null,
+    "description": "设计简约的淋浴设备。放在浴缸旁边浴室就完成了。",
+    "obtain": [
+      "在暗沉沉海边剧情中制作"
+    ],
+    "recipe": [
+      "在暗沉沉海边剧情中取得"
+    ],
+    "materials": [
+      {
+        "name": "铁",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:侧桌",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Side table",
+    "name_zh": "边桌",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/side-table.png",
+    "source_url": null,
+    "description": "给人清凉印象的边桌。放在夏日床头旁边也很搭。",
+    "obtain": [
+      "在暗沉沉海边各处取得"
+    ],
+    "recipe": [
+      "宝可梦图鉴登录140只宝可梦时的奖励"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 1
+      },
+      {
+        "name": "石头",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:招牌（任意）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Sign (any)",
+    "name_zh": "招牌（任意）",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/sign.png",
+    "source_url": null
+  },
+  {
+    "key": "item:骷髅化石",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Skull fossil",
+    "name_zh": "头盖化石",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/skull-fossil.png",
+    "source_url": null,
+    "description": "古代宝可梦的化石。像硬邦邦的头盖骨。",
+    "obtain": [
+      "在亮晶晶空岛用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:细蜡烛",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Slender candle",
+    "name_zh": "细长蜡烛",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/slender-candle.png",
+    "source_url": null,
+    "description": "点燃后火红的火焰摇摇晃晃。因为很小，放在桌上也没问题。",
+    "obtain": [
+      "在干巴巴荒野捡取",
+      "在商店购买（干巴巴荒野Lv.2）"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "结实的树枝",
+        "count": 1
+      },
+      {
+        "name": "石头",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:小花瓶",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Small vase",
+    "name_zh": "花瓶",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/small-vase.png",
+    "source_url": null,
+    "description": "插着可爱花朵的花瓶。放在各种地方为生活增添色彩吧。",
+    "obtain": [],
+    "recipe": [
+      "获得软塌塌黏土时取得"
+    ],
+    "materials": [
+      {
+        "name": "软塌塌黏土",
+        "count": 1
+      },
+      {
+        "name": "草原花",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:冶炼炉",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Smelting furnace",
+    "name_zh": "熔炉",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/smelting-furnace.png",
+    "source_url": null,
+    "description": "加工金属等材料的炉子。请擅长「燃烧」的宝可梦来帮忙吧。",
+    "obtain": [
+      "在凸隆隆山地取得",
+      "在亮晶晶空岛取得"
+    ],
+    "recipe": [
+      "在熔炉制作铁棒"
+    ],
+    "materials": [
+      {
+        "name": "铁",
+        "count": 4
+      },
+      {
+        "name": "石头",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "key": "item:冰淇淋苏打",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Soda float",
+    "name_zh": "冰淇淋汽水",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/soda-float.png",
+    "source_url": null,
+    "description": "伊布家族喜欢的东西。准备好桌子和椅子吧。",
+    "obtain": [
+      "在空空镇的特殊挑战中取得"
+    ],
+    "recipe": [
+      "完成特别挑战后在商店购买（每日随机）"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:踏脚凳",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Step stool",
+    "name_zh": "踏梯",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/step-stool.png",
+    "source_url": null,
+    "description": "拿高处东西时使用的脚踏台。试着站上去吧。",
+    "obtain": [
+      "在亮晶晶空岛取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:石制壁炉",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Stone fireplace",
+    "name_zh": "石壁炉",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/stone-fireplace.png",
+    "source_url": null,
+    "description": "非常大的壁炉。点火后周围立刻变得暖呼呼。",
+    "obtain": [
+      "在商店购买（亮晶晶空岛Lv.5）"
+    ],
+    "recipe": [
+      "宝可梦图鉴登录 120 只时的奖励"
+    ],
+    "materials": [
+      {
+        "name": "砖块",
+        "count": 2
+      },
+      {
+        "name": "石头",
+        "count": 2
+      },
+      {
+        "name": "结实的树枝",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:稻草床",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Straw bed",
+    "name_zh": "干草床",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/straw-bed.png",
+    "source_url": null,
+    "description": "虽然有点刺刺的，但宝可梦完全不在意，睡得超香。",
+    "obtain": [],
+    "recipe": [
+      "剧情中完成妙蛙种子的请求「让人使用床铺吧」时取得"
+    ],
+    "materials": [
+      {
+        "name": "叶子",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:稻草凳",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Straw stool",
+    "name_zh": "干草凳",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/straw-stool.png",
+    "source_url": null,
+    "description": "大小刚好适合小型宝可梦坐。",
+    "obtain": [],
+    "recipe": [
+      "在地图上获得▶获取地点图像"
+    ],
+    "materials": [
+      {
+        "name": "叶子",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:稻草桌",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Straw table",
+    "name_zh": "干草桌",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/straw-table.png",
+    "source_url": null,
+    "description": "虽然叫桌子，但其实就是把大石板放在干草上面而已。",
+    "obtain": [],
+    "recipe": [
+      "在地图上获得▶获取地点图像"
+    ],
+    "materials": [
+      {
+        "name": "叶子",
+        "count": 1
+      },
+      {
+        "name": "石头",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:路灯（任意）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Streetlight (any)",
+    "name_zh": "路灯（任意）",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/chic-streetlight.png",
+    "source_url": null
+  },
+  {
+    "key": "item:时尚料理锅",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Stylish cooking pot",
+    "name_zh": "时尚锅",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/stylish-cooking-pot.png",
+    "source_url": null,
+    "description": "煮汤用的料理工具。放在营火或炉子上吧。",
+    "obtain": [
+      "在凸隆隆山地取得",
+      "在亮晶晶空岛取得",
+      "在商店购买（凸隆隆山地Lv.5）"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      },
+      {
+        "name": "玻璃",
+        "count": 1
+      },
+      {
+        "name": "铁条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:桌子（任意）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Table (any)",
+    "name_zh": "桌子（任意）",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/table-setting.png",
+    "source_url": null
+  },
+  {
+    "key": "item:轮胎玩具",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Tire toy",
+    "name_zh": "跳跃轮胎",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/tire-toy.png",
+    "source_url": null,
+    "description": "公园等地方常见的游乐设施。放在地上就跳过去玩吧。",
+    "obtain": [
+      "亮晶晶空岛",
+      "在商店购买（暗沉沉海边Lv.2）"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:毛巾架",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Towel rack",
+    "name_zh": "壁挂毛巾",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/towel-rack.png",
+    "source_url": null,
+    "description": "挂在简单把手上的毛巾。放在洗手台旁边也很搭。",
+    "obtain": [
+      "在暗沉沉海边取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "线头",
+        "count": 1
+      },
+      {
+        "name": "铁条",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:玩具（任意）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Toy (any)",
+    "name_zh": "玩具（任意）",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/toy-blocks.png",
+    "source_url": null
+  },
+  {
+    "key": "item:警示锥",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Traffic cone",
+    "name_zh": "交通锥",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/traffic-cone.png",
+    "source_url": null,
+    "description": "排列起来柱子会自动连接。非常适合施工中的场所。",
+    "obtain": [
+      "在亮晶晶空岛取得"
+    ],
+    "recipe": [
+      "在商店购买（每日随机刷新）",
+      "从水面的闪光处稀有获得"
+    ],
+    "materials": [
+      {
+        "name": "宝可金属",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:冻土化石（躯体）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Tundra fossil (body)",
+    "name_zh": "冻原化石（身）",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/tundra-fossil-body.png",
+    "source_url": null,
+    "description": "古代宝可梦的躯干化石。光是脊椎就相当高了。",
+    "obtain": [
+      "在暗沉沉海边用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": [
+      {
+        "name": "软塌塌黏土",
+        "count": 1
+      },
+      {
+        "name": "乃奶蔷薇茶",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "key": "item:冻土化石（头部）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Tundra fossil (head)",
+    "name_zh": "冻原化石（头）",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/tundra-fossil-body.png",
+    "source_url": null,
+    "description": "古代宝可梦的头部化石。拥有像极光般的鳍。",
+    "obtain": [
+      "在暗沉沉海边用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:冻土化石（尾部）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Tundra fossil (tail)",
+    "name_zh": "冻原化石（尾）",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/tundra-fossil-body.png",
+    "source_url": null,
+    "description": "古代宝可梦的尾巴化石。尖端卷起来就像发条一样。",
+    "obtain": [
+      "在暗沉沉海边用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:蔬菜田（任意）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Vegetable field (any)",
+    "name_zh": "蔬菜田（任意）",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/potato-seeds.png",
+    "source_url": null
+  },
+  {
+    "key": "item:走道",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Walkway",
+    "name_zh": "凹凸木板",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/walkway.png",
+    "source_url": null,
+    "description": "大量排列起来当屋顶的话，也许能挡挡风雨。",
+    "obtain": [
+      "在亮晶晶空岛取得"
+    ],
+    "recipe": [
+      "亮晶晶空岛的城镇环境等级达到4时在商店解锁"
+    ],
+    "materials": [
+      {
+        "name": "铜条",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:独轮手推车",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Wheelbarrow",
+    "name_zh": "手推车",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wheelbarrow.png",
+    "source_url": null,
+    "description": "装满泥土的手推车。看起来很像工地上常见的那种。",
+    "obtain": [
+      "在凸隆隆山地取得"
+    ],
+    "recipe": [
+      "宝可梦图鉴登录 200 只时的奖励"
+    ],
+    "materials": [
+      {
+        "name": "铁条",
+        "count": 2
+      },
+      {
+        "name": "条纹土",
+        "count": 1
+      },
+      {
+        "name": "石头",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "key": "item:翼之化石（躯体）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Wing fossil (body)",
+    "name_zh": "翅膀化石（身）",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wing-fossil-body.png",
+    "source_url": null,
+    "description": "古代宝可梦的躯干化石。崎岖的脊椎中央耸立着一个隆起。",
+    "obtain": [
+      "在凸隆隆山地用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:翼之化石（头部）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Wing fossil (head)",
+    "name_zh": "翅膀化石（头）",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wing-fossil-body.png",
+    "source_url": null,
+    "description": "古代宝可梦的头部化石。锯齿状的牙齿简直像锯子一样。",
+    "obtain": [
+      "在凸隆隆山地用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:翼之化石（左翼）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Wing fossil (left wing)",
+    "name_zh": "翅膀化石（左翼）",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wing-fossil-body.png",
+    "source_url": null,
+    "description": "古代宝可梦的左翼化石。把骨头连起来就能知道翅膀的大小。",
+    "obtain": [
+      "在凸隆隆山地用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:翼之化石（右翼）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Wing fossil (right wing)",
+    "name_zh": "翅膀化石（右翼）",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wing-fossil-body.png",
+    "source_url": null,
+    "description": "古代宝可梦的右翼化石。指骨已经成为翅膀的一部分。",
+    "obtain": [
+      "在凸隆隆山地用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "item:翼之化石（尾部）",
+    "category": "item",
+    "category_zh": "道具",
+    "category_key": "goods",
+    "name": "Wing fossil (tail)",
+    "name_zh": "翅膀化石（尾）",
+    "location": null,
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/items/wing-fossil-body.png",
+    "source_url": null,
+    "description": "古代宝可梦的尾巴化石。细长的形状看起来能灵活弯曲。",
+    "obtain": [
+      "在凸隆隆山地用探宝器找到发光的地面并挖掘"
+    ],
+    "recipe": [],
+    "materials": []
+  },
+  {
+    "key": "env:water",
+    "category": "item",
+    "id": "water",
+    "name": "Water",
+    "name_zh": "水",
+    "image_url": "https://pokopiaguide.com/images/items/water.png",
+    "image_path": null
+  }
+];

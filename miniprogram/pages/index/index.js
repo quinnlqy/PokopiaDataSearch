@@ -56,8 +56,23 @@ Page({
   },
 
   onShow() {
-    this._isReturning = true;
+    const self = this;
     this._reloadCollection();
+    // scroll-view 从隐藏恢复时会内部重置，需延迟补发才可靠
+    const savedTop = this._savedScrollTop || 0;
+    setTimeout(function() {
+      if (savedTop > 0) {
+        self.setData({ scrollTop: savedTop });
+      } else {
+        self.setData({ scrollTop: -1 }, function() {
+          self.setData({ scrollTop: 0 });
+        });
+      }
+    }, 200);
+  },
+
+  onHide() {
+    // 页面实例保留，_savedScrollTop 不会丢失，无需额外操作
   },
 
   onReady() {
@@ -73,14 +88,10 @@ Page({
     const collectedPokemon = storage.getAll("pokemon");
     const collectedHabitat = storage.getAll("habitat");
     const collectedCosmetic = storage.getAll("cosmetic");
-    // When returning from detail page, preserve scroll position (don't reset to 0)
-    const scrollTop = this._isReturning ? this._savedScrollTop || 0 : 0;
-    this._isReturning = false;
     this.setData({
       collectedPokemon,
       collectedHabitat,
       collectedCosmetic,
-      scrollTop,
       stats: {
         pokemonCount: Object.keys(collectedPokemon).length,
         pokemonTotal: pokemonData.length,
@@ -99,7 +110,6 @@ Page({
     const key  = e.currentTarget.dataset.key;
     if (type !== "pokemon" && type !== "habitat" && type !== "cosmetic") return;
     storage.toggle(type, key);
-    this._isReturning = true; // preserve scroll position when toggling collect
     this._reloadCollection();
   },
 
@@ -132,7 +142,6 @@ Page({
       building: INIT_SIZE, furniture: INIT_SIZE, cosmetics: INIT_SIZE, cooking: INIT_SIZE
     };
     this._savedScrollTop = 0;
-    this.setData({ scrollTop: 0 });
   },
 
   // ── 结果列表滚动 → 记录位置 ──────────────────────────
@@ -237,10 +246,10 @@ Page({
     this._applyLimits();
   },
 
-  // 按当前 _limits 截取并更新 data.results
+  // 按当前 _limits 截取并更新 data.results，完成后再恢复滚动位置
   _applyLimits() {
-    // 始终用实时滚动位置，避免 setData 触发 scroll-top 绑定跳回顶部
-    const scrollTop = this._savedScrollTop !== undefined ? this._savedScrollTop : this.data.scrollTop;
+    const self = this;
+    const targetTop = this._savedScrollTop || 0;
     this.setData({
       results: {
         pokemon:   _fullResults.pokemon.slice(0,   _limits.pokemon),
@@ -250,8 +259,18 @@ Page({
         furniture: _fullResults.furniture.slice(0, _limits.furniture),
         cosmetics: _fullResults.cosmetics.slice(0, _limits.cosmetics),
         cooking:   _fullResults.cooking.slice(0,   _limits.cooking)
-      },
-      scrollTop
+      }
+    }, function() {
+      wx.nextTick(function() {
+        if (targetTop === 0) {
+          // scrollTop 值可能已是 0，需要先设 -1 才能触发 scroll-view 回顶
+          self.setData({ scrollTop: -1 }, function() {
+            self.setData({ scrollTop: 0 });
+          });
+        } else {
+          self.setData({ scrollTop: targetTop });
+        }
+      });
     });
   },
 
@@ -261,5 +280,18 @@ Page({
     wx.navigateTo({
       url: `/pages/detail/detail?type=${type}&key=${encodeURIComponent(key)}`
     });
+  },
+
+  onShareAppMessage() {
+    return {
+      title: 'poko攻略小册',
+      path: '/pages/index/index'
+    };
+  },
+
+  onShareTimeline() {
+    return {
+      title: 'poko攻略小册'
+    };
   }
 });

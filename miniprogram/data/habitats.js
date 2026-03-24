@@ -1,1 +1,9241 @@
-module.exports = [{"key":"habitat:HAB-134","category":"habitat","category_zh":"栖息地","id":"HAB-134","name":"极致奢华","name_zh":"极致奢华","name_en":"Absolute luxury","required":"Luxury bed x1, Luxury sofa x1, Luxury table x1, Luxury lamp x1","required_zh":null,"required_items":[{"name":"Luxury bed","qty":1,"name_zh":"豪华床"},{"name":"Luxury sofa","qty":1,"name_zh":"豪华沙发"},{"name":"Luxury table","qty":1,"name_zh":"豪华桌"},{"name":"Luxury lamp","qty":1,"name_zh":"豪华灯"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/134.png","image_path":"/images/habitats/HAB-134.png","source_url":"https://pokopiadb.com/database/habitats/absolute-luxury"},{"key":"habitat:HAB-082","category":"habitat","category_zh":"栖息地","id":"HAB-082","name":"闹钟床铺区","name_zh":"闹钟床铺区","name_en":"Alarm clock sleep zone","required":"床鋪(任意) ×1","required_zh":"床鋪(任意) ×1","required_items":[{"name":"Bed (any)","qty":1,"name_zh":"床铺（任意）"},{"name":"Table (any)","qty":1,"name_zh":"桌子（任意）"},{"name":"Alarm clock","qty":1,"name_zh":"闹钟"}],"attracts":["Happiny"],"attracts_zh":["小福蛋"],"attract_refs":[{"key":"pokemon:440","name_en":"Happiny","name_zh":"小福蛋","image_url":"/images/pokemon/100.png"}],"image_url":"https://assets.pokopiadb.com/habitats/082.png","image_path":"/images/habitats/HAB-082.png","source_url":"https://pokopiadb.com/database/habitats/alarm-clock-sleep-zone"},{"key":"habitat:HAB-080","category":"habitat","category_zh":"栖息地","id":"HAB-080","name":"行李打包好了","name_zh":"行李打包好了","name_en":"All packed up","required":"手推車 ×1","required_zh":"手推車 ×1","required_items":[{"name":"Cart","qty":1,"name_zh":"手推车"},{"name":"Cardboard boxes","qty":2,"name_zh":"纸箱"}],"attracts":["Farfetch'd","Makuhita","Hariyama"],"attracts_zh":["幕下力士"],"attract_refs":[{"key":"pokemon:296","name_en":"Makuhita","name_zh":"幕下力士","image_url":"/images/pokemon/125.png"},{"key":"pokemon:297","name_en":"Hariyama","name_zh":"铁掌力士","image_url":"/images/pokemon/126.png"}],"image_url":"/images/habitats/HAB-080.png","image_path":"/images/habitats/HAB-080.png","source_url":"https://pokopiadb.com/database/habitats/all-packed-up"},{"key":"habitat:HAB-189","category":"habitat","category_zh":"栖息地","id":"HAB-189","name":"高昂摇滚舞台","name_zh":"高昂摇滚舞台","name_en":"Amped rock stage","required":"Speaker x2, Small stage x1, Cool electric guitar x1, Standing mic x1","required_zh":null,"required_items":[{"name":"Speaker","qty":2,"name_zh":"喇叭"},{"name":"Small stage","qty":1,"name_zh":"小舞台"},{"name":"Cool electric guitar","qty":1,"name_zh":"酷炫电吉他"},{"name":"Standing mic","qty":1,"name_zh":"立式麦克风"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/189.png","image_path":"/images/habitats/HAB-189.png","source_url":"https://pokopiadb.com/database/habitats/amped-rock-stage"},{"key":"habitat:HAB-196","category":"habitat","category_zh":"栖息地","id":"HAB-196","name":"盾之化石展示台","name_zh":"盾之化石展示台","name_en":"Armor fossil display","required":"台座・展示台 ×2","required_zh":"台座・展示台 ×2","required_items":[{"name":"Exhibition stand","qty":1,"name_zh":"展示台"},{"name":"Armor fossil","qty":1,"name_zh":"盾之化石"}],"attracts":["Shieldon"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:410","name_en":"Shieldon","name_zh":"盾甲龙","image_url":"/images/pokemon/274.png"}],"image_url":"/images/habitats/HAB-196.png","image_path":"/images/habitats/HAB-196.png","source_url":"https://pokopiadb.com/database/habitats/armor-fossil-display"},{"key":"habitat:HAB-192","category":"habitat","category_zh":"栖息地","id":"HAB-192","name":"忠诚骑士的祭坛","name_zh":"忠诚骑士的祭坛","name_en":"Auspicious knight's shrine","required":"台座・展示台 ×1","required_zh":"台座・展示台 ×1","required_items":[{"name":"Exhibition stand","qty":1,"name_zh":"展示台"},{"name":"Auspicious armor","qty":1,"name_zh":"祥瑞铠甲"},{"name":"Stepping stone","qty":2,"name_zh":"踏脚石"},{"name":"Firepit","qty":2,"name_zh":"火盆"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/192.png","image_path":"/images/habitats/HAB-192.png","source_url":"https://pokopiadb.com/database/habitats/auspicious-knight-s-shrine"},{"key":"habitat:HAB-071","category":"habitat","category_zh":"栖息地","id":"HAB-071","name":"海滩套组","name_zh":"海滩套组","name_en":"Beach set","required":"海灘椅 ×1","required_zh":"海灘椅 ×1","required_items":[{"name":"Beach chair","qty":1,"name_zh":"沙滩椅"},{"name":"Beach parasol","qty":1,"name_zh":"沙滩伞"},{"name":"Side table","qty":1,"name_zh":"侧桌"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/071.png","image_path":"/images/habitats/HAB-071.png","source_url":"https://pokopiadb.com/database/habitats/beach-set"},{"key":"habitat:HAB-030","category":"habitat","category_zh":"栖息地","id":"HAB-030","name":"玩偶与晚安","name_zh":"玩偶与晚安","name_en":"Bed with a plush","required":"床鋪(任意) ×1","required_zh":"床鋪(任意) ×1","required_items":[{"name":"Bed (any)","qty":1,"name_zh":"床铺（任意）"},{"name":"Doll (any)","qty":1,"name_zh":"布偶（任意）"}],"attracts":["Drifloon","Slowbro","Slowking","Munchlax"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:425","name_en":"Drifloon","name_zh":"飘飘球","image_url":"/images/pokemon/061.png"},{"key":"pokemon:80","name_en":"Slowbro","name_zh":"呆壳兽","image_url":"/images/pokemon/025.png"},{"key":"pokemon:199","name_en":"Slowking","name_zh":"呆呆王","image_url":"/images/pokemon/026.png"},{"key":"pokemon:446","name_en":"Munchlax","name_zh":"小卡比兽","image_url":"/images/pokemon/107.png"}],"image_url":"https://assets.pokopiadb.com/habitats/030.png","image_path":"/images/habitats/HAB-030.png","source_url":"https://pokopiadb.com/database/habitats/bed-with-a-plush"},{"key":"habitat:HAB-022","category":"habitat","category_zh":"栖息地","id":"HAB-022","name":"绿色长椅","name_zh":"绿色长椅","name_en":"Bench with greenery","required":"樹籬(任意) ×2","required_zh":"樹籬(任意) ×2","required_items":[{"name":"Hedge (any)","qty":2,"name_zh":"篱笆（任意）"},{"name":"Seat (wide)","qty":1,"name_zh":"长条椅"}],"attracts":["Bulbasaur","Ivysaur"],"attracts_zh":["妙蛙草"],"attract_refs":[{"key":"pokemon:1","name_en":"Bulbasaur","name_zh":"妙蛙种子","image_url":"/images/pokemon/001.png"},{"key":"pokemon:2","name_en":"Ivysaur","name_zh":"妙蛙草","image_url":"/images/pokemon/002.png"}],"image_url":"https://assets.pokopiadb.com/habitats/022.png","image_path":"/images/habitats/HAB-022.png","source_url":"https://pokopiadb.com/database/habitats/bench-with-greenery"},{"key":"habitat:HAB-040","category":"habitat","category_zh":"栖息地","id":"HAB-040","name":"果实盛宴营地","name_zh":"果实盛宴营地","name_en":"Berry-feast campsite","required":"晴天漂浮泡泡娃娃 ×2","required_zh":"晴天漂浮泡泡娃娃 ×2","required_items":[{"name":"Castform weather charm (sun)","qty":2,"name_zh":"随天气改变的魔法石（晴天）"},{"name":"Bonfire","qty":1,"name_zh":"篝火"},{"name":"Berry basket","qty":1,"name_zh":"树果篮"},{"name":"High-up location","qty":1,"name_zh":"高处","is_env":true}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"/images/habitats/HAB-040.png","image_path":"/images/habitats/HAB-040.png","source_url":"https://pokopiadb.com/database/habitats/berry-feast-campsite"},{"key":"habitat:HAB-121","category":"habitat","category_zh":"栖息地","id":"HAB-121","name":"大口面包工坊","name_zh":"大口面包工坊","name_en":"Best bread bakery","required":"盤子上的食物 ×1","required_zh":"盤子上的食物 ×1","required_items":[{"name":"Bread oven","qty":1,"name_zh":"烤面包炉"},{"name":"Counter","qty":2,"name_zh":"柜台"},{"name":"Plated food","qty":1,"name_zh":"盘子上的食物"}],"attracts":["Combusken","Blaziken"],"attracts_zh":["狗仔包"],"attract_refs":[{"key":"pokemon:256","name_en":"Combusken","name_zh":"力壮鸡","image_url":"/images/pokemon/121.png"},{"key":"pokemon:257","name_en":"Blaziken","name_zh":"火焰鸡","image_url":"/images/pokemon/122.png"}],"image_url":"https://assets.pokopiadb.com/habitats/121.png","image_path":"/images/habitats/HAB-121.png","source_url":"https://pokopiadb.com/database/habitats/best-bread-bakery"},{"key":"habitat:HAB-147","category":"habitat","category_zh":"栖息地","id":"HAB-147","name":"鸟鸣花园","name_zh":"鸟鸣花园","name_en":"Birdsong garden","required":"木製鳥巢箱 ×1","required_zh":"木製鳥巢箱 ×1","required_items":[{"name":"Stylish hedge","qty":1,"name_zh":"可爱篱笆"},{"name":"Wooden birdhouse","qty":1,"name_zh":"木制鸟巢箱"}],"attracts":["Altaria"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:334","name_en":"Altaria","name_zh":"七夕青鸟","image_url":"/images/pokemon/241.png"}],"image_url":"https://assets.pokopiadb.com/habitats/147.png","image_path":"/images/habitats/HAB-147.png","source_url":"https://pokopiadb.com/database/habitats/birdsong-garden"},{"key":"habitat:HAB-202","category":"habitat","category_zh":"栖息地","id":"HAB-202","name":"沁涼藍","name_zh":"沁涼藍","name_en":"Blue beverage","required":"椅子(任意) ×1","required_zh":"椅子(任意) ×1","required_items":[{"name":"Seat (any)","qty":1,"name_zh":"椅子（任意）"},{"name":"Table (any)","qty":1,"name_zh":"桌子（任意）"},{"name":"Soda float","qty":1,"name_zh":"冰淇淋苏打"}],"attracts":["Vaporeon"],"attracts_zh":["水伊布"],"attract_refs":[{"key":"pokemon:134","name_en":"Vaporeon","name_zh":"水伊布","image_url":"/images/pokemon/281.png"}],"image_url":"/images/habitats/HAB-202.png","image_path":"/images/habitats/HAB-202.png","source_url":"https://pokopiadb.com/database/habitats/blue-beverage"},{"key":"habitat:HAB-003","category":"habitat","category_zh":"栖息地","id":"HAB-003","name":"岩荫草丛","name_zh":"岩荫草丛","name_en":"Boulder-shaded tall grass","required":"綠草 ×4","required_zh":"綠草 ×4","required_items":[{"name":"Tall grass","qty":4,"name_zh":"绿色高草","is_env":true},{"name":"Large boulder","qty":1,"name_zh":"大岩石","is_env":true}],"attracts":["Timburr","Gurdurr","Machop"],"attracts_zh":["腕力"],"attract_refs":[{"key":"pokemon:532","name_en":"Timburr","name_zh":"搬运小匠","image_url":"/images/pokemon/065.png"},{"key":"pokemon:533","name_en":"Gurdurr","name_zh":"铁骨土人","image_url":"/images/pokemon/066.png"},{"key":"pokemon:66","name_en":"Machop","name_zh":"腕力","image_url":"/images/pokemon/156.png"}],"image_url":"/images/habitats/HAB-003.png","image_path":"/images/habitats/HAB-003.png","source_url":"https://pokopiadb.com/database/habitats/boulder-shaded-tall-grass"},{"key":"habitat:HAB-127","category":"habitat","category_zh":"栖息地","id":"HAB-127","name":"配合節奏一二","name_zh":"配合節奏一二","name_en":"Boxing to the rhythm","required":"沙包 ×1","required_zh":"沙包 ×1","required_items":[{"name":"Punching bag","qty":1,"name_zh":"沙包"},{"name":"Table (any)","qty":1,"name_zh":"桌子（任意）"},{"name":"Cd player","qty":1,"name_zh":"CD播放器"}],"attracts":[],"attracts_zh":["豪力"],"attract_refs":[],"image_url":"/images/habitats/HAB-127.png","image_path":"/images/habitats/HAB-127.png","source_url":"https://pokopiadb.com/database/habitats/boxing-to-the-rhythm"},{"key":"habitat:HAB-056","category":"habitat","category_zh":"栖息地","id":"HAB-056","name":"凉爽花田","name_zh":"凉爽花田","name_en":"Breezy flower bed","required":"海邊之花 ×4","required_zh":"海邊之花 ×4","required_items":[{"name":"Seashore flowers","qty":4,"name_zh":"海滨花","is_env":true}],"attracts":["Pawmi","Zorua","Zoroark"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:921","name_en":"Pawmi","name_zh":"布拨","image_url":"https://assets.pokopiaguide.com/pokemon/pawmi.png"},{"key":"pokemon:570","name_en":"Zorua","name_zh":"索罗亚","image_url":"/images/pokemon/134.png"},{"key":"pokemon:571","name_en":"Zoroark","name_zh":"索罗亚克","image_url":"/images/pokemon/135.png"}],"image_url":"/images/habitats/HAB-056.png","image_path":"/images/habitats/HAB-056.png","source_url":"https://pokopiadb.com/database/habitats/breezy-flower-bed"},{"key":"habitat:HAB-131","category":"habitat","category_zh":"栖息地","id":"HAB-131","name":"铜像观光点","name_zh":"铜像观光点","name_en":"Bronze landmark","required":"樹籬(任意) ×4","required_zh":"樹籬(任意) ×4","required_items":[{"name":"Hedge","qty":4,"name_zh":"篱笆"},{"name":"Sign","qty":1,"name_zh":"招牌"},{"name":"Moonlight dance statue","qty":1,"name_zh":"月光舞蹈雕像"}],"attracts":["Clefairy","Clefable"],"attracts_zh":["皮皮","皮可西"],"attract_refs":[{"key":"pokemon:35","name_en":"Clefairy","name_zh":"皮皮","image_url":"/images/pokemon/149.png"},{"key":"pokemon:36","name_en":"Clefable","name_zh":"皮可西","image_url":"/images/pokemon/150.png"}],"image_url":"/images/habitats/HAB-131.png","image_path":"/images/habitats/HAB-131.png","source_url":"https://pokopiadb.com/database/habitats/bronze-landmark"},{"key":"habitat:HAB-204","category":"habitat","category_zh":"栖息地","id":"HAB-204","name":"火辣辣辛辣","name_zh":"火辣辣辛辣","name_en":"Burning hot spice","required":"椅子(任意) ×1","required_zh":"椅子(任意) ×1","required_items":[{"name":"Seat (any)","qty":1,"name_zh":"椅子（任意）"},{"name":"Table (any)","qty":1,"name_zh":"桌子（任意）"},{"name":"Pizza","qty":1,"name_zh":"披萨"}],"attracts":["Flareon"],"attracts_zh":["火伊布"],"attract_refs":[{"key":"pokemon:136","name_en":"Flareon","name_zh":"火伊布","image_url":"/images/pokemon/283.png"}],"image_url":"/images/habitats/HAB-204.png","image_path":"/images/habitats/HAB-204.png","source_url":"https://pokopiadb.com/database/habitats/burning-hot-spice"},{"key":"habitat:HAB-070","category":"habitat","category_zh":"栖息地","id":"HAB-070","name":"咖啡空間","name_zh":"咖啡空間","name_en":"Cafe space","required":"椅子(任意) ×2","required_zh":"椅子(任意) ×2","required_items":[{"name":"Seat (any)","qty":2,"name_zh":"椅子（任意）"},{"name":"Potted plant","qty":1,"name_zh":"盆栽"},{"name":"Counter","qty":2,"name_zh":"柜台"},{"name":"Mug","qty":1,"name_zh":"马克杯"},{"name":"Menu board","qty":1,"name_zh":"菜单板"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/070.png","image_path":"/images/habitats/HAB-070.png","source_url":"https://pokopiadb.com/database/habitats/cafe-space"},{"key":"habitat:HAB-017","category":"habitat","category_zh":"栖息地","id":"HAB-017","name":"露营套组","name_zh":"露营套组","name_en":"Campsite","required":"營火 ×1","required_zh":"營火 ×1","required_items":[{"name":"Campfire","qty":1,"name_zh":"营火"},{"name":"Straw stool","qty":1,"name_zh":"稻草凳"},{"name":"Straw table","qty":1,"name_zh":"稻草桌"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"/images/habitats/HAB-017.png","image_path":"/images/habitats/HAB-017.png","source_url":"https://pokopiadb.com/database/habitats/campsite"},{"key":"habitat:HAB-075","category":"habitat","category_zh":"栖息地","id":"HAB-075","name":"换装空间","name_zh":"换装空间","name_en":"Changing area","required":"衣櫥(任意) ×1","required_zh":"衣櫥(任意) ×1","required_items":[{"name":"Closet (any)","qty":1,"name_zh":"衣柜（任意）"},{"name":"Mirror (large)","qty":1,"name_zh":"大镜子"}],"attracts":["Minccino"],"attracts_zh":["泡沫栗鼠"],"attract_refs":[{"key":"pokemon:572","name_en":"Minccino","name_zh":"泡沫栗鼠","image_url":"/images/pokemon/136.png"}],"image_url":"/images/habitats/HAB-075.png","image_path":"/images/habitats/HAB-075.png","source_url":"https://pokopiadb.com/database/habitats/changing-area"},{"key":"habitat:HAB-034","category":"habitat","category_zh":"栖息地","id":"HAB-034","name":"吉利蛋休憩所","name_zh":"吉利蛋休憩所","name_en":"Chansey resting area","required":"樹籬(任意) ×6","required_zh":"樹籬(任意) ×6","required_items":[{"name":"Hedge (any)","qty":6,"name_zh":"篱笆（任意）"},{"name":"Seat (wide)","qty":1,"name_zh":"长条椅"},{"name":"Chansey plant","qty":1,"name_zh":"吉利蛋造型植物"}],"attracts":["Vileplume","Bellossom"],"attracts_zh":["霸王花"],"attract_refs":[{"key":"pokemon:45","name_en":"Vileplume","name_zh":"霸王花","image_url":"/images/pokemon/015.png"},{"key":"pokemon:182","name_en":"Bellossom","name_zh":"美丽花","image_url":"/images/pokemon/016.png"}],"image_url":"https://assets.pokopiadb.com/habitats/034.png","image_path":"/images/habitats/HAB-034.png","source_url":"https://pokopiadb.com/database/habitats/chansey-resting-area"},{"key":"habitat:HAB-133","category":"habitat","category_zh":"栖息地","id":"HAB-133","name":"主厨的厨房","name_zh":"主厨的厨房","name_en":"Chef's kitchen","required":"自然風桌子 ×1","required_zh":"自然風桌子 ×1","required_items":[{"name":"Cooking stove","qty":1,"name_zh":"炉灶"},{"name":"Plain table","qty":1,"name_zh":"简约桌"},{"name":"Cutting board","qty":1,"name_zh":"砧板"},{"name":"Modern sink","qty":1,"name_zh":"现代水槽"},{"name":"Stylish cooking pot","qty":1,"name_zh":"时尚料理锅"},{"name":"Plated food","qty":1,"name_zh":"盘子上的食物"}],"attracts":["Greedent"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:820","name_en":"Greedent","name_zh":"藏饱栗鼠","image_url":"/images/pokemon/192.png"}],"image_url":"https://assets.pokopiadb.com/habitats/133.png","image_path":"/images/habitats/HAB-133.png","source_url":"https://pokopiadb.com/database/habitats/chef-s-kitchen"},{"key":"habitat:HAB-208","category":"habitat","category_zh":"栖息地","id":"HAB-208","name":"冰凉刨冰","name_zh":"冰凉刨冰","name_en":"Chilly shaved ice","required":"椅子(任意) ×1","required_zh":"椅子(任意) ×1","required_items":[{"name":"Seat (any)","qty":1,"name_zh":"椅子（任意）"},{"name":"Table (any)","qty":1,"name_zh":"桌子（任意）"},{"name":"Shaved ice","qty":1,"name_zh":"刨冰"}],"attracts":["Glaceon"],"attracts_zh":["冰伊布"],"attract_refs":[{"key":"pokemon:471","name_en":"Glaceon","name_zh":"冰伊布","image_url":"/images/pokemon/287.png"}],"image_url":"/images/habitats/HAB-208.png","image_path":"/images/habitats/HAB-208.png","source_url":"https://pokopiadb.com/database/habitats/chilly-shaved-ice"},{"key":"habitat:HAB-069","category":"habitat","category_zh":"栖息地","id":"HAB-069","name":"叽叽喳喳喂食","name_zh":"叽叽喳喳喂食","name_en":"Chirp-chirp meal","required":"木製鳥巢箱 ×1","required_zh":"木製鳥巢箱 ×1","required_items":[{"name":"Wooden birdhouse","qty":1,"name_zh":"木制鸟巢箱"},{"name":"Table (any)","qty":1,"name_zh":"桌子（任意）"},{"name":"Plated food","qty":1,"name_zh":"盘子上的食物"}],"attracts":["Torchic","Blaziken"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:255","name_en":"Torchic","name_zh":"火稚鸡","image_url":"/images/pokemon/120.png"},{"key":"pokemon:257","name_en":"Blaziken","name_zh":"火焰鸡","image_url":"/images/pokemon/122.png"}],"image_url":"/images/habitats/HAB-069.png","image_path":"/images/habitats/HAB-069.png","source_url":"https://pokopiadb.com/database/habitats/chirp-chirp-meal"},{"key":"habitat:HAB-125","category":"habitat","category_zh":"栖息地","id":"HAB-125","name":"鸟鸣演奏会","name_zh":"鸟鸣演奏会","name_en":"Chirping recital","required":"棲木 ×1","required_zh":"棲木 ×1","required_items":[{"name":"Perch","qty":1,"name_zh":"栖木"},{"name":"Standing mic","qty":1,"name_zh":"立式麦克风"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"/images/habitats/HAB-125.png","image_path":"/images/habitats/HAB-125.png","source_url":"https://pokopiadb.com/database/habitats/chirping-recital"},{"key":"habitat:HAB-117","category":"habitat","category_zh":"栖息地","id":"HAB-117","name":"叮当铁骨工程","name_zh":"叮当铁骨工程","name_en":"Clink-clang iron construction","required":"獨輪手推車 ×1","required_zh":"獨輪手推車 ×1","required_items":[{"name":"Iron beam","qty":3,"name_zh":"铁梁"},{"name":"Wheelbarrow","qty":1,"name_zh":"独轮手推车"},{"name":"Sandbags","qty":1,"name_zh":"沙包袋"},{"name":"Excavation tools","qty":1,"name_zh":"挖掘工具"}],"attracts":["Steelix","Machamp"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:208","name_en":"Steelix","name_zh":"大钢蛇","image_url":"/images/pokemon/031.png"},{"key":"pokemon:68","name_en":"Machamp","name_zh":"怪力","image_url":"/images/pokemon/158.png"}],"image_url":"/images/habitats/HAB-117.png","image_path":"/images/habitats/HAB-117.png","source_url":"https://pokopiadb.com/database/habitats/clink-clang-iron-construction"},{"key":"habitat:HAB-141","category":"habitat","category_zh":"栖息地","id":"HAB-141","name":"水管秘密基地","name_zh":"水管秘密基地","name_en":"Concrete pipe secret base","required":"水管 ×3","required_zh":"水管 ×3","required_items":[{"name":"Concrete pipe","qty":3,"name_zh":"混凝土管"},{"name":"Tall grass (any)","qty":3,"name_zh":"高草（任意）","is_env":true}],"attracts":["Cyndaquil"],"attracts_zh":["火球鼠","火岩鼠"],"attract_refs":[{"key":"pokemon:155","name_en":"Cyndaquil","name_zh":"火球鼠","image_url":"/images/pokemon/224.png"}],"image_url":"/images/habitats/HAB-141.png","image_path":"/images/habitats/HAB-141.png","source_url":"https://pokopiadb.com/database/habitats/concrete-pipe-secret-base"},{"key":"habitat:HAB-177","category":"habitat","category_zh":"栖息地","id":"HAB-177","name":"工地发电所","name_zh":"工地发电所","name_en":"Construction site generator","required":"無 修建老匠","required_zh":"無 修建老匠","required_items":[{"name":"Furnace","qty":1,"name_zh":"熔炉"},{"name":"Iron scaffold","qty":2,"name_zh":"铁架"},{"name":"Iron pipes","qty":1,"name_zh":"铁管"}],"attracts":["Conkeldurr"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:534","name_en":"Conkeldurr","name_zh":"修建老匠","image_url":"/images/pokemon/067.png"}],"image_url":"/images/habitats/HAB-177.png","image_path":"/images/habitats/HAB-177.png","source_url":"https://pokopiadb.com/database/habitats/construction-site-generator"},{"key":"habitat:HAB-119","category":"habitat","category_zh":"栖息地","id":"HAB-119","name":"仓库偷吃","name_zh":"仓库偷吃","name_en":"Container snacking","required":"Barrel x1, Wooden crate x1, Lantern x1, Plated food x1","required_zh":null,"required_items":[{"name":"Barrel","qty":1,"name_zh":"木桶"},{"name":"Wooden crate","qty":1,"name_zh":"木箱"},{"name":"Lantern","qty":1,"name_zh":"灯笼"},{"name":"Plated food","qty":1,"name_zh":"盘子上的食物"}],"attracts":["Diglett","Glimmet","Glimmora"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:50","name_en":"Diglett","name_zh":"地鼠","image_url":"/images/pokemon/154.png"},{"key":"pokemon:969","name_en":"Glimmet","name_zh":"晶光芽","image_url":"/images/pokemon/203.png"},{"key":"pokemon:970","name_en":"Glimmora","name_zh":"晶光花","image_url":"/images/pokemon/204.png"}],"image_url":"/images/habitats/HAB-119.png","image_path":"/images/habitats/HAB-119.png","source_url":"https://pokopiadb.com/database/habitats/container-snacking"},{"key":"habitat:HAB-044","category":"habitat","category_zh":"栖息地","id":"HAB-044","name":"圆木温暖","name_zh":"圆木温暖","name_en":"Crazy log handicrafts","required":"圓木椅 ×1","required_zh":"圓木椅 ×1","required_items":[{"name":"Log chair","qty":1,"name_zh":"原木椅"},{"name":"Log bed","qty":1,"name_zh":"原木床"},{"name":"Log table","qty":1,"name_zh":"原木桌"}],"attracts":[],"attracts_zh":["牙牙"],"attract_refs":[],"image_url":"/images/habitats/HAB-044.png","image_path":"/images/habitats/HAB-044.png","source_url":"https://pokopiadb.com/database/habitats/crazy-log-handicrafts"},{"key":"habitat:HAB-033","category":"habitat","category_zh":"栖息地","id":"HAB-033","name":"诡异墓前供品","name_zh":"诡异墓前供品","name_en":"Creepy grave offering","required":"可疑的蠟燭 ×2","required_zh":"可疑的蠟燭 ×2","required_items":[{"name":"Gravestone","qty":1,"name_zh":"墓碑"},{"name":"Eerie candle","qty":2,"name_zh":"奇异蜡烛"},{"name":"Plated food","qty":1,"name_zh":"盘子上的食物"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/033.png","image_path":"/images/habitats/HAB-033.png","source_url":"https://pokopiadb.com/database/habitats/creepy-grave-offering"},{"key":"habitat:HAB-118","category":"habitat","category_zh":"栖息地","id":"HAB-118","name":"诡异白色岩石","name_zh":"诡异白色岩石","name_en":"Creepy white rocks","required":"青苔 ×4","required_zh":"青苔 ×4","required_items":[{"name":"Stalagmites","qty":1,"name_zh":"石笋","is_env":true},{"name":"Moss","qty":4,"name_zh":"苔藓","is_env":true},{"name":"Wooden crate","qty":1,"name_zh":"木箱"},{"name":"Lantern","qty":1,"name_zh":"灯笼"}],"attracts":["Glimmet","Glimmora"],"attracts_zh":["晶光芽"],"attract_refs":[{"key":"pokemon:969","name_en":"Glimmet","name_zh":"晶光芽","image_url":"/images/pokemon/203.png"},{"key":"pokemon:970","name_en":"Glimmora","name_zh":"晶光花","image_url":"/images/pokemon/204.png"}],"image_url":"https://assets.pokopiadb.com/habitats/118.png","image_path":"/images/habitats/HAB-118.png","source_url":"https://pokopiadb.com/database/habitats/creepy-white-rocks"},{"key":"habitat:HAB-095","category":"habitat","category_zh":"栖息地","id":"HAB-095","name":"超可爱空间","name_zh":"超可爱空间","name_en":"Cuteness overload","required":"Cute sofa x1, Cute table x1, Cute lamp x1, Cute dresser x1, Cute bed x1","required_zh":null,"required_items":[{"name":"Cute sofa","qty":1,"name_zh":"可爱沙发"},{"name":"Cute table","qty":1,"name_zh":"可爱桌"},{"name":"Cute lamp","qty":1,"name_zh":"可爱灯"},{"name":"Cute dresser","qty":1,"name_zh":"可爱梳妆台"},{"name":"Cute bed","qty":1,"name_zh":"可爱床"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/095.png","image_path":"/images/habitats/HAB-095.png","source_url":"https://pokopiadb.com/database/habitats/cuteness-overload"},{"key":"habitat:HAB-149","category":"habitat","category_zh":"栖息地","id":"HAB-149","name":"骑车途中休息","name_zh":"骑车途中休息","name_en":"Cycling rest stop","required":"Bike x1, Vending machine x1","required_zh":null,"required_items":[{"name":"Bike","qty":1,"name_zh":"自行车"},{"name":"Vending machine","qty":1,"name_zh":"自动贩卖机"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/149.png","image_path":"/images/habitats/HAB-149.png","source_url":"https://pokopiadb.com/database/habitats/cycling-rest-stop"},{"key":"habitat:HAB-206","category":"habitat","category_zh":"栖息地","id":"HAB-206","name":"黑色风味","name_zh":"黑色风味","name_en":"Dark chocolate cookies","required":"椅子(任意) ×1","required_zh":"椅子(任意) ×1","required_items":[{"name":"Seat (any)","qty":1,"name_zh":"椅子（任意）"},{"name":"Table (any)","qty":1,"name_zh":"桌子（任意）"},{"name":"Chocolate cookies","qty":1,"name_zh":"巧克力饼干"}],"attracts":["Umbreon"],"attracts_zh":["月亮伊布"],"attract_refs":[{"key":"pokemon:197","name_en":"Umbreon","name_zh":"月亮伊布","image_url":"/images/pokemon/285.png"}],"image_url":"/images/habitats/HAB-206.png","image_path":"/images/habitats/HAB-206.png","source_url":"https://pokopiadb.com/database/habitats/dark-chocolate-cookies"},{"key":"habitat:HAB-199","category":"habitat","category_zh":"栖息地","id":"HAB-199","name":"暴君化石展示台","name_zh":"暴君化石展示台","name_en":"Despot fossil display","required":"台座・展示台 ×2","required_zh":"台座・展示台 ×2","required_items":[{"name":"Exhibition stand","qty":2,"name_zh":"展示台"},{"name":"Despot fossil (head)","qty":1,"name_zh":"暴君化石（头部）"},{"name":"Despot fossil (body)","qty":1,"name_zh":"暴君化石（躯体）"},{"name":"Despot fossil (tail)","qty":1,"name_zh":"暴君化石（尾部）"},{"name":"Despot fossil (legs)","qty":1,"name_zh":"暴君化石（腿部）"}],"attracts":["Tyrantrum"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:697","name_en":"Tyrantrum","name_zh":"怪颚龙","image_url":"/images/pokemon/277.png"}],"image_url":"/images/habitats/HAB-199.png","image_path":"/images/habitats/HAB-199.png","source_url":"https://pokopiadb.com/database/habitats/despot-fossil-display"},{"key":"habitat:HAB-116","category":"habitat","category_zh":"栖息地","id":"HAB-116","name":"挖掘与燃烧","name_zh":"挖掘与燃烧","name_en":"Digging and burning","required":"獨輪手推車 ×1","required_zh":"獨輪手推車 ×1","required_items":[{"name":"Wheelbarrow","qty":1,"name_zh":"独轮手推车"},{"name":"Smelting furnace","qty":1,"name_zh":"冶炼炉"},{"name":"Excavation tools","qty":1,"name_zh":"挖掘工具"}],"attracts":["Magmar"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:126","name_en":"Magmar","name_zh":"鸭嘴火兽","image_url":"/images/pokemon/163.png"}],"image_url":"/images/habitats/HAB-116.png","image_path":"/images/habitats/HAB-116.png","source_url":"https://pokopiadb.com/database/habitats/digging-and-burning"},{"key":"habitat:HAB-120","category":"habitat","category_zh":"栖息地","id":"HAB-120","name":"令人兴奋的餐桌","name_zh":"令人兴奋的餐桌","name_en":"Dinner table surprise","required":"Seat (wide) x2, Table (large) x1, Party platter x4","required_zh":null,"required_items":[{"name":"Seat (wide)","qty":2,"name_zh":"长条椅"},{"name":"Table (large)","qty":1,"name_zh":"大型桌子"},{"name":"Party platter","qty":4,"name_zh":"拼盘"}],"attracts":["Swalot"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:317","name_en":"Swalot","name_zh":"吞食兽","image_url":"/images/pokemon/054.png"}],"image_url":"https://assets.pokopiadb.com/habitats/120.png","image_path":"/images/habitats/HAB-120.png","source_url":"https://pokopiadb.com/database/habitats/dinner-table-surprise"},{"key":"habitat:HAB-088","category":"habitat","category_zh":"栖息地","id":"HAB-088","name":"码头","name_zh":"码头","name_en":"Dock","required":"棧橋 ×4","required_zh":"棧橋 ×4","required_items":[{"name":"Walkway","qty":4,"name_zh":"走道"},{"name":"Streetlight (any)","qty":1,"name_zh":"路灯（任意）"},{"name":"Ocean water","qty":2,"name_zh":"海水","is_env":true}],"attracts":["Marill","Azumarill"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:183","name_en":"Marill","name_zh":"玛力露","image_url":"/images/pokemon/115.png"},{"key":"pokemon:184","name_en":"Azumarill","name_zh":"玛力露丽","image_url":"/images/pokemon/116.png"}],"image_url":"/images/habitats/HAB-088.png","image_path":"/images/habitats/HAB-088.png","source_url":"https://pokopiadb.com/database/habitats/dock"},{"key":"habitat:HAB-178","category":"habitat","category_zh":"栖息地","id":"HAB-178","name":"道场训练","name_zh":"道场训练","name_en":"Dojo training","required":"Hanging scroll x2, Strength rock x2","required_zh":null,"required_items":[{"name":"Hanging scroll","qty":2,"name_zh":"挂轴"},{"name":"Strength rock","qty":2,"name_zh":"怪力岩","is_env":true}],"attracts":["Poliwrath"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:62","name_en":"Poliwrath","name_zh":"蚊香泳士","image_url":"/images/pokemon/211.png"}],"image_url":"https://assets.pokopiadb.com/habitats/178.png","image_path":"/images/habitats/HAB-178.png","source_url":"https://pokopiadb.com/database/habitats/dojo-training"},{"key":"habitat:HAB-203","category":"habitat","category_zh":"栖息地","id":"HAB-203","name":"电击薯条","name_zh":"电击薯条","name_en":"Electrifying potatoes","required":"椅子(任意) ×1","required_zh":"椅子(任意) ×1","required_items":[{"name":"Seat (any)","qty":1,"name_zh":"椅子（任意）"},{"name":"Table (any)","qty":1,"name_zh":"桌子（任意）"},{"name":"Fried potatoes","qty":1,"name_zh":"炸薯条"}],"attracts":["Jolteon"],"attracts_zh":["雷伊布"],"attract_refs":[{"key":"pokemon:135","name_en":"Jolteon","name_zh":"雷伊布","image_url":"/images/pokemon/282.png"}],"image_url":"/images/habitats/HAB-203.png","image_path":"/images/habitats/HAB-203.png","source_url":"https://pokopiadb.com/database/habitats/electrifying-potatoes"},{"key":"habitat:HAB-205","category":"habitat","category_zh":"栖息地","id":"HAB-205","name":"优雅午后","name_zh":"优雅午后","name_en":"Elegant daytime treats","required":"椅子(任意) ×1","required_zh":"椅子(任意) ×1","required_items":[{"name":"Seat (any)","qty":1,"name_zh":"椅子（任意）"},{"name":"Table (any)","qty":1,"name_zh":"桌子（任意）"},{"name":"Afternoon tea set","qty":1,"name_zh":"下午茶茶具"}],"attracts":["Espeon"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:196","name_en":"Espeon","name_zh":"太阳伊布","image_url":"/images/pokemon/284.png"}],"image_url":"/images/habitats/HAB-205.png","image_path":"/images/habitats/HAB-205.png","source_url":"https://pokopiadb.com/database/habitats/elegant-daytime-treats"},{"key":"habitat:HAB-012","category":"habitat","category_zh":"栖息地","id":"HAB-012","name":"高台花田","name_zh":"高台花田","name_en":"Elevated flower bed","required":"原野之花 ×4","required_zh":"原野之花 ×4","required_items":[{"name":"Wildflowers","qty":4,"name_zh":"野花","is_env":true},{"name":"High-up location","qty":1,"name_zh":"高处","is_env":true}],"attracts":["Paras"],"attracts_zh":["派拉斯","派拉斯特"],"attract_refs":[{"key":"pokemon:46","name_en":"Paras","name_zh":"派拉斯","image_url":"/images/pokemon/017.png"}],"image_url":"/images/habitats/HAB-012.png","image_path":"/images/habitats/HAB-012.png","source_url":"https://pokopiadb.com/database/habitats/elevated-flower-bed"},{"key":"habitat:HAB-140","category":"habitat","category_zh":"栖息地","id":"HAB-140","name":"高台粉红色草丛","name_zh":"高台粉红色草丛","name_en":"Elevated pink tall grass","required":"粉紅草 ×4","required_zh":"粉紅草 ×4","required_items":[{"name":"Pink tall grass","qty":4,"name_zh":"粉红高草","is_env":true},{"name":"High-up location","qty":1,"name_zh":"高处","is_env":true}],"attracts":["Corvisquire","Corviknight","Wattrel","Kilowattrel"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:822","name_en":"Corvisquire","name_zh":"蓝鸦","image_url":"/images/pokemon/258.png"},{"key":"pokemon:823","name_en":"Corviknight","name_zh":"钢铠鸦","image_url":"/images/pokemon/259.png"},{"key":"pokemon:940","name_en":"Wattrel","name_zh":"电海燕","image_url":"/images/pokemon/266.png"},{"key":"pokemon:941","name_en":"Kilowattrel","name_zh":"大电海燕","image_url":"/images/pokemon/267.png"}],"image_url":"/images/habitats/HAB-140.png","image_path":"/images/habitats/HAB-140.png","source_url":"https://pokopiadb.com/database/habitats/elevated-pink-tall-grass"},{"key":"habitat:HAB-102","category":"habitat","category_zh":"栖息地","id":"HAB-102","name":"高台红色草丛","name_zh":"高台红色草丛","name_en":"Elevated red tall grass","required":"紅草 ×4","required_zh":"紅草 ×4","required_items":[{"name":"Red tall grass","qty":4,"name_zh":"红色高草","is_env":true},{"name":"High-up location","qty":1,"name_zh":"高处","is_env":true}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/102.png","image_path":"/images/habitats/HAB-102.png","source_url":"https://pokopiadb.com/database/habitats/elevated-red-tall-grass"},{"key":"habitat:HAB-006","category":"habitat","category_zh":"栖息地","id":"HAB-006","name":"高台草丛","name_zh":"高台草丛","name_en":"Elevated tall grass","required":"綠草 ×4","required_zh":"綠草 ×4","required_items":[{"name":"Tall grass","qty":4,"name_zh":"绿色高草","is_env":true},{"name":"High-up location","qty":1,"name_zh":"高处","is_env":true}],"attracts":["Pidgey","Pidgeotto","Hoothoot","Noctowl"],"attracts_zh":["咕咕","波波"],"attract_refs":[{"key":"pokemon:16","name_en":"Pidgey","name_zh":"波波","image_url":"/images/pokemon/010.png"},{"key":"pokemon:17","name_en":"Pidgeotto","name_zh":"比比鸟","image_url":"/images/pokemon/011.png"},{"key":"pokemon:163","name_en":"Hoothoot","name_zh":"咕咕","image_url":"/images/pokemon/048.png"},{"key":"pokemon:164","name_en":"Noctowl","name_zh":"猫头夜鹰","image_url":"/images/pokemon/049.png"}],"image_url":"/images/habitats/HAB-006.png","image_path":"/images/habitats/HAB-006.png","source_url":"https://pokopiadb.com/database/habitats/elevated-tall-grass"},{"key":"habitat:HAB-052","category":"habitat","category_zh":"栖息地","id":"HAB-052","name":"高台黄色草丛","name_zh":"高台黄色草丛","name_en":"Elevated yellow tall grass","required":"黃草 ×4","required_zh":"黃草 ×4","required_items":[{"name":"Yellow tall grass","qty":4,"name_zh":"黄色高草","is_env":true},{"name":"High-up location","qty":1,"name_zh":"高处","is_env":true}],"attracts":["Crobat"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:169","name_en":"Crobat","name_zh":"叉字蝠","image_url":"/images/pokemon/083.png"}],"image_url":"https://assets.pokopiadb.com/habitats/052.png","image_path":"/images/habitats/HAB-052.png","source_url":"https://pokopiadb.com/database/habitats/elevated-yellow-tall-grass"},{"key":"habitat:HAB-179","category":"habitat","category_zh":"栖息地","id":"HAB-179","name":"邪恶组织的巢穴","name_zh":"邪恶组织的巢穴","name_en":"Evil organization hq","required":"無 貓老大","required_zh":"無 貓老大","required_items":[{"name":"Potted plant (any)","qty":2,"name_zh":"盆栽（任意）"},{"name":"Luxury sofa","qty":1,"name_zh":"豪华沙发"},{"name":"Team rocket wall hanging","qty":1,"name_zh":"火箭队壁挂"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"/images/habitats/HAB-179.png","image_path":"/images/habitats/HAB-179.png","source_url":"https://pokopiadb.com/database/habitats/evil-organization-hq"},{"key":"habitat:HAB-024","category":"habitat","category_zh":"栖息地","id":"HAB-024","name":"健身房休息处","name_zh":"健身房休息处","name_en":"Exercise resting spot","required":"沙包 ×1","required_zh":"沙包 ×1","required_items":[{"name":"Punching bag","qty":1,"name_zh":"沙包"},{"name":"Seat (any)","qty":1,"name_zh":"椅子（任意）"}],"attracts":["Hitmonchan"],"attracts_zh":["快拳郎"],"attract_refs":[{"key":"pokemon:107","name_en":"Hitmonchan","name_zh":"快拳郎","image_url":"/images/pokemon/036.png"}],"image_url":"/images/habitats/HAB-024.png","image_path":"/images/habitats/HAB-024.png","source_url":"https://pokopiadb.com/database/habitats/exercise-resting-spot"},{"key":"habitat:HAB-168","category":"habitat","category_zh":"栖息地","id":"HAB-168","name":"实验空间","name_zh":"实验空间","name_en":"Experiment space","required":"Science experiment x1, Microscope x1, Papers x1","required_zh":null,"required_items":[{"name":"Science experiment","qty":1,"name_zh":"科学实验台"},{"name":"Microscope","qty":1,"name_zh":"显微镜"},{"name":"Papers","qty":1,"name_zh":"文件"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/168.png","image_path":"/images/habitats/HAB-168.png","source_url":"https://pokopiadb.com/database/habitats/experiment-space"},{"key":"habitat:HAB-038","category":"habitat","category_zh":"栖息地","id":"HAB-038","name":"工厂仓库","name_zh":"工厂仓库","name_en":"Factory storage","required":"路燈(任意) ×1","required_zh":"路燈(任意) ×1","required_items":[{"name":"Streetlight (any)","qty":1,"name_zh":"路灯（任意）"},{"name":"Control unit","qty":1,"name_zh":"控制台"},{"name":"Metal drum","qty":1,"name_zh":"铁桶"},{"name":"Jumbled cords","qty":1,"name_zh":"杂乱电线"}],"attracts":["Magnemite"],"attracts_zh":["小磁怪"],"attract_refs":[{"key":"pokemon:81","name_en":"Magnemite","name_zh":"小磁怪","image_url":"/images/pokemon/027.png"}],"image_url":"https://assets.pokopiadb.com/habitats/038.png","image_path":"/images/habitats/HAB-038.png","source_url":"https://pokopiadb.com/database/habitats/factory-storage"},{"key":"habitat:HAB-011","category":"habitat","category_zh":"栖息地","id":"HAB-011","name":"花卉盛景","name_zh":"花卉盛景","name_en":"Field of flowers","required":"原野之花 ×8","required_zh":"原野之花 ×8","required_items":[{"name":"Wildflowers","qty":8,"name_zh":"野花","is_env":true}],"attracts":["Vespiquen","Ivysaur","Venusaur"],"attracts_zh":["妙蛙草","妙蛙花","蜂女王"],"attract_refs":[{"key":"pokemon:416","name_en":"Vespiquen","name_zh":"蜂女王","image_url":"/images/pokemon/058.png"},{"key":"pokemon:2","name_en":"Ivysaur","name_zh":"妙蛙草","image_url":"/images/pokemon/002.png"},{"key":"pokemon:3","name_en":"Venusaur","name_zh":"妙蛙花","image_url":"/images/pokemon/003.png"}],"image_url":"/images/habitats/HAB-011.png","image_path":"/images/habitats/HAB-011.png","source_url":"https://pokopiadb.com/database/habitats/field-of-flowers"},{"key":"habitat:HAB-150","category":"habitat","category_zh":"栖息地","id":"HAB-150","name":"壁炉旁小憩","name_zh":"壁炉旁小憩","name_en":"Fireplace nap spot","required":"石製壁爐 ×1","required_zh":"石製壁爐 ×1","required_items":[{"name":"Stone fireplace","qty":1,"name_zh":"石制壁炉"},{"name":"Seat (wide)","qty":1,"name_zh":"长条椅"}],"attracts":[],"attracts_zh":["火岩鼠"],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/150.png","image_path":"/images/habitats/HAB-150.png","source_url":"https://pokopiadb.com/database/habitats/fireplace-nap-spot"},{"key":"habitat:HAB-184","category":"habitat","category_zh":"栖息地","id":"HAB-184","name":"钓鱼池","name_zh":"钓鱼池","name_en":"Fishing pond","required":"釣竿 ×1","required_zh":"釣竿 ×1","required_items":[{"name":"Fishing rod","qty":1,"name_zh":"钓竿"},{"name":"Seat (any)","qty":1,"name_zh":"椅子（任意）"},{"name":"Water","qty":1,"name_zh":"水","is_env":true}],"attracts":["Slowbro","Slowking"],"attracts_zh":["呆呆王"],"attract_refs":[{"key":"pokemon:80","name_en":"Slowbro","name_zh":"呆壳兽","image_url":"/images/pokemon/025.png"},{"key":"pokemon:199","name_en":"Slowking","name_zh":"呆呆王","image_url":"/images/pokemon/026.png"}],"image_url":"https://assets.pokopiadb.com/habitats/184.png","image_path":"/images/habitats/HAB-184.png","source_url":"https://pokopiadb.com/database/habitats/fishing-pond"},{"key":"habitat:HAB-036","category":"habitat","category_zh":"栖息地","id":"HAB-036","name":"在阴凉处玩水","name_zh":"在阴凉处玩水","name_en":"Floating in the shade","required":"海灘傘 ×1","required_zh":"海灘傘 ×1","required_items":[{"name":"Inflatable boat","qty":1,"name_zh":"充气船"},{"name":"Beach parasol","qty":1,"name_zh":"沙滩伞"},{"name":"Water","qty":2,"name_zh":"水","is_env":true}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"/images/habitats/HAB-036.png","image_path":"/images/habitats/HAB-036.png","source_url":"https://pokopiadb.com/database/habitats/floating-in-the-shade"},{"key":"habitat:HAB-014","category":"habitat","category_zh":"栖息地","id":"HAB-014","name":"花园","name_zh":"花园","name_en":"Flower garden","required":"樹籬(任意) ×4","required_zh":"樹籬(任意) ×4","required_items":[{"name":"Hedge (any)","qty":4,"name_zh":"篱笆（任意）"},{"name":"Wildflowers","qty":4,"name_zh":"野花","is_env":true}],"attracts":["Paras","Parasect"],"attracts_zh":["派拉斯","派拉斯特"],"attract_refs":[{"key":"pokemon:46","name_en":"Paras","name_zh":"派拉斯","image_url":"/images/pokemon/017.png"},{"key":"pokemon:47","name_en":"Parasect","name_zh":"派拉斯特","image_url":"/images/pokemon/018.png"}],"image_url":"/images/habitats/HAB-014.png","image_path":"/images/habitats/HAB-014.png","source_url":"https://pokopiadb.com/database/habitats/flower-garden"},{"key":"habitat:HAB-107","category":"habitat","category_zh":"栖息地","id":"HAB-107","name":"花田树桩舞台","name_zh":"花田树桩舞台","name_en":"Flower garden stump stage","required":"岩場之花 ×4","required_zh":"岩場之花 ×4","required_items":[{"name":"Mountain flowers","qty":4,"name_zh":"山岩花","is_env":true},{"name":"Mushroom lamp","qty":2,"name_zh":"蘑菇灯"},{"name":"Tree stump","qty":1,"name_zh":"树桩","is_env":true}],"attracts":["Igglybuff","Jigglypuff","Politoed"],"attracts_zh":["胖丁","蚊香蛙皇"],"attract_refs":[{"key":"pokemon:174","name_en":"Igglybuff","name_zh":"宝宝丁","image_url":"/images/pokemon/151.png"},{"key":"pokemon:39","name_en":"Jigglypuff","name_zh":"胖丁","image_url":"/images/pokemon/152.png"},{"key":"pokemon:186","name_en":"Politoed","name_zh":"蚊香蛙皇","image_url":"/images/pokemon/212.png"}],"image_url":"/images/habitats/HAB-107.png","image_path":"/images/habitats/HAB-107.png","source_url":"https://pokopiadb.com/database/habitats/flower-garden-stump-stage"},{"key":"habitat:HAB-021","category":"habitat","category_zh":"栖息地","id":"HAB-021","name":"华丽餐桌","name_zh":"华丽餐桌","name_en":"Flowery table","required":"椅子(任意) ×1","required_zh":"椅子(任意) ×1","required_items":[{"name":"Seat (any)","qty":1,"name_zh":"椅子（任意）"},{"name":"Table (any)","qty":1,"name_zh":"桌子（任意）"},{"name":"Small vase","qty":1,"name_zh":"小花瓶"}],"attracts":["Weepinbell"],"attracts_zh":["口呆花","大食花"],"attract_refs":[{"key":"pokemon:70","name_en":"Weepinbell","name_zh":"口呆花","image_url":"/images/pokemon/022.png"}],"image_url":"https://assets.pokopiadb.com/habitats/021.png","image_path":"/images/habitats/HAB-021.png","source_url":"https://pokopiadb.com/database/habitats/flowery-table"},{"key":"habitat:HAB-142","category":"habitat","category_zh":"栖息地","id":"HAB-142","name":"蓬松花田","name_zh":"蓬松花田","name_en":"Fluffy flower bed","required":"浮島之花 ×4","required_zh":"浮島之花 ×4","required_items":[{"name":"Skyland flowers","qty":4,"name_zh":"浮岛花","is_env":true}],"attracts":["Vulpix","Ninetales","Rookidee","Misdreavus"],"attracts_zh":["六尾","九尾","稚山雀"],"attract_refs":[{"key":"pokemon:37","name_en":"Vulpix","name_zh":"六尾","image_url":"/images/pokemon/207.png"},{"key":"pokemon:38","name_en":"Ninetales","name_zh":"九尾","image_url":"/images/pokemon/208.png"},{"key":"pokemon:821","name_en":"Rookidee","name_zh":"稚山雀","image_url":"https://assets.pokopiaguide.com/pokemon/rookidee.png"},{"key":"pokemon:200","name_en":"Misdreavus","name_zh":"梦妖","image_url":"/images/pokemon/227.png"}],"image_url":"/images/habitats/HAB-142.png","image_path":"/images/habitats/HAB-142.png","source_url":"https://pokopiadb.com/database/habitats/fluffy-flower-bed"},{"key":"habitat:HAB-152","category":"habitat","category_zh":"栖息地","id":"HAB-152","name":"水晶占卜","name_zh":"水晶占卜","name_en":"Fortune-teller's table","required":"椅子(任意) ×2","required_zh":"椅子(任意) ×2","required_items":[{"name":"Seat (any)","qty":2,"name_zh":"椅子（任意）"},{"name":"Table (any)","qty":1,"name_zh":"桌子（任意）"},{"name":"Crystal ball","qty":1,"name_zh":"水晶球"}],"attracts":["Abra"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:63","name_en":"Abra","name_zh":"凯西","image_url":"/images/pokemon/213.png"}],"image_url":"https://assets.pokopiadb.com/habitats/152.png","image_path":"/images/habitats/HAB-152.png","source_url":"https://pokopiadb.com/database/habitats/fortune-teller-s-table"},{"key":"habitat:HAB-015","category":"habitat","category_zh":"栖息地","id":"HAB-015","name":"新鲜蔬菜田","name_zh":"新鲜蔬菜田","name_en":"Fresh veggie field","required":"蔬菜田(任意) ×8","required_zh":"蔬菜田(任意) ×8","required_items":[{"name":"Vegetable field (any)","qty":8,"name_zh":"蔬菜田（任意）"}],"attracts":["Drilbur","Excadrill"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:529","name_en":"Drilbur","name_zh":"螺钉地鼠","image_url":"/images/pokemon/063.png"},{"key":"pokemon:530","name_en":"Excadrill","name_zh":"龙头地鼠","image_url":"/images/pokemon/064.png"}],"image_url":"/images/habitats/HAB-015.png","image_path":"/images/habitats/HAB-015.png","source_url":"https://pokopiadb.com/database/habitats/fresh-veggie-field"},{"key":"habitat:HAB-081","category":"habitat","category_zh":"栖息地","id":"HAB-081","name":"痊愈前好好休息","name_zh":"痊愈前好好休息","name_en":"Full recovery","required":"Bed (any) x1, Plain chest x1, First aid kit x1","required_zh":null,"required_items":[{"name":"Bed (any)","qty":1,"name_zh":"床铺（任意）"},{"name":"Plain chest","qty":1,"name_zh":"简约收纳箱"},{"name":"First aid kit","qty":1,"name_zh":"急救箱"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/081.png","image_path":"/images/habitats/HAB-081.png","source_url":"https://pokopiadb.com/database/habitats/full-recovery"},{"key":"habitat:HAB-087","category":"habitat","category_zh":"栖息地","id":"HAB-087","name":"火力发电所","name_zh":"火力发电所","name_en":"Furnace spot","required":"無 力壯雞","required_zh":"無 力壯雞","required_items":[{"name":"Metal drum","qty":1,"name_zh":"铁桶"},{"name":"Furnace","qty":1,"name_zh":"熔炉"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"/images/habitats/HAB-087.png","image_path":"/images/habitats/HAB-087.png","source_url":"https://pokopiadb.com/database/habitats/furnace-spot"},{"key":"habitat:HAB-164","category":"habitat","category_zh":"栖息地","id":"HAB-164","name":"游戏角对战","name_zh":"游戏角对战","name_en":"Game corner battle zone","required":"Arcade machine x2, Seat (any) x2","required_zh":null,"required_items":[{"name":"Arcade machine","qty":2,"name_zh":"街机"},{"name":"Seat (any)","qty":2,"name_zh":"椅子（任意）"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/164.png","image_path":"/images/habitats/HAB-164.png","source_url":"https://pokopiadb.com/database/habitats/game-corner-battle-zone"},{"key":"habitat:HAB-182","category":"habitat","category_zh":"栖息地","id":"HAB-182","name":"绝佳游戏环境","name_zh":"绝佳游戏环境","name_en":"Gamer's paradise","required":"Gaming bed x1, Iron table x1, Gaming pc x1, Gaming chair x1, Gaming fridge x1","required_zh":null,"required_items":[{"name":"Gaming bed","qty":1,"name_zh":"电竞床"},{"name":"Iron table","qty":1,"name_zh":"铁制桌"},{"name":"Gaming pc","qty":1,"name_zh":"电竞电脑"},{"name":"Gaming chair","qty":1,"name_zh":"电竞椅"},{"name":"Gaming fridge","qty":1,"name_zh":"电竞冰箱"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/182.png","image_path":"/images/habitats/HAB-182.png","source_url":"https://pokopiadb.com/database/habitats/gamer-s-paradise"},{"key":"habitat:HAB-046","category":"habitat","category_zh":"栖息地","id":"HAB-046","name":"庭园露台","name_zh":"庭园露台","name_en":"Garden terrace","required":"原野之花 ×4","required_zh":"原野之花 ×4","required_items":[{"name":"Wildflowers","qty":4,"name_zh":"野花","is_env":true},{"name":"Garden chair","qty":1,"name_zh":"庭院椅"},{"name":"Garden light","qty":1,"name_zh":"庭院灯"},{"name":"Garden table","qty":1,"name_zh":"庭院桌"}],"attracts":[],"attracts_zh":["妙蛙花"],"attract_refs":[],"image_url":"/images/habitats/HAB-046.png","image_path":"/images/habitats/HAB-046.png","source_url":"https://pokopiadb.com/database/habitats/garden-terrace"},{"key":"habitat:HAB-031","category":"habitat","category_zh":"栖息地","id":"HAB-031","name":"温柔灯光晚安","name_zh":"温柔灯光晚安","name_en":"Gently lit bed","required":"床鋪(任意) ×1","required_zh":"床鋪(任意) ×1","required_items":[{"name":"Bed (any)","qty":1,"name_zh":"床铺（任意）"},{"name":"Table (any)","qty":1,"name_zh":"桌子（任意）"},{"name":"Slender candle","qty":1,"name_zh":"细蜡烛"}],"attracts":[],"attracts_zh":["咕咕"],"attract_refs":[],"image_url":"/images/habitats/HAB-031.png","image_path":"/images/habitats/HAB-031.png","source_url":"https://pokopiadb.com/database/habitats/gently-lit-bed"},{"key":"habitat:HAB-048","category":"habitat","category_zh":"栖息地","id":"HAB-048","name":"美好的古董","name_zh":"美好的古董","name_en":"Good old-fashioned antiques","required":"Antique closet x1, Antique bed x1, Antique dresser x1, Antique chair x1","required_zh":null,"required_items":[{"name":"Antique closet","qty":1,"name_zh":"古典衣柜"},{"name":"Antique bed","qty":1,"name_zh":"古典床"},{"name":"Antique dresser","qty":1,"name_zh":"古典梳妆台"},{"name":"Antique chair","qty":1,"name_zh":"古典椅"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/048.png","image_path":"/images/habitats/HAB-048.png","source_url":"https://pokopiadb.com/database/habitats/good-old-fashioned-antiques"},{"key":"habitat:HAB-093","category":"habitat","category_zh":"栖息地","id":"HAB-093","name":"美食供品","name_zh":"美食供品","name_en":"Gourmet's altar","required":"無 卡比獸(長滿青苔)","required_zh":"無 卡比獸(長滿青苔)","required_items":[{"name":"Offering dish","qty":1,"name_zh":"供品盘"}],"attracts":["Snorlax"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:143","name_en":"Snorlax","name_zh":"卡比兽","image_url":"/images/pokemon/108.png"}],"image_url":"https://assets.pokopiadb.com/habitats/093.png","image_path":"/images/habitats/HAB-093.png","source_url":"https://pokopiadb.com/database/habitats/gourmet-s-altar"},{"key":"habitat:HAB-104","category":"habitat","category_zh":"栖息地","id":"HAB-104","name":"优雅花田","name_zh":"优雅花田","name_en":"Graceful flower bed","required":"岩場之花 ×4","required_zh":"岩場之花 ×4","required_items":[{"name":"Mountain flowers","qty":4,"name_zh":"山岩花","is_env":true}],"attracts":["Cleffa","Fidough"],"attracts_zh":["狗仔包"],"attract_refs":[{"key":"pokemon:173","name_en":"Cleffa","name_zh":"皮宝宝","image_url":"/images/pokemon/148.png"},{"key":"pokemon:926","name_en":"Fidough","name_zh":"狗仔包","image_url":"/images/pokemon/198.png"}],"image_url":"https://assets.pokopiadb.com/habitats/104.png","image_path":"/images/habitats/HAB-104.png","source_url":"https://pokopiadb.com/database/habitats/graceful-flower-bed"},{"key":"habitat:HAB-103","category":"habitat","category_zh":"栖息地","id":"HAB-103","name":"草丛训练场","name_zh":"草丛训练场","name_en":"Grassy training field","required":"沙包袋 ×2","required_zh":"沙包袋 ×2","required_items":[{"name":"Sandbags","qty":2,"name_zh":"沙包袋"},{"name":"Red tall grass","qty":4,"name_zh":"红色高草","is_env":true}],"attracts":["Machoke","Machamp"],"attracts_zh":["豪力","怪力"],"attract_refs":[{"key":"pokemon:67","name_en":"Machoke","name_zh":"豪力","image_url":"/images/pokemon/157.png"},{"key":"pokemon:68","name_en":"Machamp","name_zh":"怪力","image_url":"/images/pokemon/158.png"}],"image_url":"/images/habitats/HAB-103.png","image_path":"/images/habitats/HAB-103.png","source_url":"https://pokopiadb.com/database/habitats/grassy-training-field"},{"key":"habitat:HAB-032","category":"habitat","category_zh":"栖息地","id":"HAB-032","name":"墓前供品","name_zh":"墓前供品","name_en":"Grave offering","required":"墓碑 ×1","required_zh":"墓碑 ×1","required_items":[{"name":"Gravestone","qty":1,"name_zh":"墓碑"},{"name":"Slender candle","qty":2,"name_zh":"细蜡烛"},{"name":"Plated food","qty":1,"name_zh":"盘子上的食物"}],"attracts":["Litwick","Lampent"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:607","name_en":"Litwick","name_zh":"烛光灵","image_url":"/images/pokemon/068.png"},{"key":"pokemon:608","name_en":"Lampent","name_zh":"灯火幽灵","image_url":"/images/pokemon/069.png"}],"image_url":"/images/habitats/HAB-032.png","image_path":"/images/habitats/HAB-032.png","source_url":"https://pokopiadb.com/database/habitats/grave-offering"},{"key":"habitat:HAB-013","category":"habitat","category_zh":"栖息地","id":"HAB-013","name":"花环墓地","name_zh":"花环墓地","name_en":"Grave with flowers","required":"原野之花 ×4","required_zh":"原野之花 ×4","required_items":[{"name":"Wildflowers","qty":4,"name_zh":"野花","is_env":true},{"name":"Gravestone","qty":1,"name_zh":"墓碑"}],"attracts":["Cubone","Marowak"],"attracts_zh":["卡拉卡拉","嘎啦嘎啦"],"attract_refs":[{"key":"pokemon:104","name_en":"Cubone","name_zh":"卡拉卡拉","image_url":"/images/pokemon/032.png"},{"key":"pokemon:105","name_en":"Marowak","name_zh":"嘎啦嘎啦","image_url":"/images/pokemon/033.png"}],"image_url":"/images/habitats/HAB-013.png","image_path":"/images/habitats/HAB-013.png","source_url":"https://pokopiadb.com/database/habitats/grave-with-flowers"},{"key":"habitat:HAB-026","category":"habitat","category_zh":"栖息地","id":"HAB-026","name":"健身房急救站","name_zh":"健身房急救站","name_en":"Gym first aid","required":"桌子(任意) ×1","required_zh":"桌子(任意) ×1","required_items":[{"name":"Table (any)","qty":1,"name_zh":"桌子（任意）"},{"name":"Punching bag","qty":1,"name_zh":"沙包"},{"name":"First aid kit","qty":1,"name_zh":"急救箱"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"/images/habitats/HAB-026.png","image_path":"/images/habitats/HAB-026.png","source_url":"https://pokopiadb.com/database/habitats/gym-first-aid"},{"key":"habitat:HAB-114","category":"habitat","category_zh":"栖息地","id":"HAB-114","name":"疗愈温泉","name_zh":"疗愈温泉","name_en":"Harmonious hot spring","required":"水桶 ×1","required_zh":"水桶 ×1","required_items":[{"name":"Hot spring spout","qty":1,"name_zh":"温泉喷口"},{"name":"Water basin","qty":1,"name_zh":"水盆","is_env":true},{"name":"Hot spring water","qty":2,"name_zh":"温泉水","is_env":true}],"attracts":[],"attracts_zh":["蚊香蛙皇"],"attract_refs":[],"image_url":"/images/habitats/HAB-114.png","image_path":"/images/habitats/HAB-114.png","source_url":"https://pokopiadb.com/database/habitats/harmonious-hot-spring"},{"key":"habitat:HAB-195","category":"habitat","category_zh":"栖息地","id":"HAB-195","name":"头锤化石展示台","name_zh":"头锤化石展示台","name_en":"Headbutt fossil display","required":"台座・展示台 ×1","required_zh":"台座・展示台 ×1","required_items":[{"name":"Exhibition stand","qty":1,"name_zh":"展示台"},{"name":"Headbut fossil (head)","qty":1,"name_zh":"铁头化石（头部）"},{"name":"Headbut fossil (body)","qty":1,"name_zh":"铁头化石（躯体）"},{"name":"Headbut fossil (tail)","qty":1,"name_zh":"铁头化石（尾部）"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/195.png","image_path":"/images/habitats/HAB-195.png","source_url":"https://pokopiadb.com/database/habitats/headbutt-fossil-display"},{"key":"habitat:HAB-172","category":"habitat","category_zh":"栖息地","id":"HAB-172","name":"咚咚惊吓箱","name_zh":"咚咚惊吓箱","name_en":"Heart-pounding surprise box","required":"Spotlight x1, Boo-in-the-box x1, Big drum x1","required_zh":null,"required_items":[{"name":"Spotlight","qty":1,"name_zh":"聚光灯"},{"name":"Boo-in-the-box","qty":1,"name_zh":"捉弄箱"},{"name":"Big drum","qty":1,"name_zh":"大鼓"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/172.png","image_path":"/images/habitats/HAB-172.png","source_url":"https://pokopiadb.com/database/habitats/heart-pounding-surprise-box"},{"key":"habitat:HAB-135","category":"habitat","category_zh":"栖息地","id":"HAB-135","name":"沉甸甸的铁","name_zh":"沉甸甸的铁","name_en":"Heavy iron","required":"Iron bed x1, Iron chair x1, Iron table x1, Lantern x1","required_zh":null,"required_items":[{"name":"Iron bed","qty":1,"name_zh":"铁制床"},{"name":"Iron chair","qty":1,"name_zh":"铁制椅"},{"name":"Iron table","qty":1,"name_zh":"铁制桌"},{"name":"Lantern","qty":1,"name_zh":"灯笼"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/135.png","image_path":"/images/habitats/HAB-135.png","source_url":"https://pokopiadb.com/database/habitats/heavy-iron"},{"key":"habitat:HAB-158","category":"habitat","category_zh":"栖息地","id":"HAB-158","name":"家庭剧院","name_zh":"家庭剧院","name_en":"Home theater","required":"Stand x1, Television x1, Speaker x2","required_zh":null,"required_items":[{"name":"Stand","qty":1,"name_zh":"展示架"},{"name":"Television","qty":1,"name_zh":"电视"},{"name":"Speaker","qty":2,"name_zh":"喇叭"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/158.png","image_path":"/images/habitats/HAB-158.png","source_url":"https://pokopiadb.com/database/habitats/home-theater"},{"key":"habitat:HAB-112","category":"habitat","category_zh":"栖息地","id":"HAB-112","name":"長滿青苔的溫泉","name_zh":"長滿青苔的溫泉","name_en":"Hot spring","required":"青苔 ×4","required_zh":"青苔 ×4","required_items":[{"name":"Hot spring water","qty":2,"name_zh":"温泉水","is_env":true},{"name":"Moss","qty":4,"name_zh":"苔藓","is_env":true}],"attracts":["Torkoal"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:324","name_en":"Torkoal","name_zh":"煤炭龟","image_url":"https://assets.pokopiaguide.com/pokemon/torkoal.png"}],"image_url":"/images/habitats/HAB-112.png","image_path":"/images/habitats/HAB-112.png","source_url":"https://pokopiadb.com/database/habitats/hot-spring"},{"key":"habitat:HAB-187","category":"habitat","category_zh":"栖息地","id":"HAB-187","name":"温泉钓鱼","name_zh":"温泉钓鱼","name_en":"Hot-spring fishing spot","required":"釣竿 ×1","required_zh":"釣竿 ×1","required_items":[{"name":"Fishing rod","qty":1,"name_zh":"钓竿"},{"name":"Seat (any)","qty":1,"name_zh":"椅子（任意）"},{"name":"Hot spring water","qty":1,"name_zh":"温泉水","is_env":true}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"/images/habitats/HAB-187.png","image_path":"/images/habitats/HAB-187.png","source_url":"https://pokopiadb.com/database/habitats/hot-spring-fishing-spot"},{"key":"habitat:HAB-078","category":"habitat","category_zh":"栖息地","id":"HAB-078","name":"温泉冲洗处","name_zh":"温泉冲洗处","name_en":"Hot spring shower","required":"椅子(任意) ×1","required_zh":"椅子(任意) ×1","required_items":[{"name":"Shower","qty":1,"name_zh":"淋浴间"},{"name":"Seat (any)","qty":1,"name_zh":"椅子（任意）"},{"name":"Hot spring water","qty":2,"name_zh":"温泉水","is_env":true}],"attracts":["Psyduck","PokopiaDb"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:54","name_en":"Psyduck","name_zh":"可达鸭","image_url":"/images/pokemon/086.png"}],"image_url":"/images/habitats/HAB-078.png","image_path":"/images/habitats/HAB-078.png","source_url":"https://pokopiadb.com/database/habitats/hot-spring-shower"},{"key":"habitat:HAB-123","category":"habitat","category_zh":"栖息地","id":"HAB-123","name":"大家来派对","name_zh":"大家来派对","name_en":"House party","required":"盤子上的食物 ×1","required_zh":"盤子上的食物 ×1","required_items":[{"name":"Food counter","qty":1,"name_zh":"食物柜台"},{"name":"Paper party cups","qty":1,"name_zh":"纸杯"},{"name":"Plated food","qty":1,"name_zh":"盘子上的食物"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/123.png","image_path":"/images/habitats/HAB-123.png","source_url":"https://pokopiadb.com/database/habitats/house-party"},{"key":"habitat:HAB-010","category":"habitat","category_zh":"栖息地","id":"HAB-010","name":"湿润花田","name_zh":"湿润花田","name_en":"Hydrated flower bed","required":"原野之花 ×4","required_zh":"原野之花 ×4","required_items":[{"name":"Wildflowers","qty":4,"name_zh":"野花","is_env":true},{"name":"Water","qty":2,"name_zh":"水","is_env":true}],"attracts":["Volbeat","Illumise"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:313","name_en":"Volbeat","name_zh":"电萤虫","image_url":"/images/pokemon/051.png"},{"key":"pokemon:314","name_en":"Illumise","name_zh":"甜甜萤","image_url":"/images/pokemon/052.png"}],"image_url":"/images/habitats/HAB-010.png","image_path":"/images/habitats/HAB-010.png","source_url":"https://pokopiadb.com/database/habitats/hydrated-flower-bed"},{"key":"habitat:HAB-144","category":"habitat","category_zh":"栖息地","id":"HAB-144","name":"湿润蓬松花田","name_zh":"湿润蓬松花田","name_en":"Hydrated fluffy flower bed","required":"浮島之花 ×4","required_zh":"浮島之花 ×4","required_items":[{"name":"Skyland flowers","qty":4,"name_zh":"浮岛花","is_env":true},{"name":"Water","qty":2,"name_zh":"水","is_env":true}],"attracts":["Dratini","Dragonair","Poliwhirl"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:147","name_en":"Dratini","name_zh":"迷你龙","image_url":"/images/pokemon/221.png"},{"key":"pokemon:148","name_en":"Dragonair","name_zh":"哈克龙","image_url":"/images/pokemon/222.png"},{"key":"pokemon:61","name_en":"Poliwhirl","name_zh":"蚊香君","image_url":"/images/pokemon/210.png"}],"image_url":"https://assets.pokopiadb.com/habitats/144.png","image_path":"/images/habitats/HAB-144.png","source_url":"https://pokopiadb.com/database/habitats/hydrated-fluffy-flower-bed"},{"key":"habitat:HAB-106","category":"habitat","category_zh":"栖息地","id":"HAB-106","name":"湿润优雅花田","name_zh":"湿润优雅花田","name_en":"Hydrated graceful flower bed","required":"水 ×2","required_zh":"水 ×2","required_items":[{"name":"Mountain flowers","qty":4,"name_zh":"山岩花","is_env":true},{"name":"Water","qty":2,"name_zh":"水","is_env":true}],"attracts":[],"attracts_zh":["阿柏蛇","阿柏怪"],"attract_refs":[],"image_url":"/images/habitats/HAB-106.png","image_path":"/images/habitats/HAB-106.png","source_url":"https://pokopiadb.com/database/habitats/hydrated-graceful-flower-bed"},{"key":"habitat:HAB-139","category":"habitat","category_zh":"栖息地","id":"HAB-139","name":"湿润粉红色草丛","name_zh":"湿润粉红色草丛","name_en":"Hydrated pink tall grass","required":"粉紅草 ×4","required_zh":"粉紅草 ×4","required_items":[{"name":"Pink tall grass","qty":4,"name_zh":"粉红高草","is_env":true},{"name":"Water","qty":2,"name_zh":"水","is_env":true}],"attracts":["Froakie","Frogadier"],"attracts_zh":["呱呱泡蛙"],"attract_refs":[{"key":"pokemon:656","name_en":"Froakie","name_zh":"呱呱泡蛙","image_url":"/images/pokemon/251.png"},{"key":"pokemon:657","name_en":"Frogadier","name_zh":"呱头蛙","image_url":"/images/pokemon/252.png"}],"image_url":"/images/habitats/HAB-139.png","image_path":"/images/habitats/HAB-139.png","source_url":"https://pokopiadb.com/database/habitats/hydrated-pink-tall-grass"},{"key":"habitat:HAB-101","category":"habitat","category_zh":"栖息地","id":"HAB-101","name":"湿润红色草丛","name_zh":"湿润红色草丛","name_en":"Hydrated red tall grass","required":"紅草 ×4","required_zh":"紅草 ×4","required_items":[{"name":"Red tall grass","qty":4,"name_zh":"红色高草","is_env":true},{"name":"Water","qty":2,"name_zh":"水","is_env":true}],"attracts":["Lotad","Lombre"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:270","name_en":"Lotad","name_zh":"莲叶童子","image_url":"/images/pokemon/172.png"},{"key":"pokemon:271","name_en":"Lombre","name_zh":"莲帽小童","image_url":"/images/pokemon/173.png"}],"image_url":"/images/habitats/HAB-101.png","image_path":"/images/habitats/HAB-101.png","source_url":"https://pokopiadb.com/database/habitats/hydrated-red-tall-grass"},{"key":"habitat:HAB-004","category":"habitat","category_zh":"栖息地","id":"HAB-004","name":"湿润草丛","name_zh":"湿润草丛","name_en":"Hydrated tall grass","required":"綠草 ×4","required_zh":"綠草 ×4","required_items":[{"name":"Tall grass","qty":4,"name_zh":"绿色高草","is_env":true},{"name":"Water","qty":2,"name_zh":"水","is_env":true}],"attracts":["Squirtle","Wartortle","Blastoise","Sliggoo","Cramorant"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:7","name_en":"Squirtle","name_zh":"杰尼龟","image_url":"/images/pokemon/007.png"},{"key":"pokemon:8","name_en":"Wartortle","name_zh":"卡咪龟","image_url":"/images/pokemon/008.png"},{"key":"pokemon:9","name_en":"Blastoise","name_zh":"水箭龟","image_url":"/images/pokemon/009.png"},{"key":"pokemon:705","name_en":"Sliggoo","name_zh":"黏美儿","image_url":"/images/pokemon/075.png"},{"key":"pokemon:845","name_en":"Cramorant","name_zh":"古月鸟","image_url":"/images/pokemon/077.png"}],"image_url":"/images/habitats/HAB-004.png","image_path":"/images/habitats/HAB-004.png","source_url":"https://pokopiadb.com/database/habitats/hydrated-tall-grass"},{"key":"habitat:HAB-053","category":"habitat","category_zh":"栖息地","id":"HAB-053","name":"湿润黄色草丛","name_zh":"湿润黄色草丛","name_en":"Hydrated yellow tall grass","required":"黃草 ×4","required_zh":"黃草 ×4","required_items":[{"name":"Yellow tall grass","qty":4,"name_zh":"黄色高草","is_env":true},{"name":"Water","qty":2,"name_zh":"水","is_env":true}],"attracts":["Azurill","Marill","Piplup","Prinplup"],"attracts_zh":["波加曼","波皇子"],"attract_refs":[{"key":"pokemon:298","name_en":"Azurill","name_zh":"露力丽","image_url":"/images/pokemon/114.png"},{"key":"pokemon:183","name_en":"Marill","name_zh":"玛力露","image_url":"/images/pokemon/115.png"},{"key":"pokemon:393","name_en":"Piplup","name_zh":"波加曼","image_url":"https://assets.pokopiaguide.com/pokemon/piplup.png"},{"key":"pokemon:394","name_en":"Prinplup","name_zh":"波皇子","image_url":"/images/pokemon/129.png"}],"image_url":"/images/habitats/HAB-053.png","image_path":"/images/habitats/HAB-053.png","source_url":"https://pokopiadb.com/database/habitats/hydrated-yellow-tall-grass"},{"key":"habitat:HAB-023","category":"habitat","category_zh":"栖息地","id":"HAB-023","name":"被照亮的长椅","name_zh":"被照亮的长椅","name_en":"Illuminated bench","required":"椅子(長條) ×1","required_zh":"椅子(長條) ×1","required_items":[{"name":"Seat (wide)","qty":1,"name_zh":"长条椅"},{"name":"Streetlight (any)","qty":1,"name_zh":"路灯（任意）"}],"attracts":["Venonat","Venomoth"],"attracts_zh":["毛球"],"attract_refs":[{"key":"pokemon:48","name_en":"Venonat","name_zh":"毛球","image_url":"/images/pokemon/019.png"},{"key":"pokemon:49","name_en":"Venomoth","name_zh":"摩鲁蛾","image_url":"/images/pokemon/020.png"}],"image_url":"/images/habitats/HAB-023.png","image_path":"/images/habitats/HAB-023.png","source_url":"https://pokopiadb.com/database/habitats/illuminated-bench"},{"key":"habitat:HAB-007","category":"habitat","category_zh":"栖息地","id":"HAB-007","name":"被照亮的草丛","name_zh":"被照亮的草丛","name_en":"Illuminated tall grass","required":"草叢(任意) ×4","required_zh":"草叢(任意) ×4","required_items":[{"name":"Tall grass","qty":4,"name_zh":"绿色高草","is_env":true},{"name":"Lighting (any)","qty":1,"name_zh":"灯具（任意）"}],"attracts":["Venonat","Venomoth"],"attracts_zh":["毛球"],"attract_refs":[{"key":"pokemon:48","name_en":"Venonat","name_zh":"毛球","image_url":"/images/pokemon/019.png"},{"key":"pokemon:49","name_en":"Venomoth","name_zh":"摩鲁蛾","image_url":"/images/pokemon/020.png"}],"image_url":"/images/habitats/HAB-007.png","image_path":"/images/habitats/HAB-007.png","source_url":"https://pokopiadb.com/database/habitats/illuminated-tall-grass"},{"key":"habitat:HAB-155","category":"habitat","category_zh":"栖息地","id":"HAB-155","name":"伙伴与侦讯","name_zh":"伙伴与侦讯","name_en":"Interrogation desk","required":"風速狗布偶 ×1","required_zh":"風速狗布偶 ×1","required_items":[{"name":"Arcanine doll","qty":1,"name_zh":"风速狗布偶"},{"name":"Industrial desk","qty":1,"name_zh":"工业风书桌"},{"name":"Folding chair","qty":1,"name_zh":"折叠椅"},{"name":"Desk light","qty":1,"name_zh":"桌灯"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/155.png","image_path":"/images/habitats/HAB-155.png","source_url":"https://pokopiadb.com/database/habitats/interrogation-desk"},{"key":"habitat:HAB-035","category":"habitat","category_zh":"栖息地","id":"HAB-035","name":"光芒与香气的诱惑","name_zh":"光芒与香气的诱惑","name_en":"Irresistible scent and glow","required":"盤子上的食物 ×1","required_zh":"盤子上的食物 ×1","required_items":[{"name":"Pitcher pot plant","qty":1,"name_zh":"猪笼草盆栽"},{"name":"Mushroom lamp","qty":1,"name_zh":"蘑菇灯"},{"name":"Plated food","qty":1,"name_zh":"盘子上的食物"}],"attracts":[],"attracts_zh":["口呆花"],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/035.png","image_path":"/images/habitats/HAB-035.png","source_url":"https://pokopiadb.com/database/habitats/irresistible-scent-and-glow"},{"key":"habitat:HAB-198","category":"habitat","category_zh":"栖息地","id":"HAB-198","name":"颚之化石展示台","name_zh":"颚之化石展示台","name_en":"Jaw fossil display","required":"台座・展示台 ×1","required_zh":"台座・展示台 ×1","required_items":[{"name":"Exhibition stand","qty":1,"name_zh":"展示台"},{"name":"Jaw fossil","qty":1,"name_zh":"颚之化石"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/198.png","image_path":"/images/habitats/HAB-198.png","source_url":"https://pokopiadb.com/database/habitats/jaw-fossil-display"},{"key":"habitat:HAB-077","category":"habitat","category_zh":"栖息地","id":"HAB-077","name":"毛线编织","name_zh":"毛线编织","name_en":"Knitting station","required":"椅子(任意) ×1","required_zh":"椅子(任意) ×1","required_items":[{"name":"Seat (any)","qty":1,"name_zh":"椅子（任意）"},{"name":"Table (any)","qty":1,"name_zh":"桌子（任意）"},{"name":"Knitting supplies","qty":1,"name_zh":"编织用品"}],"attracts":["Mareep","Flaaffy"],"attracts_zh":["咩利羊","茸茸羊"],"attract_refs":[{"key":"pokemon:179","name_en":"Mareep","name_zh":"咩利羊","image_url":"/images/pokemon/111.png"},{"key":"pokemon:180","name_en":"Flaaffy","name_zh":"茸茸羊","image_url":"/images/pokemon/112.png"}],"image_url":"/images/habitats/HAB-077.png","image_path":"/images/habitats/HAB-077.png","source_url":"https://pokopiadb.com/database/habitats/knitting-station"},{"key":"habitat:HAB-028","category":"habitat","category_zh":"栖息地","id":"HAB-028","name":"大件行李搬运","name_zh":"大件行李搬运","name_en":"Large luggage carrier","required":"手推車 ×1","required_zh":"手推車 ×1","required_items":[{"name":"Cart","qty":1,"name_zh":"手推车"},{"name":"Wooden crate","qty":2,"name_zh":"木箱"}],"attracts":["Gurdurr","Tinkatink"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:533","name_en":"Gurdurr","name_zh":"铁骨土人","image_url":"/images/pokemon/066.png"},{"key":"pokemon:957","name_en":"Tinkatink","name_zh":"小锻匠","image_url":"/images/pokemon/268.png"}],"image_url":"/images/habitats/HAB-028.png","image_path":"/images/habitats/HAB-028.png","source_url":"https://pokopiadb.com/database/habitats/large-luggage-carrier"},{"key":"habitat:HAB-124","category":"habitat","category_zh":"栖息地","id":"HAB-124","name":"悠闲回顾相簿","name_zh":"悠闲回顾相簿","name_en":"Lazy photo album scrolling","required":"無 毒電嬰","required_zh":"無 毒電嬰","required_items":[{"name":"Tablet","qty":1,"name_zh":"平板电脑"},{"name":"Paper party cups","qty":1,"name_zh":"纸杯"}],"attracts":["Toxel"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:848","name_en":"Toxel","name_zh":"电音婴","image_url":"/images/pokemon/196.png"}],"image_url":"https://assets.pokopiadb.com/habitats/124.png","image_path":"/images/habitats/HAB-124.png","source_url":"https://pokopiadb.com/database/habitats/lazy-photo-album-scrolling"},{"key":"habitat:HAB-207","category":"habitat","category_zh":"栖息地","id":"HAB-207","name":"綠色三明治","name_zh":"綠色三明治","name_en":"Leafy greens sandwiches","required":"椅子(任意) ×1","required_zh":"椅子(任意) ×1","required_items":[{"name":"Seat (any)","qty":1,"name_zh":"椅子（任意）"},{"name":"Table (any)","qty":1,"name_zh":"桌子（任意）"},{"name":"Sandwiches","qty":1,"name_zh":"三明治"}],"attracts":["Leafeon"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:470","name_en":"Leafeon","name_zh":"叶伊布","image_url":"/images/pokemon/286.png"}],"image_url":"/images/habitats/HAB-207.png","image_path":"/images/habitats/HAB-207.png","source_url":"https://pokopiadb.com/database/habitats/leafy-greens-sandwiches"},{"key":"habitat:HAB-072","category":"habitat","category_zh":"栖息地","id":"HAB-072","name":"灯光舞台","name_zh":"灯光舞台","name_en":"Light-up stage","required":"Spotlight x2, Small stage x1","required_zh":null,"required_items":[{"name":"Spotlight","qty":2,"name_zh":"聚光灯"},{"name":"Small stage","qty":1,"name_zh":"小舞台"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/072.png","image_path":"/images/habitats/HAB-072.png","source_url":"https://pokopiadb.com/database/habitats/light-up-stage"},{"key":"habitat:HAB-209","category":"habitat","category_zh":"栖息地","id":"HAB-209","name":"可爱蛋糕","name_zh":"可爱蛋糕","name_en":"Lovely ribbon cake","required":"椅子(任意) ×1","required_zh":"椅子(任意) ×1","required_items":[{"name":"Seat (any)","qty":1,"name_zh":"椅子（任意）"},{"name":"Table (any)","qty":1,"name_zh":"桌子（任意）"},{"name":"Ribbon cake","qty":1,"name_zh":"蝴蝶结蛋糕"}],"attracts":["Sylveon"],"attracts_zh":["仙子伊布"],"attract_refs":[{"key":"pokemon:700","name_en":"Sylveon","name_zh":"仙子伊布","image_url":"/images/pokemon/288.png"}],"image_url":"/images/habitats/HAB-209.png","image_path":"/images/habitats/HAB-209.png","source_url":"https://pokopiadb.com/database/habitats/lovely-ribbon-cake"},{"key":"habitat:HAB-190","category":"habitat","category_zh":"栖息地","id":"HAB-190","name":"低沉摇滚舞台","name_zh":"低沉摇滚舞台","name_en":"Low-key rock stage","required":"Speaker x2, Small stage x1, Cool bass guitar x1, Standing mic x1","required_zh":null,"required_items":[{"name":"Speaker","qty":2,"name_zh":"喇叭"},{"name":"Small stage","qty":1,"name_zh":"小舞台"},{"name":"Cool bass guitar","qty":1,"name_zh":"酷炫贝斯"},{"name":"Standing mic","qty":1,"name_zh":"立式麦克风"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/190.png","image_path":"/images/habitats/HAB-190.png","source_url":"https://pokopiadb.com/database/habitats/low-key-rock-stage"},{"key":"habitat:HAB-029","category":"habitat","category_zh":"栖息地","id":"HAB-029","name":"伐木工人作业场","name_zh":"伐木工人作业场","name_en":"Lumberjack's workplace","required":"圓木椅 ×1","required_zh":"圓木椅 ×1","required_items":[{"name":"Log chair","qty":1,"name_zh":"原木椅"},{"name":"Cart","qty":1,"name_zh":"手推车"},{"name":"Tree stump (any)","qty":1,"name_zh":"树桩（任意）","is_env":true},{"name":"Log table","qty":1,"name_zh":"原木桌"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"/images/habitats/HAB-029.png","image_path":"/images/habitats/HAB-029.png","source_url":"https://pokopiadb.com/database/habitats/lumberjack-s-workplace"},{"key":"habitat:HAB-039","category":"habitat","category_zh":"栖息地","id":"HAB-039","name":"奢华叽叽喳喳喂食","name_zh":"奢华叽叽喳喳喂食","name_en":"Luxury chirp-chirp meal","required":"Wooden birdhouse x1, Berry basket x1","required_zh":null,"required_items":[{"name":"Wooden birdhouse","qty":1,"name_zh":"木制鸟巢箱"},{"name":"Berry basket","qty":1,"name_zh":"树果篮"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/039.png","image_path":"/images/habitats/HAB-039.png","source_url":"https://pokopiadb.com/database/habitats/luxury-chirp-chirp-meal"},{"key":"habitat:HAB-188","category":"habitat","category_zh":"栖息地","id":"HAB-188","name":"岩浆钓鱼","name_zh":"岩浆钓鱼","name_en":"Magma fishing spot","required":"Fishing rod x1, Seat (any) x1, Lava x1","required_zh":null,"required_items":[{"name":"Fishing rod","qty":1,"name_zh":"钓竿"},{"name":"Seat (any)","qty":1,"name_zh":"椅子（任意）"},{"name":"Lava","qty":1,"name_zh":"熔岩","is_env":true}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/188.png","image_path":"/images/habitats/HAB-188.png","source_url":"https://pokopiadb.com/database/habitats/magma-fishing-spot"},{"key":"habitat:HAB-191","category":"habitat","category_zh":"栖息地","id":"HAB-191","name":"怨念骑士的祭坛","name_zh":"怨念骑士的祭坛","name_en":"Malicious knight's shrine","required":"台座・展示台 ×1","required_zh":"台座・展示台 ×1","required_items":[{"name":"Exhibition stand","qty":1,"name_zh":"展示台"},{"name":"Malicious armor","qty":1,"name_zh":"凶兆铠甲"},{"name":"Stepping stone","qty":2,"name_zh":"踏脚石"},{"name":"Firepit","qty":2,"name_zh":"火盆"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/191.png","image_path":"/images/habitats/HAB-191.png","source_url":"https://pokopiadb.com/database/habitats/malicious-knight-s-shrine"},{"key":"habitat:HAB-186","category":"habitat","category_zh":"栖息地","id":"HAB-186","name":"沼泽钓鱼","name_zh":"沼泽钓鱼","name_en":"Marsh fishing spot","required":"釣竿 ×1","required_zh":"釣竿 ×1","required_items":[{"name":"Fishing rod","qty":1,"name_zh":"钓竿"},{"name":"Seat (any)","qty":1,"name_zh":"椅子（任意）"},{"name":"Muddy water","qty":1,"name_zh":"泥水","is_env":true}],"attracts":["PokopiaDb"],"attracts_zh":["臭泥"],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/186.png","image_path":"/images/habitats/HAB-186.png","source_url":"https://pokopiadb.com/database/habitats/marsh-fishing-spot"},{"key":"habitat:HAB-054","category":"habitat","category_zh":"栖息地","id":"HAB-054","name":"沼泽草丛","name_zh":"沼泽草丛","name_en":"Marshy tall grass","required":"黃草 ×4","required_zh":"黃草 ×4","required_items":[{"name":"Yellow tall grass","qty":4,"name_zh":"黄色高草","is_env":true},{"name":"Muddy water","qty":2,"name_zh":"泥水","is_env":true}],"attracts":["Paldean Wooper"],"attracts_zh":["土王"],"attract_refs":[],"image_url":"/images/habitats/HAB-054.png","image_path":"/images/habitats/HAB-054.png","source_url":"https://pokopiadb.com/database/habitats/marshy-tall-grass"},{"key":"habitat:HAB-085","category":"habitat","category_zh":"栖息地","id":"HAB-085","name":"迷你游戏角","name_zh":"迷你游戏角","name_en":"Mini game corner","required":"Arcade machine x1, Punching game x1, Seat (any) x1","required_zh":null,"required_items":[{"name":"Arcade machine","qty":1,"name_zh":"街机"},{"name":"Punching game","qty":1,"name_zh":"打靶游戏机"},{"name":"Seat (any)","qty":1,"name_zh":"椅子（任意）"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/085.png","image_path":"/images/habitats/HAB-085.png","source_url":"https://pokopiadb.com/database/habitats/mini-game-corner"},{"key":"habitat:HAB-122","category":"habitat","category_zh":"栖息地","id":"HAB-122","name":"迷你厨房","name_zh":"迷你厨房","name_en":"Mini kitchen","required":"無 鴨嘴炎獸","required_zh":"無 鴨嘴炎獸","required_items":[{"name":"Kitchen table","qty":1,"name_zh":"厨房桌"},{"name":"Cooking stove","qty":1,"name_zh":"炉灶"},{"name":"Frying pan","qty":1,"name_zh":"平底锅"},{"name":"Modern sink","qty":1,"name_zh":"现代水槽"}],"attracts":["Magmortar"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:467","name_en":"Magmortar","name_zh":"鸭嘴炎兽","image_url":"/images/pokemon/164.png"}],"image_url":"https://assets.pokopiadb.com/habitats/122.png","image_path":"/images/habitats/HAB-122.png","source_url":"https://pokopiadb.com/database/habitats/mini-kitchen"},{"key":"habitat:HAB-163","category":"habitat","category_zh":"栖息地","id":"HAB-163","name":"小型图书馆","name_zh":"小型图书馆","name_en":"Mini library","required":"書架 ×2","required_zh":"書架 ×2","required_items":[{"name":"Bookcase","qty":2,"name_zh":"书架"},{"name":"Step stool","qty":1,"name_zh":"踏脚凳"},{"name":"Table (any)","qty":1,"name_zh":"桌子（任意）"},{"name":"Lighting (any)","qty":1,"name_zh":"灯具（任意）"}],"attracts":[],"attracts_zh":["沙奈朵"],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/163.png","image_path":"/images/habitats/HAB-163.png","source_url":"https://pokopiadb.com/database/habitats/mini-library"},{"key":"habitat:HAB-129","category":"habitat","category_zh":"栖息地","id":"HAB-129","name":"小博物馆","name_zh":"小博物馆","name_en":"Mini museum","required":"隔板(任意) ×3","required_zh":"隔板(任意) ×3","required_items":[{"name":"Post (any)","qty":3,"name_zh":"告示牌（任意）"},{"name":"Lost relic (large)","qty":1,"name_zh":"巨大遗迹"},{"name":"Exhibition stand","qty":1,"name_zh":"展示台"}],"attracts":["Arcanine"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:59","name_en":"Arcanine","name_zh":"风速狗","image_url":"/images/pokemon/089.png"}],"image_url":"/images/habitats/HAB-129.png","image_path":"/images/habitats/HAB-129.png","source_url":"https://pokopiadb.com/database/habitats/mini-museum"},{"key":"habitat:HAB-136","category":"habitat","category_zh":"栖息地","id":"HAB-136","name":"现代生活","name_zh":"现代生活","name_en":"Modern living","required":"Industrial bed x1, Industrial desk x1, Industrial chair x1","required_zh":null,"required_items":[{"name":"Industrial bed","qty":1,"name_zh":"工业风床"},{"name":"Industrial desk","qty":1,"name_zh":"工业风书桌"},{"name":"Industrial chair","qty":1,"name_zh":"工业风椅"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/136.png","image_path":"/images/habitats/HAB-136.png","source_url":"https://pokopiadb.com/database/habitats/modern-living"},{"key":"habitat:HAB-162","category":"habitat","category_zh":"栖息地","id":"HAB-162","name":"滋润化妆台","name_zh":"滋润化妆台","name_en":"Moisturizing makeup stand","required":"Dresser (any) x1, Seat (any) x1, Humidifier x1","required_zh":null,"required_items":[{"name":"Dresser (any)","qty":1,"name_zh":"梳妆台（任意）"},{"name":"Seat (any)","qty":1,"name_zh":"椅子（任意）"},{"name":"Humidifier","qty":1,"name_zh":"加湿器"}],"attracts":["Kirlia","Gardevoir"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:281","name_en":"Kirlia","name_zh":"奇鲁莉安","image_url":"/images/pokemon/232.png"},{"key":"pokemon:282","name_en":"Gardevoir","name_zh":"沙奈朵","image_url":"/images/pokemon/233.png"}],"image_url":"https://assets.pokopiadb.com/habitats/162.png","image_path":"/images/habitats/HAB-162.png","source_url":"https://pokopiadb.com/database/habitats/moisturizing-makeup-stand"},{"key":"habitat:HAB-111","category":"habitat","category_zh":"栖息地","id":"HAB-111","name":"长满苔藓的岩石","name_zh":"长满苔藓的岩石","name_en":"Mossy boulder","required":"青苔 ×4","required_zh":"青苔 ×4","required_items":[{"name":"Mossy boulder","qty":1,"name_zh":"苔藓岩石","is_env":true},{"name":"Moss","qty":4,"name_zh":"苔藓","is_env":true}],"attracts":["Graveler","Golem"],"attracts_zh":["隆隆石","隆隆岩"],"attract_refs":[{"key":"pokemon:75","name_en":"Graveler","name_zh":"隆隆石","image_url":"/images/pokemon/160.png"},{"key":"pokemon:76","name_en":"Golem","name_zh":"隆隆岩","image_url":"/images/pokemon/161.png"}],"image_url":"/images/habitats/HAB-111.png","image_path":"/images/habitats/HAB-111.png","source_url":"https://pokopiadb.com/database/habitats/mossy-boulder"},{"key":"habitat:HAB-110","category":"habitat","category_zh":"栖息地","id":"HAB-110","name":"苔藓遍布","name_zh":"苔藓遍布","name_en":"Mossy rest spot","required":"青苔 ×4","required_zh":"青苔 ×4","required_items":[{"name":"Moss","qty":4,"name_zh":"苔藓","is_env":true}],"attracts":["Larvitar","Tyranitar"],"attracts_zh":["幼基拉斯","班基拉斯"],"attract_refs":[{"key":"pokemon:246","name_en":"Larvitar","name_zh":"幼基拉斯","image_url":"/images/pokemon/169.png"},{"key":"pokemon:248","name_en":"Tyranitar","name_zh":"班基拉斯","image_url":"/images/pokemon/171.png"}],"image_url":"/images/habitats/HAB-110.png","image_path":"/images/habitats/HAB-110.png","source_url":"https://pokopiadb.com/database/habitats/mossy-rest-spot"},{"key":"habitat:HAB-128","category":"habitat","category_zh":"栖息地","id":"HAB-128","name":"音乐与阅读","name_zh":"音乐与阅读","name_en":"Music and magazines","required":"雜誌架 ×1","required_zh":"雜誌架 ×1","required_items":[{"name":"Cd player","qty":1,"name_zh":"CD播放器"},{"name":"Magazine rack","qty":1,"name_zh":"杂志架"},{"name":"Cd rack","qty":1,"name_zh":"CD架"}],"attracts":["Kricketot","Kricketune","Rotom"],"attracts_zh":["音箱蟀"],"attract_refs":[{"key":"pokemon:401","name_en":"Kricketot","name_zh":"圆法师","image_url":"/images/pokemon/177.png"},{"key":"pokemon:402","name_en":"Kricketune","name_zh":"音箱蟀","image_url":"/images/pokemon/178.png"},{"key":"pokemon:479","name_en":"Rotom","name_zh":"洛托姆","image_url":"/images/pokemon/182.png"}],"image_url":"/images/habitats/HAB-128.png","image_path":"/images/habitats/HAB-128.png","source_url":"https://pokopiadb.com/database/habitats/music-and-magazines"},{"key":"habitat:HAB-176","category":"habitat","category_zh":"栖息地","id":"HAB-176","name":"大自然中的市集","name_zh":"大自然中的市集","name_en":"Nature's market","required":"大樹(任意) ×1","required_zh":"大樹(任意) ×1","required_items":[{"name":"Large tree (any)","qty":1,"name_zh":"大树（任意）","is_env":true},{"name":"Large boulder","qty":1,"name_zh":"大岩石","is_env":true},{"name":"Table (any)","qty":1,"name_zh":"桌子（任意）"},{"name":"Cash register","qty":1,"name_zh":"收银机"}],"attracts":["Raichu"],"attracts_zh":["雷丘"],"attract_refs":[{"key":"pokemon:26","name_en":"Raichu","name_zh":"雷丘","image_url":"/images/pokemon/080.png"}],"image_url":"/images/habitats/HAB-176.png","image_path":"/images/habitats/HAB-176.png","source_url":"https://pokopiadb.com/database/habitats/nature-s-market"},{"key":"habitat:HAB-074","category":"habitat","category_zh":"栖息地","id":"HAB-074","name":"夜间祭典会场","name_zh":"夜间祭典会场","name_en":"Night festival venue","required":"氣球 ×2","required_zh":"氣球 ×2","required_items":[{"name":"Balloons","qty":2,"name_zh":"气球"},{"name":"Raichu sign","qty":1,"name_zh":"雷丘招牌"}],"attracts":[],"attracts_zh":["茸茸羊"],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/074.png","image_path":"/images/habitats/HAB-074.png","source_url":"https://pokopiadb.com/database/habitats/night-festival-venue"},{"key":"habitat:HAB-180","category":"habitat","category_zh":"栖息地","id":"HAB-180","name":"九焰","name_zh":"九焰","name_en":"Nine flames","required":"火盆 x 9","required_zh":null,"required_items":[{"name":"火盆","qty":9,"image_url":"/images/items/firepit.png","image_path":"/images/items/firepit.png"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/180.png","image_path":"/images/habitats/HAB-180.png","source_url":"https://pokopiadb.com/database/habitats/nine-flames"},{"key":"habitat:HAB-049","category":"habitat","category_zh":"栖息地","id":"HAB-049","name":"满满的精灵球","name_zh":"满满的精灵球","name_en":"Nothin' but poke balls","required":"Poke ball sofa x1, Poke ball table x1, Poke ball bed x1, Poke ball light x1","required_zh":null,"required_items":[{"name":"Poke ball sofa","qty":1,"name_zh":"精灵球沙发"},{"name":"Poke ball table","qty":1,"name_zh":"精灵球桌"},{"name":"Poke ball bed","qty":1,"name_zh":"精灵球床"},{"name":"Poke ball light","qty":1,"name_zh":"精灵球灯"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/049.png","image_path":"/images/habitats/HAB-049.png","source_url":"https://pokopiadb.com/database/habitats/nothin-but-poke-balls"},{"key":"habitat:HAB-185","category":"habitat","category_zh":"栖息地","id":"HAB-185","name":"海钓","name_zh":"海钓","name_en":"Ocean fishing spot","required":"釣竿 ×1","required_zh":"釣竿 ×1","required_items":[{"name":"Fishing rod","qty":1,"name_zh":"钓竿"},{"name":"Seat (any)","qty":1,"name_zh":"椅子（任意）"},{"name":"Ocean water","qty":1,"name_zh":"海水","is_env":true}],"attracts":["Magikarp"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:129","name_en":"Magikarp","name_zh":"鲤鱼王","image_url":"/images/pokemon/045.png"}],"image_url":"/images/habitats/HAB-185.png","image_path":"/images/habitats/HAB-185.png","source_url":"https://pokopiadb.com/database/habitats/ocean-fishing-spot"},{"key":"habitat:HAB-167","category":"habitat","category_zh":"栖息地","id":"HAB-167","name":"办公室后场","name_zh":"办公室后场","name_en":"Office storeroom","required":"梯子 ×1","required_zh":"梯子 ×1","required_items":[{"name":"Office shelf","qty":1,"name_zh":"办公室收纳柜"},{"name":"Step stool","qty":1,"name_zh":"踏脚凳"},{"name":"Cardboard boxes","qty":1,"name_zh":"纸箱"}],"attracts":["Drakloak"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:886","name_en":"Drakloak","name_zh":"多龙奇","image_url":"/images/pokemon/261.png"}],"image_url":"https://assets.pokopiadb.com/habitats/167.png","image_path":"/images/habitats/HAB-167.png","source_url":"https://pokopiadb.com/database/habitats/office-storeroom"},{"key":"habitat:HAB-113","category":"habitat","category_zh":"栖息地","id":"HAB-113","name":"露天温泉","name_zh":"露天温泉","name_en":"Open air bath","required":"無 騰蹴小將","required_zh":"無 騰蹴小將","required_items":[{"name":"Hot spring spout","qty":1,"name_zh":"温泉喷口"},{"name":"Hot spring water","qty":2,"name_zh":"温泉水","is_env":true}],"attracts":["Raboot"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:814","name_en":"Raboot","name_zh":"腾蹴小将","image_url":"/images/pokemon/189.png"}],"image_url":"/images/habitats/HAB-113.png","image_path":"/images/habitats/HAB-113.png","source_url":"https://pokopiadb.com/database/habitats/open-air-bath"},{"key":"habitat:HAB-055","category":"habitat","category_zh":"栖息地","id":"HAB-055","name":"草丛自动贩卖机","name_zh":"草丛自动贩卖机","name_en":"Overgrowth vending machine","required":"黃草 ×4","required_zh":"黃草 ×4","required_items":[{"name":"Yellow tall grass","qty":4,"name_zh":"黄色高草","is_env":true},{"name":"Vending machine","qty":1,"name_zh":"自动贩卖机"}],"attracts":["Mareep"],"attracts_zh":["咩利羊"],"attract_refs":[{"key":"pokemon:179","name_en":"Mareep","name_zh":"咩利羊","image_url":"/images/pokemon/111.png"}],"image_url":"/images/habitats/HAB-055.png","image_path":"/images/habitats/HAB-055.png","source_url":"https://pokopiadb.com/database/habitats/overgrowth-vending-machine"},{"key":"habitat:HAB-066","category":"habitat","category_zh":"栖息地","id":"HAB-066","name":"公园长椅","name_zh":"公园长椅","name_en":"Park bench","required":"椅子(長條) ×1","required_zh":"椅子(長條) ×1","required_items":[{"name":"Seat (wide)","qty":1,"name_zh":"长条椅"},{"name":"Garbage bin","qty":1,"name_zh":"垃圾桶"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/066.png","image_path":"/images/habitats/HAB-066.png","source_url":"https://pokopiadb.com/database/habitats/park-bench"},{"key":"habitat:HAB-062","category":"habitat","category_zh":"栖息地","id":"HAB-062","name":"来整理吧","name_zh":"来整理吧","name_en":"Perpetual mess","required":"紙箱 ×1","required_zh":"紙箱 ×1","required_items":[{"name":"Cardboard boxes","qty":1,"name_zh":"纸箱"},{"name":"Toy (any)","qty":1,"name_zh":"玩具（任意）"}],"attracts":["Growlithe","Azurill"],"attracts_zh":["卡蒂狗"],"attract_refs":[{"key":"pokemon:58","name_en":"Growlithe","name_zh":"卡蒂狗","image_url":"https://assets.pokopiaguide.com/pokemon/growlithe.png"},{"key":"pokemon:298","name_en":"Azurill","name_zh":"露力丽","image_url":"/images/pokemon/114.png"}],"image_url":"/images/habitats/HAB-062.png","image_path":"/images/habitats/HAB-062.png","source_url":"https://pokopiadb.com/database/habitats/perpetual-mess"},{"key":"habitat:HAB-020","category":"habitat","category_zh":"栖息地","id":"HAB-020","name":"野餐餐桌","name_zh":"野餐餐桌","name_en":"Picnic set","required":"椅子(任意) ×2","required_zh":"椅子(任意) ×2","required_items":[{"name":"Seat (any)","qty":1,"name_zh":"椅子（任意）"},{"name":"Table (any)","qty":1,"name_zh":"桌子（任意）"},{"name":"Picnic basket","qty":1,"name_zh":"野餐篮"}],"attracts":["Pichu"],"attracts_zh":["皮丘","皮卡丘"],"attract_refs":[{"key":"pokemon:172","name_en":"Pichu","name_zh":"皮丘","image_url":"/images/pokemon/078.png"}],"image_url":"/images/habitats/HAB-020.png","image_path":"/images/habitats/HAB-020.png","source_url":"https://pokopiadb.com/database/habitats/picnic-set"},{"key":"habitat:HAB-174","category":"habitat","category_zh":"栖息地","id":"HAB-174","name":"绝景脸孔看板","name_zh":"绝景脸孔看板","name_en":"Picturesque photo cutout board","required":"人形立牌 ×1","required_zh":"人形立牌 ×1","required_items":[{"name":"Photo cutout board","qty":1,"name_zh":"人形立牌"},{"name":"Spotlight","qty":2,"name_zh":"聚光灯"},{"name":"High-up location","qty":1,"name_zh":"高处","is_env":true}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/174.png","image_path":"/images/habitats/HAB-174.png","source_url":"https://pokopiadb.com/database/habitats/picturesque-photo-cutout-board"},{"key":"habitat:HAB-094","category":"habitat","category_zh":"栖息地","id":"HAB-094","name":"皮卡丘空间","name_zh":"皮卡丘空间","name_en":"Pikachu space","required":"皮卡丘沙發 ×1","required_zh":"皮卡丘沙發 ×1","required_items":[{"name":"Pikachu doll","qty":1,"name_zh":"皮卡丘布偶"},{"name":"Pikachu sofa","qty":1,"name_zh":"皮卡丘沙发"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/094.png","image_path":"/images/habitats/HAB-094.png","source_url":"https://pokopiadb.com/database/habitats/pikachu-space"},{"key":"habitat:HAB-137","category":"habitat","category_zh":"栖息地","id":"HAB-137","name":"粉红色草丛","name_zh":"粉红色草丛","name_en":"Pink tall grass","required":"粉紅草 ×4","required_zh":"粉紅草 ×4","required_items":[{"name":"Pink tall grass","qty":4,"name_zh":"粉红高草","is_env":true}],"attracts":["Trapinch","Vibrava","Swablu","Duskull"],"attracts_zh":["沙漠蜻蜓"],"attract_refs":[{"key":"pokemon:328","name_en":"Trapinch","name_zh":"大颚蚁","image_url":"https://assets.pokopiaguide.com/pokemon/trapinch.png"},{"key":"pokemon:329","name_en":"Vibrava","name_zh":"超音波幼虫","image_url":"/images/pokemon/238.png"},{"key":"pokemon:333","name_en":"Swablu","name_zh":"青绵鸟","image_url":"/images/pokemon/240.png"},{"key":"pokemon:355","name_en":"Duskull","name_zh":"夜巡灵","image_url":"/images/pokemon/242.png"}],"image_url":"/images/habitats/HAB-137.png","image_path":"/images/habitats/HAB-137.png","source_url":"https://pokopiadb.com/database/habitats/pink-tall-grass"},{"key":"habitat:HAB-115","category":"habitat","category_zh":"栖息地","id":"HAB-115","name":"岩浆热呼呼","name_zh":"岩浆热呼呼","name_en":"Piping hot lava","required":"滾燙岩石 ×1","required_zh":"滾燙岩石 ×1","required_items":[{"name":"Molten rock","qty":1,"name_zh":"熔岩岩石","is_env":true},{"name":"Lava","qty":2,"name_zh":"熔岩","is_env":true}],"attracts":["Charcadet","Volcarona"],"attracts_zh":["炭小侍","火神蛾"],"attract_refs":[{"key":"pokemon:935","name_en":"Charcadet","name_zh":"炭小侍","image_url":"/images/pokemon/200.png"},{"key":"pokemon:637","name_en":"Volcarona","name_zh":"火神蛾","image_url":"/images/pokemon/184.png"}],"image_url":"/images/habitats/HAB-115.png","image_path":"/images/habitats/HAB-115.png","source_url":"https://pokopiadb.com/database/habitats/piping-hot-lava"},{"key":"habitat:HAB-097","category":"habitat","category_zh":"栖息地","id":"HAB-097","name":"自然风生活","name_zh":"自然风生活","name_en":"Plain life","required":"Plain bed x1, Plain table x1, Plain lamp x1, Plain sofa x1","required_zh":null,"required_items":[{"name":"Plain bed","qty":1,"name_zh":"简约床"},{"name":"Plain table","qty":1,"name_zh":"简约桌"},{"name":"Plain lamp","qty":1,"name_zh":"简约灯"},{"name":"Plain sofa","qty":1,"name_zh":"简约沙发"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/097.png","image_path":"/images/habitats/HAB-097.png","source_url":"https://pokopiadb.com/database/habitats/plain-life"},{"key":"habitat:HAB-090","category":"habitat","category_zh":"栖息地","id":"HAB-090","name":"航海游戏","name_zh":"航海游戏","name_en":"Playing pirate","required":"Barrel x2, Cannon x2, Ship's wheel x1","required_zh":null,"required_items":[{"name":"Barrel","qty":2,"name_zh":"木桶"},{"name":"Cannon","qty":2,"name_zh":"大炮"},{"name":"Ship's wheel","qty":1,"name_zh":"船舵"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"/images/habitats/HAB-090.png","image_path":"/images/habitats/HAB-090.png","source_url":"https://pokopiadb.com/database/habitats/playing-pirate"},{"key":"habitat:HAB-165","category":"habitat","category_zh":"栖息地","id":"HAB-165","name":"游乐场","name_zh":"游乐场","name_en":"Playland","required":"玩具(任意) ×1","required_zh":"玩具(任意) ×1","required_items":[{"name":"Slide","qty":1,"name_zh":"溜滑梯"},{"name":"Toy (any)","qty":1,"name_zh":"玩具（任意）"}],"attracts":["Snivy"],"attracts_zh":["藤藤蛇"],"attract_refs":[{"key":"pokemon:495","name_en":"Snivy","name_zh":"藤藤蛇","image_url":"/images/pokemon/248.png"}],"image_url":"https://assets.pokopiadb.com/habitats/165.png","image_path":"/images/habitats/HAB-165.png","source_url":"https://pokopiadb.com/database/habitats/playland"},{"key":"habitat:HAB-181","category":"habitat","category_zh":"栖息地","id":"HAB-181","name":"被布偶包围","name_zh":"被布偶包围","name_en":"Plush central","required":"風速狗布偶 ×1","required_zh":"風速狗布偶 ×1","required_items":[{"name":"Arcanine doll","qty":1,"name_zh":"风速狗布偶"},{"name":"Pikachu doll","qty":1,"name_zh":"皮卡丘布偶"},{"name":"Dragonite doll","qty":1,"name_zh":"快龙布偶"},{"name":"Eevee doll","qty":1,"name_zh":"伊布布偶"}],"attracts":["Drifloon","Drifblim"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:425","name_en":"Drifloon","name_zh":"飘飘球","image_url":"/images/pokemon/061.png"},{"key":"pokemon:426","name_en":"Drifblim","name_zh":"随风球","image_url":"/images/pokemon/062.png"}],"image_url":"https://assets.pokopiadb.com/habitats/181.png","image_path":"/images/habitats/HAB-181.png","source_url":"https://pokopiadb.com/database/habitats/plush-central"},{"key":"habitat:HAB-100","category":"habitat","category_zh":"栖息地","id":"HAB-100","name":"三角树荫与岩石草丛","name_zh":"三角树荫与岩石草丛","name_en":"Pointy tree-shaded rocky tall grass","required":"三角樹 ×1","required_zh":"三角樹 ×1","required_items":[{"name":"Pointy tree","qty":1,"name_zh":"三角树","is_env":true},{"name":"Red tall grass","qty":4,"name_zh":"红色高草","is_env":true},{"name":"Large boulder","qty":1,"name_zh":"大岩石","is_env":true}],"attracts":["Dartrix"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:723","name_en":"Dartrix","name_zh":"投羽枭","image_url":"/images/pokemon/186.png"}],"image_url":"/images/habitats/HAB-100.png","image_path":"/images/habitats/HAB-100.png","source_url":"https://pokopiadb.com/database/habitats/pointy-tree-shaded-rocky-tall-grass"},{"key":"habitat:HAB-173","category":"habitat","category_zh":"栖息地","id":"HAB-173","name":"恶作剧开关","name_zh":"恶作剧开关","name_en":"Prank button","required":"Floor switch x1, Boo-in-th-box x1","required_zh":null,"required_items":[{"name":"Floor switch","qty":1,"name_zh":"地板开关"},{"name":"Boo-in-th-box","qty":1,"name_zh":"捉弄箱"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/173.png","image_path":"/images/habitats/HAB-173.png","source_url":"https://pokopiadb.com/database/habitats/prank-button"},{"key":"habitat:HAB-008","category":"habitat","category_zh":"栖息地","id":"HAB-008","name":"美丽花田","name_zh":"美丽花田","name_en":"Pretty flower bed","required":"原野之花 ×4","required_zh":"原野之花 ×4","required_items":[{"name":"Wildflowers","qty":4,"name_zh":"野花","is_env":true}],"attracts":["Pidgey","Hoothoot","Combee","Eevee","Magby"],"attracts_zh":["咕咕","三蜜蜂","伊布","波波"],"attract_refs":[{"key":"pokemon:16","name_en":"Pidgey","name_zh":"波波","image_url":"/images/pokemon/010.png"},{"key":"pokemon:163","name_en":"Hoothoot","name_zh":"咕咕","image_url":"/images/pokemon/048.png"},{"key":"pokemon:415","name_en":"Combee","name_zh":"三蜜蜂","image_url":"/images/pokemon/057.png"},{"key":"pokemon:133","name_en":"Eevee","name_zh":"伊布","image_url":"/images/pokemon/280.png"},{"key":"pokemon:240","name_en":"Magby","name_zh":"鸭嘴宝宝","image_url":"/images/pokemon/162.png"}],"image_url":"/images/habitats/HAB-008.png","image_path":"/images/habitats/HAB-008.png","source_url":"https://pokopiadb.com/database/habitats/pretty-flower-bed"},{"key":"habitat:HAB-076","category":"habitat","category_zh":"栖息地","id":"HAB-076","name":"打扮中请勿偷看","name_zh":"打扮中请勿偷看","name_en":"Private makeup stand","required":"Partition (any) x2, Closet (any) x1, Dresser (any) x1","required_zh":null,"required_items":[{"name":"Partition (any)","qty":2,"name_zh":"隔板（任意）"},{"name":"Closet (any)","qty":1,"name_zh":"衣柜（任意）"},{"name":"Dresser (any)","qty":1,"name_zh":"梳妆台（任意）"}],"attracts":["Minccino"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:572","name_en":"Minccino","name_zh":"泡沫栗鼠","image_url":"/images/pokemon/136.png"}],"image_url":"https://assets.pokopiadb.com/habitats/076.png","image_path":"/images/habitats/HAB-076.png","source_url":"https://pokopiadb.com/database/habitats/private-makeup-stand"},{"key":"habitat:HAB-169","category":"habitat","category_zh":"栖息地","id":"HAB-169","name":"以博士为目标研究中","name_zh":"以博士为目标研究中","name_en":"Professor's apprentice program","required":"桌子(任意) ×1","required_zh":"桌子(任意) ×1","required_items":[{"name":"Whiteboard","qty":1,"name_zh":"白板"},{"name":"Table (any)","qty":1,"name_zh":"桌子（任意）"},{"name":"Jumbled cords","qty":1,"name_zh":"杂乱电线"},{"name":"Laptop","qty":1,"name_zh":"笔记本电脑"}],"attracts":["Metang"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:375","name_en":"Metang","name_zh":"金属怪","image_url":"/images/pokemon/246.png"}],"image_url":"/images/habitats/HAB-169.png","image_path":"/images/habitats/HAB-169.png","source_url":"https://pokopiadb.com/database/habitats/professor-s-apprentice-program"},{"key":"habitat:HAB-043","category":"habitat","category_zh":"栖息地","id":"HAB-043","name":"博士的宝物","name_zh":"博士的宝物","name_en":"Professor's treasure trove","required":"Professor's treasure trove x1, Lost relic (large) x4, Bed (any) x1","required_zh":null,"required_items":[{"name":"Professor's treasure trove","qty":1,"name_zh":"教授的宝物堆"},{"name":"Lost relic (large)","qty":4,"name_zh":"巨大遗迹"},{"name":"Bed (any)","qty":1,"name_zh":"床铺（任意）"}],"attracts":["Tangrowth"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:465","name_en":"Tangrowth","name_zh":"巨蔓藤","image_url":"https://assets.pokopiaguide.com/pokemon/tangrowth.png"}],"image_url":"https://assets.pokopiadb.com/habitats/043.png","image_path":"/images/habitats/HAB-043.png","source_url":"https://pokopiadb.com/database/habitats/professor-s-treasure-trove"},{"key":"habitat:HAB-171","category":"habitat","category_zh":"栖息地","id":"HAB-171","name":"请自由阅读","name_zh":"请自由阅读","name_en":"Public reading material","required":"Magazine rack x1, Newspaper x1","required_zh":null,"required_items":[{"name":"Magazine rack","qty":1,"name_zh":"杂志架"},{"name":"Newspaper","qty":1,"name_zh":"报纸"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/171.png","image_path":"/images/habitats/HAB-171.png","source_url":"https://pokopiadb.com/database/habitats/public-reading-material"},{"key":"habitat:HAB-132","category":"habitat","category_zh":"栖息地","id":"HAB-132","name":"平交道","name_zh":"平交道","name_en":"Railroad crossing","required":"鐵軌 ×1","required_zh":"鐵軌 ×1","required_items":[{"name":"Railway track","qty":1,"name_zh":"铁轨"},{"name":"Crossing gate","qty":1,"name_zh":"平交道栏杆"}],"attracts":["Rolycoly","Carkol","Coalossal"],"attracts_zh":["小炭仔"],"attract_refs":[{"key":"pokemon:837","name_en":"Rolycoly","name_zh":"小炭仔","image_url":"/images/pokemon/193.png"},{"key":"pokemon:838","name_en":"Carkol","name_zh":"大炭车","image_url":"/images/pokemon/194.png"},{"key":"pokemon:839","name_en":"Coalossal","name_zh":"巨炭山","image_url":"/images/pokemon/195.png"}],"image_url":"/images/habitats/HAB-132.png","image_path":"/images/habitats/HAB-132.png","source_url":"https://pokopiadb.com/database/habitats/railroad-crossing"},{"key":"habitat:HAB-041","category":"habitat","category_zh":"栖息地","id":"HAB-041","name":"祈雨地点","name_zh":"祈雨地点","name_en":"Rain dance site","required":"雨天漂浮泡泡娃娃 ×2","required_zh":"雨天漂浮泡泡娃娃 ×2","required_items":[{"name":"Castform weather charm (rain)","qty":2,"name_zh":"随天气改变的魔法石（雨天）"},{"name":"Plated food","qty":1,"name_zh":"盘子上的食物"}],"attracts":["Goomy"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:704","name_en":"Goomy","name_zh":"黏黏宝","image_url":"/images/pokemon/074.png"}],"image_url":"/images/habitats/HAB-041.png","image_path":"/images/habitats/HAB-041.png","source_url":"https://pokopiadb.com/database/habitats/rain-dance-site"},{"key":"habitat:HAB-126","category":"habitat","category_zh":"栖息地","id":"HAB-126","name":"演奏会舞台","name_zh":"演奏会舞台","name_en":"Recital stage","required":"喇叭 ×2","required_zh":"喇叭 ×2","required_items":[{"name":"Small stage","qty":1,"name_zh":"小舞台"},{"name":"Speaker","qty":2,"name_zh":"喇叭"},{"name":"Standing mic","qty":1,"name_zh":"立式麦克风"}],"attracts":[],"attracts_zh":["胖丁","胖可丁"],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/126.png","image_path":"/images/habitats/HAB-126.png","source_url":"https://pokopiadb.com/database/habitats/recital-stage"},{"key":"habitat:HAB-098","category":"habitat","category_zh":"栖息地","id":"HAB-098","name":"红色草丛","name_zh":"红色草丛","name_en":"Red tall grass","required":"紅草 ×4","required_zh":"紅草 ×4","required_items":[{"name":"Red tall grass","qty":4,"name_zh":"红色高草","is_env":true}],"attracts":["Scorbunny","Riolu","Kricketot","Kricketune"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:813","name_en":"Scorbunny","name_zh":"炎兔儿","image_url":"/images/pokemon/188.png"},{"key":"pokemon:447","name_en":"Riolu","name_zh":"利欧路","image_url":"/images/pokemon/180.png"},{"key":"pokemon:401","name_en":"Kricketot","name_zh":"圆法师","image_url":"/images/pokemon/177.png"},{"key":"pokemon:402","name_en":"Kricketune","name_zh":"音箱蟀","image_url":"/images/pokemon/178.png"}],"image_url":"/images/habitats/HAB-098.png","image_path":"/images/habitats/HAB-098.png","source_url":"https://pokopiadb.com/database/habitats/red-tall-grass"},{"key":"habitat:HAB-130","category":"habitat","category_zh":"栖息地","id":"HAB-130","name":"清爽更衣室","name_zh":"清爽更衣室","name_en":"Refreshing locker room","required":"椅子(長條) ×1","required_zh":"椅子(長條) ×1","required_items":[{"name":"Office locker","qty":2,"name_zh":"办公室储物柜"},{"name":"Potted plant (any)","qty":1,"name_zh":"盆栽（任意）"},{"name":"Seat (wide)","qty":1,"name_zh":"长条椅"},{"name":"Punching game","qty":1,"name_zh":"打靶游戏机"}],"attracts":["Raboot","Cinderace"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:814","name_en":"Raboot","name_zh":"腾蹴小将","image_url":"/images/pokemon/189.png"},{"key":"pokemon:815","name_en":"Cinderace","name_zh":"闪焰王牌","image_url":"/images/pokemon/190.png"}],"image_url":"/images/habitats/HAB-130.png","image_path":"/images/habitats/HAB-130.png","source_url":"https://pokopiadb.com/database/habitats/refreshing-locker-room"},{"key":"habitat:HAB-170","category":"habitat","category_zh":"栖息地","id":"HAB-170","name":"研究者的桌子","name_zh":"研究者的桌子","name_en":"Researcher's desk","required":"桌子(任意) ×2","required_zh":"桌子(任意) ×2","required_items":[{"name":"Table (any)","qty":1,"name_zh":"桌子（任意）"},{"name":"Computer","qty":1,"name_zh":"电脑"},{"name":"Science experiment","qty":1,"name_zh":"科学实验台"}],"attracts":["Porygon"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:137","name_en":"Porygon","name_zh":"多边兽","image_url":"/images/pokemon/218.png"}],"image_url":"https://assets.pokopiadb.com/habitats/170.png","image_path":"/images/habitats/HAB-170.png","source_url":"https://pokopiadb.com/database/habitats/researcher-s-desk"},{"key":"habitat:HAB-079","category":"habitat","category_zh":"栖息地","id":"HAB-079","name":"度假村备餐","name_zh":"度假村备餐","name_en":"Resort meal prep","required":"大椰子樹 ×1","required_zh":"大椰子樹 ×1","required_items":[{"name":"Large palm tree","qty":1,"name_zh":"大棕榈树","is_env":true},{"name":"Plated food","qty":1,"name_zh":"盘子上的食物"},{"name":"Seat (any)","qty":1,"name_zh":"椅子（任意）"},{"name":"Campfire","qty":1,"name_zh":"营火"}],"attracts":["Growlithe","Torchic","Combusken"],"attracts_zh":["卡蒂狗"],"attract_refs":[{"key":"pokemon:58","name_en":"Growlithe","name_zh":"卡蒂狗","image_url":"https://assets.pokopiaguide.com/pokemon/growlithe.png"},{"key":"pokemon:255","name_en":"Torchic","name_zh":"火稚鸡","image_url":"/images/pokemon/120.png"},{"key":"pokemon:256","name_en":"Combusken","name_zh":"力壮鸡","image_url":"/images/pokemon/121.png"}],"image_url":"/images/habitats/HAB-079.png","image_path":"/images/habitats/HAB-079.png","source_url":"https://pokopiadb.com/database/habitats/resort-meal-prep"},{"key":"habitat:HAB-061","category":"habitat","category_zh":"栖息地","id":"HAB-061","name":"休息处","name_zh":"休息处","name_en":"Resting spot","required":"紙箱 ×1","required_zh":"紙箱 ×1","required_items":[{"name":"Cardboard boxes","qty":1,"name_zh":"纸箱"},{"name":"Straw bed","qty":1,"name_zh":"稻草床"}],"attracts":["Meowth"],"attracts_zh":["喵喵"],"attract_refs":[{"key":"pokemon:52","name_en":"Meowth","name_zh":"喵喵","image_url":"/images/pokemon/084.png"}],"image_url":"/images/habitats/HAB-061.png","image_path":"/images/habitats/HAB-061.png","source_url":"https://pokopiadb.com/database/habitats/resting-spot"},{"key":"habitat:HAB-160","category":"habitat","category_zh":"栖息地","id":"HAB-160","name":"律动客厅","name_zh":"律动客厅","name_en":"Rhythmic living room","required":"Television x1, Speaker x2, Music mat x4","required_zh":null,"required_items":[{"name":"Television","qty":1,"name_zh":"电视"},{"name":"Speaker","qty":2,"name_zh":"喇叭"},{"name":"Music mat","qty":4,"name_zh":"音乐地毯"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/160.png","image_path":"/images/habitats/HAB-160.png","source_url":"https://pokopiadb.com/database/habitats/rhythmic-living-room"},{"key":"habitat:HAB-016","category":"habitat","category_zh":"栖息地","id":"HAB-016","name":"乘着温暖的风","name_zh":"乘着温暖的风","name_en":"Riding warm updrafts","required":"營火 ×3","required_zh":"營火 ×3","required_items":[{"name":"Campfire","qty":3,"name_zh":"营火"}],"attracts":["Drifloon"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:425","name_en":"Drifloon","name_zh":"飘飘球","image_url":"/images/pokemon/061.png"}],"image_url":"/images/habitats/HAB-016.png","image_path":"/images/habitats/HAB-016.png","source_url":"https://pokopiadb.com/database/habitats/riding-warm-updrafts"},{"key":"habitat:HAB-027","category":"habitat","category_zh":"栖息地","id":"HAB-027","name":"路标看板","name_zh":"路标看板","name_en":"Road sign","required":"箭頭告示牌 ×1","required_zh":"箭頭告示牌 ×1","required_items":[{"name":"Arrow sign","qty":1,"name_zh":"箭头告示牌"},{"name":"Wooden path","qty":3,"name_zh":"木栈道"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"/images/habitats/HAB-027.png","image_path":"/images/habitats/HAB-027.png","source_url":"https://pokopiadb.com/database/habitats/road-sign"},{"key":"habitat:HAB-200","category":"habitat","category_zh":"栖息地","id":"HAB-200","name":"鳍之化石展示台","name_zh":"鳍之化石展示台","name_en":"Sail fossil display","required":"台座・展示台 ×2","required_zh":"台座・展示台 ×2","required_items":[{"name":"Exhibition stand","qty":1,"name_zh":"展示台"},{"name":"Sail fossil","qty":1,"name_zh":"帆之化石"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/200.png","image_path":"/images/habitats/HAB-200.png","source_url":"https://pokopiadb.com/database/habitats/sail-fossil-display"},{"key":"habitat:HAB-005","category":"habitat","category_zh":"栖息地","id":"HAB-005","name":"海浪边草丛","name_zh":"海浪边草丛","name_en":"Seaside tall grass","required":"綠草 ×4","required_zh":"綠草 ×4","required_items":[{"name":"Tall grass","qty":4,"name_zh":"绿色高草","is_env":true},{"name":"Ocean water","qty":2,"name_zh":"海水","is_env":true}],"attracts":["Slowpoke","Slowbro","Slowking"],"attracts_zh":["呆呆王"],"attract_refs":[{"key":"pokemon:79","name_en":"Slowpoke","name_zh":"呆呆兽","image_url":"/images/pokemon/024.png"},{"key":"pokemon:80","name_en":"Slowbro","name_zh":"呆壳兽","image_url":"/images/pokemon/025.png"},{"key":"pokemon:199","name_en":"Slowking","name_zh":"呆呆王","image_url":"/images/pokemon/026.png"}],"image_url":"/images/habitats/HAB-005.png","image_path":"/images/habitats/HAB-005.png","source_url":"https://pokopiadb.com/database/habitats/seaside-tall-grass"},{"key":"habitat:HAB-156","category":"habitat","category_zh":"栖息地","id":"HAB-156","name":"人孔盖检查中","name_zh":"人孔盖检查中","name_en":"Sewer hole inspection","required":"Iron pipes x1, Sewer-hole cover x1, Excavation tools x1, Traffic cone x1","required_zh":null,"required_items":[{"name":"Iron pipes","qty":1,"name_zh":"铁管"},{"name":"Sewer-hole cover","qty":1,"name_zh":"下水道盖板"},{"name":"Excavation tools","qty":1,"name_zh":"挖掘工具"},{"name":"Traffic cone","qty":1,"name_zh":"警示锥"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/156.png","image_path":"/images/habitats/HAB-156.png","source_url":"https://pokopiadb.com/database/habitats/sewer-hole-inspection"},{"key":"habitat:HAB-059","category":"habitat","category_zh":"栖息地","id":"HAB-059","name":"海滩树荫","name_zh":"海滩树荫","name_en":"Shaded beach","required":"大椰子樹 ×1","required_zh":"大椰子樹 ×1","required_items":[{"name":"Large palm tree","qty":1,"name_zh":"大棕榈树","is_env":true},{"name":"Beach chair","qty":1,"name_zh":"沙滩椅"}],"attracts":["Exeggcute","Exeggutor"],"attracts_zh":["蛋蛋"],"attract_refs":[{"key":"pokemon:102","name_en":"Exeggcute","name_zh":"蛋蛋","image_url":"/images/pokemon/098.png"},{"key":"pokemon:103","name_en":"Exeggutor","name_zh":"椰蛋树","image_url":"/images/pokemon/099.png"}],"image_url":"/images/habitats/HAB-059.png","image_path":"/images/habitats/HAB-059.png","source_url":"https://pokopiadb.com/database/habitats/shaded-beach"},{"key":"habitat:HAB-197","category":"habitat","category_zh":"栖息地","id":"HAB-197","name":"盾牌化石展示台","name_zh":"盾牌化石展示台","name_en":"Shield fossil display","required":"台座・展示台 ×2","required_zh":"台座・展示台 ×2","required_items":[{"name":"Exhibition stand","qty":2,"name_zh":"展示台"},{"name":"Shield fossil (head)","qty":1,"name_zh":"盾之化石（头部）"},{"name":"Shield fossil (body)","qty":1,"name_zh":"盾之化石（躯体）"},{"name":"Shield tail (body)","qty":1,"name_zh":"盾之化石（尾部）"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/197.png","image_path":"/images/habitats/HAB-197.png","source_url":"https://pokopiadb.com/database/habitats/shield-fossil-display"},{"key":"habitat:HAB-148","category":"habitat","category_zh":"栖息地","id":"HAB-148","name":"简约浴室","name_zh":"简约浴室","name_en":"Simple bathroom","required":"無 迷你龍","required_zh":"無 迷你龍","required_items":[{"name":"Shower","qty":1,"name_zh":"淋浴间"},{"name":"Bathtub","qty":1,"name_zh":"浴缸"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/148.png","image_path":"/images/habitats/HAB-148.png","source_url":"https://pokopiadb.com/database/habitats/simple-bathroom"},{"key":"habitat:HAB-194","category":"habitat","category_zh":"栖息地","id":"HAB-194","name":"头盖化石展示台","name_zh":"头盖化石展示台","name_en":"Skull fossil display","required":"台座・展示台 ×1","required_zh":"台座・展示台 ×1","required_items":[{"name":"Exhibition stand","qty":1,"name_zh":"展示台"},{"name":"Skull fossil","qty":1,"name_zh":"骷髅化石"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/194.png","image_path":"/images/habitats/HAB-194.png","source_url":"https://pokopiadb.com/database/habitats/skull-fossil-display"},{"key":"habitat:HAB-037","category":"habitat","category_zh":"栖息地","id":"HAB-037","name":"沙沙草丛","name_zh":"沙沙草丛","name_en":"Smooth tall grass","required":"枯萎的綠草 ×4","required_zh":"枯萎的綠草 ×4","required_items":[{"name":"Dry tall grass","qty":4,"name_zh":"枯萎高草","is_env":true},{"name":"Smooth rock","qty":1,"name_zh":"石块","is_env":true}],"attracts":["Onix"],"attracts_zh":["大岩蛇"],"attract_refs":[{"key":"pokemon:95","name_en":"Onix","name_zh":"大岩蛇","image_url":"/images/pokemon/030.png"}],"image_url":"/images/habitats/HAB-037.png","image_path":"/images/habitats/HAB-037.png","source_url":"https://pokopiadb.com/database/habitats/smooth-tall-grass"},{"key":"habitat:HAB-089","category":"habitat","category_zh":"栖息地","id":"HAB-089","name":"诡异书房","name_zh":"诡异书房","name_en":"Spooky study","required":"Bookcase x1, Plain table x1, Chic sofa x1, Slender candle x1","required_zh":null,"required_items":[{"name":"Bookcase","qty":1,"name_zh":"书架"},{"name":"Plain table","qty":1,"name_zh":"简约桌"},{"name":"Chic sofa","qty":1,"name_zh":"时尚沙发"},{"name":"Slender candle","qty":1,"name_zh":"细蜡烛"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/089.png","image_path":"/images/habitats/HAB-089.png","source_url":"https://pokopiadb.com/database/habitats/spooky-study"},{"key":"habitat:HAB-157","category":"habitat","category_zh":"栖息地","id":"HAB-157","name":"亮晶晶洗脸台","name_zh":"亮晶晶洗脸台","name_en":"Spotless washing station","required":"壁掛鏡 ×1","required_zh":"壁掛鏡 ×1","required_items":[{"name":"Towel rack","qty":1,"name_zh":"毛巾架"},{"name":"Wall mirror","qty":1,"name_zh":"壁挂镜"},{"name":"Sink","qty":1,"name_zh":"水槽"}],"attracts":["Mr. Mime"],"attracts_zh":[],"attract_refs":[],"image_url":"/images/habitats/HAB-157.png","image_path":"/images/habitats/HAB-157.png","source_url":"https://pokopiadb.com/database/habitats/spotless-washing-station"},{"key":"habitat:HAB-161","category":"habitat","category_zh":"栖息地","id":"HAB-161","name":"刷刷大扫除","name_zh":"刷刷大扫除","name_en":"Squeaky clean","required":"Bathtub x1, Cleaning supplies x1","required_zh":null,"required_items":[{"name":"Bathtub","qty":1,"name_zh":"浴缸"},{"name":"Cleaning supplies","qty":1,"name_zh":"打扫用品"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/161.png","image_path":"/images/habitats/HAB-161.png","source_url":"https://pokopiadb.com/database/habitats/squeaky-clean"},{"key":"habitat:HAB-159","category":"habitat","category_zh":"栖息地","id":"HAB-159","name":"读书空间","name_zh":"读书空间","name_en":"Study area","required":"書架 ×1","required_zh":"書架 ×1","required_items":[{"name":"Bookcase","qty":1,"name_zh":"书架"},{"name":"Seat (any)","qty":1,"name_zh":"椅子（任意）"},{"name":"Table (any)","qty":1,"name_zh":"桌子（任意）"},{"name":"Pencil holder","qty":1,"name_zh":"笔筒"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/159.png","image_path":"/images/habitats/HAB-159.png","source_url":"https://pokopiadb.com/database/habitats/study-area"},{"key":"habitat:HAB-042","category":"habitat","category_zh":"栖息地","id":"HAB-042","name":"晴天地点","name_zh":"晴天地点","name_en":"Sunny day site","required":"晴天漂浮泡泡娃娃 ×2","required_zh":"晴天漂浮泡泡娃娃 ×2","required_items":[{"name":"Castform weather charm (sun)","qty":2,"name_zh":"随天气改变的魔法石（晴天）"},{"name":"Plated food","qty":1,"name_zh":"盘子上的食物"}],"attracts":["Cacnea"],"attracts_zh":["刺球仙人掌"],"attract_refs":[{"key":"pokemon:331","name_en":"Cacnea","name_zh":"刺球仙人掌","image_url":"/images/pokemon/055.png"}],"image_url":"/images/habitats/HAB-042.png","image_path":"/images/habitats/HAB-042.png","source_url":"https://pokopiadb.com/database/habitats/sunny-day-site"},{"key":"habitat:HAB-151","category":"habitat","category_zh":"栖息地","id":"HAB-151","name":"满溢超能力","name_zh":"满溢超能力","name_en":"Surging psychic power","required":"無 胡地","required_zh":"無 胡地","required_items":[{"name":"Simple cushion","qty":1,"name_zh":"简约靠垫"},{"name":"Crystal ball","qty":1,"name_zh":"水晶球"}],"attracts":["Alakazam"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:65","name_en":"Alakazam","name_zh":"胡地","image_url":"/images/pokemon/215.png"}],"image_url":"https://assets.pokopiadb.com/habitats/151.png","image_path":"/images/habitats/HAB-151.png","source_url":"https://pokopiadb.com/database/habitats/surging-psychic-power"},{"key":"habitat:HAB-073","category":"habitat","category_zh":"栖息地","id":"HAB-073","name":"小心机关","name_zh":"小心机关","name_en":"Surprise in store","required":"氣球 ×2","required_zh":"氣球 ×2","required_items":[{"name":"Balloons","qty":2,"name_zh":"气球"},{"name":"Boo-in-the-box","qty":1,"name_zh":"捉弄箱"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/073.png","image_path":"/images/habitats/HAB-073.png","source_url":"https://pokopiadb.com/database/habitats/surprise-in-store"},{"key":"habitat:HAB-068","category":"habitat","category_zh":"栖息地","id":"HAB-068","name":"外送料理","name_zh":"外送料理","name_en":"Tableside delivery cart","required":"Chic chair x2, Chic table x1, Small vase x1, Push cart x1, Plated food x1","required_zh":null,"required_items":[{"name":"Chic chair","qty":2,"name_zh":"时尚椅"},{"name":"Chic table","qty":1,"name_zh":"时尚桌"},{"name":"Small vase","qty":1,"name_zh":"小花瓶"},{"name":"Push cart","qty":1,"name_zh":"推车"},{"name":"Plated food","qty":1,"name_zh":"盘子上的食物"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/068.png","image_path":"/images/habitats/HAB-068.png","source_url":"https://pokopiadb.com/database/habitats/tableside-delivery-cart"},{"key":"habitat:HAB-001","category":"habitat","category_zh":"栖息地","id":"HAB-001","name":"绿色草丛","name_zh":"绿色草丛","name_en":"Tall grass","required":"綠草 ×4","required_zh":"綠草 ×4","required_items":[{"name":"Tall grass","qty":4,"name_zh":"绿色高草","is_env":true}],"attracts":["Bulbasaur","Squirtle","Charmander","Oddish","Geodude","Charizard"],"attracts_zh":["走路草","小拳石"],"attract_refs":[{"key":"pokemon:1","name_en":"Bulbasaur","name_zh":"妙蛙种子","image_url":"/images/pokemon/001.png"},{"key":"pokemon:7","name_en":"Squirtle","name_zh":"杰尼龟","image_url":"/images/pokemon/007.png"},{"key":"pokemon:4","name_en":"Charmander","name_zh":"小火龙","image_url":"/images/pokemon/004.png"},{"key":"pokemon:43","name_en":"Oddish","name_zh":"走路草","image_url":"/images/pokemon/013.png"},{"key":"pokemon:74","name_en":"Geodude","name_zh":"小拳石","image_url":"/images/pokemon/159.png"},{"key":"pokemon:6","name_en":"Charizard","name_zh":"喷火龙","image_url":"/images/pokemon/006.png"}],"image_url":"/images/habitats/HAB-001.png","image_path":"/images/habitats/HAB-001.png","source_url":"https://pokopiadb.com/database/habitats/tall-grass"},{"key":"habitat:HAB-019","category":"habitat","category_zh":"栖息地","id":"HAB-019","name":"饥肠辘辘餐厅","name_zh":"饥肠辘辘餐厅","name_en":"Tantalizing dining set","required":"椅子(任意) ×1","required_zh":"椅子(任意) ×1","required_items":[{"name":"Seat (any)","qty":1,"name_zh":"椅子（任意）"},{"name":"Table (any)","qty":1,"name_zh":"桌子（任意）"},{"name":"Plated food","qty":1,"name_zh":"盘子上的食物"}],"attracts":["Gulpin"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:316","name_en":"Gulpin","name_zh":"溶食兽","image_url":"/images/pokemon/053.png"}],"image_url":"/images/habitats/HAB-019.png","image_path":"/images/habitats/HAB-019.png","source_url":"https://pokopiadb.com/database/habitats/tantalizing-dining-set"},{"key":"habitat:HAB-067","category":"habitat","category_zh":"栖息地","id":"HAB-067","name":"饥肠辘辘餐厅","name_zh":"饥肠辘辘餐厅","name_en":"Tantalizing restaurant","required":"椅子(任意) ×1","required_zh":"椅子(任意) ×1","required_items":[{"name":"Seat (any)","qty":1,"name_zh":"椅子（任意）"},{"name":"Table (any)","qty":1,"name_zh":"桌子（任意）"},{"name":"Menu board","qty":1,"name_zh":"菜单板"},{"name":"Plated food","qty":1,"name_zh":"盘子上的食物"}],"attracts":["Pawmo","Pawmi"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:922","name_en":"Pawmo","name_zh":"布土拨","image_url":"/images/pokemon/143.png"},{"key":"pokemon:921","name_en":"Pawmi","name_zh":"布拨","image_url":"https://assets.pokopiaguide.com/pokemon/pawmi.png"}],"image_url":"/images/habitats/HAB-067.png","image_path":"/images/habitats/HAB-067.png","source_url":"https://pokopiadb.com/database/habitats/tantalizing-restaurant"},{"key":"habitat:HAB-175","category":"habitat","category_zh":"栖息地","id":"HAB-175","name":"轮胎公园","name_zh":"轮胎公园","name_en":"Tire park","required":"Slide x1, Tires x1, Tire toy x2","required_zh":null,"required_items":[{"name":"Slide","qty":1,"name_zh":"溜滑梯"},{"name":"Tires","qty":1,"name_zh":"轮胎"},{"name":"Tire toy","qty":2,"name_zh":"轮胎玩具"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/175.png","image_path":"/images/habitats/HAB-175.png","source_url":"https://pokopiadb.com/database/habitats/tire-park"},{"key":"habitat:HAB-108","category":"habitat","category_zh":"栖息地","id":"HAB-108","name":"农作真辛苦","name_zh":"农作真辛苦","name_en":"Toil in the soil","required":"蔬菜田(任意) ×4","required_zh":"蔬菜田(任意) ×4","required_items":[{"name":"Vegetable field (any)","qty":4,"name_zh":"蔬菜田（任意）"},{"name":"Wheelbarrow","qty":1,"name_zh":"独轮手推车"}],"attracts":["Tyranitar"],"attracts_zh":["班基拉斯"],"attract_refs":[{"key":"pokemon:248","name_en":"Tyranitar","name_zh":"班基拉斯","image_url":"/images/pokemon/171.png"}],"image_url":"https://assets.pokopiadb.com/habitats/108.png","image_path":"/images/habitats/HAB-108.png","source_url":"https://pokopiadb.com/database/habitats/toil-in-the-soil"},{"key":"habitat:HAB-183","category":"habitat","category_zh":"栖息地","id":"HAB-183","name":"流行之最","name_zh":"流行之最","name_en":"Top pop","required":"Pop art bed x1, Pop art sofa x1, Pop art table x1","required_zh":null,"required_items":[{"name":"Pop art bed","qty":1,"name_zh":"波普艺术床"},{"name":"Pop art sofa","qty":1,"name_zh":"波普艺术沙发"},{"name":"Pop art table","qty":1,"name_zh":"波普艺术桌"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/183.png","image_path":"/images/habitats/HAB-183.png","source_url":"https://pokopiadb.com/database/habitats/top-pop"},{"key":"habitat:HAB-018","category":"habitat","category_zh":"栖息地","id":"HAB-018","name":"修行瀑布","name_zh":"修行瀑布","name_en":"Training waterfall","required":"椅子(任意) ×1","required_zh":"椅子(任意) ×1","required_items":[{"name":"Seat (any)","qty":1,"name_zh":"椅子（任意）"},{"name":"Water","qty":2,"name_zh":"水","is_env":true},{"name":"Waterfall","qty":1,"name_zh":"瀑布","is_env":true}],"attracts":["Tyrogue"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:236","name_en":"Tyrogue","name_zh":"无畏小子","image_url":"/images/pokemon/034.png"}],"image_url":"/images/habitats/HAB-018.png","image_path":"/images/habitats/HAB-018.png","source_url":"https://pokopiadb.com/database/habitats/training-waterfall"},{"key":"habitat:HAB-064","category":"habitat","category_zh":"栖息地","id":"HAB-064","name":"垃圾桶满了","name_zh":"垃圾桶满了","name_en":"Trash can central","required":"垃圾桶 ×4","required_zh":"垃圾桶 ×4","required_items":[{"name":"Garbage bin","qty":4,"name_zh":"垃圾桶"}],"attracts":[],"attracts_zh":["三合一磁怪"],"attract_refs":[],"image_url":"/images/habitats/HAB-064.png","image_path":"/images/habitats/HAB-064.png","source_url":"https://pokopiadb.com/database/habitats/trash-can-central"},{"key":"habitat:HAB-063","category":"habitat","category_zh":"栖息地","id":"HAB-063","name":"垃圾集中处","name_zh":"垃圾集中处","name_en":"Trash collection site","required":"垃圾桶(任意) ×1","required_zh":"垃圾桶(任意) ×1","required_items":[{"name":"Waste bin (any)","qty":1,"name_zh":"垃圾桶（任意）"},{"name":"Garbage bags","qty":1,"name_zh":"垃圾袋"},{"name":"Sign (any)","qty":1,"name_zh":"招牌（任意）"}],"attracts":["Trubbish","Garbodor","PokopiaDb"],"attracts_zh":["破破袋"],"attract_refs":[{"key":"pokemon:568","name_en":"Trubbish","name_zh":"破破袋","image_url":"/images/pokemon/132.png"},{"key":"pokemon:569","name_en":"Garbodor","name_zh":"灰尘山","image_url":"/images/pokemon/133.png"}],"image_url":"/images/habitats/HAB-063.png","image_path":"/images/habitats/HAB-063.png","source_url":"https://pokopiadb.com/database/habitats/trash-collection-site"},{"key":"habitat:HAB-065","category":"habitat","category_zh":"栖息地","id":"HAB-065","name":"垃圾场","name_zh":"垃圾场","name_en":"Trash disposal site","required":"垃圾袋 ×1","required_zh":"垃圾袋 ×1","required_items":[{"name":"Utility pole","qty":1,"name_zh":"电线杆"},{"name":"Garbage bags","qty":1,"name_zh":"垃圾袋"}],"attracts":["Crobat"],"attracts_zh":["叉字蝠"],"attract_refs":[{"key":"pokemon:169","name_en":"Crobat","name_zh":"叉字蝠","image_url":"/images/pokemon/083.png"}],"image_url":"https://assets.pokopiadb.com/habitats/065.png","image_path":"/images/habitats/HAB-065.png","source_url":"https://pokopiadb.com/database/habitats/trash-disposal-site"},{"key":"habitat:HAB-153","category":"habitat","category_zh":"栖息地","id":"HAB-153","name":"垃圾场的电视","name_zh":"垃圾场的电视","name_en":"Trash site tv","required":"Garbage bags x2, Television x1","required_zh":null,"required_items":[{"name":"Garbage bags","qty":2,"name_zh":"垃圾袋"},{"name":"Television","qty":1,"name_zh":"电视"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/153.png","image_path":"/images/habitats/HAB-153.png","source_url":"https://pokopiadb.com/database/habitats/trash-site-tv"},{"key":"habitat:HAB-009","category":"habitat","category_zh":"栖息地","id":"HAB-009","name":"树荫花田","name_zh":"树荫花田","name_en":"Tree-shaded flower bed","required":"原野之花 ×4","required_zh":"原野之花 ×4","required_items":[{"name":"Berry tree (any)","qty":1,"name_zh":"果实树（任意）","is_env":true},{"name":"Wildflowers","qty":4,"name_zh":"野花","is_env":true}],"attracts":["Goomy","Cacturne","Rowlet"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:704","name_en":"Goomy","name_zh":"黏黏宝","image_url":"/images/pokemon/074.png"},{"key":"pokemon:332","name_en":"Cacturne","name_zh":"梦歌仙人掌","image_url":"/images/pokemon/056.png"},{"key":"pokemon:722","name_en":"Rowlet","name_zh":"木木枭","image_url":"/images/pokemon/185.png"}],"image_url":"/images/habitats/HAB-009.png","image_path":"/images/habitats/HAB-009.png","source_url":"https://pokopiadb.com/database/habitats/tree-shaded-flower-bed"},{"key":"habitat:HAB-143","category":"habitat","category_zh":"栖息地","id":"HAB-143","name":"树荫蓬松花田","name_zh":"树荫蓬松花田","name_en":"Tree-shaded fluffy flower bed","required":"大樹(任意) ×1","required_zh":"大樹(任意) ×1","required_items":[{"name":"Large tree (any)","qty":1,"name_zh":"大树（任意）","is_env":true},{"name":"Skyland flowers","qty":4,"name_zh":"浮岛花","is_env":true}],"attracts":["Girafarig","Servine"],"attracts_zh":["麒麟奇","青藤蛇"],"attract_refs":[{"key":"pokemon:203","name_en":"Girafarig","name_zh":"麒麟奇","image_url":"/images/pokemon/229.png"},{"key":"pokemon:496","name_en":"Servine","name_zh":"青藤蛇","image_url":"/images/pokemon/249.png"}],"image_url":"/images/habitats/HAB-143.png","image_path":"/images/habitats/HAB-143.png","source_url":"https://pokopiadb.com/database/habitats/tree-shaded-fluffy-flower-bed"},{"key":"habitat:HAB-105","category":"habitat","category_zh":"栖息地","id":"HAB-105","name":"树荫优雅花田","name_zh":"树荫优雅花田","name_en":"Tree-shaded graceful flower bed","required":"岩場之花 ×4","required_zh":"岩場之花 ×4","required_items":[{"name":"Pointy tree","qty":1,"name_zh":"三角树","is_env":true},{"name":"Mountain flowers","qty":4,"name_zh":"山岩花","is_env":true}],"attracts":[],"attracts_zh":["火神蛾"],"attract_refs":[],"image_url":"/images/habitats/HAB-105.png","image_path":"/images/habitats/HAB-105.png","source_url":"https://pokopiadb.com/database/habitats/tree-shaded-graceful-flower-bed"},{"key":"habitat:HAB-138","category":"habitat","category_zh":"栖息地","id":"HAB-138","name":"树荫粉红色草丛","name_zh":"树荫粉红色草丛","name_en":"Tree-shaded pink tall grass","required":"大樹(任意) ×1","required_zh":"大樹(任意) ×1","required_items":[{"name":"Large tree (any)","qty":1,"name_zh":"大树（任意）","is_env":true},{"name":"Pink tall grass","qty":4,"name_zh":"粉红高草","is_env":true}],"attracts":["Sprigatito","Dreepy","Drakloak","Pupitar"],"attracts_zh":["沙基拉斯"],"attract_refs":[{"key":"pokemon:906","name_en":"Sprigatito","name_zh":"新叶喵","image_url":"/images/pokemon/263.png"},{"key":"pokemon:885","name_en":"Dreepy","name_zh":"多龙梅西亚","image_url":"/images/pokemon/260.png"},{"key":"pokemon:886","name_en":"Drakloak","name_zh":"多龙奇","image_url":"/images/pokemon/261.png"},{"key":"pokemon:247","name_en":"Pupitar","name_zh":"沙基拉斯","image_url":"/images/pokemon/170.png"}],"image_url":"/images/habitats/HAB-138.png","image_path":"/images/habitats/HAB-138.png","source_url":"https://pokopiadb.com/database/habitats/tree-shaded-pink-tall-grass"},{"key":"habitat:HAB-099","category":"habitat","category_zh":"栖息地","id":"HAB-099","name":"树荫红色草丛","name_zh":"树荫红色草丛","name_en":"Tree-shaded red tall grass","required":"大樹(任意) ×1","required_zh":"大樹(任意) ×1","required_items":[{"name":"Large tree (any)","qty":1,"name_zh":"大树（任意）","is_env":true},{"name":"Red tall grass","qty":4,"name_zh":"红色高草","is_env":true}],"attracts":["Diglett","Dugtrio","Bonsly","Sudowoodo"],"attracts_zh":["地鼠","盆才怪","三地鼠"],"attract_refs":[{"key":"pokemon:50","name_en":"Diglett","name_zh":"地鼠","image_url":"/images/pokemon/154.png"},{"key":"pokemon:51","name_en":"Dugtrio","name_zh":"三地鼠","image_url":"/images/pokemon/155.png"},{"key":"pokemon:438","name_en":"Bonsly","name_zh":"盆才怪","image_url":"/images/pokemon/165.png"},{"key":"pokemon:185","name_en":"Sudowoodo","name_zh":"树才怪","image_url":"/images/pokemon/166.png"}],"image_url":"/images/habitats/HAB-099.png","image_path":"/images/habitats/HAB-099.png","source_url":"https://pokopiadb.com/database/habitats/tree-shaded-red-tall-grass"},{"key":"habitat:HAB-047","category":"habitat","category_zh":"栖息地","id":"HAB-047","name":"树荫下酣睡的卡比兽","name_zh":"树荫下酣睡的卡比兽","name_en":"Tree-shaded snoozing snorlax","required":"大樹(任意) ×1","required_zh":"大樹(任意) ×1","required_items":[{"name":"Large tree (any)","qty":1,"name_zh":"大树（任意）","is_env":true},{"name":"Naptime bed","qty":1,"name_zh":"午睡床"}],"attracts":["Munchlax","Snorlax"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:446","name_en":"Munchlax","name_zh":"小卡比兽","image_url":"/images/pokemon/107.png"},{"key":"pokemon:143","name_en":"Snorlax","name_zh":"卡比兽","image_url":"/images/pokemon/108.png"}],"image_url":"https://assets.pokopiadb.com/habitats/047.png","image_path":"/images/habitats/HAB-047.png","source_url":"https://pokopiadb.com/database/habitats/tree-shaded-snoozing-snorlax"},{"key":"habitat:HAB-002","category":"habitat","category_zh":"栖息地","id":"HAB-002","name":"树荫草丛","name_zh":"树荫草丛","name_en":"Tree-shaded tall grass","required":"大樹(任意) ×1","required_zh":"大樹(任意) ×1","required_items":[{"name":"Large tree (any)","qty":1,"name_zh":"大树（任意）","is_env":true},{"name":"Tall grass","qty":4,"name_zh":"绿色高草","is_env":true}],"attracts":["Scyther","Scizor","Bellsprout","Pinsir","Heracross","Skwovet"],"attracts_zh":["喇叭芽"],"attract_refs":[{"key":"pokemon:123","name_en":"Scyther","name_zh":"飞天螳螂","image_url":"/images/pokemon/042.png"},{"key":"pokemon:212","name_en":"Scizor","name_zh":"巨钳螳螂","image_url":"/images/pokemon/043.png"},{"key":"pokemon:69","name_en":"Bellsprout","name_zh":"喇叭芽","image_url":"/images/pokemon/021.png"},{"key":"pokemon:127","name_en":"Pinsir","name_zh":"凯罗斯","image_url":"/images/pokemon/044.png"},{"key":"pokemon:214","name_en":"Heracross","name_zh":"赫拉克罗斯","image_url":"/images/pokemon/050.png"},{"key":"pokemon:819","name_en":"Skwovet","name_zh":"贪心栗鼠","image_url":"/images/pokemon/191.png"}],"image_url":"/images/habitats/HAB-002.png","image_path":"/images/habitats/HAB-002.png","source_url":"https://pokopiadb.com/database/habitats/tree-shaded-tall-grass"},{"key":"habitat:HAB-051","category":"habitat","category_zh":"栖息地","id":"HAB-051","name":"树荫黄色草丛","name_zh":"树荫黄色草丛","name_en":"Tree-shaded yellow tall grass","required":"大樹(任意) ×1","required_zh":"大樹(任意) ×1","required_items":[{"name":"Large tree (any)","qty":1,"name_zh":"大树（任意）","is_env":true},{"name":"Yellow tall grass","qty":4,"name_zh":"黄色高草","is_env":true}],"attracts":["Zubat","Golbat","Makuhita","Hariyama"],"attracts_zh":["幕下力士","超音蝠","大嘴蝠"],"attract_refs":[{"key":"pokemon:41","name_en":"Zubat","name_zh":"超音蝠","image_url":"/images/pokemon/081.png"},{"key":"pokemon:42","name_en":"Golbat","name_zh":"大嘴蝠","image_url":"/images/pokemon/082.png"},{"key":"pokemon:296","name_en":"Makuhita","name_zh":"幕下力士","image_url":"/images/pokemon/125.png"},{"key":"pokemon:297","name_en":"Hariyama","name_zh":"铁掌力士","image_url":"/images/pokemon/126.png"}],"image_url":"/images/habitats/HAB-051.png","image_path":"/images/habitats/HAB-051.png","source_url":"https://pokopiadb.com/database/habitats/tree-shaded-yellow-tall-grass"},{"key":"habitat:HAB-060","category":"habitat","category_zh":"栖息地","id":"HAB-060","name":"热带海滨","name_zh":"热带海滨","name_en":"Tropical seaside","required":"大椰子樹 ×1","required_zh":"大椰子樹 ×1","required_items":[{"name":"Large palm tree","qty":1,"name_zh":"大棕榈树","is_env":true},{"name":"Hedge (any)","qty":4,"name_zh":"篱笆（任意）"},{"name":"Ocean water","qty":2,"name_zh":"海水","is_env":true}],"attracts":["Lapras"],"attracts_zh":["拉普拉斯"],"attract_refs":[{"key":"pokemon:131","name_en":"Lapras","name_zh":"拉普拉斯","image_url":"/images/pokemon/106.png"}],"image_url":"/images/habitats/HAB-060.png","image_path":"/images/habitats/HAB-060.png","source_url":"https://pokopiadb.com/database/habitats/tropical-seaside"},{"key":"habitat:HAB-057","category":"habitat","category_zh":"栖息地","id":"HAB-057","name":"南国风情","name_zh":"南国风情","name_en":"Tropical vibes","required":"大椰子樹 ×1","required_zh":"大椰子樹 ×1","required_items":[{"name":"Large palm tree","qty":1,"name_zh":"大棕榈树","is_env":true},{"name":"Seashore flowers","qty":4,"name_zh":"海滨花","is_env":true}],"attracts":["Gloom","Exeggcute"],"attracts_zh":["臭臭花","蛋蛋"],"attract_refs":[{"key":"pokemon:44","name_en":"Gloom","name_zh":"臭臭花","image_url":"/images/pokemon/014.png"},{"key":"pokemon:102","name_en":"Exeggcute","name_zh":"蛋蛋","image_url":"/images/pokemon/098.png"}],"image_url":"/images/habitats/HAB-057.png","image_path":"/images/habitats/HAB-057.png","source_url":"https://pokopiadb.com/database/habitats/tropical-vibes"},{"key":"habitat:HAB-201","category":"habitat","category_zh":"栖息地","id":"HAB-201","name":"冻原化石展示台","name_zh":"冻原化石展示台","name_en":"Tundra fossil display","required":"台座・展示台 ×1","required_zh":"台座・展示台 ×1","required_items":[{"name":"Exhibition stand","qty":1,"name_zh":"展示台"},{"name":"Tundra fossil (head)","qty":1,"name_zh":"冻土化石（头部）"},{"name":"Tundra fossil (body)","qty":1,"name_zh":"冻土化石（躯体）"},{"name":"Tundra fossil (tail)","qty":1,"name_zh":"冻土化石（尾部）"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/201.png","image_path":"/images/habitats/HAB-201.png","source_url":"https://pokopiadb.com/database/habitats/tundra-fossil-display"},{"key":"habitat:HAB-109","category":"habitat","category_zh":"栖息地","id":"HAB-109","name":"欢乐水洼","name_zh":"欢乐水洼","name_en":"Uplifting duckweed","required":"浮萍 ×4","required_zh":"浮萍 ×4","required_items":[{"name":"Duckweed","qty":4,"name_zh":"浮萍","is_env":true},{"name":"Water","qty":2,"name_zh":"水","is_env":true}],"attracts":["Lotad","Ludicolo"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:270","name_en":"Lotad","name_zh":"莲叶童子","image_url":"/images/pokemon/172.png"},{"key":"pokemon:272","name_en":"Ludicolo","name_zh":"乐天河童","image_url":"/images/pokemon/174.png"}],"image_url":"/images/habitats/HAB-109.png","image_path":"/images/habitats/HAB-109.png","source_url":"https://pokopiadb.com/database/habitats/uplifting-duckweed"},{"key":"habitat:HAB-025","category":"habitat","category_zh":"栖息地","id":"HAB-025","name":"紧急救护所","name_zh":"紧急救护所","name_en":"Urgent care","required":"椅子(任意) ×1","required_zh":"椅子(任意) ×1","required_items":[{"name":"Seat (any)","qty":1,"name_zh":"椅子（任意）"},{"name":"Table (any)","qty":1,"name_zh":"桌子（任意）"},{"name":"First aid kit","qty":1,"name_zh":"急救箱"}],"attracts":["Hitmonlee"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:106","name_en":"Hitmonlee","name_zh":"飞腿郎","image_url":"/images/pokemon/035.png"}],"image_url":"/images/habitats/HAB-025.png","image_path":"/images/habitats/HAB-025.png","source_url":"https://pokopiadb.com/database/habitats/urgent-care"},{"key":"habitat:HAB-083","category":"habitat","category_zh":"栖息地","id":"HAB-083","name":"自动贩卖机旁歇脚","name_zh":"自动贩卖机旁歇脚","name_en":"Vending machine break area","required":"椅子(長條) ×1","required_zh":"椅子(長條) ×1","required_items":[{"name":"Vending machine","qty":1,"name_zh":"自动贩卖机"},{"name":"Seat (wide)","qty":1,"name_zh":"长条椅"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/083.png","image_path":"/images/habitats/HAB-083.png","source_url":"https://pokopiadb.com/database/habitats/vending-machine-break-area"},{"key":"habitat:HAB-084","category":"habitat","category_zh":"栖息地","id":"HAB-084","name":"自动贩卖机套组","name_zh":"自动贩卖机套组","name_en":"Vending machine set","required":"垃圾桶(任意) ×1","required_zh":"垃圾桶(任意) ×1","required_items":[{"name":"Vending machine","qty":1,"name_zh":"自动贩卖机"},{"name":"Waste bin (any)","qty":1,"name_zh":"垃圾桶（任意）"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"/images/habitats/HAB-084.png","image_path":"/images/habitats/HAB-084.png","source_url":"https://pokopiadb.com/database/habitats/vending-machine-set"},{"key":"habitat:HAB-045","category":"habitat","category_zh":"栖息地","id":"HAB-045","name":"树果大集合","name_zh":"树果大集合","name_en":"Very-berry space","required":"Berry chair x1, Berry table x1, Berry bed x1, Berry table lamp x1","required_zh":null,"required_items":[{"name":"Berry chair","qty":1,"name_zh":"树果椅"},{"name":"Berry table","qty":1,"name_zh":"树果桌"},{"name":"Berry bed","qty":1,"name_zh":"树果床"},{"name":"Berry table lamp","qty":1,"name_zh":"树果桌灯"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/045.png","image_path":"/images/habitats/HAB-045.png","source_url":"https://pokopiadb.com/database/habitats/very-berry-space"},{"key":"habitat:HAB-145","category":"habitat","category_zh":"栖息地","id":"HAB-145","name":"水边小船","name_zh":"水边小船","name_en":"Waterside dinghy","required":"浮萍 ×2","required_zh":"浮萍 ×2","required_items":[{"name":"Canoe","qty":1,"name_zh":"独木舟"},{"name":"Duckweed","qty":2,"name_zh":"浮萍","is_env":true},{"name":"Water","qty":2,"name_zh":"水","is_env":true},{"name":"High-up location","qty":1,"name_zh":"高处","is_env":true}],"attracts":["Dragonite"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:149","name_en":"Dragonite","name_zh":"快龙","image_url":"/images/pokemon/223.png"}],"image_url":"/images/habitats/HAB-145.png","image_path":"/images/habitats/HAB-145.png","source_url":"https://pokopiadb.com/database/habitats/waterside-dinghy"},{"key":"habitat:HAB-086","category":"habitat","category_zh":"栖息地","id":"HAB-086","name":"水力发电所","name_zh":"水力发电所","name_en":"Waterwheel spot","required":"水 ×2","required_zh":"水 ×2","required_items":[{"name":"Waterwheel","qty":1,"name_zh":"水车","is_env":true},{"name":"Waterfall","qty":1,"name_zh":"瀑布","is_env":true},{"name":"Water","qty":2,"name_zh":"水","is_env":true}],"attracts":["Prinplup"],"attracts_zh":["波皇子"],"attract_refs":[{"key":"pokemon:394","name_en":"Prinplup","name_zh":"波皇子","image_url":"/images/pokemon/129.png"}],"image_url":"https://assets.pokopiadb.com/habitats/086.png","image_path":"/images/habitats/HAB-086.png","source_url":"https://pokopiadb.com/database/habitats/waterwheel-spot"},{"key":"habitat:HAB-096","category":"habitat","category_zh":"栖息地","id":"HAB-096","name":"欢迎来到度假村","name_zh":"欢迎来到度假村","name_en":"Welcoming resort","required":"度假村燈飾 ×1","required_zh":"度假村燈飾 ×1","required_items":[{"name":"Resort sofa","qty":1,"name_zh":"度假村沙发"},{"name":"Resort hammock","qty":1,"name_zh":"度假村吊床"},{"name":"Resort table","qty":1,"name_zh":"度假村桌子"},{"name":"Resort light","qty":1,"name_zh":"度假村灯饰"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/096.png","image_path":"/images/habitats/HAB-096.png","source_url":"https://pokopiadb.com/database/habitats/welcoming-resort"},{"key":"habitat:HAB-058","category":"habitat","category_zh":"栖息地","id":"HAB-058","name":"风之花田","name_zh":"风之花田","name_en":"Windy flower bed","required":"海邊之花 ×4","required_zh":"海邊之花 ×4","required_items":[{"name":"Windmill","qty":1,"name_zh":"风车"},{"name":"Seashore flowers","qty":4,"name_zh":"海滨花","is_env":true}],"attracts":["Wingull","Pelipper"],"attracts_zh":[],"attract_refs":[{"key":"pokemon:278","name_en":"Wingull","name_zh":"长翅鸥","image_url":"/images/pokemon/123.png"},{"key":"pokemon:279","name_en":"Pelipper","name_zh":"大嘴鸥","image_url":"/images/pokemon/124.png"}],"image_url":"/images/habitats/HAB-058.png","image_path":"/images/habitats/HAB-058.png","source_url":"https://pokopiadb.com/database/habitats/windy-flower-bed"},{"key":"habitat:HAB-193","category":"habitat","category_zh":"栖息地","id":"HAB-193","name":"翼之化石展示台","name_zh":"翼之化石展示台","name_en":"Wing fossil display","required":"台座・展示台 ×1","required_zh":"台座・展示台 ×1","required_items":[{"name":"Exhibition stand","qty":1,"name_zh":"展示台"},{"name":"Wing fossil (head)","qty":1,"name_zh":"翼之化石（头部）"},{"name":"Wing fossil (body)","qty":1,"name_zh":"翼之化石（躯体）"},{"name":"Wing fossil (tail)","qty":1,"name_zh":"翼之化石（尾部）"},{"name":"Wing fossil (left wing)","qty":1,"name_zh":"翼之化石（左翼）"},{"name":"Wing fossil (right wing)","qty":1,"name_zh":"翼之化石（右翼）"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/193.png","image_path":"/images/habitats/HAB-193.png","source_url":"https://pokopiadb.com/database/habitats/wing-fossil-display"},{"key":"habitat:HAB-166","category":"habitat","category_zh":"栖息地","id":"HAB-166","name":"办公桌","name_zh":"办公桌","name_en":"Work desk","required":"Office desk x1, Office chair x1, Mug x1, Laptop x1","required_zh":null,"required_items":[{"name":"Office desk","qty":1,"name_zh":"办公书桌"},{"name":"Office chair","qty":1,"name_zh":"办公椅"},{"name":"Mug","qty":1,"name_zh":"马克杯"},{"name":"Laptop","qty":1,"name_zh":"笔记本电脑"}],"attracts":[],"attracts_zh":[],"attract_refs":[],"image_url":"https://assets.pokopiadb.com/habitats/166.png","image_path":"/images/habitats/HAB-166.png","source_url":"https://pokopiadb.com/database/habitats/work-desk"},{"key":"habitat:HAB-091","category":"habitat","category_zh":"栖息地","id":"HAB-091","name":"收銀台結帳","name_zh":"收銀台結帳","name_en":"Working the register","required":"桌子(任意) ×2","required_zh":"桌子(任意) ×2","required_items":[{"name":"Table (any)","qty":2,"name_zh":"桌子（任意）"},{"name":"Cash register","qty":1,"name_zh":"收银机"}],"attracts":["Meowth","Happiny","Audino"],"attracts_zh":["喵喵","小福蛋","差不多娃娃"],"attract_refs":[{"key":"pokemon:52","name_en":"Meowth","name_zh":"喵喵","image_url":"/images/pokemon/084.png"},{"key":"pokemon:440","name_en":"Happiny","name_zh":"小福蛋","image_url":"/images/pokemon/100.png"},{"key":"pokemon:531","name_en":"Audino","name_zh":"差不多娃娃","image_url":"/images/pokemon/131.png"}],"image_url":"/images/habitats/HAB-091.png","image_path":"/images/habitats/HAB-091.png","source_url":"https://pokopiadb.com/database/habitats/working-the-register"},{"key":"habitat:HAB-050","category":"habitat","category_zh":"栖息地","id":"HAB-050","name":"黄色草丛","name_zh":"黄色草丛","name_en":"Yellow tall grass","required":"黃草 ×4","required_zh":"黃草 ×4","required_items":[{"name":"Yellow tall grass","qty":4,"name_zh":"黄色高草","is_env":true}],"attracts":["Spinarak","Ariados","Grubbin"],"attracts_zh":["阿利多斯"],"attract_refs":[{"key":"pokemon:167","name_en":"Spinarak","name_zh":"圆丝蛛","image_url":"/images/pokemon/109.png"},{"key":"pokemon:168","name_en":"Ariados","name_zh":"阿利多斯","image_url":"/images/pokemon/110.png"},{"key":"pokemon:736","name_en":"Grubbin","name_zh":"强颚鸡母虫","image_url":"/images/pokemon/138.png"}],"image_url":"/images/habitats/HAB-050.png","image_path":"/images/habitats/HAB-050.png","source_url":"https://pokopiadb.com/database/habitats/yellow-tall-grass"}];
+module.exports = [
+  {
+    "key": "habitat:HAB-001",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-001",
+    "name": "绿色的草丛",
+    "name_zh": "绿色的草丛",
+    "name_en": "Tall grass",
+    "required": "绿色草 ×4",
+    "required_zh": "绿色草 ×4",
+    "required_items": [
+      {
+        "name": "绿色草",
+        "qty": 4,
+        "name_zh": "绿色草",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Bulbasaur",
+      "Squirtle",
+      "Charmander",
+      "Oddish",
+      "Geodude",
+      "Charizard"
+    ],
+    "attracts_zh": [
+      "走路草",
+      "小拳石"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:1",
+        "name_en": "Bulbasaur",
+        "name_zh": "妙蛙种子",
+        "image_url": "/images/pokemon/001.png"
+      },
+      {
+        "key": "pokemon:7",
+        "name_en": "Squirtle",
+        "name_zh": "杰尼龟",
+        "image_url": "/images/pokemon/007.png"
+      },
+      {
+        "key": "pokemon:4",
+        "name_en": "Charmander",
+        "name_zh": "小火龙",
+        "image_url": "/images/pokemon/004.png"
+      },
+      {
+        "key": "pokemon:43",
+        "name_en": "Oddish",
+        "name_zh": "走路草",
+        "image_url": "/images/pokemon/013.png"
+      },
+      {
+        "key": "pokemon:74",
+        "name_en": "Geodude",
+        "name_zh": "小拳石",
+        "image_url": "/images/pokemon/159.png"
+      },
+      {
+        "key": "pokemon:6",
+        "name_en": "Charizard",
+        "name_zh": "喷火龙",
+        "image_url": "/images/pokemon/006.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-001.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-001.png",
+    "source_url": "https://pokopiadb.com/database/habitats/tall-grass"
+  },
+  {
+    "key": "habitat:HAB-002",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-002",
+    "name": "树荫草丛",
+    "name_zh": "树荫草丛",
+    "name_en": "Tree-shaded tall grass",
+    "required": "大树（任意） ×1 / 绿色草 ×4",
+    "required_zh": "大树（任意） ×1 / 绿色草 ×4",
+    "required_items": [
+      {
+        "name": "Large tree (any)",
+        "qty": 1,
+        "name_zh": "大树（任意）",
+        "is_env": true
+      },
+      {
+        "name": "绿色草",
+        "qty": 4,
+        "name_zh": "绿色草",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Scyther",
+      "Scizor",
+      "Bellsprout",
+      "Pinsir",
+      "Heracross",
+      "Skwovet"
+    ],
+    "attracts_zh": [
+      "喇叭芽"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:123",
+        "name_en": "Scyther",
+        "name_zh": "飞天螳螂",
+        "image_url": "/images/pokemon/042.png"
+      },
+      {
+        "key": "pokemon:212",
+        "name_en": "Scizor",
+        "name_zh": "巨钳螳螂",
+        "image_url": "/images/pokemon/043.png"
+      },
+      {
+        "key": "pokemon:69",
+        "name_en": "Bellsprout",
+        "name_zh": "喇叭芽",
+        "image_url": "/images/pokemon/021.png"
+      },
+      {
+        "key": "pokemon:127",
+        "name_en": "Pinsir",
+        "name_zh": "凯罗斯",
+        "image_url": "/images/pokemon/044.png"
+      },
+      {
+        "key": "pokemon:214",
+        "name_en": "Heracross",
+        "name_zh": "赫拉克罗斯",
+        "image_url": "/images/pokemon/050.png"
+      },
+      {
+        "key": "pokemon:819",
+        "name_en": "Skwovet",
+        "name_zh": "贪心栗鼠",
+        "image_url": "/images/pokemon/191.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-002.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-002.png",
+    "source_url": "https://pokopiadb.com/database/habitats/tree-shaded-tall-grass"
+  },
+  {
+    "key": "habitat:HAB-003",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-003",
+    "name": "岩荫草丛",
+    "name_zh": "岩荫草丛",
+    "name_en": "Boulder-shaded tall grass",
+    "required": "绿色草 ×4 / 大岩石 ×1",
+    "required_zh": "绿色草 ×4 / 大岩石 ×1",
+    "required_items": [
+      {
+        "name": "绿色草",
+        "qty": 4,
+        "name_zh": "绿色草",
+        "is_env": true
+      },
+      {
+        "name": "Large boulder",
+        "qty": 1,
+        "name_zh": "大岩石",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Timburr",
+      "Gurdurr",
+      "Machop"
+    ],
+    "attracts_zh": [
+      "腕力"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:532",
+        "name_en": "Timburr",
+        "name_zh": "搬运小匠",
+        "image_url": "/images/pokemon/065.png"
+      },
+      {
+        "key": "pokemon:533",
+        "name_en": "Gurdurr",
+        "name_zh": "铁骨土人",
+        "image_url": "/images/pokemon/066.png"
+      },
+      {
+        "key": "pokemon:66",
+        "name_en": "Machop",
+        "name_zh": "腕力",
+        "image_url": "/images/pokemon/156.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-003.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-003.png",
+    "source_url": "https://pokopiadb.com/database/habitats/boulder-shaded-tall-grass"
+  },
+  {
+    "key": "habitat:HAB-004",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-004",
+    "name": "湿润草丛",
+    "name_zh": "湿润草丛",
+    "name_en": "Hydrated tall grass",
+    "required": "绿色草 ×4 / 水 ×2",
+    "required_zh": "绿色草 ×4 / 水 ×2",
+    "required_items": [
+      {
+        "name": "绿色草",
+        "qty": 4,
+        "name_zh": "绿色草",
+        "is_env": true
+      },
+      {
+        "name": "Water",
+        "qty": 2,
+        "name_zh": "水",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Squirtle",
+      "Wartortle",
+      "Blastoise",
+      "Sliggoo",
+      "Cramorant"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:7",
+        "name_en": "Squirtle",
+        "name_zh": "杰尼龟",
+        "image_url": "/images/pokemon/007.png"
+      },
+      {
+        "key": "pokemon:8",
+        "name_en": "Wartortle",
+        "name_zh": "卡咪龟",
+        "image_url": "/images/pokemon/008.png"
+      },
+      {
+        "key": "pokemon:9",
+        "name_en": "Blastoise",
+        "name_zh": "水箭龟",
+        "image_url": "/images/pokemon/009.png"
+      },
+      {
+        "key": "pokemon:705",
+        "name_en": "Sliggoo",
+        "name_zh": "黏美儿",
+        "image_url": "/images/pokemon/075.png"
+      },
+      {
+        "key": "pokemon:845",
+        "name_en": "Cramorant",
+        "name_zh": "古月鸟",
+        "image_url": "/images/pokemon/077.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-004.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-004.png",
+    "source_url": "https://pokopiadb.com/database/habitats/hydrated-tall-grass"
+  },
+  {
+    "key": "habitat:HAB-005",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-005",
+    "name": "海浪边草丛",
+    "name_zh": "海浪边草丛",
+    "name_en": "Seaside tall grass",
+    "required": "绿色草 ×4 / 海水 ×2",
+    "required_zh": "绿色草 ×4 / 海水 ×2",
+    "required_items": [
+      {
+        "name": "绿色草",
+        "qty": 4,
+        "name_zh": "绿色草",
+        "is_env": true
+      },
+      {
+        "name": "Ocean water",
+        "qty": 2,
+        "name_zh": "海水",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Slowpoke",
+      "Slowbro",
+      "Slowking"
+    ],
+    "attracts_zh": [
+      "呆呆王"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:79",
+        "name_en": "Slowpoke",
+        "name_zh": "呆呆兽",
+        "image_url": "/images/pokemon/024.png"
+      },
+      {
+        "key": "pokemon:80",
+        "name_en": "Slowbro",
+        "name_zh": "呆壳兽",
+        "image_url": "/images/pokemon/025.png"
+      },
+      {
+        "key": "pokemon:199",
+        "name_en": "Slowking",
+        "name_zh": "呆呆王",
+        "image_url": "/images/pokemon/026.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-005.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-005.png",
+    "source_url": "https://pokopiadb.com/database/habitats/seaside-tall-grass"
+  },
+  {
+    "key": "habitat:HAB-006",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-006",
+    "name": "高台草丛",
+    "name_zh": "高台草丛",
+    "name_en": "Elevated tall grass",
+    "required": "绿色草 ×4 / 高处 ×1",
+    "required_zh": "绿色草 ×4 / 高处 ×1",
+    "required_items": [
+      {
+        "name": "绿色草",
+        "qty": 4,
+        "name_zh": "绿色草",
+        "is_env": true
+      },
+      {
+        "name": "High-up location",
+        "qty": 1,
+        "name_zh": "高处",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Pidgey",
+      "Pidgeotto",
+      "Hoothoot",
+      "Noctowl"
+    ],
+    "attracts_zh": [
+      "咕咕",
+      "波波"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:16",
+        "name_en": "Pidgey",
+        "name_zh": "波波",
+        "image_url": "/images/pokemon/010.png"
+      },
+      {
+        "key": "pokemon:17",
+        "name_en": "Pidgeotto",
+        "name_zh": "比比鸟",
+        "image_url": "/images/pokemon/011.png"
+      },
+      {
+        "key": "pokemon:163",
+        "name_en": "Hoothoot",
+        "name_zh": "咕咕",
+        "image_url": "/images/pokemon/048.png"
+      },
+      {
+        "key": "pokemon:164",
+        "name_en": "Noctowl",
+        "name_zh": "猫头夜鹰",
+        "image_url": "/images/pokemon/049.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-006.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-006.png",
+    "source_url": "https://pokopiadb.com/database/habitats/elevated-tall-grass"
+  },
+  {
+    "key": "habitat:HAB-007",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-007",
+    "name": "被照亮的草丛",
+    "name_zh": "被照亮的草丛",
+    "name_en": "Illuminated tall grass",
+    "required": "绿色草 ×4 / 灯具（任意） ×1",
+    "required_zh": "绿色草 ×4 / 灯具（任意） ×1",
+    "required_items": [
+      {
+        "name": "绿色草",
+        "qty": 4,
+        "name_zh": "绿色草",
+        "is_env": true
+      },
+      {
+        "name": "Lighting (any)",
+        "qty": 1,
+        "name_zh": "灯具（任意）"
+      }
+    ],
+    "attracts": [
+      "Venonat",
+      "Venomoth"
+    ],
+    "attracts_zh": [
+      "毛球"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:48",
+        "name_en": "Venonat",
+        "name_zh": "毛球",
+        "image_url": "/images/pokemon/019.png"
+      },
+      {
+        "key": "pokemon:49",
+        "name_en": "Venomoth",
+        "name_zh": "摩鲁蛾",
+        "image_url": "/images/pokemon/020.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-007.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-007.png",
+    "source_url": "https://pokopiadb.com/database/habitats/illuminated-tall-grass"
+  },
+  {
+    "key": "habitat:HAB-008",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-008",
+    "name": "美丽花田",
+    "name_zh": "美丽花田",
+    "name_en": "Pretty flower bed",
+    "required": "野花 ×4",
+    "required_zh": "野花 ×4",
+    "required_items": [
+      {
+        "name": "Wildflowers",
+        "qty": 4,
+        "name_zh": "野花",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Pidgey",
+      "Hoothoot",
+      "Combee",
+      "Eevee",
+      "Magby"
+    ],
+    "attracts_zh": [
+      "咕咕",
+      "三蜜蜂",
+      "伊布",
+      "波波"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:16",
+        "name_en": "Pidgey",
+        "name_zh": "波波",
+        "image_url": "/images/pokemon/010.png"
+      },
+      {
+        "key": "pokemon:163",
+        "name_en": "Hoothoot",
+        "name_zh": "咕咕",
+        "image_url": "/images/pokemon/048.png"
+      },
+      {
+        "key": "pokemon:415",
+        "name_en": "Combee",
+        "name_zh": "三蜜蜂",
+        "image_url": "/images/pokemon/057.png"
+      },
+      {
+        "key": "pokemon:133",
+        "name_en": "Eevee",
+        "name_zh": "伊布",
+        "image_url": "/images/pokemon/280.png"
+      },
+      {
+        "key": "pokemon:240",
+        "name_en": "Magby",
+        "name_zh": "鸭嘴宝宝",
+        "image_url": "/images/pokemon/162.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-008.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-008.png",
+    "source_url": "https://pokopiadb.com/database/habitats/pretty-flower-bed"
+  },
+  {
+    "key": "habitat:HAB-009",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-009",
+    "name": "树荫花田",
+    "name_zh": "树荫花田",
+    "name_en": "Tree-shaded flower bed",
+    "required": "果实树（任意） ×1 / 野花 ×4",
+    "required_zh": "果实树（任意） ×1 / 野花 ×4",
+    "required_items": [
+      {
+        "name": "Berry tree (any)",
+        "qty": 1,
+        "name_zh": "果实树（任意）",
+        "is_env": true
+      },
+      {
+        "name": "Wildflowers",
+        "qty": 4,
+        "name_zh": "野花",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Goomy",
+      "Cacturne",
+      "Rowlet"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:704",
+        "name_en": "Goomy",
+        "name_zh": "黏黏宝",
+        "image_url": "/images/pokemon/074.png"
+      },
+      {
+        "key": "pokemon:332",
+        "name_en": "Cacturne",
+        "name_zh": "梦歌仙人掌",
+        "image_url": "/images/pokemon/056.png"
+      },
+      {
+        "key": "pokemon:722",
+        "name_en": "Rowlet",
+        "name_zh": "木木枭",
+        "image_url": "/images/pokemon/185.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-009.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-009.png",
+    "source_url": "https://pokopiadb.com/database/habitats/tree-shaded-flower-bed"
+  },
+  {
+    "key": "habitat:HAB-010",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-010",
+    "name": "湿润花田",
+    "name_zh": "湿润花田",
+    "name_en": "Hydrated flower bed",
+    "required": "野花 ×4 / 水 ×2",
+    "required_zh": "野花 ×4 / 水 ×2",
+    "required_items": [
+      {
+        "name": "Wildflowers",
+        "qty": 4,
+        "name_zh": "野花",
+        "is_env": true
+      },
+      {
+        "name": "Water",
+        "qty": 2,
+        "name_zh": "水",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Volbeat",
+      "Illumise"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:313",
+        "name_en": "Volbeat",
+        "name_zh": "电萤虫",
+        "image_url": "/images/pokemon/051.png"
+      },
+      {
+        "key": "pokemon:314",
+        "name_en": "Illumise",
+        "name_zh": "甜甜萤",
+        "image_url": "/images/pokemon/052.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-010.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-010.png",
+    "source_url": "https://pokopiadb.com/database/habitats/hydrated-flower-bed"
+  },
+  {
+    "key": "habitat:HAB-011",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-011",
+    "name": "花卉盛景",
+    "name_zh": "花卉盛景",
+    "name_en": "Field of flowers",
+    "required": "野花 ×8",
+    "required_zh": "野花 ×8",
+    "required_items": [
+      {
+        "name": "Wildflowers",
+        "qty": 8,
+        "name_zh": "野花",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Vespiquen",
+      "Ivysaur",
+      "Venusaur"
+    ],
+    "attracts_zh": [
+      "妙蛙草",
+      "妙蛙花",
+      "蜂女王"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:416",
+        "name_en": "Vespiquen",
+        "name_zh": "蜂女王",
+        "image_url": "/images/pokemon/058.png"
+      },
+      {
+        "key": "pokemon:2",
+        "name_en": "Ivysaur",
+        "name_zh": "妙蛙草",
+        "image_url": "/images/pokemon/002.png"
+      },
+      {
+        "key": "pokemon:3",
+        "name_en": "Venusaur",
+        "name_zh": "妙蛙花",
+        "image_url": "/images/pokemon/003.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-011.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-011.png",
+    "source_url": "https://pokopiadb.com/database/habitats/field-of-flowers"
+  },
+  {
+    "key": "habitat:HAB-012",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-012",
+    "name": "高台花田",
+    "name_zh": "高台花田",
+    "name_en": "Elevated flower bed",
+    "required": "野花 ×4 / 高处 ×1",
+    "required_zh": "野花 ×4 / 高处 ×1",
+    "required_items": [
+      {
+        "name": "Wildflowers",
+        "qty": 4,
+        "name_zh": "野花",
+        "is_env": true
+      },
+      {
+        "name": "High-up location",
+        "qty": 1,
+        "name_zh": "高处",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Paras"
+    ],
+    "attracts_zh": [
+      "派拉斯",
+      "派拉斯特"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:46",
+        "name_en": "Paras",
+        "name_zh": "派拉斯",
+        "image_url": "/images/pokemon/017.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-012.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-012.png",
+    "source_url": "https://pokopiadb.com/database/habitats/elevated-flower-bed"
+  },
+  {
+    "key": "habitat:HAB-013",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-013",
+    "name": "花环墓地",
+    "name_zh": "花环墓地",
+    "name_en": "Grave with flowers",
+    "required": "野花 ×4 / 墓碑 ×1",
+    "required_zh": "野花 ×4 / 墓碑 ×1",
+    "required_items": [
+      {
+        "name": "Wildflowers",
+        "qty": 4,
+        "name_zh": "野花",
+        "is_env": true
+      },
+      {
+        "name": "Gravestone",
+        "qty": 1,
+        "name_zh": "墓碑"
+      }
+    ],
+    "attracts": [
+      "Cubone",
+      "Marowak"
+    ],
+    "attracts_zh": [
+      "卡拉卡拉",
+      "嘎啦嘎啦"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:104",
+        "name_en": "Cubone",
+        "name_zh": "卡拉卡拉",
+        "image_url": "/images/pokemon/032.png"
+      },
+      {
+        "key": "pokemon:105",
+        "name_en": "Marowak",
+        "name_zh": "嘎啦嘎啦",
+        "image_url": "/images/pokemon/033.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-013.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-013.png",
+    "source_url": "https://pokopiadb.com/database/habitats/grave-with-flowers"
+  },
+  {
+    "key": "habitat:HAB-014",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-014",
+    "name": "花园",
+    "name_zh": "花园",
+    "name_en": "Flower garden",
+    "required": "篱笆（任意） ×4 / 野花 ×4",
+    "required_zh": "篱笆（任意） ×4 / 野花 ×4",
+    "required_items": [
+      {
+        "name": "Hedge (any)",
+        "qty": 4,
+        "name_zh": "篱笆（任意）"
+      },
+      {
+        "name": "Wildflowers",
+        "qty": 4,
+        "name_zh": "野花",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Paras",
+      "Parasect"
+    ],
+    "attracts_zh": [
+      "派拉斯",
+      "派拉斯特"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:46",
+        "name_en": "Paras",
+        "name_zh": "派拉斯",
+        "image_url": "/images/pokemon/017.png"
+      },
+      {
+        "key": "pokemon:47",
+        "name_en": "Parasect",
+        "name_zh": "派拉斯特",
+        "image_url": "/images/pokemon/018.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-014.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-014.png",
+    "source_url": "https://pokopiadb.com/database/habitats/flower-garden"
+  },
+  {
+    "key": "habitat:HAB-015",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-015",
+    "name": "新鲜蔬菜田",
+    "name_zh": "新鲜蔬菜田",
+    "name_en": "Fresh veggie field",
+    "required": "蔬菜田（任意） ×8",
+    "required_zh": "蔬菜田（任意） ×8",
+    "required_items": [
+      {
+        "name": "Vegetable field (any)",
+        "qty": 8,
+        "name_zh": "蔬菜田（任意）"
+      }
+    ],
+    "attracts": [
+      "Drilbur",
+      "Excadrill"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:529",
+        "name_en": "Drilbur",
+        "name_zh": "螺钉地鼠",
+        "image_url": "/images/pokemon/063.png"
+      },
+      {
+        "key": "pokemon:530",
+        "name_en": "Excadrill",
+        "name_zh": "龙头地鼠",
+        "image_url": "/images/pokemon/064.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-015.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-015.png",
+    "source_url": "https://pokopiadb.com/database/habitats/fresh-veggie-field"
+  },
+  {
+    "key": "habitat:HAB-016",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-016",
+    "name": "乘着温暖的风",
+    "name_zh": "乘着温暖的风",
+    "name_en": "Riding warm updrafts",
+    "required": "火堆 ×3",
+    "required_zh": "火堆 ×3",
+    "required_items": [
+      {
+        "name": "火堆",
+        "qty": 3,
+        "name_zh": "火堆"
+      }
+    ],
+    "attracts": [
+      "Drifloon"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:425",
+        "name_en": "Drifloon",
+        "name_zh": "飘飘球",
+        "image_url": "/images/pokemon/061.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-016.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-016.png",
+    "source_url": "https://pokopiadb.com/database/habitats/riding-warm-updrafts"
+  },
+  {
+    "key": "habitat:HAB-017",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-017",
+    "name": "露营套组",
+    "name_zh": "露营套组",
+    "name_en": "Campsite",
+    "required": "火堆 ×1 / 稻草凳 ×1 / 稻草桌 ×1",
+    "required_zh": "火堆 ×1 / 稻草凳 ×1 / 稻草桌 ×1",
+    "required_items": [
+      {
+        "name": "火堆",
+        "qty": 1,
+        "name_zh": "火堆"
+      },
+      {
+        "name": "Straw stool",
+        "qty": 1,
+        "name_zh": "干草凳"
+      },
+      {
+        "name": "Straw table",
+        "qty": 1,
+        "name_zh": "干草桌"
+      }
+    ],
+    "attracts": [
+      "Charmeleon"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "/images/habitats/HAB-017.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-017.png",
+    "source_url": "https://pokopiadb.com/database/habitats/campsite"
+  },
+  {
+    "key": "habitat:HAB-018",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-018",
+    "name": "修行瀑布",
+    "name_zh": "修行瀑布",
+    "name_en": "Training waterfall",
+    "required": "椅子（任意） ×1 / 水 ×2 / 瀑布 ×1",
+    "required_zh": "椅子（任意） ×1 / 水 ×2 / 瀑布 ×1",
+    "required_items": [
+      {
+        "name": "Seat (any)",
+        "qty": 1,
+        "name_zh": "椅子（任意）"
+      },
+      {
+        "name": "Water",
+        "qty": 2,
+        "name_zh": "水",
+        "is_env": true
+      },
+      {
+        "name": "Waterfall",
+        "qty": 1,
+        "name_zh": "瀑布",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Tyrogue"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:236",
+        "name_en": "Tyrogue",
+        "name_zh": "无畏小子",
+        "image_url": "/images/pokemon/034.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-018.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-018.png",
+    "source_url": "https://pokopiadb.com/database/habitats/training-waterfall"
+  },
+  {
+    "key": "habitat:HAB-019",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-019",
+    "name": "饥肠辘辘餐厅",
+    "name_zh": "饥肠辘辘餐厅",
+    "name_en": "Tantalizing dining set",
+    "required": "椅子（任意） ×1 / 桌子（任意） ×1 / 盘子上的食物 ×1",
+    "required_zh": "椅子（任意） ×1 / 桌子（任意） ×1 / 盘子上的食物 ×1",
+    "required_items": [
+      {
+        "name": "Seat (any)",
+        "qty": 1,
+        "name_zh": "椅子（任意）"
+      },
+      {
+        "name": "Table (any)",
+        "qty": 1,
+        "name_zh": "桌子（任意）"
+      },
+      {
+        "name": "Plated food",
+        "qty": 1,
+        "name_zh": "盘装食物"
+      }
+    ],
+    "attracts": [
+      "Gulpin"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:316",
+        "name_en": "Gulpin",
+        "name_zh": "溶食兽",
+        "image_url": "/images/pokemon/053.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-019.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-019.png",
+    "source_url": "https://pokopiadb.com/database/habitats/tantalizing-dining-set"
+  },
+  {
+    "key": "habitat:HAB-020",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-020",
+    "name": "野餐餐桌",
+    "name_zh": "野餐餐桌",
+    "name_en": "Picnic set",
+    "required": "椅子（任意） ×1 / 桌子（任意） ×1 / 野餐篮 ×1",
+    "required_zh": "椅子（任意） ×1 / 桌子（任意） ×1 / 野餐篮 ×1",
+    "required_items": [
+      {
+        "name": "Seat (any)",
+        "qty": 1,
+        "name_zh": "椅子（任意）"
+      },
+      {
+        "name": "Table (any)",
+        "qty": 1,
+        "name_zh": "桌子（任意）"
+      },
+      {
+        "name": "Picnic basket",
+        "qty": 1,
+        "name_zh": "篮子"
+      }
+    ],
+    "attracts": [
+      "Pichu"
+    ],
+    "attracts_zh": [
+      "皮丘",
+      "皮卡丘"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:172",
+        "name_en": "Pichu",
+        "name_zh": "皮丘",
+        "image_url": "/images/pokemon/078.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-020.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-020.png",
+    "source_url": "https://pokopiadb.com/database/habitats/picnic-set"
+  },
+  {
+    "key": "habitat:HAB-021",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-021",
+    "name": "华丽餐桌",
+    "name_zh": "华丽餐桌",
+    "name_en": "Flowery table",
+    "required": "椅子（任意） ×1 / 桌子（任意） ×1 / 小花瓶 ×1",
+    "required_zh": "椅子（任意） ×1 / 桌子（任意） ×1 / 小花瓶 ×1",
+    "required_items": [
+      {
+        "name": "Seat (any)",
+        "qty": 1,
+        "name_zh": "椅子（任意）"
+      },
+      {
+        "name": "Table (any)",
+        "qty": 1,
+        "name_zh": "桌子（任意）"
+      },
+      {
+        "name": "Small vase",
+        "qty": 1,
+        "name_zh": "花瓶"
+      }
+    ],
+    "attracts": [
+      "Weepinbell"
+    ],
+    "attracts_zh": [
+      "口呆花",
+      "大食花"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:70",
+        "name_en": "Weepinbell",
+        "name_zh": "口呆花",
+        "image_url": "/images/pokemon/022.png"
+      }
+    ],
+    "image_url": "https://assets.pokopiadb.com/habitats/021.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-021.png",
+    "source_url": "https://pokopiadb.com/database/habitats/flowery-table"
+  },
+  {
+    "key": "habitat:HAB-022",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-022",
+    "name": "绿色长椅",
+    "name_zh": "绿色长椅",
+    "name_en": "Bench with greenery",
+    "required": "篱笆（任意） ×2 / 长条椅 ×1",
+    "required_zh": "篱笆（任意） ×2 / 长条椅 ×1",
+    "required_items": [
+      {
+        "name": "Hedge (any)",
+        "qty": 2,
+        "name_zh": "篱笆（任意）"
+      },
+      {
+        "name": "Seat (wide)",
+        "qty": 1,
+        "name_zh": "长条椅"
+      }
+    ],
+    "attracts": [
+      "Bulbasaur",
+      "Ivysaur"
+    ],
+    "attracts_zh": [
+      "妙蛙草"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:1",
+        "name_en": "Bulbasaur",
+        "name_zh": "妙蛙种子",
+        "image_url": "/images/pokemon/001.png"
+      },
+      {
+        "key": "pokemon:2",
+        "name_en": "Ivysaur",
+        "name_zh": "妙蛙草",
+        "image_url": "/images/pokemon/002.png"
+      }
+    ],
+    "image_url": "https://assets.pokopiadb.com/habitats/022.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-022.png",
+    "source_url": "https://pokopiadb.com/database/habitats/bench-with-greenery"
+  },
+  {
+    "key": "habitat:HAB-023",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-023",
+    "name": "被照亮的长椅",
+    "name_zh": "被照亮的长椅",
+    "name_en": "Illuminated bench",
+    "required": "长条椅 ×1 / 路灯（任意） ×1",
+    "required_zh": "长条椅 ×1 / 路灯（任意） ×1",
+    "required_items": [
+      {
+        "name": "Seat (wide)",
+        "qty": 1,
+        "name_zh": "长条椅"
+      },
+      {
+        "name": "Streetlight (any)",
+        "qty": 1,
+        "name_zh": "路灯（任意）"
+      }
+    ],
+    "attracts": [
+      "Venonat",
+      "Venomoth"
+    ],
+    "attracts_zh": [
+      "毛球"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:48",
+        "name_en": "Venonat",
+        "name_zh": "毛球",
+        "image_url": "/images/pokemon/019.png"
+      },
+      {
+        "key": "pokemon:49",
+        "name_en": "Venomoth",
+        "name_zh": "摩鲁蛾",
+        "image_url": "/images/pokemon/020.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-023.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-023.png",
+    "source_url": "https://pokopiadb.com/database/habitats/illuminated-bench"
+  },
+  {
+    "key": "habitat:HAB-024",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-024",
+    "name": "健身房休息处",
+    "name_zh": "健身房休息处",
+    "name_en": "Exercise resting spot",
+    "required": "沙包 ×1 / 椅子（任意） ×1",
+    "required_zh": "沙包 ×1 / 椅子（任意） ×1",
+    "required_items": [
+      {
+        "name": "Punching bag",
+        "qty": 1,
+        "name_zh": "沙包"
+      },
+      {
+        "name": "Seat (any)",
+        "qty": 1,
+        "name_zh": "椅子（任意）"
+      }
+    ],
+    "attracts": [
+      "Hitmonchan"
+    ],
+    "attracts_zh": [
+      "快拳郎"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:107",
+        "name_en": "Hitmonchan",
+        "name_zh": "快拳郎",
+        "image_url": "/images/pokemon/036.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-024.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-024.png",
+    "source_url": "https://pokopiadb.com/database/habitats/exercise-resting-spot"
+  },
+  {
+    "key": "habitat:HAB-025",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-025",
+    "name": "紧急救护所",
+    "name_zh": "紧急救护所",
+    "name_en": "Urgent care",
+    "required": "椅子（任意） ×1 / 桌子（任意） ×1 / 急救箱 ×1",
+    "required_zh": "椅子（任意） ×1 / 桌子（任意） ×1 / 急救箱 ×1",
+    "required_items": [
+      {
+        "name": "Seat (any)",
+        "qty": 1,
+        "name_zh": "椅子（任意）"
+      },
+      {
+        "name": "Table (any)",
+        "qty": 1,
+        "name_zh": "桌子（任意）"
+      },
+      {
+        "name": "First aid kit",
+        "qty": 1,
+        "name_zh": "急救箱"
+      }
+    ],
+    "attracts": [
+      "Hitmonlee"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:106",
+        "name_en": "Hitmonlee",
+        "name_zh": "飞腿郎",
+        "image_url": "/images/pokemon/035.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-025.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-025.png",
+    "source_url": "https://pokopiadb.com/database/habitats/urgent-care"
+  },
+  {
+    "key": "habitat:HAB-026",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-026",
+    "name": "健身房急救站",
+    "name_zh": "健身房急救站",
+    "name_en": "Gym first aid",
+    "required": "桌子（任意） ×1 / 沙包 ×1 / 急救箱 ×1",
+    "required_zh": "桌子（任意） ×1 / 沙包 ×1 / 急救箱 ×1",
+    "required_items": [
+      {
+        "name": "Table (any)",
+        "qty": 1,
+        "name_zh": "桌子（任意）"
+      },
+      {
+        "name": "Punching bag",
+        "qty": 1,
+        "name_zh": "沙包"
+      },
+      {
+        "name": "First aid kit",
+        "qty": 1,
+        "name_zh": "急救箱"
+      }
+    ],
+    "attracts": [
+      "Hitmontop"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "/images/habitats/HAB-026.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-026.png",
+    "source_url": "https://pokopiadb.com/database/habitats/gym-first-aid"
+  },
+  {
+    "key": "habitat:HAB-027",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-027",
+    "name": "路标看板",
+    "name_zh": "路标看板",
+    "name_en": "Road sign",
+    "required": "箭头告示牌 ×1 / 木栈道 ×3",
+    "required_zh": "箭头告示牌 ×1 / 木栈道 ×3",
+    "required_items": [
+      {
+        "name": "Arrow sign",
+        "qty": 1,
+        "name_zh": "箭头招牌"
+      },
+      {
+        "name": "Wooden path",
+        "qty": 3,
+        "name_zh": "木栈道"
+      }
+    ],
+    "attracts": [
+      "Shellos",
+      "Shellos East Sea"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "/images/habitats/HAB-027.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-027.png",
+    "source_url": "https://pokopiadb.com/database/habitats/road-sign"
+  },
+  {
+    "key": "habitat:HAB-028",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-028",
+    "name": "大件行李搬运",
+    "name_zh": "大件行李搬运",
+    "name_en": "Large luggage carrier",
+    "required": "手推车 ×1 / 木箱 ×2",
+    "required_zh": "手推车 ×1 / 木箱 ×2",
+    "required_items": [
+      {
+        "name": "Cart",
+        "qty": 1,
+        "name_zh": "手推车"
+      },
+      {
+        "name": "Wooden crate",
+        "qty": 2,
+        "name_zh": "木箱"
+      }
+    ],
+    "attracts": [
+      "Gurdurr",
+      "Tinkatink"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:533",
+        "name_en": "Gurdurr",
+        "name_zh": "铁骨土人",
+        "image_url": "/images/pokemon/066.png"
+      },
+      {
+        "key": "pokemon:957",
+        "name_en": "Tinkatink",
+        "name_zh": "小锻匠",
+        "image_url": "/images/pokemon/268.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-028.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-028.png",
+    "source_url": "https://pokopiadb.com/database/habitats/large-luggage-carrier"
+  },
+  {
+    "key": "habitat:HAB-029",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-029",
+    "name": "伐木工人作业场",
+    "name_zh": "伐木工人作业场",
+    "name_en": "Lumberjack's workplace",
+    "required": "原木椅 ×1 / 手推车 ×1 / 树桩（任意） ×1 / 原木桌 ×1",
+    "required_zh": "原木椅 ×1 / 手推车 ×1 / 树桩（任意） ×1 / 原木桌 ×1",
+    "required_items": [
+      {
+        "name": "Log chair",
+        "qty": 1,
+        "name_zh": "圆木椅"
+      },
+      {
+        "name": "Cart",
+        "qty": 1,
+        "name_zh": "手推车"
+      },
+      {
+        "name": "Tree stump (any)",
+        "qty": 1,
+        "name_zh": "树桩（任意）",
+        "is_env": true
+      },
+      {
+        "name": "Log table",
+        "qty": 1,
+        "name_zh": "圆木桌"
+      }
+    ],
+    "attracts": [
+      "Axew",
+      "Fraxure",
+      "Haxorus"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "/images/habitats/HAB-029.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-029.png",
+    "source_url": "https://pokopiadb.com/database/habitats/lumberjack-s-workplace"
+  },
+  {
+    "key": "habitat:HAB-030",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-030",
+    "name": "玩偶与晚安",
+    "name_zh": "玩偶与晚安",
+    "name_en": "Bed with a plush",
+    "required": "床铺（任意） ×1 / 布偶（任意） ×1",
+    "required_zh": "床铺（任意） ×1 / 布偶（任意） ×1",
+    "required_items": [
+      {
+        "name": "Bed (any)",
+        "qty": 1,
+        "name_zh": "床铺（任意）"
+      },
+      {
+        "name": "Doll (any)",
+        "qty": 1,
+        "name_zh": "布偶（任意）"
+      }
+    ],
+    "attracts": [
+      "Drifloon",
+      "Slowbro",
+      "Slowking",
+      "Munchlax"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:425",
+        "name_en": "Drifloon",
+        "name_zh": "飘飘球",
+        "image_url": "/images/pokemon/061.png"
+      },
+      {
+        "key": "pokemon:80",
+        "name_en": "Slowbro",
+        "name_zh": "呆壳兽",
+        "image_url": "/images/pokemon/025.png"
+      },
+      {
+        "key": "pokemon:199",
+        "name_en": "Slowking",
+        "name_zh": "呆呆王",
+        "image_url": "/images/pokemon/026.png"
+      },
+      {
+        "key": "pokemon:446",
+        "name_en": "Munchlax",
+        "name_zh": "小卡比兽",
+        "image_url": "/images/pokemon/107.png"
+      }
+    ],
+    "image_url": "https://assets.pokopiadb.com/habitats/030.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-030.png",
+    "source_url": "https://pokopiadb.com/database/habitats/bed-with-a-plush"
+  },
+  {
+    "key": "habitat:HAB-031",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-031",
+    "name": "温柔灯光晚安",
+    "name_zh": "温柔灯光晚安",
+    "name_en": "Gently lit bed",
+    "required": "床铺（任意） ×1 / 桌子（任意） ×1 / 细蜡烛 ×1",
+    "required_zh": "床铺（任意） ×1 / 桌子（任意） ×1 / 细蜡烛 ×1",
+    "required_items": [
+      {
+        "name": "Bed (any)",
+        "qty": 1,
+        "name_zh": "床铺（任意）"
+      },
+      {
+        "name": "Table (any)",
+        "qty": 1,
+        "name_zh": "桌子（任意）"
+      },
+      {
+        "name": "Slender candle",
+        "qty": 1,
+        "name_zh": "细长蜡烛"
+      }
+    ],
+    "attracts": [
+      "Hoothoot",
+      "Noctowl"
+    ],
+    "attracts_zh": [
+      "咕咕"
+    ],
+    "attract_refs": [],
+    "image_url": "/images/habitats/HAB-031.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-031.png",
+    "source_url": "https://pokopiadb.com/database/habitats/gently-lit-bed"
+  },
+  {
+    "key": "habitat:HAB-032",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-032",
+    "name": "墓前供品",
+    "name_zh": "墓前供品",
+    "name_en": "Grave offering",
+    "required": "墓碑 ×1 / 细蜡烛 ×2 / 盘子上的食物 ×1",
+    "required_zh": "墓碑 ×1 / 细蜡烛 ×2 / 盘子上的食物 ×1",
+    "required_items": [
+      {
+        "name": "Gravestone",
+        "qty": 1,
+        "name_zh": "墓碑"
+      },
+      {
+        "name": "Slender candle",
+        "qty": 2,
+        "name_zh": "细长蜡烛"
+      },
+      {
+        "name": "Plated food",
+        "qty": 1,
+        "name_zh": "盘装食物"
+      }
+    ],
+    "attracts": [
+      "Litwick",
+      "Lampent"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:607",
+        "name_en": "Litwick",
+        "name_zh": "烛光灵",
+        "image_url": "/images/pokemon/068.png"
+      },
+      {
+        "key": "pokemon:608",
+        "name_en": "Lampent",
+        "name_zh": "灯火幽灵",
+        "image_url": "/images/pokemon/069.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-032.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-032.png",
+    "source_url": "https://pokopiadb.com/database/habitats/grave-offering"
+  },
+  {
+    "key": "habitat:HAB-033",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-033",
+    "name": "诡异墓前供品",
+    "name_zh": "诡异墓前供品",
+    "name_en": "Creepy grave offering",
+    "required": "墓碑 ×1 / 奇异蜡烛 ×2 / 盘子上的食物 ×1",
+    "required_zh": "墓碑 ×1 / 奇异蜡烛 ×2 / 盘子上的食物 ×1",
+    "required_items": [
+      {
+        "name": "Gravestone",
+        "qty": 1,
+        "name_zh": "墓碑"
+      },
+      {
+        "name": "Eerie candle",
+        "qty": 2,
+        "name_zh": "诡异蜡烛"
+      },
+      {
+        "name": "Plated food",
+        "qty": 1,
+        "name_zh": "盘装食物"
+      }
+    ],
+    "attracts": [
+      "Litwick",
+      "Lampent",
+      "Chandelure"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/033.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-033.png",
+    "source_url": "https://pokopiadb.com/database/habitats/creepy-grave-offering"
+  },
+  {
+    "key": "habitat:HAB-034",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-034",
+    "name": "吉利蛋休憩所",
+    "name_zh": "吉利蛋休憩所",
+    "name_en": "Chansey resting area",
+    "required": "篱笆（任意） ×6 / 长条椅 ×1 / 吉利蛋造型植物 ×1",
+    "required_zh": "篱笆（任意） ×6 / 长条椅 ×1 / 吉利蛋造型植物 ×1",
+    "required_items": [
+      {
+        "name": "Hedge (any)",
+        "qty": 6,
+        "name_zh": "篱笆（任意）"
+      },
+      {
+        "name": "Seat (wide)",
+        "qty": 1,
+        "name_zh": "长条椅"
+      },
+      {
+        "name": "Chansey plant",
+        "qty": 1,
+        "name_zh": "吉利蛋造型树"
+      }
+    ],
+    "attracts": [
+      "Vileplume",
+      "Bellossom"
+    ],
+    "attracts_zh": [
+      "霸王花"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:45",
+        "name_en": "Vileplume",
+        "name_zh": "霸王花",
+        "image_url": "/images/pokemon/015.png"
+      },
+      {
+        "key": "pokemon:182",
+        "name_en": "Bellossom",
+        "name_zh": "美丽花",
+        "image_url": "/images/pokemon/016.png"
+      }
+    ],
+    "image_url": "https://assets.pokopiadb.com/habitats/034.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-034.png",
+    "source_url": "https://pokopiadb.com/database/habitats/chansey-resting-area"
+  },
+  {
+    "key": "habitat:HAB-035",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-035",
+    "name": "光芒与香气的诱惑",
+    "name_zh": "光芒与香气的诱惑",
+    "name_en": "Irresistible scent and glow",
+    "required": "猪笼草盆栽 ×1 / 蘑菇灯 ×1 / 盘子上的食物 ×1",
+    "required_zh": "猪笼草盆栽 ×1 / 蘑菇灯 ×1 / 盘子上的食物 ×1",
+    "required_items": [
+      {
+        "name": "Pitcher pot plant",
+        "qty": 1,
+        "name_zh": "猪笼草盆栽"
+      },
+      {
+        "name": "Mushroom lamp",
+        "qty": 1,
+        "name_zh": "蘑菇灯"
+      },
+      {
+        "name": "Plated food",
+        "qty": 1,
+        "name_zh": "盘装食物"
+      }
+    ],
+    "attracts": [
+      "Weepinbell",
+      "Victreebel"
+    ],
+    "attracts_zh": [
+      "口呆花"
+    ],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/035.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-035.png",
+    "source_url": "https://pokopiadb.com/database/habitats/irresistible-scent-and-glow"
+  },
+  {
+    "key": "habitat:HAB-036",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-036",
+    "name": "在阴凉处玩水",
+    "name_zh": "在阴凉处玩水",
+    "name_en": "Floating in the shade",
+    "required": "充气船 ×1 / 沙滩伞 ×1 / 水 ×2",
+    "required_zh": "充气船 ×1 / 沙滩伞 ×1 / 水 ×2",
+    "required_items": [
+      {
+        "name": "Inflatable boat",
+        "qty": 1,
+        "name_zh": "充气船"
+      },
+      {
+        "name": "Beach parasol",
+        "qty": 1,
+        "name_zh": "沙滩伞"
+      },
+      {
+        "name": "Water",
+        "qty": 2,
+        "name_zh": "水",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Blastoise"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "/images/habitats/HAB-036.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-036.png",
+    "source_url": "https://pokopiadb.com/database/habitats/floating-in-the-shade"
+  },
+  {
+    "key": "habitat:HAB-037",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-037",
+    "name": "沙沙草丛",
+    "name_zh": "沙沙草丛",
+    "name_en": "Smooth tall grass",
+    "required": "枯萎高草 ×4 / 石块 ×1",
+    "required_zh": "枯萎高草 ×4 / 石块 ×1",
+    "required_items": [
+      {
+        "name": "Dry tall grass",
+        "qty": 4,
+        "name_zh": "枯萎高草",
+        "is_env": true
+      },
+      {
+        "name": "Smooth rock",
+        "qty": 1,
+        "name_zh": "石块",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Onix"
+    ],
+    "attracts_zh": [
+      "大岩蛇"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:95",
+        "name_en": "Onix",
+        "name_zh": "大岩蛇",
+        "image_url": "/images/pokemon/030.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-037.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-037.png",
+    "source_url": "https://pokopiadb.com/database/habitats/smooth-tall-grass"
+  },
+  {
+    "key": "habitat:HAB-038",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-038",
+    "name": "工厂仓库",
+    "name_zh": "工厂仓库",
+    "name_en": "Factory storage",
+    "required": "路灯（任意） ×1 / 控制台 ×1 / 铁桶 ×1 / 杂乱电线 ×1",
+    "required_zh": "路灯（任意） ×1 / 控制台 ×1 / 铁桶 ×1 / 杂乱电线 ×1",
+    "required_items": [
+      {
+        "name": "Streetlight (any)",
+        "qty": 1,
+        "name_zh": "路灯（任意）"
+      },
+      {
+        "name": "Control unit",
+        "qty": 1,
+        "name_zh": "操控台"
+      },
+      {
+        "name": "Metal drum",
+        "qty": 1,
+        "name_zh": "铁桶"
+      },
+      {
+        "name": "Jumbled cords",
+        "qty": 1,
+        "name_zh": "缠绕电线"
+      }
+    ],
+    "attracts": [
+      "Magnemite"
+    ],
+    "attracts_zh": [
+      "小磁怪"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:81",
+        "name_en": "Magnemite",
+        "name_zh": "小磁怪",
+        "image_url": "/images/pokemon/027.png"
+      }
+    ],
+    "image_url": "https://assets.pokopiadb.com/habitats/038.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-038.png",
+    "source_url": "https://pokopiadb.com/database/habitats/factory-storage"
+  },
+  {
+    "key": "habitat:HAB-039",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-039",
+    "name": "奢华叽叽喳喳喂食",
+    "name_zh": "奢华叽叽喳喳喂食",
+    "name_en": "Luxury chirp-chirp meal",
+    "required": "Wooden birdhouse x1, Berry basket x1",
+    "required_zh": "木制鸟巢箱 ×1 / 树果篮 ×1",
+    "required_items": [
+      {
+        "name": "Wooden birdhouse",
+        "qty": 1,
+        "name_zh": "木制鸟巢箱"
+      },
+      {
+        "name": "Berry basket",
+        "qty": 1,
+        "name_zh": "树果篮"
+      }
+    ],
+    "attracts": [
+      "Pidgeot"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/039.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-039.png",
+    "source_url": "https://pokopiadb.com/database/habitats/luxury-chirp-chirp-meal"
+  },
+  {
+    "key": "habitat:HAB-040",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-040",
+    "name": "果实盛宴营地",
+    "name_zh": "果实盛宴营地",
+    "name_en": "Berry-feast campsite",
+    "required": "随天气改变的魔法石（晴天） ×2 / 篝火 ×1 / 树果篮 ×1 / 高处 ×1",
+    "required_zh": "随天气改变的魔法石（晴天） ×2 / 篝火 ×1 / 树果篮 ×1 / 高处 ×1",
+    "required_items": [
+      {
+        "name": "Castform weather charm (sun)",
+        "qty": 2,
+        "name_zh": "晴雨漂浮泡泡（晴）"
+      },
+      {
+        "name": "Bonfire",
+        "qty": 1,
+        "name_zh": "篝火"
+      },
+      {
+        "name": "Berry basket",
+        "qty": 1,
+        "name_zh": "树果篮"
+      },
+      {
+        "name": "High-up location",
+        "qty": 1,
+        "name_zh": "高处",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Charizard"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "/images/habitats/HAB-040.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-040.png",
+    "source_url": "https://pokopiadb.com/database/habitats/berry-feast-campsite"
+  },
+  {
+    "key": "habitat:HAB-041",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-041",
+    "name": "求雨地点",
+    "name_zh": "求雨地点",
+    "name_en": "Rain dance site",
+    "required": "晴雨漂浮泡泡（雨） ×2 / 盘装食物 ×1",
+    "required_zh": "晴雨漂浮泡泡（雨） ×2 / 盘装食物 ×1",
+    "required_items": [
+      {
+        "name": "晴雨漂浮泡泡（雨）",
+        "qty": 2,
+        "name_zh": "晴雨漂浮泡泡（雨）"
+      },
+      {
+        "name": "盘装食物",
+        "qty": 1,
+        "name_zh": "盘装食物"
+      }
+    ],
+    "attracts": [
+      "Goomy"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:704",
+        "name_en": "Goomy",
+        "name_zh": "黏黏宝",
+        "image_url": "/images/pokemon/074.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-041.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-041.png",
+    "source_url": "https://pokopiadb.com/database/habitats/rain-dance-site"
+  },
+  {
+    "key": "habitat:HAB-042",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-042",
+    "name": "大晴天地点",
+    "name_zh": "大晴天地点",
+    "name_en": "Sunny day site",
+    "required": "晴雨漂浮泡泡（晴） ×2 / 盘装食物 ×1",
+    "required_zh": "晴雨漂浮泡泡（晴） ×2 / 盘装食物 ×1",
+    "required_items": [
+      {
+        "name": "晴雨漂浮泡泡（晴）",
+        "qty": 2,
+        "name_zh": "晴雨漂浮泡泡（晴）"
+      },
+      {
+        "name": "盘装食物",
+        "qty": 1,
+        "name_zh": "盘装食物"
+      }
+    ],
+    "attracts": [
+      "Cacnea"
+    ],
+    "attracts_zh": [
+      "刺球仙人掌"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:331",
+        "name_en": "Cacnea",
+        "name_zh": "刺球仙人掌",
+        "image_url": "/images/pokemon/055.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-042.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-042.png",
+    "source_url": "https://pokopiadb.com/database/habitats/sunny-day-site"
+  },
+  {
+    "key": "habitat:HAB-043",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-043",
+    "name": "博士的宝物",
+    "name_zh": "博士的宝物",
+    "name_en": "Professor's treasure trove",
+    "required": "Professor's treasure trove x1, Lost relic (large) x4, Bed (any) x1",
+    "required_zh": "教授的宝物堆 ×1 / 巨大遗迹 ×4 / 床铺（任意） ×1",
+    "required_items": [
+      {
+        "name": "Professor's treasure trove",
+        "qty": 1,
+        "name_zh": "博士的收藏品"
+      },
+      {
+        "name": "Lost relic (large)",
+        "qty": 4,
+        "name_zh": "巨大遗迹"
+      },
+      {
+        "name": "Bed (any)",
+        "qty": 1,
+        "name_zh": "床铺（任意）"
+      }
+    ],
+    "attracts": [
+      "Tangrowth"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:465",
+        "name_en": "Tangrowth",
+        "name_zh": "巨蔓藤",
+        "image_url": "https://assets.pokopiaguide.com/pokemon/tangrowth.png"
+      }
+    ],
+    "image_url": "https://assets.pokopiadb.com/habitats/043.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-043.png",
+    "source_url": "https://pokopiadb.com/database/habitats/professor-s-treasure-trove"
+  },
+  {
+    "key": "habitat:HAB-044",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-044",
+    "name": "圆木温暖",
+    "name_zh": "圆木温暖",
+    "name_en": "Crazy log handicrafts",
+    "required": "原木椅 ×1 / 原木床 ×1 / 原木桌 ×1",
+    "required_zh": "原木椅 ×1 / 原木床 ×1 / 原木桌 ×1",
+    "required_items": [
+      {
+        "name": "Log chair",
+        "qty": 1,
+        "name_zh": "圆木椅"
+      },
+      {
+        "name": "Log bed",
+        "qty": 1,
+        "name_zh": "圆木床"
+      },
+      {
+        "name": "Log table",
+        "qty": 1,
+        "name_zh": "圆木桌"
+      }
+    ],
+    "attracts": [
+      "Axew",
+      "Fraxure",
+      "Haxorus"
+    ],
+    "attracts_zh": [
+      "牙牙"
+    ],
+    "attract_refs": [],
+    "image_url": "/images/habitats/HAB-044.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-044.png",
+    "source_url": "https://pokopiadb.com/database/habitats/crazy-log-handicrafts"
+  },
+  {
+    "key": "habitat:HAB-045",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-045",
+    "name": "树果大集合",
+    "name_zh": "树果大集合",
+    "name_en": "Very-berry space",
+    "required": "Berry chair x1, Berry table x1, Berry bed x1, Berry table lamp x1",
+    "required_zh": "树果椅 ×1 / 树果桌 ×1 / 树果床 ×1 / 树果桌灯 ×1",
+    "required_items": [
+      {
+        "name": "Berry chair",
+        "qty": 1,
+        "name_zh": "树果椅"
+      },
+      {
+        "name": "Berry table",
+        "qty": 1,
+        "name_zh": "树果桌"
+      },
+      {
+        "name": "Berry bed",
+        "qty": 1,
+        "name_zh": "树果床"
+      },
+      {
+        "name": "Berry table lamp",
+        "qty": 1,
+        "name_zh": "树果台灯"
+      }
+    ],
+    "attracts": [
+      "Goodra"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/045.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-045.png",
+    "source_url": "https://pokopiadb.com/database/habitats/very-berry-space"
+  },
+  {
+    "key": "habitat:HAB-046",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-046",
+    "name": "庭园露台",
+    "name_zh": "庭园露台",
+    "name_en": "Garden terrace",
+    "required": "野花 ×4 / 庭院椅 ×1 / 庭院灯 ×1 / 庭院桌 ×1",
+    "required_zh": "野花 ×4 / 庭院椅 ×1 / 庭院灯 ×1 / 庭院桌 ×1",
+    "required_items": [
+      {
+        "name": "Wildflowers",
+        "qty": 4,
+        "name_zh": "野花",
+        "is_env": true
+      },
+      {
+        "name": "Garden chair",
+        "qty": 1,
+        "name_zh": "花园椅"
+      },
+      {
+        "name": "Garden light",
+        "qty": 1,
+        "name_zh": "花园灯"
+      },
+      {
+        "name": "Garden table",
+        "qty": 1,
+        "name_zh": "花园桌"
+      }
+    ],
+    "attracts": [
+      "Venusaur"
+    ],
+    "attracts_zh": [
+      "妙蛙花"
+    ],
+    "attract_refs": [],
+    "image_url": "/images/habitats/HAB-046.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-046.png",
+    "source_url": "https://pokopiadb.com/database/habitats/garden-terrace"
+  },
+  {
+    "key": "habitat:HAB-047",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-047",
+    "name": "树荫下酣睡的卡比兽",
+    "name_zh": "树荫下酣睡的卡比兽",
+    "name_en": "Tree-shaded snoozing snorlax",
+    "required": "大树（任意） ×1 / 午睡床 ×1",
+    "required_zh": "大树（任意） ×1 / 午睡床 ×1",
+    "required_items": [
+      {
+        "name": "Large tree (any)",
+        "qty": 1,
+        "name_zh": "大树（任意）",
+        "is_env": true
+      },
+      {
+        "name": "Naptime bed",
+        "qty": 1,
+        "name_zh": "午睡床"
+      }
+    ],
+    "attracts": [
+      "Munchlax",
+      "Snorlax"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:446",
+        "name_en": "Munchlax",
+        "name_zh": "小卡比兽",
+        "image_url": "/images/pokemon/107.png"
+      },
+      {
+        "key": "pokemon:143",
+        "name_en": "Snorlax",
+        "name_zh": "卡比兽",
+        "image_url": "/images/pokemon/108.png"
+      }
+    ],
+    "image_url": "https://assets.pokopiadb.com/habitats/047.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-047.png",
+    "source_url": "https://pokopiadb.com/database/habitats/tree-shaded-snoozing-snorlax"
+  },
+  {
+    "key": "habitat:HAB-048",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-048",
+    "name": "美好的古董",
+    "name_zh": "美好的古董",
+    "name_en": "Good old-fashioned antiques",
+    "required": "Antique closet x1, Antique bed x1, Antique dresser x1, Antique chair x1",
+    "required_zh": "古典衣柜 ×1 / 古典床 ×1 / 古典梳妆台 ×1 / 古典椅 ×1",
+    "required_items": [
+      {
+        "name": "Antique closet",
+        "qty": 1,
+        "name_zh": "古典衣柜"
+      },
+      {
+        "name": "Antique bed",
+        "qty": 1,
+        "name_zh": "古典床"
+      },
+      {
+        "name": "Antique dresser",
+        "qty": 1,
+        "name_zh": "古典梳妆台"
+      },
+      {
+        "name": "Antique chair",
+        "qty": 1,
+        "name_zh": "古典椅"
+      }
+    ],
+    "attracts": [
+      "Weezing",
+      "Snorlax"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/048.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-048.png",
+    "source_url": "https://pokopiadb.com/database/habitats/good-old-fashioned-antiques"
+  },
+  {
+    "key": "habitat:HAB-049",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-049",
+    "name": "满满的精灵球",
+    "name_zh": "满满的精灵球",
+    "name_en": "Nothin' but poke balls",
+    "required": "Poke ball sofa x1, Poke ball table x1, Poke ball bed x1, Poke ball light x1",
+    "required_zh": "精灵球沙发 ×1 / 精灵球桌 ×1 / 精灵球床 ×1 / 精灵球灯 ×1",
+    "required_items": [
+      {
+        "name": "Poke ball sofa",
+        "qty": 1,
+        "name_zh": "精灵球沙发"
+      },
+      {
+        "name": "Poke ball table",
+        "qty": 1,
+        "name_zh": "精灵球桌"
+      },
+      {
+        "name": "Poke ball bed",
+        "qty": 1,
+        "name_zh": "精灵球床"
+      },
+      {
+        "name": "Poke ball light",
+        "qty": 1,
+        "name_zh": "精灵球灯"
+      }
+    ],
+    "attracts": [
+      "Tangela"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/049.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-049.png",
+    "source_url": "https://pokopiadb.com/database/habitats/nothin-but-poke-balls"
+  },
+  {
+    "key": "habitat:HAB-050",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-050",
+    "name": "黄色草丛",
+    "name_zh": "黄色草丛",
+    "name_en": "Yellow tall grass",
+    "required": "黄色高草 ×4",
+    "required_zh": "黄色高草 ×4",
+    "required_items": [
+      {
+        "name": "Yellow tall grass",
+        "qty": 4,
+        "name_zh": "黄色高草",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Spinarak",
+      "Ariados",
+      "Grubbin"
+    ],
+    "attracts_zh": [
+      "阿利多斯"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:167",
+        "name_en": "Spinarak",
+        "name_zh": "圆丝蛛",
+        "image_url": "/images/pokemon/109.png"
+      },
+      {
+        "key": "pokemon:168",
+        "name_en": "Ariados",
+        "name_zh": "阿利多斯",
+        "image_url": "/images/pokemon/110.png"
+      },
+      {
+        "key": "pokemon:736",
+        "name_en": "Grubbin",
+        "name_zh": "强颚鸡母虫",
+        "image_url": "/images/pokemon/138.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-050.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-050.png",
+    "source_url": "https://pokopiadb.com/database/habitats/yellow-tall-grass"
+  },
+  {
+    "key": "habitat:HAB-051",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-051",
+    "name": "树荫黄色草丛",
+    "name_zh": "树荫黄色草丛",
+    "name_en": "Tree-shaded yellow tall grass",
+    "required": "大树（任意） ×1 / 黄色高草 ×4",
+    "required_zh": "大树（任意） ×1 / 黄色高草 ×4",
+    "required_items": [
+      {
+        "name": "Large tree (any)",
+        "qty": 1,
+        "name_zh": "大树（任意）",
+        "is_env": true
+      },
+      {
+        "name": "Yellow tall grass",
+        "qty": 4,
+        "name_zh": "黄色高草",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Zubat",
+      "Golbat",
+      "Makuhita",
+      "Hariyama"
+    ],
+    "attracts_zh": [
+      "幕下力士",
+      "超音蝠",
+      "大嘴蝠"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:41",
+        "name_en": "Zubat",
+        "name_zh": "超音蝠",
+        "image_url": "/images/pokemon/081.png"
+      },
+      {
+        "key": "pokemon:42",
+        "name_en": "Golbat",
+        "name_zh": "大嘴蝠",
+        "image_url": "/images/pokemon/082.png"
+      },
+      {
+        "key": "pokemon:296",
+        "name_en": "Makuhita",
+        "name_zh": "幕下力士",
+        "image_url": "/images/pokemon/125.png"
+      },
+      {
+        "key": "pokemon:297",
+        "name_en": "Hariyama",
+        "name_zh": "铁掌力士",
+        "image_url": "/images/pokemon/126.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-051.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-051.png",
+    "source_url": "https://pokopiadb.com/database/habitats/tree-shaded-yellow-tall-grass"
+  },
+  {
+    "key": "habitat:HAB-052",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-052",
+    "name": "高台黄色草丛",
+    "name_zh": "高台黄色草丛",
+    "name_en": "Elevated yellow tall grass",
+    "required": "黄色高草 ×4 / 高处 ×1",
+    "required_zh": "黄色高草 ×4 / 高处 ×1",
+    "required_items": [
+      {
+        "name": "Yellow tall grass",
+        "qty": 4,
+        "name_zh": "黄色高草",
+        "is_env": true
+      },
+      {
+        "name": "High-up location",
+        "qty": 1,
+        "name_zh": "高处",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Crobat"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:169",
+        "name_en": "Crobat",
+        "name_zh": "叉字蝠",
+        "image_url": "/images/pokemon/083.png"
+      }
+    ],
+    "image_url": "https://assets.pokopiadb.com/habitats/052.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-052.png",
+    "source_url": "https://pokopiadb.com/database/habitats/elevated-yellow-tall-grass"
+  },
+  {
+    "key": "habitat:HAB-053",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-053",
+    "name": "湿润黄色草丛",
+    "name_zh": "湿润黄色草丛",
+    "name_en": "Hydrated yellow tall grass",
+    "required": "黄色高草 ×4 / 水 ×2",
+    "required_zh": "黄色高草 ×4 / 水 ×2",
+    "required_items": [
+      {
+        "name": "Yellow tall grass",
+        "qty": 4,
+        "name_zh": "黄色高草",
+        "is_env": true
+      },
+      {
+        "name": "Water",
+        "qty": 2,
+        "name_zh": "水",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Azurill",
+      "Marill",
+      "Piplup",
+      "Prinplup"
+    ],
+    "attracts_zh": [
+      "波加曼",
+      "波皇子"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:298",
+        "name_en": "Azurill",
+        "name_zh": "露力丽",
+        "image_url": "/images/pokemon/114.png"
+      },
+      {
+        "key": "pokemon:183",
+        "name_en": "Marill",
+        "name_zh": "玛力露",
+        "image_url": "/images/pokemon/115.png"
+      },
+      {
+        "key": "pokemon:393",
+        "name_en": "Piplup",
+        "name_zh": "波加曼",
+        "image_url": "https://assets.pokopiaguide.com/pokemon/piplup.png"
+      },
+      {
+        "key": "pokemon:394",
+        "name_en": "Prinplup",
+        "name_zh": "波皇子",
+        "image_url": "/images/pokemon/129.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-053.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-053.png",
+    "source_url": "https://pokopiadb.com/database/habitats/hydrated-yellow-tall-grass"
+  },
+  {
+    "key": "habitat:HAB-054",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-054",
+    "name": "沼泽草丛",
+    "name_zh": "沼泽草丛",
+    "name_en": "Marshy tall grass",
+    "required": "黄色高草 ×4 / 泥水 ×2",
+    "required_zh": "黄色高草 ×4 / 泥水 ×2",
+    "required_items": [
+      {
+        "name": "Yellow tall grass",
+        "qty": 4,
+        "name_zh": "黄色高草",
+        "is_env": true
+      },
+      {
+        "name": "Muddy water",
+        "qty": 2,
+        "name_zh": "泥水",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Paldean Wooper"
+    ],
+    "attracts_zh": [
+      "土王"
+    ],
+    "attract_refs": [],
+    "image_url": "/images/habitats/HAB-054.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-054.png",
+    "source_url": "https://pokopiadb.com/database/habitats/marshy-tall-grass"
+  },
+  {
+    "key": "habitat:HAB-055",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-055",
+    "name": "草丛自动贩卖机",
+    "name_zh": "草丛自动贩卖机",
+    "name_en": "Overgrowth vending machine",
+    "required": "黄色高草 ×4 / 自动贩卖机 ×1",
+    "required_zh": "黄色高草 ×4 / 自动贩卖机 ×1",
+    "required_items": [
+      {
+        "name": "Yellow tall grass",
+        "qty": 4,
+        "name_zh": "黄色高草",
+        "is_env": true
+      },
+      {
+        "name": "Vending machine",
+        "qty": 1,
+        "name_zh": "自动贩卖机"
+      }
+    ],
+    "attracts": [
+      "Mareep"
+    ],
+    "attracts_zh": [
+      "咩利羊"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:179",
+        "name_en": "Mareep",
+        "name_zh": "咩利羊",
+        "image_url": "/images/pokemon/111.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-055.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-055.png",
+    "source_url": "https://pokopiadb.com/database/habitats/overgrowth-vending-machine"
+  },
+  {
+    "key": "habitat:HAB-056",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-056",
+    "name": "凉爽花田",
+    "name_zh": "凉爽花田",
+    "name_en": "Breezy flower bed",
+    "required": "海滨花 ×4",
+    "required_zh": "海滨花 ×4",
+    "required_items": [
+      {
+        "name": "Seashore flowers",
+        "qty": 4,
+        "name_zh": "海滨花",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Pawmi",
+      "Zorua",
+      "Zoroark"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:921",
+        "name_en": "Pawmi",
+        "name_zh": "布拨",
+        "image_url": "https://assets.pokopiaguide.com/pokemon/pawmi.png"
+      },
+      {
+        "key": "pokemon:570",
+        "name_en": "Zorua",
+        "name_zh": "索罗亚",
+        "image_url": "/images/pokemon/134.png"
+      },
+      {
+        "key": "pokemon:571",
+        "name_en": "Zoroark",
+        "name_zh": "索罗亚克",
+        "image_url": "/images/pokemon/135.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-056.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-056.png",
+    "source_url": "https://pokopiadb.com/database/habitats/breezy-flower-bed"
+  },
+  {
+    "key": "habitat:HAB-057",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-057",
+    "name": "南国风情",
+    "name_zh": "南国风情",
+    "name_en": "Tropical vibes",
+    "required": "大棕榈树 ×1 / 海滨花 ×4",
+    "required_zh": "大棕榈树 ×1 / 海滨花 ×4",
+    "required_items": [
+      {
+        "name": "Large palm tree",
+        "qty": 1,
+        "name_zh": "大棕榈树",
+        "is_env": true
+      },
+      {
+        "name": "Seashore flowers",
+        "qty": 4,
+        "name_zh": "海滨花",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Gloom",
+      "Exeggcute"
+    ],
+    "attracts_zh": [
+      "臭臭花",
+      "蛋蛋"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:44",
+        "name_en": "Gloom",
+        "name_zh": "臭臭花",
+        "image_url": "/images/pokemon/014.png"
+      },
+      {
+        "key": "pokemon:102",
+        "name_en": "Exeggcute",
+        "name_zh": "蛋蛋",
+        "image_url": "/images/pokemon/098.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-057.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-057.png",
+    "source_url": "https://pokopiadb.com/database/habitats/tropical-vibes"
+  },
+  {
+    "key": "habitat:HAB-058",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-058",
+    "name": "风之花田",
+    "name_zh": "风之花田",
+    "name_en": "Windy flower bed",
+    "required": "风车 ×1 / 海滨花 ×4",
+    "required_zh": "风车 ×1 / 海滨花 ×4",
+    "required_items": [
+      {
+        "name": "Windmill",
+        "qty": 1,
+        "name_zh": "风车"
+      },
+      {
+        "name": "Seashore flowers",
+        "qty": 4,
+        "name_zh": "海滨花",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Wingull",
+      "Pelipper"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:278",
+        "name_en": "Wingull",
+        "name_zh": "长翅鸥",
+        "image_url": "/images/pokemon/123.png"
+      },
+      {
+        "key": "pokemon:279",
+        "name_en": "Pelipper",
+        "name_zh": "大嘴鸥",
+        "image_url": "/images/pokemon/124.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-058.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-058.png",
+    "source_url": "https://pokopiadb.com/database/habitats/windy-flower-bed"
+  },
+  {
+    "key": "habitat:HAB-059",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-059",
+    "name": "海滩树荫",
+    "name_zh": "海滩树荫",
+    "name_en": "Shaded beach",
+    "required": "大棕榈树 ×1 / 沙滩椅 ×1",
+    "required_zh": "大棕榈树 ×1 / 沙滩椅 ×1",
+    "required_items": [
+      {
+        "name": "Large palm tree",
+        "qty": 1,
+        "name_zh": "大棕榈树",
+        "is_env": true
+      },
+      {
+        "name": "Beach chair",
+        "qty": 1,
+        "name_zh": "沙滩椅"
+      }
+    ],
+    "attracts": [
+      "Exeggcute",
+      "Exeggutor"
+    ],
+    "attracts_zh": [
+      "蛋蛋"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:102",
+        "name_en": "Exeggcute",
+        "name_zh": "蛋蛋",
+        "image_url": "/images/pokemon/098.png"
+      },
+      {
+        "key": "pokemon:103",
+        "name_en": "Exeggutor",
+        "name_zh": "椰蛋树",
+        "image_url": "/images/pokemon/099.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-059.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-059.png",
+    "source_url": "https://pokopiadb.com/database/habitats/shaded-beach"
+  },
+  {
+    "key": "habitat:HAB-060",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-060",
+    "name": "热带海滨",
+    "name_zh": "热带海滨",
+    "name_en": "Tropical seaside",
+    "required": "大棕榈树 ×1 / 篱笆（任意） ×4 / 海水 ×2",
+    "required_zh": "大棕榈树 ×1 / 篱笆（任意） ×4 / 海水 ×2",
+    "required_items": [
+      {
+        "name": "Large palm tree",
+        "qty": 1,
+        "name_zh": "大棕榈树",
+        "is_env": true
+      },
+      {
+        "name": "Hedge (any)",
+        "qty": 4,
+        "name_zh": "篱笆（任意）"
+      },
+      {
+        "name": "Ocean water",
+        "qty": 2,
+        "name_zh": "海水",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Lapras"
+    ],
+    "attracts_zh": [
+      "拉普拉斯"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:131",
+        "name_en": "Lapras",
+        "name_zh": "拉普拉斯",
+        "image_url": "/images/pokemon/106.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-060.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-060.png",
+    "source_url": "https://pokopiadb.com/database/habitats/tropical-seaside"
+  },
+  {
+    "key": "habitat:HAB-061",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-061",
+    "name": "休息处",
+    "name_zh": "休息处",
+    "name_en": "Resting spot",
+    "required": "纸箱 ×1 / 稻草床 ×1",
+    "required_zh": "纸箱 ×1 / 稻草床 ×1",
+    "required_items": [
+      {
+        "name": "Cardboard boxes",
+        "qty": 1,
+        "name_zh": "纸箱"
+      },
+      {
+        "name": "Straw bed",
+        "qty": 1,
+        "name_zh": "干草床"
+      }
+    ],
+    "attracts": [
+      "Meowth"
+    ],
+    "attracts_zh": [
+      "喵喵"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:52",
+        "name_en": "Meowth",
+        "name_zh": "喵喵",
+        "image_url": "/images/pokemon/084.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-061.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-061.png",
+    "source_url": "https://pokopiadb.com/database/habitats/resting-spot"
+  },
+  {
+    "key": "habitat:HAB-062",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-062",
+    "name": "来整理吧",
+    "name_zh": "来整理吧",
+    "name_en": "Perpetual mess",
+    "required": "纸箱 ×1 / 玩具（任意） ×1",
+    "required_zh": "纸箱 ×1 / 玩具（任意） ×1",
+    "required_items": [
+      {
+        "name": "Cardboard boxes",
+        "qty": 1,
+        "name_zh": "纸箱"
+      },
+      {
+        "name": "Toy (any)",
+        "qty": 1,
+        "name_zh": "玩具（任意）"
+      }
+    ],
+    "attracts": [
+      "Growlithe",
+      "Azurill"
+    ],
+    "attracts_zh": [
+      "卡蒂狗"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:58",
+        "name_en": "Growlithe",
+        "name_zh": "卡蒂狗",
+        "image_url": "https://assets.pokopiaguide.com/pokemon/growlithe.png"
+      },
+      {
+        "key": "pokemon:298",
+        "name_en": "Azurill",
+        "name_zh": "露力丽",
+        "image_url": "/images/pokemon/114.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-062.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-062.png",
+    "source_url": "https://pokopiadb.com/database/habitats/perpetual-mess"
+  },
+  {
+    "key": "habitat:HAB-063",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-063",
+    "name": "垃圾集中处",
+    "name_zh": "垃圾集中处",
+    "name_en": "Trash collection site",
+    "required": "垃圾桶 ×1 / 垃圾袋 ×1 / 招牌（任意） ×1",
+    "required_zh": "垃圾桶 ×1 / 垃圾袋 ×1 / 招牌（任意） ×1",
+    "required_items": [
+      {
+        "name": "Waste bin",
+        "qty": 1,
+        "name_zh": "垃圾桶"
+      },
+      {
+        "name": "Garbage bags",
+        "qty": 1,
+        "name_zh": "垃圾袋"
+      },
+      {
+        "name": "Sign (any)",
+        "qty": 1,
+        "name_zh": "招牌（任意）"
+      }
+    ],
+    "attracts": [
+      "Trubbish",
+      "Garbodor"
+    ],
+    "attracts_zh": [
+      "破破袋"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:568",
+        "name_en": "Trubbish",
+        "name_zh": "破破袋",
+        "image_url": "/images/pokemon/132.png"
+      },
+      {
+        "key": "pokemon:569",
+        "name_en": "Garbodor",
+        "name_zh": "灰尘山",
+        "image_url": "/images/pokemon/133.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-063.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-063.png",
+    "source_url": "https://pokopiadb.com/database/habitats/trash-collection-site"
+  },
+  {
+    "key": "habitat:HAB-064",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-064",
+    "name": "垃圾桶满了",
+    "name_zh": "垃圾桶满了",
+    "name_en": "Trash can central",
+    "required": "垃圾桶 ×4",
+    "required_zh": "垃圾桶 ×4",
+    "required_items": [
+      {
+        "name": "Waste bin",
+        "qty": 4,
+        "name_zh": "垃圾桶"
+      }
+    ],
+    "attracts": [
+      "Magneton",
+      "Electabuzz",
+      "Magnezone"
+    ],
+    "attracts_zh": [
+      "三合一磁怪"
+    ],
+    "attract_refs": [],
+    "image_url": "/images/habitats/HAB-064.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-064.png",
+    "source_url": "https://pokopiadb.com/database/habitats/trash-can-central"
+  },
+  {
+    "key": "habitat:HAB-065",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-065",
+    "name": "垃圾场",
+    "name_zh": "垃圾场",
+    "name_en": "Trash disposal site",
+    "required": "电线杆 ×1 / 垃圾袋 ×1",
+    "required_zh": "电线杆 ×1 / 垃圾袋 ×1",
+    "required_items": [
+      {
+        "name": "Utility pole",
+        "qty": 1,
+        "name_zh": "电线杆"
+      },
+      {
+        "name": "Garbage bags",
+        "qty": 1,
+        "name_zh": "垃圾袋"
+      }
+    ],
+    "attracts": [
+      "Crobat"
+    ],
+    "attracts_zh": [
+      "叉字蝠"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:169",
+        "name_en": "Crobat",
+        "name_zh": "叉字蝠",
+        "image_url": "/images/pokemon/083.png"
+      }
+    ],
+    "image_url": "https://assets.pokopiadb.com/habitats/065.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-065.png",
+    "source_url": "https://pokopiadb.com/database/habitats/trash-disposal-site"
+  },
+  {
+    "key": "habitat:HAB-066",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-066",
+    "name": "公园长椅",
+    "name_zh": "公园长椅",
+    "name_en": "Park bench",
+    "required": "长条椅 ×1 / 垃圾桶 ×1",
+    "required_zh": "长条椅 ×1 / 垃圾桶 ×1",
+    "required_items": [
+      {
+        "name": "Seat (wide)",
+        "qty": 1,
+        "name_zh": "长条椅"
+      },
+      {
+        "name": "Waste bin",
+        "qty": 1,
+        "name_zh": "垃圾桶"
+      }
+    ],
+    "attracts": [
+      "Zubat",
+      "Voltorb",
+      "Electrode"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/066.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-066.png",
+    "source_url": "https://pokopiadb.com/database/habitats/park-bench"
+  },
+  {
+    "key": "habitat:HAB-067",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-067",
+    "name": "饥肠辘辘餐厅",
+    "name_zh": "饥肠辘辘餐厅",
+    "name_en": "Tantalizing restaurant",
+    "required": "椅子（任意） ×1 / 桌子（任意） ×1 / 菜单板 ×1 / 盘子上的食物 ×1",
+    "required_zh": "椅子（任意） ×1 / 桌子（任意） ×1 / 菜单板 ×1 / 盘子上的食物 ×1",
+    "required_items": [
+      {
+        "name": "Seat (any)",
+        "qty": 1,
+        "name_zh": "椅子（任意）"
+      },
+      {
+        "name": "Table (any)",
+        "qty": 1,
+        "name_zh": "桌子（任意）"
+      },
+      {
+        "name": "Menu board",
+        "qty": 1,
+        "name_zh": "菜单板"
+      },
+      {
+        "name": "Plated food",
+        "qty": 1,
+        "name_zh": "盘装食物"
+      }
+    ],
+    "attracts": [
+      "Pawmo",
+      "Pawmi"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:922",
+        "name_en": "Pawmo",
+        "name_zh": "布土拨",
+        "image_url": "/images/pokemon/143.png"
+      },
+      {
+        "key": "pokemon:921",
+        "name_en": "Pawmi",
+        "name_zh": "布拨",
+        "image_url": "https://assets.pokopiaguide.com/pokemon/pawmi.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-067.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-067.png",
+    "source_url": "https://pokopiadb.com/database/habitats/tantalizing-restaurant"
+  },
+  {
+    "key": "habitat:HAB-068",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-068",
+    "name": "外送料理",
+    "name_zh": "外送料理",
+    "name_en": "Tableside delivery cart",
+    "required": "Chic chair x2, Chic table x1, Small vase x1, Push cart x1, Plated food x1",
+    "required_zh": "时尚椅 ×2 / 时尚桌 ×1 / 小花瓶 ×1 / 推车 ×1 / 盘子上的食物 ×1",
+    "required_items": [
+      {
+        "name": "Chic chair",
+        "qty": 2,
+        "name_zh": "典雅椅"
+      },
+      {
+        "name": "Chic table",
+        "qty": 1,
+        "name_zh": "典雅桌"
+      },
+      {
+        "name": "Small vase",
+        "qty": 1,
+        "name_zh": "花瓶"
+      },
+      {
+        "name": "Push cart",
+        "qty": 1,
+        "name_zh": "推车"
+      },
+      {
+        "name": "Plated food",
+        "qty": 1,
+        "name_zh": "盘装食物"
+      }
+    ],
+    "attracts": [
+      "Empoleon"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/068.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-068.png",
+    "source_url": "https://pokopiadb.com/database/habitats/tableside-delivery-cart"
+  },
+  {
+    "key": "habitat:HAB-069",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-069",
+    "name": "叽叽喳喳喂食",
+    "name_zh": "叽叽喳喳喂食",
+    "name_en": "Chirp-chirp meal",
+    "required": "木制鸟巢箱 ×1 / 桌子（任意） ×1 / 盘子上的食物 ×1",
+    "required_zh": "木制鸟巢箱 ×1 / 桌子（任意） ×1 / 盘子上的食物 ×1",
+    "required_items": [
+      {
+        "name": "Wooden birdhouse",
+        "qty": 1,
+        "name_zh": "木制鸟巢箱"
+      },
+      {
+        "name": "Table (any)",
+        "qty": 1,
+        "name_zh": "桌子（任意）"
+      },
+      {
+        "name": "Plated food",
+        "qty": 1,
+        "name_zh": "盘装食物"
+      }
+    ],
+    "attracts": [
+      "Torchic",
+      "Blaziken"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:255",
+        "name_en": "Torchic",
+        "name_zh": "火稚鸡",
+        "image_url": "/images/pokemon/120.png"
+      },
+      {
+        "key": "pokemon:257",
+        "name_en": "Blaziken",
+        "name_zh": "火焰鸡",
+        "image_url": "/images/pokemon/122.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-069.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-069.png",
+    "source_url": "https://pokopiadb.com/database/habitats/chirp-chirp-meal"
+  },
+  {
+    "key": "habitat:HAB-070",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-070",
+    "name": "咖啡空間",
+    "name_zh": "咖啡空間",
+    "name_en": "Cafe space",
+    "required": "椅子（任意） ×2 / 盆栽 ×1 / 柜台 ×2 / 马克杯 ×1 / 菜单板 ×1",
+    "required_zh": "椅子（任意） ×2 / 盆栽 ×1 / 柜台 ×2 / 马克杯 ×1 / 菜单板 ×1",
+    "required_items": [
+      {
+        "name": "Seat (any)",
+        "qty": 2,
+        "name_zh": "椅子（任意）"
+      },
+      {
+        "name": "Potted plant",
+        "qty": 1,
+        "name_zh": "盆栽"
+      },
+      {
+        "name": "Counter",
+        "qty": 2,
+        "name_zh": "柜台"
+      },
+      {
+        "name": "Mug",
+        "qty": 1,
+        "name_zh": "马克杯"
+      },
+      {
+        "name": "Menu board",
+        "qty": 1,
+        "name_zh": "菜单板"
+      }
+    ],
+    "attracts": [
+      "Pawmo",
+      "Pawmot"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/070.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-070.png",
+    "source_url": "https://pokopiadb.com/database/habitats/cafe-space"
+  },
+  {
+    "key": "habitat:HAB-071",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-071",
+    "name": "海滩套组",
+    "name_zh": "海滩套组",
+    "name_en": "Beach set",
+    "required": "沙滩椅 ×1 / 沙滩伞 ×1 / 侧桌 ×1",
+    "required_zh": "沙滩椅 ×1 / 沙滩伞 ×1 / 侧桌 ×1",
+    "required_items": [
+      {
+        "name": "Beach chair",
+        "qty": 1,
+        "name_zh": "沙滩椅"
+      },
+      {
+        "name": "Beach parasol",
+        "qty": 1,
+        "name_zh": "沙滩伞"
+      },
+      {
+        "name": "Side table",
+        "qty": 1,
+        "name_zh": "边桌"
+      }
+    ],
+    "attracts": [
+      "Tatsugiri Curly Form",
+      "Tatsugiri Droopy Form",
+      "Tatsugiri Stretchy Form",
+      "Tatsugiri"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/071.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-071.png",
+    "source_url": "https://pokopiadb.com/database/habitats/beach-set"
+  },
+  {
+    "key": "habitat:HAB-072",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-072",
+    "name": "灯光舞台",
+    "name_zh": "灯光舞台",
+    "name_en": "Light-up stage",
+    "required": "Spotlight x2, Small stage x1",
+    "required_zh": "聚光灯 ×2 / 小舞台 ×1",
+    "required_items": [
+      {
+        "name": "Spotlight",
+        "qty": 2,
+        "name_zh": "聚光灯"
+      },
+      {
+        "name": "Small stage",
+        "qty": 1,
+        "name_zh": "小舞台"
+      }
+    ],
+    "attracts": [
+      "Electabuzz",
+      "Electivire"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/072.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-072.png",
+    "source_url": "https://pokopiadb.com/database/habitats/light-up-stage"
+  },
+  {
+    "key": "habitat:HAB-073",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-073",
+    "name": "小心机关",
+    "name_zh": "小心机关",
+    "name_en": "Surprise in store",
+    "required": "气球 ×2 / 捉弄箱 ×1",
+    "required_zh": "气球 ×2 / 捉弄箱 ×1",
+    "required_items": [
+      {
+        "name": "Balloons",
+        "qty": 2,
+        "name_zh": "气球"
+      },
+      {
+        "name": "Boo-in-the-box",
+        "qty": 1,
+        "name_zh": "惊吓箱"
+      }
+    ],
+    "attracts": [
+      "Haunter",
+      "Zoroark",
+      "Gengar"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/073.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-073.png",
+    "source_url": "https://pokopiadb.com/database/habitats/surprise-in-store"
+  },
+  {
+    "key": "habitat:HAB-074",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-074",
+    "name": "夜间祭典会场",
+    "name_zh": "夜间祭典会场",
+    "name_en": "Night festival venue",
+    "required": "气球 ×2 / 雷丘招牌 ×1",
+    "required_zh": "气球 ×2 / 雷丘招牌 ×1",
+    "required_items": [
+      {
+        "name": "Balloons",
+        "qty": 2,
+        "name_zh": "气球"
+      },
+      {
+        "name": "Raichu sign",
+        "qty": 1,
+        "name_zh": "雷丘招牌"
+      }
+    ],
+    "attracts": [
+      "Flaaffy"
+    ],
+    "attracts_zh": [
+      "茸茸羊"
+    ],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/074.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-074.png",
+    "source_url": "https://pokopiadb.com/database/habitats/night-festival-venue"
+  },
+  {
+    "key": "habitat:HAB-075",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-075",
+    "name": "换装空间",
+    "name_zh": "换装空间",
+    "name_en": "Changing area",
+    "required": "衣柜（任意） ×1 / 大镜子 ×1",
+    "required_zh": "衣柜（任意） ×1 / 大镜子 ×1",
+    "required_items": [
+      {
+        "name": "Closet (any)",
+        "qty": 1,
+        "name_zh": "衣柜（任意）"
+      },
+      {
+        "name": "Mirror (large)",
+        "qty": 1,
+        "name_zh": "大镜子"
+      }
+    ],
+    "attracts": [
+      "Minccino"
+    ],
+    "attracts_zh": [
+      "泡沫栗鼠"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:572",
+        "name_en": "Minccino",
+        "name_zh": "泡沫栗鼠",
+        "image_url": "/images/pokemon/136.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-075.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-075.png",
+    "source_url": "https://pokopiadb.com/database/habitats/changing-area"
+  },
+  {
+    "key": "habitat:HAB-076",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-076",
+    "name": "打扮中请勿偷看",
+    "name_zh": "打扮中请勿偷看",
+    "name_en": "Private makeup stand",
+    "required": "Partition (any) x2, Closet (any) x1, Dresser (any) x1",
+    "required_zh": "隔板（任意） ×2 / 衣柜（任意） ×1 / 梳妆台（任意） ×1",
+    "required_items": [
+      {
+        "name": "Partition (any)",
+        "qty": 2,
+        "name_zh": "隔板（任意）"
+      },
+      {
+        "name": "Closet (any)",
+        "qty": 1,
+        "name_zh": "衣柜（任意）"
+      },
+      {
+        "name": "Dresser (any)",
+        "qty": 1,
+        "name_zh": "梳妆台（任意）"
+      }
+    ],
+    "attracts": [
+      "Minccino"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:572",
+        "name_en": "Minccino",
+        "name_zh": "泡沫栗鼠",
+        "image_url": "/images/pokemon/136.png"
+      }
+    ],
+    "image_url": "https://assets.pokopiadb.com/habitats/076.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-076.png",
+    "source_url": "https://pokopiadb.com/database/habitats/private-makeup-stand"
+  },
+  {
+    "key": "habitat:HAB-077",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-077",
+    "name": "毛线编织",
+    "name_zh": "毛线编织",
+    "name_en": "Knitting station",
+    "required": "椅子（任意） ×1 / 桌子（任意） ×1 / 编织用品 ×1",
+    "required_zh": "椅子（任意） ×1 / 桌子（任意） ×1 / 编织用品 ×1",
+    "required_items": [
+      {
+        "name": "Seat (any)",
+        "qty": 1,
+        "name_zh": "椅子（任意）"
+      },
+      {
+        "name": "Table (any)",
+        "qty": 1,
+        "name_zh": "桌子（任意）"
+      },
+      {
+        "name": "Knitting supplies",
+        "qty": 1,
+        "name_zh": "编织用品"
+      }
+    ],
+    "attracts": [
+      "Mareep",
+      "Flaaffy"
+    ],
+    "attracts_zh": [
+      "咩利羊",
+      "茸茸羊"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:179",
+        "name_en": "Mareep",
+        "name_zh": "咩利羊",
+        "image_url": "/images/pokemon/111.png"
+      },
+      {
+        "key": "pokemon:180",
+        "name_en": "Flaaffy",
+        "name_zh": "茸茸羊",
+        "image_url": "/images/pokemon/112.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-077.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-077.png",
+    "source_url": "https://pokopiadb.com/database/habitats/knitting-station"
+  },
+  {
+    "key": "habitat:HAB-078",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-078",
+    "name": "温泉冲洗处",
+    "name_zh": "温泉冲洗处",
+    "name_en": "Hot spring shower",
+    "required": "淋浴间 ×1 / 椅子（任意） ×1 / 温泉水 ×2",
+    "required_zh": "淋浴间 ×1 / 椅子（任意） ×1 / 温泉水 ×2",
+    "required_items": [
+      {
+        "name": "Shower",
+        "qty": 1,
+        "name_zh": "淋浴设备"
+      },
+      {
+        "name": "Seat (any)",
+        "qty": 1,
+        "name_zh": "椅子（任意）"
+      },
+      {
+        "name": "Hot spring water",
+        "qty": 2,
+        "name_zh": "温泉水",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Psyduck"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:54",
+        "name_en": "Psyduck",
+        "name_zh": "可达鸭",
+        "image_url": "/images/pokemon/086.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-078.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-078.png",
+    "source_url": "https://pokopiadb.com/database/habitats/hot-spring-shower"
+  },
+  {
+    "key": "habitat:HAB-079",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-079",
+    "name": "度假村备餐",
+    "name_zh": "度假村备餐",
+    "name_en": "Resort meal prep",
+    "required": "大棕榈树 ×1 / 盘子上的食物 ×1 / 椅子（任意） ×1 / 火堆 ×1",
+    "required_zh": "大棕榈树 ×1 / 盘子上的食物 ×1 / 椅子（任意） ×1 / 火堆 ×1",
+    "required_items": [
+      {
+        "name": "Large palm tree",
+        "qty": 1,
+        "name_zh": "大棕榈树",
+        "is_env": true
+      },
+      {
+        "name": "Plated food",
+        "qty": 1,
+        "name_zh": "盘装食物"
+      },
+      {
+        "name": "Seat (any)",
+        "qty": 1,
+        "name_zh": "椅子（任意）"
+      },
+      {
+        "name": "火堆",
+        "qty": 1,
+        "name_zh": "火堆"
+      }
+    ],
+    "attracts": [
+      "Growlithe",
+      "Torchic",
+      "Combusken"
+    ],
+    "attracts_zh": [
+      "卡蒂狗"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:58",
+        "name_en": "Growlithe",
+        "name_zh": "卡蒂狗",
+        "image_url": "https://assets.pokopiaguide.com/pokemon/growlithe.png"
+      },
+      {
+        "key": "pokemon:255",
+        "name_en": "Torchic",
+        "name_zh": "火稚鸡",
+        "image_url": "/images/pokemon/120.png"
+      },
+      {
+        "key": "pokemon:256",
+        "name_en": "Combusken",
+        "name_zh": "力壮鸡",
+        "image_url": "/images/pokemon/121.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-079.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-079.png",
+    "source_url": "https://pokopiadb.com/database/habitats/resort-meal-prep"
+  },
+  {
+    "key": "habitat:HAB-080",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-080",
+    "name": "行李打包好了",
+    "name_zh": "行李打包好了",
+    "name_en": "All packed up",
+    "required": "手推车 ×1 / 纸箱 ×2",
+    "required_zh": "手推车 ×1 / 纸箱 ×2",
+    "required_items": [
+      {
+        "name": "Cart",
+        "qty": 1,
+        "name_zh": "手推车"
+      },
+      {
+        "name": "Cardboard boxes",
+        "qty": 2,
+        "name_zh": "纸箱"
+      }
+    ],
+    "attracts": [
+      "Farfetch'd",
+      "Makuhita",
+      "Hariyama"
+    ],
+    "attracts_zh": [
+      "幕下力士"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:296",
+        "name_en": "Makuhita",
+        "name_zh": "幕下力士",
+        "image_url": "/images/pokemon/125.png"
+      },
+      {
+        "key": "pokemon:297",
+        "name_en": "Hariyama",
+        "name_zh": "铁掌力士",
+        "image_url": "/images/pokemon/126.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-080.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-080.png",
+    "source_url": "https://pokopiadb.com/database/habitats/all-packed-up"
+  },
+  {
+    "key": "habitat:HAB-081",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-081",
+    "name": "痊愈前好好休息",
+    "name_zh": "痊愈前好好休息",
+    "name_en": "Full recovery",
+    "required": "Bed (any) x1, Plain chest x1, First aid kit x1",
+    "required_zh": "床铺（任意） ×1 / 简约收纳箱 ×1 / 急救箱 ×1",
+    "required_items": [
+      {
+        "name": "Bed (any)",
+        "qty": 1,
+        "name_zh": "床铺（任意）"
+      },
+      {
+        "name": "Plain chest",
+        "qty": 1,
+        "name_zh": "大型收纳箱"
+      },
+      {
+        "name": "First aid kit",
+        "qty": 1,
+        "name_zh": "急救箱"
+      }
+    ],
+    "attracts": [
+      "Chansey",
+      "Peakychu"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/081.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-081.png",
+    "source_url": "https://pokopiadb.com/database/habitats/full-recovery"
+  },
+  {
+    "key": "habitat:HAB-082",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-082",
+    "name": "闹钟床铺区",
+    "name_zh": "闹钟床铺区",
+    "name_en": "Alarm clock sleep zone",
+    "required": "床铺（任意） ×1 / 桌子（任意） ×1 / 闹钟 ×1",
+    "required_zh": "床铺（任意） ×1 / 桌子（任意） ×1 / 闹钟 ×1",
+    "required_items": [
+      {
+        "name": "Bed (any)",
+        "qty": 1,
+        "name_zh": "床铺（任意）"
+      },
+      {
+        "name": "Table (any)",
+        "qty": 1,
+        "name_zh": "桌子（任意）"
+      },
+      {
+        "name": "Alarm clock",
+        "qty": 1,
+        "name_zh": "闹钟"
+      }
+    ],
+    "attracts": [
+      "Happiny"
+    ],
+    "attracts_zh": [
+      "小福蛋"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:440",
+        "name_en": "Happiny",
+        "name_zh": "小福蛋",
+        "image_url": "/images/pokemon/100.png"
+      }
+    ],
+    "image_url": "https://assets.pokopiadb.com/habitats/082.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-082.png",
+    "source_url": "https://pokopiadb.com/database/habitats/alarm-clock-sleep-zone"
+  },
+  {
+    "key": "habitat:HAB-083",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-083",
+    "name": "自动贩卖机旁歇脚",
+    "name_zh": "自动贩卖机旁歇脚",
+    "name_en": "Vending machine break area",
+    "required": "自动贩卖机 ×1 / 长条椅 ×1",
+    "required_zh": "自动贩卖机 ×1 / 长条椅 ×1",
+    "required_items": [
+      {
+        "name": "Vending machine",
+        "qty": 1,
+        "name_zh": "自动贩卖机"
+      },
+      {
+        "name": "Seat (wide)",
+        "qty": 1,
+        "name_zh": "长条椅"
+      }
+    ],
+    "attracts": [
+      "Grubbin",
+      "Charjabug"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/083.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-083.png",
+    "source_url": "https://pokopiadb.com/database/habitats/vending-machine-break-area"
+  },
+  {
+    "key": "habitat:HAB-084",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-084",
+    "name": "自动贩卖机套组",
+    "name_zh": "自动贩卖机套组",
+    "name_en": "Vending machine set",
+    "required": "自动贩卖机 ×1 / 垃圾桶 ×1",
+    "required_zh": "自动贩卖机 ×1 / 垃圾桶 ×1",
+    "required_items": [
+      {
+        "name": "Vending machine",
+        "qty": 1,
+        "name_zh": "自动贩卖机"
+      },
+      {
+        "name": "Waste bin",
+        "qty": 1,
+        "name_zh": "垃圾桶"
+      }
+    ],
+    "attracts": [
+      "Elekid",
+      "Electivire"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "/images/habitats/HAB-084.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-084.png",
+    "source_url": "https://pokopiadb.com/database/habitats/vending-machine-set"
+  },
+  {
+    "key": "habitat:HAB-085",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-085",
+    "name": "迷你游戏角",
+    "name_zh": "迷你游戏角",
+    "name_en": "Mini game corner",
+    "required": "Arcade machine x1, Punching game x1, Seat (any) x1",
+    "required_zh": "街机 ×1 / 打靶游戏机 ×1 / 椅子（任意） ×1",
+    "required_items": [
+      {
+        "name": "Arcade machine",
+        "qty": 1,
+        "name_zh": "大型电玩机台"
+      },
+      {
+        "name": "Punching game",
+        "qty": 1,
+        "name_zh": "拳击游戏机"
+      },
+      {
+        "name": "Seat (any)",
+        "qty": 1,
+        "name_zh": "椅子（任意）"
+      }
+    ],
+    "attracts": [
+      "Magneton",
+      "Magnezone"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/085.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-085.png",
+    "source_url": "https://pokopiadb.com/database/habitats/mini-game-corner"
+  },
+  {
+    "key": "habitat:HAB-086",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-086",
+    "name": "水力发电所",
+    "name_zh": "水力发电所",
+    "name_en": "Waterwheel spot",
+    "required": "水力发电机 ×1 / 瀑布 ×1 / 水 ×2",
+    "required_zh": "水力发电机 ×1 / 瀑布 ×1 / 水 ×2",
+    "required_items": [
+      {
+        "name": "水力发电机",
+        "qty": 1,
+        "name_zh": "水力发电机",
+        "is_env": true
+      },
+      {
+        "name": "Waterfall",
+        "qty": 1,
+        "name_zh": "瀑布",
+        "is_env": true
+      },
+      {
+        "name": "Water",
+        "qty": 2,
+        "name_zh": "水",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Prinplup",
+      "Empoleon"
+    ],
+    "attracts_zh": [
+      "波皇子"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:394",
+        "name_en": "Prinplup",
+        "name_zh": "波皇子",
+        "image_url": "/images/pokemon/129.png"
+      }
+    ],
+    "image_url": "https://assets.pokopiadb.com/habitats/086.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-086.png",
+    "source_url": "https://pokopiadb.com/database/habitats/waterwheel-spot"
+  },
+  {
+    "key": "habitat:HAB-087",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-087",
+    "name": "火力发电所",
+    "name_zh": "火力发电所",
+    "name_en": "Furnace spot",
+    "required": "铁桶 ×1 / 熔炉 ×1",
+    "required_zh": "铁桶 ×1 / 熔炉 ×1",
+    "required_items": [
+      {
+        "name": "Metal drum",
+        "qty": 1,
+        "name_zh": "铁桶"
+      },
+      {
+        "name": "Furnace",
+        "qty": 1,
+        "name_zh": "熔炉"
+      }
+    ],
+    "attracts": [
+      "Combusken",
+      "Blaziken"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "/images/habitats/HAB-087.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-087.png",
+    "source_url": "https://pokopiadb.com/database/habitats/furnace-spot"
+  },
+  {
+    "key": "habitat:HAB-088",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-088",
+    "name": "码头",
+    "name_zh": "码头",
+    "name_en": "Dock",
+    "required": "走道 ×4 / 路灯（任意） ×1 / 海水 ×2",
+    "required_zh": "走道 ×4 / 路灯（任意） ×1 / 海水 ×2",
+    "required_items": [
+      {
+        "name": "Walkway",
+        "qty": 4,
+        "name_zh": "凹凸木板"
+      },
+      {
+        "name": "Streetlight (any)",
+        "qty": 1,
+        "name_zh": "路灯（任意）"
+      },
+      {
+        "name": "Ocean water",
+        "qty": 2,
+        "name_zh": "海水",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Marill",
+      "Azumarill"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:183",
+        "name_en": "Marill",
+        "name_zh": "玛力露",
+        "image_url": "/images/pokemon/115.png"
+      },
+      {
+        "key": "pokemon:184",
+        "name_en": "Azumarill",
+        "name_zh": "玛力露丽",
+        "image_url": "/images/pokemon/116.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-088.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-088.png",
+    "source_url": "https://pokopiadb.com/database/habitats/dock"
+  },
+  {
+    "key": "habitat:HAB-089",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-089",
+    "name": "诡异书房",
+    "name_zh": "诡异书房",
+    "name_en": "Spooky study",
+    "required": "Bookcase x1, Plain table x1, Chic sofa x1, Slender candle x1",
+    "required_zh": "书架 ×1 / 简约桌 ×1 / 时尚沙发 ×1 / 细蜡烛 ×1",
+    "required_items": [
+      {
+        "name": "Bookcase",
+        "qty": 1,
+        "name_zh": "书架"
+      },
+      {
+        "name": "Plain table",
+        "qty": 1,
+        "name_zh": "木桌"
+      },
+      {
+        "name": "Chic sofa",
+        "qty": 1,
+        "name_zh": "典雅沙发"
+      },
+      {
+        "name": "Slender candle",
+        "qty": 1,
+        "name_zh": "细长蜡烛"
+      }
+    ],
+    "attracts": [
+      "Gastly",
+      "Haunter"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/089.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-089.png",
+    "source_url": "https://pokopiadb.com/database/habitats/spooky-study"
+  },
+  {
+    "key": "habitat:HAB-090",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-090",
+    "name": "航海游戏",
+    "name_zh": "航海游戏",
+    "name_en": "Playing pirate",
+    "required": "Barrel x2, Cannon x2, Ship's wheel x1",
+    "required_zh": "木桶 ×2 / 大炮 ×2 / 船舵 ×1",
+    "required_items": [
+      {
+        "name": "Barrel",
+        "qty": 2,
+        "name_zh": "木桶"
+      },
+      {
+        "name": "Cannon",
+        "qty": 2,
+        "name_zh": "烟火发射筒"
+      },
+      {
+        "name": "Ship's wheel",
+        "qty": 1,
+        "name_zh": "船舵"
+      }
+    ],
+    "attracts": [
+      "Voltorb",
+      "Electrode"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "/images/habitats/HAB-090.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-090.png",
+    "source_url": "https://pokopiadb.com/database/habitats/playing-pirate"
+  },
+  {
+    "key": "habitat:HAB-091",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-091",
+    "name": "收銀台結帳",
+    "name_zh": "收銀台結帳",
+    "name_en": "Working the register",
+    "required": "桌子（任意） ×2 / 收银机 ×1",
+    "required_zh": "桌子（任意） ×2 / 收银机 ×1",
+    "required_items": [
+      {
+        "name": "Table (any)",
+        "qty": 2,
+        "name_zh": "桌子（任意）"
+      },
+      {
+        "name": "Cash register",
+        "qty": 1,
+        "name_zh": "收银机"
+      }
+    ],
+    "attracts": [
+      "Meowth",
+      "Happiny",
+      "Audino"
+    ],
+    "attracts_zh": [
+      "喵喵",
+      "小福蛋",
+      "差不多娃娃"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:52",
+        "name_en": "Meowth",
+        "name_zh": "喵喵",
+        "image_url": "/images/pokemon/084.png"
+      },
+      {
+        "key": "pokemon:440",
+        "name_en": "Happiny",
+        "name_zh": "小福蛋",
+        "image_url": "/images/pokemon/100.png"
+      },
+      {
+        "key": "pokemon:531",
+        "name_en": "Audino",
+        "name_zh": "差不多娃娃",
+        "image_url": "/images/pokemon/131.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-091.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-091.png",
+    "source_url": "https://pokopiadb.com/database/habitats/working-the-register"
+  },
+  {
+    "key": "habitat:HAB-092",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-092",
+    "name": "小小工作室",
+    "name_zh": "小小工作室",
+    "name_en": "Tiny atelier",
+    "required": "画布 ×1 / 椅子（任意） ×1",
+    "required_zh": "画布 ×1 / 椅子（任意） ×1",
+    "required_items": [
+      {
+        "name": "Canvas",
+        "qty": 1,
+        "name_zh": "空白画布"
+      },
+      {
+        "name": "Chair (any)",
+        "qty": 1,
+        "name_zh": "椅子（任意）"
+      }
+    ],
+    "attracts": [
+      "Smeargle"
+    ],
+    "attracts_zh": [
+      "图图犬"
+    ],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/092.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-092.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/habitat/tiny-atelier"
+  },
+  {
+    "key": "habitat:HAB-093",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-093",
+    "name": "美食供品",
+    "name_zh": "美食供品",
+    "name_en": "Gourmet's altar",
+    "required": "供品盘 ×1",
+    "required_zh": "供品盘 ×1",
+    "required_items": [
+      {
+        "name": "Offering dish",
+        "qty": 1,
+        "name_zh": "供奉台"
+      }
+    ],
+    "attracts": [
+      "Snorlax"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:143",
+        "name_en": "Snorlax",
+        "name_zh": "卡比兽",
+        "image_url": "/images/pokemon/108.png"
+      }
+    ],
+    "image_url": "https://assets.pokopiadb.com/habitats/093.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-093.png",
+    "source_url": "https://pokopiadb.com/database/habitats/gourmet-s-altar"
+  },
+  {
+    "key": "habitat:HAB-094",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-094",
+    "name": "皮卡丘空间",
+    "name_zh": "皮卡丘空间",
+    "name_en": "Pikachu space",
+    "required": "皮卡丘布偶 ×1 / 皮卡丘沙发 ×1",
+    "required_zh": "皮卡丘布偶 ×1 / 皮卡丘沙发 ×1",
+    "required_items": [
+      {
+        "name": "Pikachu doll",
+        "qty": 1,
+        "name_zh": "皮卡丘玩偶"
+      },
+      {
+        "name": "Pikachu sofa",
+        "qty": 1,
+        "name_zh": "皮卡丘沙发"
+      }
+    ],
+    "attracts": [
+      "Mimikyu"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/094.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-094.png",
+    "source_url": "https://pokopiadb.com/database/habitats/pikachu-space"
+  },
+  {
+    "key": "habitat:HAB-095",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-095",
+    "name": "超可爱空间",
+    "name_zh": "超可爱空间",
+    "name_en": "Cuteness overload",
+    "required": "Cute sofa x1, Cute table x1, Cute lamp x1, Cute dresser x1, Cute bed x1",
+    "required_zh": "可爱沙发 ×1 / 可爱桌 ×1 / 可爱灯 ×1 / 可爱梳妆台 ×1 / 可爱床 ×1",
+    "required_items": [
+      {
+        "name": "Cute sofa",
+        "qty": 1,
+        "name_zh": "可爱沙发"
+      },
+      {
+        "name": "Cute table",
+        "qty": 1,
+        "name_zh": "可爱桌"
+      },
+      {
+        "name": "Cute lamp",
+        "qty": 1,
+        "name_zh": "可爱灯"
+      },
+      {
+        "name": "Cute dresser",
+        "qty": 1,
+        "name_zh": "可爱梳妆台"
+      },
+      {
+        "name": "Cute bed",
+        "qty": 1,
+        "name_zh": "可爱床"
+      }
+    ],
+    "attracts": [
+      "Blissey"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/095.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-095.png",
+    "source_url": "https://pokopiadb.com/database/habitats/cuteness-overload"
+  },
+  {
+    "key": "habitat:HAB-096",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-096",
+    "name": "欢迎来到度假村",
+    "name_zh": "欢迎来到度假村",
+    "name_en": "Welcoming resort",
+    "required": "度假村沙发 ×1 / 度假村吊床 ×1 / 度假村桌子 ×1 / 度假村灯饰 ×1",
+    "required_zh": "度假村沙发 ×1 / 度假村吊床 ×1 / 度假村桌子 ×1 / 度假村灯饰 ×1",
+    "required_items": [
+      {
+        "name": "Resort sofa",
+        "qty": 1,
+        "name_zh": "度假风沙发"
+      },
+      {
+        "name": "Resort hammock",
+        "qty": 1,
+        "name_zh": "度假风吊床"
+      },
+      {
+        "name": "Resort table",
+        "qty": 1,
+        "name_zh": "度假风桌"
+      },
+      {
+        "name": "Resort light",
+        "qty": 1,
+        "name_zh": "度假风矮凳"
+      }
+    ],
+    "attracts": [
+      "Absol"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/096.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-096.png",
+    "source_url": "https://pokopiadb.com/database/habitats/welcoming-resort"
+  },
+  {
+    "key": "habitat:HAB-097",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-097",
+    "name": "自然风生活",
+    "name_zh": "自然风生活",
+    "name_en": "Plain life",
+    "required": "Plain bed x1, Plain table x1, Plain lamp x1, Plain sofa x1",
+    "required_zh": "简约床 ×1 / 简约桌 ×1 / 简约灯 ×1 / 简约沙发 ×1",
+    "required_items": [
+      {
+        "name": "Plain bed",
+        "qty": 1,
+        "name_zh": "木床"
+      },
+      {
+        "name": "Plain table",
+        "qty": 1,
+        "name_zh": "木桌"
+      },
+      {
+        "name": "Plain lamp",
+        "qty": 1,
+        "name_zh": "自然风灯"
+      },
+      {
+        "name": "Plain sofa",
+        "qty": 1,
+        "name_zh": "箱型沙发"
+      }
+    ],
+    "attracts": [
+      "Ampharos"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/097.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-097.png",
+    "source_url": "https://pokopiadb.com/database/habitats/plain-life"
+  },
+  {
+    "key": "habitat:HAB-098",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-098",
+    "name": "红色草丛",
+    "name_zh": "红色草丛",
+    "name_en": "Red tall grass",
+    "required": "红色高草 ×4",
+    "required_zh": "红色高草 ×4",
+    "required_items": [
+      {
+        "name": "Red tall grass",
+        "qty": 4,
+        "name_zh": "红色高草",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Scorbunny",
+      "Riolu",
+      "Kricketot",
+      "Kricketune"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:813",
+        "name_en": "Scorbunny",
+        "name_zh": "炎兔儿",
+        "image_url": "/images/pokemon/188.png"
+      },
+      {
+        "key": "pokemon:447",
+        "name_en": "Riolu",
+        "name_zh": "利欧路",
+        "image_url": "/images/pokemon/180.png"
+      },
+      {
+        "key": "pokemon:401",
+        "name_en": "Kricketot",
+        "name_zh": "圆法师",
+        "image_url": "/images/pokemon/177.png"
+      },
+      {
+        "key": "pokemon:402",
+        "name_en": "Kricketune",
+        "name_zh": "音箱蟀",
+        "image_url": "/images/pokemon/178.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-098.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-098.png",
+    "source_url": "https://pokopiadb.com/database/habitats/red-tall-grass"
+  },
+  {
+    "key": "habitat:HAB-099",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-099",
+    "name": "树荫红色草丛",
+    "name_zh": "树荫红色草丛",
+    "name_en": "Tree-shaded red tall grass",
+    "required": "大树（任意） ×1 / 红色高草 ×4",
+    "required_zh": "大树（任意） ×1 / 红色高草 ×4",
+    "required_items": [
+      {
+        "name": "Large tree (any)",
+        "qty": 1,
+        "name_zh": "大树（任意）",
+        "is_env": true
+      },
+      {
+        "name": "Red tall grass",
+        "qty": 4,
+        "name_zh": "红色高草",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Diglett",
+      "Dugtrio",
+      "Bonsly",
+      "Sudowoodo"
+    ],
+    "attracts_zh": [
+      "地鼠",
+      "盆才怪",
+      "三地鼠"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:50",
+        "name_en": "Diglett",
+        "name_zh": "地鼠",
+        "image_url": "/images/pokemon/154.png"
+      },
+      {
+        "key": "pokemon:51",
+        "name_en": "Dugtrio",
+        "name_zh": "三地鼠",
+        "image_url": "/images/pokemon/155.png"
+      },
+      {
+        "key": "pokemon:438",
+        "name_en": "Bonsly",
+        "name_zh": "盆才怪",
+        "image_url": "/images/pokemon/165.png"
+      },
+      {
+        "key": "pokemon:185",
+        "name_en": "Sudowoodo",
+        "name_zh": "树才怪",
+        "image_url": "/images/pokemon/166.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-099.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-099.png",
+    "source_url": "https://pokopiadb.com/database/habitats/tree-shaded-red-tall-grass"
+  },
+  {
+    "key": "habitat:HAB-100",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-100",
+    "name": "三角树荫与岩石草丛",
+    "name_zh": "三角树荫与岩石草丛",
+    "name_en": "Pointy tree-shaded rocky tall grass",
+    "required": "三角树 ×1 / 红色高草 ×4 / 大岩石 ×1",
+    "required_zh": "三角树 ×1 / 红色高草 ×4 / 大岩石 ×1",
+    "required_items": [
+      {
+        "name": "Pointy tree",
+        "qty": 1,
+        "name_zh": "三角树",
+        "is_env": true
+      },
+      {
+        "name": "Red tall grass",
+        "qty": 4,
+        "name_zh": "红色高草",
+        "is_env": true
+      },
+      {
+        "name": "Large boulder",
+        "qty": 1,
+        "name_zh": "大岩石",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Dartrix"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:723",
+        "name_en": "Dartrix",
+        "name_zh": "投羽枭",
+        "image_url": "/images/pokemon/186.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-100.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-100.png",
+    "source_url": "https://pokopiadb.com/database/habitats/pointy-tree-shaded-rocky-tall-grass"
+  },
+  {
+    "key": "habitat:HAB-101",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-101",
+    "name": "湿润红色草丛",
+    "name_zh": "湿润红色草丛",
+    "name_en": "Hydrated red tall grass",
+    "required": "红色高草 ×4 / 水 ×2",
+    "required_zh": "红色高草 ×4 / 水 ×2",
+    "required_items": [
+      {
+        "name": "Red tall grass",
+        "qty": 4,
+        "name_zh": "红色高草",
+        "is_env": true
+      },
+      {
+        "name": "Water",
+        "qty": 2,
+        "name_zh": "水",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Lotad",
+      "Lombre"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:270",
+        "name_en": "Lotad",
+        "name_zh": "莲叶童子",
+        "image_url": "/images/pokemon/172.png"
+      },
+      {
+        "key": "pokemon:271",
+        "name_en": "Lombre",
+        "name_zh": "莲帽小童",
+        "image_url": "/images/pokemon/173.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-101.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-101.png",
+    "source_url": "https://pokopiadb.com/database/habitats/hydrated-red-tall-grass"
+  },
+  {
+    "key": "habitat:HAB-102",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-102",
+    "name": "高台红色草丛",
+    "name_zh": "高台红色草丛",
+    "name_en": "Elevated red tall grass",
+    "required": "红色高草 ×4 / 高处 ×1",
+    "required_zh": "红色高草 ×4 / 高处 ×1",
+    "required_items": [
+      {
+        "name": "Red tall grass",
+        "qty": 4,
+        "name_zh": "红色高草",
+        "is_env": true
+      },
+      {
+        "name": "High-up location",
+        "qty": 1,
+        "name_zh": "高处",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Murkrow",
+      "Chatot"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/102.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-102.png",
+    "source_url": "https://pokopiadb.com/database/habitats/elevated-red-tall-grass"
+  },
+  {
+    "key": "habitat:HAB-103",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-103",
+    "name": "草丛训练场",
+    "name_zh": "草丛训练场",
+    "name_en": "Grassy training field",
+    "required": "沙包袋 ×2 / 红色高草 ×4",
+    "required_zh": "沙包袋 ×2 / 红色高草 ×4",
+    "required_items": [
+      {
+        "name": "Sandbags",
+        "qty": 2,
+        "name_zh": "沙包"
+      },
+      {
+        "name": "Red tall grass",
+        "qty": 4,
+        "name_zh": "红色高草",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Machoke",
+      "Machamp"
+    ],
+    "attracts_zh": [
+      "豪力",
+      "怪力"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:67",
+        "name_en": "Machoke",
+        "name_zh": "豪力",
+        "image_url": "/images/pokemon/157.png"
+      },
+      {
+        "key": "pokemon:68",
+        "name_en": "Machamp",
+        "name_zh": "怪力",
+        "image_url": "/images/pokemon/158.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-103.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-103.png",
+    "source_url": "https://pokopiadb.com/database/habitats/grassy-training-field"
+  },
+  {
+    "key": "habitat:HAB-104",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-104",
+    "name": "优雅花田",
+    "name_zh": "优雅花田",
+    "name_en": "Graceful flower bed",
+    "required": "山岩花 ×4",
+    "required_zh": "山岩花 ×4",
+    "required_items": [
+      {
+        "name": "Mountain flowers",
+        "qty": 4,
+        "name_zh": "山岩花",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Cleffa",
+      "Fidough"
+    ],
+    "attracts_zh": [
+      "狗仔包"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:173",
+        "name_en": "Cleffa",
+        "name_zh": "皮宝宝",
+        "image_url": "/images/pokemon/148.png"
+      },
+      {
+        "key": "pokemon:926",
+        "name_en": "Fidough",
+        "name_zh": "狗仔包",
+        "image_url": "/images/pokemon/198.png"
+      }
+    ],
+    "image_url": "https://assets.pokopiadb.com/habitats/104.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-104.png",
+    "source_url": "https://pokopiadb.com/database/habitats/graceful-flower-bed"
+  },
+  {
+    "key": "habitat:HAB-105",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-105",
+    "name": "树荫优雅花田",
+    "name_zh": "树荫优雅花田",
+    "name_en": "Tree-shaded graceful flower bed",
+    "required": "三角树 ×1 / 山岩花 ×4",
+    "required_zh": "三角树 ×1 / 山岩花 ×4",
+    "required_items": [
+      {
+        "name": "Pointy tree",
+        "qty": 1,
+        "name_zh": "三角树",
+        "is_env": true
+      },
+      {
+        "name": "Mountain flowers",
+        "qty": 4,
+        "name_zh": "山岩花",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Murkrow",
+      "Larvesta",
+      "Volcarona"
+    ],
+    "attracts_zh": [
+      "火神蛾"
+    ],
+    "attract_refs": [],
+    "image_url": "/images/habitats/HAB-105.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-105.png",
+    "source_url": "https://pokopiadb.com/database/habitats/tree-shaded-graceful-flower-bed"
+  },
+  {
+    "key": "habitat:HAB-106",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-106",
+    "name": "湿润优雅花田",
+    "name_zh": "湿润优雅花田",
+    "name_en": "Hydrated graceful flower bed",
+    "required": "山岩花 ×4 / 水 ×2",
+    "required_zh": "山岩花 ×4 / 水 ×2",
+    "required_items": [
+      {
+        "name": "Mountain flowers",
+        "qty": 4,
+        "name_zh": "山岩花",
+        "is_env": true
+      },
+      {
+        "name": "Water",
+        "qty": 2,
+        "name_zh": "水",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Ekans",
+      "Arbok",
+      "Politoed"
+    ],
+    "attracts_zh": [
+      "阿柏蛇",
+      "阿柏怪"
+    ],
+    "attract_refs": [],
+    "image_url": "/images/habitats/HAB-106.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-106.png",
+    "source_url": "https://pokopiadb.com/database/habitats/hydrated-graceful-flower-bed"
+  },
+  {
+    "key": "habitat:HAB-107",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-107",
+    "name": "花田树桩舞台",
+    "name_zh": "花田树桩舞台",
+    "name_en": "Flower garden stump stage",
+    "required": "山岩花 ×4 / 蘑菇灯 ×2 / 树桩 ×1",
+    "required_zh": "山岩花 ×4 / 蘑菇灯 ×2 / 树桩 ×1",
+    "required_items": [
+      {
+        "name": "Mountain flowers",
+        "qty": 4,
+        "name_zh": "山岩花",
+        "is_env": true
+      },
+      {
+        "name": "Mushroom lamp",
+        "qty": 2,
+        "name_zh": "蘑菇灯"
+      },
+      {
+        "name": "Tree stump",
+        "qty": 1,
+        "name_zh": "树桩",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Igglybuff",
+      "Jigglypuff",
+      "Politoed"
+    ],
+    "attracts_zh": [
+      "胖丁",
+      "蚊香蛙皇"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:174",
+        "name_en": "Igglybuff",
+        "name_zh": "宝宝丁",
+        "image_url": "/images/pokemon/151.png"
+      },
+      {
+        "key": "pokemon:39",
+        "name_en": "Jigglypuff",
+        "name_zh": "胖丁",
+        "image_url": "/images/pokemon/152.png"
+      },
+      {
+        "key": "pokemon:186",
+        "name_en": "Politoed",
+        "name_zh": "蚊香蛙皇",
+        "image_url": "/images/pokemon/212.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-107.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-107.png",
+    "source_url": "https://pokopiadb.com/database/habitats/flower-garden-stump-stage"
+  },
+  {
+    "key": "habitat:HAB-108",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-108",
+    "name": "农作真辛苦",
+    "name_zh": "农作真辛苦",
+    "name_en": "Toil in the soil",
+    "required": "蔬菜田（任意） ×4 / 独轮手推车 ×1",
+    "required_zh": "蔬菜田（任意） ×4 / 独轮手推车 ×1",
+    "required_items": [
+      {
+        "name": "Vegetable field (any)",
+        "qty": 4,
+        "name_zh": "蔬菜田（任意）"
+      },
+      {
+        "name": "Wheelbarrow",
+        "qty": 1,
+        "name_zh": "手推车"
+      }
+    ],
+    "attracts": [
+      "Tyranitar"
+    ],
+    "attracts_zh": [
+      "班基拉斯"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:248",
+        "name_en": "Tyranitar",
+        "name_zh": "班基拉斯",
+        "image_url": "/images/pokemon/171.png"
+      }
+    ],
+    "image_url": "https://assets.pokopiadb.com/habitats/108.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-108.png",
+    "source_url": "https://pokopiadb.com/database/habitats/toil-in-the-soil"
+  },
+  {
+    "key": "habitat:HAB-109",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-109",
+    "name": "欢乐水洼",
+    "name_zh": "欢乐水洼",
+    "name_en": "Uplifting duckweed",
+    "required": "浮萍 ×4 / 水 ×2",
+    "required_zh": "浮萍 ×4 / 水 ×2",
+    "required_items": [
+      {
+        "name": "Duckweed",
+        "qty": 4,
+        "name_zh": "浮萍",
+        "is_env": true
+      },
+      {
+        "name": "Water",
+        "qty": 2,
+        "name_zh": "水",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Lotad",
+      "Ludicolo"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:270",
+        "name_en": "Lotad",
+        "name_zh": "莲叶童子",
+        "image_url": "/images/pokemon/172.png"
+      },
+      {
+        "key": "pokemon:272",
+        "name_en": "Ludicolo",
+        "name_zh": "乐天河童",
+        "image_url": "/images/pokemon/174.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-109.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-109.png",
+    "source_url": "https://pokopiadb.com/database/habitats/uplifting-duckweed"
+  },
+  {
+    "key": "habitat:HAB-110",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-110",
+    "name": "苔藓遍布",
+    "name_zh": "苔藓遍布",
+    "name_en": "Mossy rest spot",
+    "required": "苔藓 ×4",
+    "required_zh": "苔藓 ×4",
+    "required_items": [
+      {
+        "name": "Moss",
+        "qty": 4,
+        "name_zh": "苔藓",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Larvitar",
+      "Tyranitar"
+    ],
+    "attracts_zh": [
+      "幼基拉斯",
+      "班基拉斯"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:246",
+        "name_en": "Larvitar",
+        "name_zh": "幼基拉斯",
+        "image_url": "/images/pokemon/169.png"
+      },
+      {
+        "key": "pokemon:248",
+        "name_en": "Tyranitar",
+        "name_zh": "班基拉斯",
+        "image_url": "/images/pokemon/171.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-110.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-110.png",
+    "source_url": "https://pokopiadb.com/database/habitats/mossy-rest-spot"
+  },
+  {
+    "key": "habitat:HAB-111",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-111",
+    "name": "长满苔藓的岩石",
+    "name_zh": "长满苔藓的岩石",
+    "name_en": "Mossy boulder",
+    "required": "苔藓岩石 ×1 / 苔藓 ×4",
+    "required_zh": "苔藓岩石 ×1 / 苔藓 ×4",
+    "required_items": [
+      {
+        "name": "Mossy boulder",
+        "qty": 1,
+        "name_zh": "苔藓岩石",
+        "is_env": true
+      },
+      {
+        "name": "Moss",
+        "qty": 4,
+        "name_zh": "苔藓",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Graveler",
+      "Golem"
+    ],
+    "attracts_zh": [
+      "隆隆石",
+      "隆隆岩"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:75",
+        "name_en": "Graveler",
+        "name_zh": "隆隆石",
+        "image_url": "/images/pokemon/160.png"
+      },
+      {
+        "key": "pokemon:76",
+        "name_en": "Golem",
+        "name_zh": "隆隆岩",
+        "image_url": "/images/pokemon/161.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-111.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-111.png",
+    "source_url": "https://pokopiadb.com/database/habitats/mossy-boulder"
+  },
+  {
+    "key": "habitat:HAB-112",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-112",
+    "name": "長滿青苔的溫泉",
+    "name_zh": "長滿青苔的溫泉",
+    "name_en": "Hot spring",
+    "required": "温泉水 ×2 / 苔藓 ×4",
+    "required_zh": "温泉水 ×2 / 苔藓 ×4",
+    "required_items": [
+      {
+        "name": "Hot spring water",
+        "qty": 2,
+        "name_zh": "温泉水",
+        "is_env": true
+      },
+      {
+        "name": "Moss",
+        "qty": 4,
+        "name_zh": "苔藓",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Torkoal"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:324",
+        "name_en": "Torkoal",
+        "name_zh": "煤炭龟",
+        "image_url": "https://assets.pokopiaguide.com/pokemon/torkoal.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-112.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-112.png",
+    "source_url": "https://pokopiadb.com/database/habitats/hot-spring"
+  },
+  {
+    "key": "habitat:HAB-113",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-113",
+    "name": "露天温泉",
+    "name_zh": "露天温泉",
+    "name_en": "Open air bath",
+    "required": "温泉喷口 ×1 / 温泉水 ×2",
+    "required_zh": "温泉喷口 ×1 / 温泉水 ×2",
+    "required_items": [
+      {
+        "name": "Hot spring spout",
+        "qty": 1,
+        "name_zh": "温泉出水口"
+      },
+      {
+        "name": "Hot spring water",
+        "qty": 2,
+        "name_zh": "温泉水",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Raboot"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:814",
+        "name_en": "Raboot",
+        "name_zh": "腾蹴小将",
+        "image_url": "/images/pokemon/189.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-113.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-113.png",
+    "source_url": "https://pokopiadb.com/database/habitats/open-air-bath"
+  },
+  {
+    "key": "habitat:HAB-114",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-114",
+    "name": "疗愈温泉",
+    "name_zh": "疗愈温泉",
+    "name_en": "Harmonious hot spring",
+    "required": "温泉喷口 ×1 / 水盆 ×1 / 温泉水 ×2",
+    "required_zh": "温泉喷口 ×1 / 水盆 ×1 / 温泉水 ×2",
+    "required_items": [
+      {
+        "name": "Hot spring spout",
+        "qty": 1,
+        "name_zh": "温泉出水口"
+      },
+      {
+        "name": "Water basin",
+        "qty": 1,
+        "name_zh": "水盆",
+        "is_env": true
+      },
+      {
+        "name": "Hot spring water",
+        "qty": 2,
+        "name_zh": "温泉水",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Politoed"
+    ],
+    "attracts_zh": [
+      "蚊香蛙皇"
+    ],
+    "attract_refs": [],
+    "image_url": "/images/habitats/HAB-114.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-114.png",
+    "source_url": "https://pokopiadb.com/database/habitats/harmonious-hot-spring"
+  },
+  {
+    "key": "habitat:HAB-115",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-115",
+    "name": "岩浆热呼呼",
+    "name_zh": "岩浆热呼呼",
+    "name_en": "Piping hot lava",
+    "required": "熔岩岩石 ×1 / 熔岩 ×2",
+    "required_zh": "熔岩岩石 ×1 / 熔岩 ×2",
+    "required_items": [
+      {
+        "name": "Molten rock",
+        "qty": 1,
+        "name_zh": "熔岩岩石",
+        "is_env": true
+      },
+      {
+        "name": "Lava",
+        "qty": 2,
+        "name_zh": "熔岩",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Charcadet",
+      "Volcarona"
+    ],
+    "attracts_zh": [
+      "炭小侍",
+      "火神蛾"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:935",
+        "name_en": "Charcadet",
+        "name_zh": "炭小侍",
+        "image_url": "/images/pokemon/200.png"
+      },
+      {
+        "key": "pokemon:637",
+        "name_en": "Volcarona",
+        "name_zh": "火神蛾",
+        "image_url": "/images/pokemon/184.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-115.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-115.png",
+    "source_url": "https://pokopiadb.com/database/habitats/piping-hot-lava"
+  },
+  {
+    "key": "habitat:HAB-116",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-116",
+    "name": "挖掘与燃烧",
+    "name_zh": "挖掘与燃烧",
+    "name_en": "Digging and burning",
+    "required": "独轮手推车 ×1 / 冶炼炉 ×1 / 挖掘工具 ×1",
+    "required_zh": "独轮手推车 ×1 / 冶炼炉 ×1 / 挖掘工具 ×1",
+    "required_items": [
+      {
+        "name": "Wheelbarrow",
+        "qty": 1,
+        "name_zh": "手推车"
+      },
+      {
+        "name": "Smelting furnace",
+        "qty": 1,
+        "name_zh": "熔炉"
+      },
+      {
+        "name": "Excavation tools",
+        "qty": 1,
+        "name_zh": "挖掘工具"
+      }
+    ],
+    "attracts": [
+      "Magmar"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:126",
+        "name_en": "Magmar",
+        "name_zh": "鸭嘴火兽",
+        "image_url": "/images/pokemon/163.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-116.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-116.png",
+    "source_url": "https://pokopiadb.com/database/habitats/digging-and-burning"
+  },
+  {
+    "key": "habitat:HAB-117",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-117",
+    "name": "叮当铁骨工程",
+    "name_zh": "叮当铁骨工程",
+    "name_en": "Clink-clang iron construction",
+    "required": "铁梁 ×3 / 独轮手推车 ×1 / 沙包袋 ×1 / 挖掘工具 ×1",
+    "required_zh": "铁梁 ×3 / 独轮手推车 ×1 / 沙包袋 ×1 / 挖掘工具 ×1",
+    "required_items": [
+      {
+        "name": "Iron beam",
+        "qty": 3,
+        "name_zh": "横铁骨"
+      },
+      {
+        "name": "Wheelbarrow",
+        "qty": 1,
+        "name_zh": "手推车"
+      },
+      {
+        "name": "Sandbags",
+        "qty": 1,
+        "name_zh": "沙包"
+      },
+      {
+        "name": "Excavation tools",
+        "qty": 1,
+        "name_zh": "挖掘工具"
+      }
+    ],
+    "attracts": [
+      "Steelix",
+      "Machamp"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:208",
+        "name_en": "Steelix",
+        "name_zh": "大钢蛇",
+        "image_url": "/images/pokemon/031.png"
+      },
+      {
+        "key": "pokemon:68",
+        "name_en": "Machamp",
+        "name_zh": "怪力",
+        "image_url": "/images/pokemon/158.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-117.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-117.png",
+    "source_url": "https://pokopiadb.com/database/habitats/clink-clang-iron-construction"
+  },
+  {
+    "key": "habitat:HAB-118",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-118",
+    "name": "诡异白色岩石",
+    "name_zh": "诡异白色岩石",
+    "name_en": "Creepy white rocks",
+    "required": "石笋 ×1 / 苔藓 ×4 / 木箱 ×1 / 灯笼 ×1",
+    "required_zh": "石笋 ×1 / 苔藓 ×4 / 木箱 ×1 / 灯笼 ×1",
+    "required_items": [
+      {
+        "name": "Stalagmites",
+        "qty": 1,
+        "name_zh": "石笋",
+        "is_env": true
+      },
+      {
+        "name": "Moss",
+        "qty": 4,
+        "name_zh": "苔藓",
+        "is_env": true
+      },
+      {
+        "name": "Wooden crate",
+        "qty": 1,
+        "name_zh": "木箱"
+      },
+      {
+        "name": "Lantern",
+        "qty": 1,
+        "name_zh": "提灯"
+      }
+    ],
+    "attracts": [
+      "Glimmet",
+      "Glimmora"
+    ],
+    "attracts_zh": [
+      "晶光芽"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:969",
+        "name_en": "Glimmet",
+        "name_zh": "晶光芽",
+        "image_url": "/images/pokemon/203.png"
+      },
+      {
+        "key": "pokemon:970",
+        "name_en": "Glimmora",
+        "name_zh": "晶光花",
+        "image_url": "/images/pokemon/204.png"
+      }
+    ],
+    "image_url": "https://assets.pokopiadb.com/habitats/118.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-118.png",
+    "source_url": "https://pokopiadb.com/database/habitats/creepy-white-rocks"
+  },
+  {
+    "key": "habitat:HAB-119",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-119",
+    "name": "仓库偷吃",
+    "name_zh": "仓库偷吃",
+    "name_en": "Container snacking",
+    "required": "Barrel x1, Wooden crate x1, Lantern x1, Plated food x1",
+    "required_zh": "木桶 ×1 / 木箱 ×1 / 灯笼 ×1 / 盘子上的食物 ×1",
+    "required_items": [
+      {
+        "name": "Barrel",
+        "qty": 1,
+        "name_zh": "木桶"
+      },
+      {
+        "name": "Wooden crate",
+        "qty": 1,
+        "name_zh": "木箱"
+      },
+      {
+        "name": "Lantern",
+        "qty": 1,
+        "name_zh": "提灯"
+      },
+      {
+        "name": "Plated food",
+        "qty": 1,
+        "name_zh": "盘装食物"
+      }
+    ],
+    "attracts": [
+      "Diglett",
+      "Glimmet",
+      "Glimmora"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:50",
+        "name_en": "Diglett",
+        "name_zh": "地鼠",
+        "image_url": "/images/pokemon/154.png"
+      },
+      {
+        "key": "pokemon:969",
+        "name_en": "Glimmet",
+        "name_zh": "晶光芽",
+        "image_url": "/images/pokemon/203.png"
+      },
+      {
+        "key": "pokemon:970",
+        "name_en": "Glimmora",
+        "name_zh": "晶光花",
+        "image_url": "/images/pokemon/204.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-119.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-119.png",
+    "source_url": "https://pokopiadb.com/database/habitats/container-snacking"
+  },
+  {
+    "key": "habitat:HAB-120",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-120",
+    "name": "令人兴奋的餐桌",
+    "name_zh": "令人兴奋的餐桌",
+    "name_en": "Dinner table surprise",
+    "required": "Seat (wide) x2, Table (large) x1, Party platter x4",
+    "required_zh": "长条椅 ×2 / 大型桌子 ×1 / 拼盘 ×4",
+    "required_items": [
+      {
+        "name": "Seat (wide)",
+        "qty": 2,
+        "name_zh": "长条椅"
+      },
+      {
+        "name": "Table (large)",
+        "qty": 1,
+        "name_zh": "大型桌子"
+      },
+      {
+        "name": "Party platter",
+        "qty": 4,
+        "name_zh": "派对餐盘"
+      }
+    ],
+    "attracts": [
+      "Swalot"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:317",
+        "name_en": "Swalot",
+        "name_zh": "吞食兽",
+        "image_url": "/images/pokemon/054.png"
+      }
+    ],
+    "image_url": "https://assets.pokopiadb.com/habitats/120.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-120.png",
+    "source_url": "https://pokopiadb.com/database/habitats/dinner-table-surprise"
+  },
+  {
+    "key": "habitat:HAB-121",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-121",
+    "name": "大口面包工坊",
+    "name_zh": "大口面包工坊",
+    "name_en": "Best bread bakery",
+    "required": "烤面包炉 ×1 / 柜台 ×2 / 盘子上的食物 ×1",
+    "required_zh": "烤面包炉 ×1 / 柜台 ×2 / 盘子上的食物 ×1",
+    "required_items": [
+      {
+        "name": "Bread oven",
+        "qty": 1,
+        "name_zh": "面包窑"
+      },
+      {
+        "name": "Counter",
+        "qty": 2,
+        "name_zh": "柜台"
+      },
+      {
+        "name": "Plated food",
+        "qty": 1,
+        "name_zh": "盘装食物"
+      }
+    ],
+    "attracts": [
+      "Combusken",
+      "Blaziken"
+    ],
+    "attracts_zh": [
+      "狗仔包"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:256",
+        "name_en": "Combusken",
+        "name_zh": "力壮鸡",
+        "image_url": "/images/pokemon/121.png"
+      },
+      {
+        "key": "pokemon:257",
+        "name_en": "Blaziken",
+        "name_zh": "火焰鸡",
+        "image_url": "/images/pokemon/122.png"
+      }
+    ],
+    "image_url": "https://assets.pokopiadb.com/habitats/121.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-121.png",
+    "source_url": "https://pokopiadb.com/database/habitats/best-bread-bakery"
+  },
+  {
+    "key": "habitat:HAB-122",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-122",
+    "name": "迷你厨房",
+    "name_zh": "迷你厨房",
+    "name_en": "Mini kitchen",
+    "required": "厨房桌 ×1 / 炉灶 ×1 / 平底锅 ×1 / 现代水槽 ×1",
+    "required_zh": "厨房桌 ×1 / 炉灶 ×1 / 平底锅 ×1 / 现代水槽 ×1",
+    "required_items": [
+      {
+        "name": "Kitchen table",
+        "qty": 1,
+        "name_zh": "厨房桌"
+      },
+      {
+        "name": "Cooking stove",
+        "qty": 1,
+        "name_zh": "炉灶"
+      },
+      {
+        "name": "Frying pan",
+        "qty": 1,
+        "name_zh": "平底锅"
+      },
+      {
+        "name": "Modern sink",
+        "qty": 1,
+        "name_zh": "水槽"
+      }
+    ],
+    "attracts": [
+      "Magmortar"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:467",
+        "name_en": "Magmortar",
+        "name_zh": "鸭嘴炎兽",
+        "image_url": "/images/pokemon/164.png"
+      }
+    ],
+    "image_url": "https://assets.pokopiadb.com/habitats/122.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-122.png",
+    "source_url": "https://pokopiadb.com/database/habitats/mini-kitchen"
+  },
+  {
+    "key": "habitat:HAB-123",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-123",
+    "name": "大家来派对",
+    "name_zh": "大家来派对",
+    "name_en": "House party",
+    "required": "食物柜台 ×1 / 纸杯 ×1 / 盘子上的食物 ×1",
+    "required_zh": "食物柜台 ×1 / 纸杯 ×1 / 盘子上的食物 ×1",
+    "required_items": [
+      {
+        "name": "Food counter",
+        "qty": 1,
+        "name_zh": "餐饮柜台"
+      },
+      {
+        "name": "Paper party cups",
+        "qty": 1,
+        "name_zh": "派对纸杯"
+      },
+      {
+        "name": "Plated food",
+        "qty": 1,
+        "name_zh": "盘装食物"
+      }
+    ],
+    "attracts": [
+      "Dugtrio",
+      "Sudowoodo"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/123.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-123.png",
+    "source_url": "https://pokopiadb.com/database/habitats/house-party"
+  },
+  {
+    "key": "habitat:HAB-124",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-124",
+    "name": "悠闲回顾相簿",
+    "name_zh": "悠闲回顾相簿",
+    "name_en": "Lazy photo album scrolling",
+    "required": "平板电脑 ×1 / 纸杯 ×1",
+    "required_zh": "平板电脑 ×1 / 纸杯 ×1",
+    "required_items": [
+      {
+        "name": "Tablet",
+        "qty": 1,
+        "name_zh": "平板电脑"
+      },
+      {
+        "name": "Paper party cups",
+        "qty": 1,
+        "name_zh": "派对纸杯"
+      }
+    ],
+    "attracts": [
+      "Toxel"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:848",
+        "name_en": "Toxel",
+        "name_zh": "电音婴",
+        "image_url": "/images/pokemon/196.png"
+      }
+    ],
+    "image_url": "https://assets.pokopiadb.com/habitats/124.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-124.png",
+    "source_url": "https://pokopiadb.com/database/habitats/lazy-photo-album-scrolling"
+  },
+  {
+    "key": "habitat:HAB-125",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-125",
+    "name": "鸟鸣演奏会",
+    "name_zh": "鸟鸣演奏会",
+    "name_en": "Chirping recital",
+    "required": "栖木 ×1 / 立式麦克风 ×1",
+    "required_zh": "栖木 ×1 / 立式麦克风 ×1",
+    "required_items": [
+      {
+        "name": "Perch",
+        "qty": 1,
+        "name_zh": "栖木"
+      },
+      {
+        "name": "Standing mic",
+        "qty": 1,
+        "name_zh": "立式麦克风"
+      }
+    ],
+    "attracts": [
+      "Chatot",
+      "Honchkrow"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "/images/habitats/HAB-125.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-125.png",
+    "source_url": "https://pokopiadb.com/database/habitats/chirping-recital"
+  },
+  {
+    "key": "habitat:HAB-126",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-126",
+    "name": "演奏会舞台",
+    "name_zh": "演奏会舞台",
+    "name_en": "Recital stage",
+    "required": "小舞台 ×1 / 喇叭 ×2 / 立式麦克风 ×1",
+    "required_zh": "小舞台 ×1 / 喇叭 ×2 / 立式麦克风 ×1",
+    "required_items": [
+      {
+        "name": "Small stage",
+        "qty": 1,
+        "name_zh": "小舞台"
+      },
+      {
+        "name": "Speaker",
+        "qty": 2,
+        "name_zh": "喇叭"
+      },
+      {
+        "name": "Standing mic",
+        "qty": 1,
+        "name_zh": "立式麦克风"
+      }
+    ],
+    "attracts": [
+      "Jigglypuff",
+      "Wigglytuff"
+    ],
+    "attracts_zh": [
+      "胖丁",
+      "胖可丁"
+    ],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/126.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-126.png",
+    "source_url": "https://pokopiadb.com/database/habitats/recital-stage"
+  },
+  {
+    "key": "habitat:HAB-127",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-127",
+    "name": "配合節奏一二",
+    "name_zh": "配合節奏一二",
+    "name_en": "Boxing to the rhythm",
+    "required": "沙包 ×1 / 桌子（任意） ×1 / CD播放器 ×1",
+    "required_zh": "沙包 ×1 / 桌子（任意） ×1 / CD播放器 ×1",
+    "required_items": [
+      {
+        "name": "Punching bag",
+        "qty": 1,
+        "name_zh": "沙包"
+      },
+      {
+        "name": "Table (any)",
+        "qty": 1,
+        "name_zh": "桌子（任意）"
+      },
+      {
+        "name": "Cd player",
+        "qty": 1,
+        "name_zh": "CD播放器"
+      }
+    ],
+    "attracts": [
+      "Machoke",
+      "Riolu",
+      "Lucario"
+    ],
+    "attracts_zh": [
+      "豪力"
+    ],
+    "attract_refs": [],
+    "image_url": "/images/habitats/HAB-127.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-127.png",
+    "source_url": "https://pokopiadb.com/database/habitats/boxing-to-the-rhythm"
+  },
+  {
+    "key": "habitat:HAB-128",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-128",
+    "name": "音乐与阅读",
+    "name_zh": "音乐与阅读",
+    "name_en": "Music and magazines",
+    "required": "CD播放器 ×1 / 杂志架 ×1 / CD架 ×1",
+    "required_zh": "CD播放器 ×1 / 杂志架 ×1 / CD架 ×1",
+    "required_items": [
+      {
+        "name": "Cd player",
+        "qty": 1,
+        "name_zh": "CD播放器"
+      },
+      {
+        "name": "Magazine rack",
+        "qty": 1,
+        "name_zh": "杂志架"
+      },
+      {
+        "name": "Cd rack",
+        "qty": 1,
+        "name_zh": "CD架"
+      }
+    ],
+    "attracts": [
+      "Kricketot",
+      "Kricketune",
+      "Rotom"
+    ],
+    "attracts_zh": [
+      "音箱蟀"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:401",
+        "name_en": "Kricketot",
+        "name_zh": "圆法师",
+        "image_url": "/images/pokemon/177.png"
+      },
+      {
+        "key": "pokemon:402",
+        "name_en": "Kricketune",
+        "name_zh": "音箱蟀",
+        "image_url": "/images/pokemon/178.png"
+      },
+      {
+        "key": "pokemon:479",
+        "name_en": "Rotom",
+        "name_zh": "洛托姆",
+        "image_url": "/images/pokemon/182.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-128.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-128.png",
+    "source_url": "https://pokopiadb.com/database/habitats/music-and-magazines"
+  },
+  {
+    "key": "habitat:HAB-129",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-129",
+    "name": "小博物馆",
+    "name_zh": "小博物馆",
+    "name_en": "Mini museum",
+    "required": "告示牌（任意） ×3 / 巨大遗迹 ×1 / 展示台 ×1",
+    "required_zh": "告示牌（任意） ×3 / 巨大遗迹 ×1 / 展示台 ×1",
+    "required_items": [
+      {
+        "name": "Post (any)",
+        "qty": 3,
+        "name_zh": "告示牌（任意）"
+      },
+      {
+        "name": "Lost relic (large)",
+        "qty": 1,
+        "name_zh": "巨大遗迹"
+      },
+      {
+        "name": "Exhibition stand",
+        "qty": 1,
+        "name_zh": "展示台"
+      }
+    ],
+    "attracts": [
+      "Arcanine",
+      "Gimmighoul"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:59",
+        "name_en": "Arcanine",
+        "name_zh": "风速狗",
+        "image_url": "/images/pokemon/089.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-129.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-129.png",
+    "source_url": "https://pokopiadb.com/database/habitats/mini-museum"
+  },
+  {
+    "key": "habitat:HAB-130",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-130",
+    "name": "清爽更衣室",
+    "name_zh": "清爽更衣室",
+    "name_en": "Refreshing locker room",
+    "required": "办公室储物柜 ×2 / 盆栽（任意） ×1 / 长条椅 ×1 / 打靶游戏机 ×1",
+    "required_zh": "办公室储物柜 ×2 / 盆栽（任意） ×1 / 长条椅 ×1 / 打靶游戏机 ×1",
+    "required_items": [
+      {
+        "name": "Office locker",
+        "qty": 2,
+        "name_zh": "办公室储物柜"
+      },
+      {
+        "name": "Potted plant (any)",
+        "qty": 1,
+        "name_zh": "盆栽（任意）"
+      },
+      {
+        "name": "Seat (wide)",
+        "qty": 1,
+        "name_zh": "长条椅"
+      },
+      {
+        "name": "Punching game",
+        "qty": 1,
+        "name_zh": "拳击游戏机"
+      }
+    ],
+    "attracts": [
+      "Raboot",
+      "Cinderace"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:814",
+        "name_en": "Raboot",
+        "name_zh": "腾蹴小将",
+        "image_url": "/images/pokemon/189.png"
+      },
+      {
+        "key": "pokemon:815",
+        "name_en": "Cinderace",
+        "name_zh": "闪焰王牌",
+        "image_url": "/images/pokemon/190.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-130.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-130.png",
+    "source_url": "https://pokopiadb.com/database/habitats/refreshing-locker-room"
+  },
+  {
+    "key": "habitat:HAB-131",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-131",
+    "name": "铜像观光点",
+    "name_zh": "铜像观光点",
+    "name_en": "Bronze landmark",
+    "required": "篱笆 ×4 / 招牌 ×1 / 月光舞蹈雕像 ×1",
+    "required_zh": "篱笆 ×4 / 招牌 ×1 / 月光舞蹈雕像 ×1",
+    "required_items": [
+      {
+        "name": "Hedge",
+        "qty": 4,
+        "name_zh": "篱笆"
+      },
+      {
+        "name": "Sign",
+        "qty": 1,
+        "name_zh": "招牌"
+      },
+      {
+        "name": "Moonlight dance statue",
+        "qty": 1,
+        "name_zh": "月夜之舞雕像套件"
+      }
+    ],
+    "attracts": [
+      "Clefairy",
+      "Clefable"
+    ],
+    "attracts_zh": [
+      "皮皮",
+      "皮可西"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:35",
+        "name_en": "Clefairy",
+        "name_zh": "皮皮",
+        "image_url": "/images/pokemon/149.png"
+      },
+      {
+        "key": "pokemon:36",
+        "name_en": "Clefable",
+        "name_zh": "皮可西",
+        "image_url": "/images/pokemon/150.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-131.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-131.png",
+    "source_url": "https://pokopiadb.com/database/habitats/bronze-landmark"
+  },
+  {
+    "key": "habitat:HAB-132",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-132",
+    "name": "平交道",
+    "name_zh": "平交道",
+    "name_en": "Railroad crossing",
+    "required": "铁轨 ×1 / 平交道栏杆 ×1",
+    "required_zh": "铁轨 ×1 / 平交道栏杆 ×1",
+    "required_items": [
+      {
+        "name": "Railway track",
+        "qty": 1,
+        "name_zh": "铁轨"
+      },
+      {
+        "name": "Crossing gate",
+        "qty": 1,
+        "name_zh": "栅栏"
+      }
+    ],
+    "attracts": [
+      "Rolycoly",
+      "Carkol",
+      "Coalossal"
+    ],
+    "attracts_zh": [
+      "小炭仔"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:837",
+        "name_en": "Rolycoly",
+        "name_zh": "小炭仔",
+        "image_url": "/images/pokemon/193.png"
+      },
+      {
+        "key": "pokemon:838",
+        "name_en": "Carkol",
+        "name_zh": "大炭车",
+        "image_url": "/images/pokemon/194.png"
+      },
+      {
+        "key": "pokemon:839",
+        "name_en": "Coalossal",
+        "name_zh": "巨炭山",
+        "image_url": "/images/pokemon/195.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-132.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-132.png",
+    "source_url": "https://pokopiadb.com/database/habitats/railroad-crossing"
+  },
+  {
+    "key": "habitat:HAB-133",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-133",
+    "name": "主厨的厨房",
+    "name_zh": "主厨的厨房",
+    "name_en": "Chef's kitchen",
+    "required": "炉灶 ×1 / 简约桌 ×1 / 砧板 ×1 / 现代水槽 ×1 / 时尚料理锅 ×1 / 盘子上的食物 ×1",
+    "required_zh": "炉灶 ×1 / 简约桌 ×1 / 砧板 ×1 / 现代水槽 ×1 / 时尚料理锅 ×1 / 盘子上的食物 ×1",
+    "required_items": [
+      {
+        "name": "Cooking stove",
+        "qty": 1,
+        "name_zh": "炉灶"
+      },
+      {
+        "name": "Plain table",
+        "qty": 1,
+        "name_zh": "木桌"
+      },
+      {
+        "name": "Cutting board",
+        "qty": 1,
+        "name_zh": "砧板"
+      },
+      {
+        "name": "Modern sink",
+        "qty": 1,
+        "name_zh": "水槽"
+      },
+      {
+        "name": "Stylish cooking pot",
+        "qty": 1,
+        "name_zh": "时尚锅"
+      },
+      {
+        "name": "Plated food",
+        "qty": 1,
+        "name_zh": "盘装食物"
+      }
+    ],
+    "attracts": [
+      "Greedent"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:820",
+        "name_en": "Greedent",
+        "name_zh": "藏饱栗鼠",
+        "image_url": "/images/pokemon/192.png"
+      }
+    ],
+    "image_url": "https://assets.pokopiadb.com/habitats/133.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-133.png",
+    "source_url": "https://pokopiadb.com/database/habitats/chef-s-kitchen"
+  },
+  {
+    "key": "habitat:HAB-134",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-134",
+    "name": "极致奢华",
+    "name_zh": "极致奢华",
+    "name_en": "Absolute luxury",
+    "required": "Luxury bed x1, Luxury sofa x1, Luxury table x1, Luxury lamp x1",
+    "required_zh": "豪华床 ×1 / 豪华沙发 ×1 / 豪华桌 ×1 / 豪华灯 ×1",
+    "required_items": [
+      {
+        "name": "Luxury bed",
+        "qty": 1,
+        "name_zh": "豪华床"
+      },
+      {
+        "name": "Luxury sofa",
+        "qty": 1,
+        "name_zh": "豪华沙发"
+      },
+      {
+        "name": "Luxury table",
+        "qty": 1,
+        "name_zh": "豪华桌"
+      },
+      {
+        "name": "Luxury lamp",
+        "qty": 1,
+        "name_zh": "豪华灯"
+      }
+    ],
+    "attracts": [
+      "Gholdengo"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/134.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-134.png",
+    "source_url": "https://pokopiadb.com/database/habitats/absolute-luxury"
+  },
+  {
+    "key": "habitat:HAB-135",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-135",
+    "name": "沉甸甸的铁",
+    "name_zh": "沉甸甸的铁",
+    "name_en": "Heavy iron",
+    "required": "Iron bed x1, Iron chair x1, Iron table x1, Lantern x1",
+    "required_zh": "铁制床 ×1 / 铁制椅 ×1 / 铁制桌 ×1 / 灯笼 ×1",
+    "required_items": [
+      {
+        "name": "Iron bed",
+        "qty": 1,
+        "name_zh": "铁床"
+      },
+      {
+        "name": "Iron chair",
+        "qty": 1,
+        "name_zh": "铁椅"
+      },
+      {
+        "name": "Iron table",
+        "qty": 1,
+        "name_zh": "铁桌"
+      },
+      {
+        "name": "Lantern",
+        "qty": 1,
+        "name_zh": "提灯"
+      }
+    ],
+    "attracts": [
+      "Coalossal"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/135.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-135.png",
+    "source_url": "https://pokopiadb.com/database/habitats/heavy-iron"
+  },
+  {
+    "key": "habitat:HAB-136",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-136",
+    "name": "现代生活",
+    "name_zh": "现代生活",
+    "name_en": "Modern living",
+    "required": "Industrial bed x1, Industrial desk x1, Industrial chair x1",
+    "required_zh": "工业风床 ×1 / 工业风书桌 ×1 / 工业风椅 ×1",
+    "required_items": [
+      {
+        "name": "Industrial bed",
+        "qty": 1,
+        "name_zh": "工业风床"
+      },
+      {
+        "name": "Industrial desk",
+        "qty": 1,
+        "name_zh": "工业风书桌"
+      },
+      {
+        "name": "Industrial chair",
+        "qty": 1,
+        "name_zh": "工业风椅"
+      }
+    ],
+    "attracts": [
+      "Decidueye"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/136.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-136.png",
+    "source_url": "https://pokopiadb.com/database/habitats/modern-living"
+  },
+  {
+    "key": "habitat:HAB-137",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-137",
+    "name": "粉红色草丛",
+    "name_zh": "粉红色草丛",
+    "name_en": "Pink tall grass",
+    "required": "粉红高草 ×4",
+    "required_zh": "粉红高草 ×4",
+    "required_items": [
+      {
+        "name": "Pink tall grass",
+        "qty": 4,
+        "name_zh": "粉红高草",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Trapinch",
+      "Vibrava",
+      "Swablu",
+      "Duskull"
+    ],
+    "attracts_zh": [
+      "沙漠蜻蜓"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:328",
+        "name_en": "Trapinch",
+        "name_zh": "大颚蚁",
+        "image_url": "https://assets.pokopiaguide.com/pokemon/trapinch.png"
+      },
+      {
+        "key": "pokemon:329",
+        "name_en": "Vibrava",
+        "name_zh": "超音波幼虫",
+        "image_url": "/images/pokemon/238.png"
+      },
+      {
+        "key": "pokemon:333",
+        "name_en": "Swablu",
+        "name_zh": "青绵鸟",
+        "image_url": "/images/pokemon/240.png"
+      },
+      {
+        "key": "pokemon:355",
+        "name_en": "Duskull",
+        "name_zh": "夜巡灵",
+        "image_url": "/images/pokemon/242.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-137.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-137.png",
+    "source_url": "https://pokopiadb.com/database/habitats/pink-tall-grass"
+  },
+  {
+    "key": "habitat:HAB-138",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-138",
+    "name": "树荫粉红色草丛",
+    "name_zh": "树荫粉红色草丛",
+    "name_en": "Tree-shaded pink tall grass",
+    "required": "大树（任意） ×1 / 粉红高草 ×4",
+    "required_zh": "大树（任意） ×1 / 粉红高草 ×4",
+    "required_items": [
+      {
+        "name": "Large tree (any)",
+        "qty": 1,
+        "name_zh": "大树（任意）",
+        "is_env": true
+      },
+      {
+        "name": "Pink tall grass",
+        "qty": 4,
+        "name_zh": "粉红高草",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Sprigatito",
+      "Dreepy",
+      "Drakloak",
+      "Pupitar"
+    ],
+    "attracts_zh": [
+      "沙基拉斯"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:906",
+        "name_en": "Sprigatito",
+        "name_zh": "新叶喵",
+        "image_url": "/images/pokemon/263.png"
+      },
+      {
+        "key": "pokemon:885",
+        "name_en": "Dreepy",
+        "name_zh": "多龙梅西亚",
+        "image_url": "/images/pokemon/260.png"
+      },
+      {
+        "key": "pokemon:886",
+        "name_en": "Drakloak",
+        "name_zh": "多龙奇",
+        "image_url": "/images/pokemon/261.png"
+      },
+      {
+        "key": "pokemon:247",
+        "name_en": "Pupitar",
+        "name_zh": "沙基拉斯",
+        "image_url": "/images/pokemon/170.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-138.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-138.png",
+    "source_url": "https://pokopiadb.com/database/habitats/tree-shaded-pink-tall-grass"
+  },
+  {
+    "key": "habitat:HAB-139",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-139",
+    "name": "湿润粉红色草丛",
+    "name_zh": "湿润粉红色草丛",
+    "name_en": "Hydrated pink tall grass",
+    "required": "粉红高草 ×4 / 水 ×2",
+    "required_zh": "粉红高草 ×4 / 水 ×2",
+    "required_items": [
+      {
+        "name": "Pink tall grass",
+        "qty": 4,
+        "name_zh": "粉红高草",
+        "is_env": true
+      },
+      {
+        "name": "Water",
+        "qty": 2,
+        "name_zh": "水",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Froakie",
+      "Frogadier"
+    ],
+    "attracts_zh": [
+      "呱呱泡蛙"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:656",
+        "name_en": "Froakie",
+        "name_zh": "呱呱泡蛙",
+        "image_url": "/images/pokemon/251.png"
+      },
+      {
+        "key": "pokemon:657",
+        "name_en": "Frogadier",
+        "name_zh": "呱头蛙",
+        "image_url": "/images/pokemon/252.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-139.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-139.png",
+    "source_url": "https://pokopiadb.com/database/habitats/hydrated-pink-tall-grass"
+  },
+  {
+    "key": "habitat:HAB-140",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-140",
+    "name": "高台粉红色草丛",
+    "name_zh": "高台粉红色草丛",
+    "name_en": "Elevated pink tall grass",
+    "required": "粉红高草 ×4 / 高处 ×1",
+    "required_zh": "粉红高草 ×4 / 高处 ×1",
+    "required_items": [
+      {
+        "name": "Pink tall grass",
+        "qty": 4,
+        "name_zh": "粉红高草",
+        "is_env": true
+      },
+      {
+        "name": "High-up location",
+        "qty": 1,
+        "name_zh": "高处",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Corvisquire",
+      "Corviknight",
+      "Wattrel",
+      "Kilowattrel"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:822",
+        "name_en": "Corvisquire",
+        "name_zh": "蓝鸦",
+        "image_url": "/images/pokemon/258.png"
+      },
+      {
+        "key": "pokemon:823",
+        "name_en": "Corviknight",
+        "name_zh": "钢铠鸦",
+        "image_url": "/images/pokemon/259.png"
+      },
+      {
+        "key": "pokemon:940",
+        "name_en": "Wattrel",
+        "name_zh": "电海燕",
+        "image_url": "/images/pokemon/266.png"
+      },
+      {
+        "key": "pokemon:941",
+        "name_en": "Kilowattrel",
+        "name_zh": "大电海燕",
+        "image_url": "/images/pokemon/267.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-140.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-140.png",
+    "source_url": "https://pokopiadb.com/database/habitats/elevated-pink-tall-grass"
+  },
+  {
+    "key": "habitat:HAB-141",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-141",
+    "name": "水管秘密基地",
+    "name_zh": "水管秘密基地",
+    "name_en": "Concrete pipe secret base",
+    "required": "混凝土管 ×3 / 高草（任意） ×3",
+    "required_zh": "混凝土管 ×3 / 高草（任意） ×3",
+    "required_items": [
+      {
+        "name": "Concrete pipe",
+        "qty": 3,
+        "name_zh": "水泥管"
+      },
+      {
+        "name": "Tall grass (any)",
+        "qty": 3,
+        "name_zh": "高草（任意）",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Cyndaquil"
+    ],
+    "attracts_zh": [
+      "火球鼠",
+      "火岩鼠"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:155",
+        "name_en": "Cyndaquil",
+        "name_zh": "火球鼠",
+        "image_url": "/images/pokemon/224.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-141.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-141.png",
+    "source_url": "https://pokopiadb.com/database/habitats/concrete-pipe-secret-base"
+  },
+  {
+    "key": "habitat:HAB-142",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-142",
+    "name": "蓬松花田",
+    "name_zh": "蓬松花田",
+    "name_en": "Fluffy flower bed",
+    "required": "浮岛花 ×4",
+    "required_zh": "浮岛花 ×4",
+    "required_items": [
+      {
+        "name": "Skyland flowers",
+        "qty": 4,
+        "name_zh": "浮岛花",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Vulpix",
+      "Ninetales",
+      "Rookidee",
+      "Misdreavus"
+    ],
+    "attracts_zh": [
+      "六尾",
+      "九尾",
+      "稚山雀"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:37",
+        "name_en": "Vulpix",
+        "name_zh": "六尾",
+        "image_url": "/images/pokemon/207.png"
+      },
+      {
+        "key": "pokemon:38",
+        "name_en": "Ninetales",
+        "name_zh": "九尾",
+        "image_url": "/images/pokemon/208.png"
+      },
+      {
+        "key": "pokemon:821",
+        "name_en": "Rookidee",
+        "name_zh": "稚山雀",
+        "image_url": "https://assets.pokopiaguide.com/pokemon/rookidee.png"
+      },
+      {
+        "key": "pokemon:200",
+        "name_en": "Misdreavus",
+        "name_zh": "梦妖",
+        "image_url": "/images/pokemon/227.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-142.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-142.png",
+    "source_url": "https://pokopiadb.com/database/habitats/fluffy-flower-bed"
+  },
+  {
+    "key": "habitat:HAB-143",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-143",
+    "name": "树荫蓬松花田",
+    "name_zh": "树荫蓬松花田",
+    "name_en": "Tree-shaded fluffy flower bed",
+    "required": "大树（任意） ×1 / 浮岛花 ×4",
+    "required_zh": "大树（任意） ×1 / 浮岛花 ×4",
+    "required_items": [
+      {
+        "name": "Large tree (any)",
+        "qty": 1,
+        "name_zh": "大树（任意）",
+        "is_env": true
+      },
+      {
+        "name": "Skyland flowers",
+        "qty": 4,
+        "name_zh": "浮岛花",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Girafarig",
+      "Servine",
+      "Farigiraf"
+    ],
+    "attracts_zh": [
+      "麒麟奇",
+      "青藤蛇"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:203",
+        "name_en": "Girafarig",
+        "name_zh": "麒麟奇",
+        "image_url": "/images/pokemon/229.png"
+      },
+      {
+        "key": "pokemon:496",
+        "name_en": "Servine",
+        "name_zh": "青藤蛇",
+        "image_url": "/images/pokemon/249.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-143.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-143.png",
+    "source_url": "https://pokopiadb.com/database/habitats/tree-shaded-fluffy-flower-bed"
+  },
+  {
+    "key": "habitat:HAB-144",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-144",
+    "name": "湿润蓬松花田",
+    "name_zh": "湿润蓬松花田",
+    "name_en": "Hydrated fluffy flower bed",
+    "required": "浮岛花 ×4 / 水 ×2",
+    "required_zh": "浮岛花 ×4 / 水 ×2",
+    "required_items": [
+      {
+        "name": "Skyland flowers",
+        "qty": 4,
+        "name_zh": "浮岛花",
+        "is_env": true
+      },
+      {
+        "name": "Water",
+        "qty": 2,
+        "name_zh": "水",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Dratini",
+      "Dragonair",
+      "Poliwhirl"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:147",
+        "name_en": "Dratini",
+        "name_zh": "迷你龙",
+        "image_url": "/images/pokemon/221.png"
+      },
+      {
+        "key": "pokemon:148",
+        "name_en": "Dragonair",
+        "name_zh": "哈克龙",
+        "image_url": "/images/pokemon/222.png"
+      },
+      {
+        "key": "pokemon:61",
+        "name_en": "Poliwhirl",
+        "name_zh": "蚊香君",
+        "image_url": "/images/pokemon/210.png"
+      }
+    ],
+    "image_url": "https://assets.pokopiadb.com/habitats/144.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-144.png",
+    "source_url": "https://pokopiadb.com/database/habitats/hydrated-fluffy-flower-bed"
+  },
+  {
+    "key": "habitat:HAB-145",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-145",
+    "name": "水边小船",
+    "name_zh": "水边小船",
+    "name_en": "Waterside dinghy",
+    "required": "独木舟 ×1 / 浮萍 ×2 / 水 ×2 / 高处 ×1",
+    "required_zh": "独木舟 ×1 / 浮萍 ×2 / 水 ×2 / 高处 ×1",
+    "required_items": [
+      {
+        "name": "Canoe",
+        "qty": 1,
+        "name_zh": "独木舟"
+      },
+      {
+        "name": "Duckweed",
+        "qty": 2,
+        "name_zh": "浮萍",
+        "is_env": true
+      },
+      {
+        "name": "Water",
+        "qty": 2,
+        "name_zh": "水",
+        "is_env": true
+      },
+      {
+        "name": "High-up location",
+        "qty": 1,
+        "name_zh": "高处",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Dragonite"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:149",
+        "name_en": "Dragonite",
+        "name_zh": "快龙",
+        "image_url": "/images/pokemon/223.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-145.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-145.png",
+    "source_url": "https://pokopiadb.com/database/habitats/waterside-dinghy"
+  },
+  {
+    "key": "habitat:HAB-146",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-146",
+    "name": "被照亮的瀑布",
+    "name_zh": "被照亮的瀑布",
+    "name_en": "Illuminated waterfall",
+    "required": "踏脚石 ×3 / 火把 ×2 / 水 ×3 / 瀑布 ×1",
+    "required_zh": "踏脚石 ×3 / 火把 ×2 / 水 ×3 / 瀑布 ×1",
+    "required_items": [
+      {
+        "name": "Stepping stone",
+        "qty": 3,
+        "name_zh": "踏脚石"
+      },
+      {
+        "name": "Torch",
+        "qty": 2,
+        "name_zh": "火把"
+      },
+      {
+        "name": "Water",
+        "qty": 3,
+        "name_zh": "水",
+        "is_env": true
+      },
+      {
+        "name": "Waterfall",
+        "qty": 1,
+        "name_zh": "瀑布",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Gyarados"
+    ],
+    "attracts_zh": [
+      "暴鲤龙"
+    ],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/146.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-146.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/habitat/illuminated-waterfall"
+  },
+  {
+    "key": "habitat:HAB-147",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-147",
+    "name": "鸟鸣花园",
+    "name_zh": "鸟鸣花园",
+    "name_en": "Birdsong garden",
+    "required": "可爱篱笆 ×1 / 木制鸟巢箱 ×1",
+    "required_zh": "可爱篱笆 ×1 / 木制鸟巢箱 ×1",
+    "required_items": [
+      {
+        "name": "Stylish hedge",
+        "qty": 1,
+        "name_zh": "可爱篱笆"
+      },
+      {
+        "name": "Wooden birdhouse",
+        "qty": 1,
+        "name_zh": "木制鸟巢箱"
+      }
+    ],
+    "attracts": [
+      "Altaria"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:334",
+        "name_en": "Altaria",
+        "name_zh": "七夕青鸟",
+        "image_url": "/images/pokemon/241.png"
+      }
+    ],
+    "image_url": "https://assets.pokopiadb.com/habitats/147.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-147.png",
+    "source_url": "https://pokopiadb.com/database/habitats/birdsong-garden"
+  },
+  {
+    "key": "habitat:HAB-148",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-148",
+    "name": "简约浴室",
+    "name_zh": "简约浴室",
+    "name_en": "Simple bathroom",
+    "required": "淋浴间 ×1 / 浴缸 ×1",
+    "required_zh": "淋浴间 ×1 / 浴缸 ×1",
+    "required_items": [
+      {
+        "name": "Shower",
+        "qty": 1,
+        "name_zh": "淋浴设备"
+      },
+      {
+        "name": "Bathtub",
+        "qty": 1,
+        "name_zh": "浴缸"
+      }
+    ],
+    "attracts": [
+      "Dratini",
+      "Dragonair"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/148.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-148.png",
+    "source_url": "https://pokopiadb.com/database/habitats/simple-bathroom"
+  },
+  {
+    "key": "habitat:HAB-149",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-149",
+    "name": "骑车途中休息",
+    "name_zh": "骑车途中休息",
+    "name_en": "Cycling rest stop",
+    "required": "Bike x1, Vending machine x1",
+    "required_zh": "自行车 ×1 / 自动贩卖机 ×1",
+    "required_items": [
+      {
+        "name": "Bike",
+        "qty": 1,
+        "name_zh": "脚踏车"
+      },
+      {
+        "name": "Vending machine",
+        "qty": 1,
+        "name_zh": "自动贩卖机"
+      }
+    ],
+    "attracts": [
+      "Beldum"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/149.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-149.png",
+    "source_url": "https://pokopiadb.com/database/habitats/cycling-rest-stop"
+  },
+  {
+    "key": "habitat:HAB-150",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-150",
+    "name": "壁炉旁小憩",
+    "name_zh": "壁炉旁小憩",
+    "name_en": "Fireplace nap spot",
+    "required": "石制壁炉 ×1 / 长条椅 ×1",
+    "required_zh": "石制壁炉 ×1 / 长条椅 ×1",
+    "required_items": [
+      {
+        "name": "Stone fireplace",
+        "qty": 1,
+        "name_zh": "石壁炉"
+      },
+      {
+        "name": "Seat (wide)",
+        "qty": 1,
+        "name_zh": "长条椅"
+      }
+    ],
+    "attracts": [
+      "Quilava",
+      "Typhlosion"
+    ],
+    "attracts_zh": [
+      "火岩鼠"
+    ],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/150.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-150.png",
+    "source_url": "https://pokopiadb.com/database/habitats/fireplace-nap-spot"
+  },
+  {
+    "key": "habitat:HAB-151",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-151",
+    "name": "满溢超能力",
+    "name_zh": "满溢超能力",
+    "name_en": "Surging psychic power",
+    "required": "简约靠垫 ×1 / 水晶球 ×1",
+    "required_zh": "简约靠垫 ×1 / 水晶球 ×1",
+    "required_items": [
+      {
+        "name": "Simple cushion",
+        "qty": 1,
+        "name_zh": "简约靠垫"
+      },
+      {
+        "name": "Crystal ball",
+        "qty": 1,
+        "name_zh": "水晶球"
+      }
+    ],
+    "attracts": [
+      "Alakazam"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:65",
+        "name_en": "Alakazam",
+        "name_zh": "胡地",
+        "image_url": "/images/pokemon/215.png"
+      }
+    ],
+    "image_url": "https://assets.pokopiadb.com/habitats/151.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-151.png",
+    "source_url": "https://pokopiadb.com/database/habitats/surging-psychic-power"
+  },
+  {
+    "key": "habitat:HAB-152",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-152",
+    "name": "水晶占卜",
+    "name_zh": "水晶占卜",
+    "name_en": "Fortune-teller's table",
+    "required": "椅子（任意） ×2 / 桌子（任意） ×1 / 水晶球 ×1",
+    "required_zh": "椅子（任意） ×2 / 桌子（任意） ×1 / 水晶球 ×1",
+    "required_items": [
+      {
+        "name": "Seat (any)",
+        "qty": 2,
+        "name_zh": "椅子（任意）"
+      },
+      {
+        "name": "Table (any)",
+        "qty": 1,
+        "name_zh": "桌子（任意）"
+      },
+      {
+        "name": "Crystal ball",
+        "qty": 1,
+        "name_zh": "水晶球"
+      }
+    ],
+    "attracts": [
+      "Abra",
+      "Kadabra"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:63",
+        "name_en": "Abra",
+        "name_zh": "凯西",
+        "image_url": "/images/pokemon/213.png"
+      }
+    ],
+    "image_url": "https://assets.pokopiadb.com/habitats/152.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-152.png",
+    "source_url": "https://pokopiadb.com/database/habitats/fortune-teller-s-table"
+  },
+  {
+    "key": "habitat:HAB-153",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-153",
+    "name": "垃圾场的电视",
+    "name_zh": "垃圾场的电视",
+    "name_en": "Trash site tv",
+    "required": "Garbage bags x2, Television x1",
+    "required_zh": "垃圾袋 ×2 / 电视 ×1",
+    "required_items": [
+      {
+        "name": "Garbage bags",
+        "qty": 2,
+        "name_zh": "垃圾袋"
+      },
+      {
+        "name": "Television",
+        "qty": 1,
+        "name_zh": "电视"
+      }
+    ],
+    "attracts": [
+      "Dusclops",
+      "Dusknoir"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/153.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-153.png",
+    "source_url": "https://pokopiadb.com/database/habitats/trash-site-tv"
+  },
+  {
+    "key": "habitat:HAB-154",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-154",
+    "name": "大型垃圾场",
+    "name_zh": "大型垃圾场",
+    "name_en": "Oversized dumping ground",
+    "required": "铁骨 ×3 / 轮胎 ×1 / 垃圾桶 ×1 / 微波炉 ×1",
+    "required_zh": "铁骨 ×3 / 轮胎 ×1 / 垃圾桶 ×1 / 微波炉 ×1",
+    "required_items": [
+      {
+        "name": "Iron bone",
+        "qty": 3,
+        "name_zh": "横铁骨"
+      },
+      {
+        "name": "Tire",
+        "qty": 1,
+        "name_zh": "轮胎"
+      },
+      {
+        "name": "Waste bin",
+        "qty": 1,
+        "name_zh": "垃圾桶"
+      },
+      {
+        "name": "Microwave",
+        "qty": 1,
+        "name_zh": "微波炉"
+      }
+    ],
+    "attracts": [
+      "Tinkatink",
+      "Tinkaton"
+    ],
+    "attracts_zh": [
+      "小锻匠",
+      "巨锻匠"
+    ],
+    "attract_refs": [],
+    "image_url": null,
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-154.png",
+    "source_url": "https://pokopiaguide.com/zh-Hans/habitat/oversized-dumping-ground"
+  },
+  {
+    "key": "habitat:HAB-155",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-155",
+    "name": "伙伴与侦讯",
+    "name_zh": "伙伴与侦讯",
+    "name_en": "Interrogation desk",
+    "required": "风速狗布偶 ×1 / 工业风书桌 ×1 / 折叠椅 ×1 / 桌灯 ×1",
+    "required_zh": "风速狗布偶 ×1 / 工业风书桌 ×1 / 折叠椅 ×1 / 桌灯 ×1",
+    "required_items": [
+      {
+        "name": "Arcanine doll",
+        "qty": 1,
+        "name_zh": "风速狗玩偶"
+      },
+      {
+        "name": "Industrial desk",
+        "qty": 1,
+        "name_zh": "工业风书桌"
+      },
+      {
+        "name": "Folding chair",
+        "qty": 1,
+        "name_zh": "折叠椅"
+      },
+      {
+        "name": "Desk light",
+        "qty": 1,
+        "name_zh": "桌灯"
+      }
+    ],
+    "attracts": [
+      "Sprigatito",
+      "Floragato"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/155.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-155.png",
+    "source_url": "https://pokopiadb.com/database/habitats/interrogation-desk"
+  },
+  {
+    "key": "habitat:HAB-156",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-156",
+    "name": "人孔盖检查中",
+    "name_zh": "人孔盖检查中",
+    "name_en": "Sewer hole inspection",
+    "required": "Iron pipes x1, Sewer-hole cover x1, Excavation tools x1, Traffic cone x1",
+    "required_zh": "铁管 ×1 / 下水道盖板 ×1 / 挖掘工具 ×1 / 警示锥 ×1",
+    "required_items": [
+      {
+        "name": "Iron pipes",
+        "qty": 1,
+        "name_zh": "堆叠铁管"
+      },
+      {
+        "name": "Sewer-hole cover",
+        "qty": 1,
+        "name_zh": "人孔盖"
+      },
+      {
+        "name": "Excavation tools",
+        "qty": 1,
+        "name_zh": "挖掘工具"
+      },
+      {
+        "name": "Traffic cone",
+        "qty": 1,
+        "name_zh": "交通锥"
+      }
+    ],
+    "attracts": [
+      "Tinkatink",
+      "Corviknight",
+      "Poliwrath"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/156.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-156.png",
+    "source_url": "https://pokopiadb.com/database/habitats/sewer-hole-inspection"
+  },
+  {
+    "key": "habitat:HAB-157",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-157",
+    "name": "亮晶晶洗脸台",
+    "name_zh": "亮晶晶洗脸台",
+    "name_en": "Spotless washing station",
+    "required": "毛巾架 ×1 / 壁挂镜 ×1 / 水槽 ×1",
+    "required_zh": "毛巾架 ×1 / 壁挂镜 ×1 / 水槽 ×1",
+    "required_items": [
+      {
+        "name": "Towel rack",
+        "qty": 1,
+        "name_zh": "壁挂毛巾"
+      },
+      {
+        "name": "Wall mirror",
+        "qty": 1,
+        "name_zh": "壁挂镜"
+      },
+      {
+        "name": "Sink",
+        "qty": 1,
+        "name_zh": "水槽"
+      }
+    ],
+    "attracts": [
+      "Mr. Mime",
+      "Mime Jr."
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "/images/habitats/HAB-157.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-157.png",
+    "source_url": "https://pokopiadb.com/database/habitats/spotless-washing-station"
+  },
+  {
+    "key": "habitat:HAB-158",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-158",
+    "name": "家庭剧院",
+    "name_zh": "家庭剧院",
+    "name_en": "Home theater",
+    "required": "Stand x1, Television x1, Speaker x2",
+    "required_zh": "展示架 ×1 / 电视 ×1 / 喇叭 ×2",
+    "required_items": [
+      {
+        "name": "Stand",
+        "qty": 1,
+        "name_zh": "展示架"
+      },
+      {
+        "name": "Television",
+        "qty": 1,
+        "name_zh": "电视"
+      },
+      {
+        "name": "Speaker",
+        "qty": 2,
+        "name_zh": "喇叭"
+      }
+    ],
+    "attracts": [
+      "Mismagius"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/158.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-158.png",
+    "source_url": "https://pokopiadb.com/database/habitats/home-theater"
+  },
+  {
+    "key": "habitat:HAB-159",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-159",
+    "name": "读书空间",
+    "name_zh": "读书空间",
+    "name_en": "Study area",
+    "required": "书架 ×1 / 椅子（任意） ×1 / 桌子（任意） ×1 / 笔筒 ×1",
+    "required_zh": "书架 ×1 / 椅子（任意） ×1 / 桌子（任意） ×1 / 笔筒 ×1",
+    "required_items": [
+      {
+        "name": "Bookcase",
+        "qty": 1,
+        "name_zh": "书架"
+      },
+      {
+        "name": "Seat (any)",
+        "qty": 1,
+        "name_zh": "椅子（任意）"
+      },
+      {
+        "name": "Table (any)",
+        "qty": 1,
+        "name_zh": "桌子（任意）"
+      },
+      {
+        "name": "Pencil holder",
+        "qty": 1,
+        "name_zh": "笔筒"
+      }
+    ],
+    "attracts": [
+      "Ralts",
+      "Kirlia"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/159.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-159.png",
+    "source_url": "https://pokopiadb.com/database/habitats/study-area"
+  },
+  {
+    "key": "habitat:HAB-160",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-160",
+    "name": "律动客厅",
+    "name_zh": "律动客厅",
+    "name_en": "Rhythmic living room",
+    "required": "Television x1, Speaker x2, Music mat x4",
+    "required_zh": "电视 ×1 / 喇叭 ×2 / 音乐地毯 ×4",
+    "required_items": [
+      {
+        "name": "Television",
+        "qty": 1,
+        "name_zh": "电视"
+      },
+      {
+        "name": "Speaker",
+        "qty": 2,
+        "name_zh": "喇叭"
+      },
+      {
+        "name": "Music mat",
+        "qty": 4,
+        "name_zh": "音乐地毯"
+      }
+    ],
+    "attracts": [
+      "Noibat",
+      "Noivern"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/160.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-160.png",
+    "source_url": "https://pokopiadb.com/database/habitats/rhythmic-living-room"
+  },
+  {
+    "key": "habitat:HAB-161",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-161",
+    "name": "刷刷大扫除",
+    "name_zh": "刷刷大扫除",
+    "name_en": "Squeaky clean",
+    "required": "Bathtub x1, Cleaning supplies x1",
+    "required_zh": "浴缸 ×1 / 打扫用品 ×1",
+    "required_items": [
+      {
+        "name": "Bathtub",
+        "qty": 1,
+        "name_zh": "浴缸"
+      },
+      {
+        "name": "Cleaning supplies",
+        "qty": 1,
+        "name_zh": "清洁用品"
+      }
+    ],
+    "attracts": [
+      "Poliwag"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/161.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-161.png",
+    "source_url": "https://pokopiadb.com/database/habitats/squeaky-clean"
+  },
+  {
+    "key": "habitat:HAB-162",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-162",
+    "name": "滋润化妆台",
+    "name_zh": "滋润化妆台",
+    "name_en": "Moisturizing makeup stand",
+    "required": "Dresser (any) x1, Seat (any) x1, Humidifier x1",
+    "required_zh": "梳妆台（任意） ×1 / 椅子（任意） ×1 / 加湿器 ×1",
+    "required_items": [
+      {
+        "name": "Dresser (any)",
+        "qty": 1,
+        "name_zh": "梳妆台（任意）"
+      },
+      {
+        "name": "Seat (any)",
+        "qty": 1,
+        "name_zh": "椅子（任意）"
+      },
+      {
+        "name": "Humidifier",
+        "qty": 1,
+        "name_zh": "加湿器"
+      }
+    ],
+    "attracts": [
+      "Kirlia",
+      "Gardevoir"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:281",
+        "name_en": "Kirlia",
+        "name_zh": "奇鲁莉安",
+        "image_url": "/images/pokemon/232.png"
+      },
+      {
+        "key": "pokemon:282",
+        "name_en": "Gardevoir",
+        "name_zh": "沙奈朵",
+        "image_url": "/images/pokemon/233.png"
+      }
+    ],
+    "image_url": "https://assets.pokopiadb.com/habitats/162.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-162.png",
+    "source_url": "https://pokopiadb.com/database/habitats/moisturizing-makeup-stand"
+  },
+  {
+    "key": "habitat:HAB-163",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-163",
+    "name": "小型图书馆",
+    "name_zh": "小型图书馆",
+    "name_en": "Mini library",
+    "required": "书架 ×2 / 踏脚凳 ×1 / 桌子（任意） ×1 / 灯具（任意） ×1",
+    "required_zh": "书架 ×2 / 踏脚凳 ×1 / 桌子（任意） ×1 / 灯具（任意） ×1",
+    "required_items": [
+      {
+        "name": "Bookcase",
+        "qty": 2,
+        "name_zh": "书架"
+      },
+      {
+        "name": "Step stool",
+        "qty": 1,
+        "name_zh": "踏脚石"
+      },
+      {
+        "name": "Table (any)",
+        "qty": 1,
+        "name_zh": "桌子（任意）"
+      },
+      {
+        "name": "Lighting (any)",
+        "qty": 1,
+        "name_zh": "灯具（任意）"
+      }
+    ],
+    "attracts": [
+      "Gardevoir"
+    ],
+    "attracts_zh": [
+      "沙奈朵"
+    ],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/163.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-163.png",
+    "source_url": "https://pokopiadb.com/database/habitats/mini-library"
+  },
+  {
+    "key": "habitat:HAB-164",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-164",
+    "name": "游戏角对战",
+    "name_zh": "游戏角对战",
+    "name_en": "Game corner battle zone",
+    "required": "Arcade machine x2, Seat (any) x2",
+    "required_zh": "街机 ×2 / 椅子（任意） ×2",
+    "required_items": [
+      {
+        "name": "Arcade machine",
+        "qty": 2,
+        "name_zh": "大型电玩机台"
+      },
+      {
+        "name": "Seat (any)",
+        "qty": 2,
+        "name_zh": "椅子（任意）"
+      }
+    ],
+    "attracts": [
+      "Porygon-Z"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/164.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-164.png",
+    "source_url": "https://pokopiadb.com/database/habitats/game-corner-battle-zone"
+  },
+  {
+    "key": "habitat:HAB-165",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-165",
+    "name": "游乐场",
+    "name_zh": "游乐场",
+    "name_en": "Playland",
+    "required": "溜滑梯 ×1 / 玩具（任意） ×1",
+    "required_zh": "溜滑梯 ×1 / 玩具（任意） ×1",
+    "required_items": [
+      {
+        "name": "Slide",
+        "qty": 1,
+        "name_zh": "溜滑梯"
+      },
+      {
+        "name": "Toy (any)",
+        "qty": 1,
+        "name_zh": "玩具（任意）"
+      }
+    ],
+    "attracts": [
+      "Snivy"
+    ],
+    "attracts_zh": [
+      "藤藤蛇"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:495",
+        "name_en": "Snivy",
+        "name_zh": "藤藤蛇",
+        "image_url": "/images/pokemon/248.png"
+      }
+    ],
+    "image_url": "https://assets.pokopiadb.com/habitats/165.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-165.png",
+    "source_url": "https://pokopiadb.com/database/habitats/playland"
+  },
+  {
+    "key": "habitat:HAB-166",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-166",
+    "name": "办公桌",
+    "name_zh": "办公桌",
+    "name_en": "Work desk",
+    "required": "Office desk x1, Office chair x1, Mug x1, Laptop x1",
+    "required_zh": "办公书桌 ×1 / 办公椅 ×1 / 马克杯 ×1 / 笔记本电脑 ×1",
+    "required_items": [
+      {
+        "name": "Office desk",
+        "qty": 1,
+        "name_zh": "办公书桌"
+      },
+      {
+        "name": "Office chair",
+        "qty": 1,
+        "name_zh": "办公椅"
+      },
+      {
+        "name": "Mug",
+        "qty": 1,
+        "name_zh": "马克杯"
+      },
+      {
+        "name": "Laptop",
+        "qty": 1,
+        "name_zh": "笔记本电脑"
+      }
+    ],
+    "attracts": [
+      "Porygon2"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/166.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-166.png",
+    "source_url": "https://pokopiadb.com/database/habitats/work-desk"
+  },
+  {
+    "key": "habitat:HAB-167",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-167",
+    "name": "办公室后场",
+    "name_zh": "办公室后场",
+    "name_en": "Office storeroom",
+    "required": "办公室收纳柜 ×1 / 踏脚凳 ×1 / 纸箱 ×1",
+    "required_zh": "办公室收纳柜 ×1 / 踏脚凳 ×1 / 纸箱 ×1",
+    "required_items": [
+      {
+        "name": "Office shelf",
+        "qty": 1,
+        "name_zh": "办公室收纳柜"
+      },
+      {
+        "name": "Step stool",
+        "qty": 1,
+        "name_zh": "踏脚石"
+      },
+      {
+        "name": "Cardboard boxes",
+        "qty": 1,
+        "name_zh": "纸箱"
+      }
+    ],
+    "attracts": [
+      "Drakloak"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:886",
+        "name_en": "Drakloak",
+        "name_zh": "多龙奇",
+        "image_url": "/images/pokemon/261.png"
+      }
+    ],
+    "image_url": "https://assets.pokopiadb.com/habitats/167.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-167.png",
+    "source_url": "https://pokopiadb.com/database/habitats/office-storeroom"
+  },
+  {
+    "key": "habitat:HAB-168",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-168",
+    "name": "实验空间",
+    "name_zh": "实验空间",
+    "name_en": "Experiment space",
+    "required": "Science experiment x1, Microscope x1, Papers x1",
+    "required_zh": "科学实验台 ×1 / 显微镜 ×1 / 文件 ×1",
+    "required_items": [
+      {
+        "name": "Science experiment",
+        "qty": 1,
+        "name_zh": "实验器材"
+      },
+      {
+        "name": "Microscope",
+        "qty": 1,
+        "name_zh": "显微镜"
+      },
+      {
+        "name": "Papers",
+        "qty": 1,
+        "name_zh": "文件"
+      }
+    ],
+    "attracts": [
+      "Alakazam"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/168.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-168.png",
+    "source_url": "https://pokopiadb.com/database/habitats/experiment-space"
+  },
+  {
+    "key": "habitat:HAB-169",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-169",
+    "name": "以博士为目标研究中",
+    "name_zh": "以博士为目标研究中",
+    "name_en": "Professor's apprentice program",
+    "required": "白板 ×1 / 桌子（任意） ×1 / 杂乱电线 ×1 / 笔记本电脑 ×1",
+    "required_zh": "白板 ×1 / 桌子（任意） ×1 / 杂乱电线 ×1 / 笔记本电脑 ×1",
+    "required_items": [
+      {
+        "name": "Whiteboard",
+        "qty": 1,
+        "name_zh": "白板"
+      },
+      {
+        "name": "Table (any)",
+        "qty": 1,
+        "name_zh": "桌子（任意）"
+      },
+      {
+        "name": "Jumbled cords",
+        "qty": 1,
+        "name_zh": "缠绕电线"
+      },
+      {
+        "name": "Laptop",
+        "qty": 1,
+        "name_zh": "笔记本电脑"
+      }
+    ],
+    "attracts": [
+      "Metang"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:375",
+        "name_en": "Metang",
+        "name_zh": "金属怪",
+        "image_url": "/images/pokemon/246.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-169.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-169.png",
+    "source_url": "https://pokopiadb.com/database/habitats/professor-s-apprentice-program"
+  },
+  {
+    "key": "habitat:HAB-170",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-170",
+    "name": "研究者的桌子",
+    "name_zh": "研究者的桌子",
+    "name_en": "Researcher's desk",
+    "required": "桌子（任意） ×1 / 电脑 ×1 / 科学实验台 ×1",
+    "required_zh": "桌子（任意） ×1 / 电脑 ×1 / 科学实验台 ×1",
+    "required_items": [
+      {
+        "name": "Table (any)",
+        "qty": 1,
+        "name_zh": "桌子（任意）"
+      },
+      {
+        "name": "Computer",
+        "qty": 1,
+        "name_zh": "电脑"
+      },
+      {
+        "name": "Science experiment",
+        "qty": 1,
+        "name_zh": "实验器材"
+      }
+    ],
+    "attracts": [
+      "Porygon"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:137",
+        "name_en": "Porygon",
+        "name_zh": "多边兽",
+        "image_url": "/images/pokemon/218.png"
+      }
+    ],
+    "image_url": "https://assets.pokopiadb.com/habitats/170.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-170.png",
+    "source_url": "https://pokopiadb.com/database/habitats/researcher-s-desk"
+  },
+  {
+    "key": "habitat:HAB-171",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-171",
+    "name": "请自由阅读",
+    "name_zh": "请自由阅读",
+    "name_en": "Public reading material",
+    "required": "Magazine rack x1, Newspaper x1",
+    "required_zh": "杂志架 ×1 / 报纸 ×1",
+    "required_items": [
+      {
+        "name": "Magazine rack",
+        "qty": 1,
+        "name_zh": "杂志架"
+      },
+      {
+        "name": "Newspaper",
+        "qty": 1,
+        "name_zh": "报纸"
+      }
+    ],
+    "attracts": [
+      "Mime Jr.",
+      "Serperior"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/171.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-171.png",
+    "source_url": "https://pokopiadb.com/database/habitats/public-reading-material"
+  },
+  {
+    "key": "habitat:HAB-172",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-172",
+    "name": "咚咚惊吓箱",
+    "name_zh": "咚咚惊吓箱",
+    "name_en": "Heart-pounding surprise box",
+    "required": "Spotlight x1, Boo-in-the-box x1, Big drum x1",
+    "required_zh": "聚光灯 ×1 / 捉弄箱 ×1 / 大鼓 ×1",
+    "required_items": [
+      {
+        "name": "Spotlight",
+        "qty": 1,
+        "name_zh": "聚光灯"
+      },
+      {
+        "name": "Boo-in-the-box",
+        "qty": 1,
+        "name_zh": "惊吓箱"
+      },
+      {
+        "name": "Big drum",
+        "qty": 1,
+        "name_zh": "大鼓"
+      }
+    ],
+    "attracts": [
+      "Meowscarada"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/172.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-172.png",
+    "source_url": "https://pokopiadb.com/database/habitats/heart-pounding-surprise-box"
+  },
+  {
+    "key": "habitat:HAB-173",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-173",
+    "name": "恶作剧开关",
+    "name_zh": "恶作剧开关",
+    "name_en": "Prank button",
+    "required": "Floor switch x1, Boo-in-th-box x1",
+    "required_zh": "地板开关 ×1 / 捉弄箱 ×1",
+    "required_items": [
+      {
+        "name": "Floor switch",
+        "qty": 1,
+        "name_zh": "地板开关"
+      },
+      {
+        "name": "Boo-in-th-box",
+        "qty": 1,
+        "name_zh": "惊吓箱"
+      }
+    ],
+    "attracts": [
+      "Frogadier",
+      "Greninja"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/173.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-173.png",
+    "source_url": "https://pokopiadb.com/database/habitats/prank-button"
+  },
+  {
+    "key": "habitat:HAB-174",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-174",
+    "name": "绝景脸孔看板",
+    "name_zh": "绝景脸孔看板",
+    "name_en": "Picturesque photo cutout board",
+    "required": "人形立牌 ×1 / 聚光灯 ×2 / 高处 ×1",
+    "required_zh": "人形立牌 ×1 / 聚光灯 ×2 / 高处 ×1",
+    "required_items": [
+      {
+        "name": "Photo cutout board",
+        "qty": 1,
+        "name_zh": "大头贴看板"
+      },
+      {
+        "name": "Spotlight",
+        "qty": 2,
+        "name_zh": "聚光灯"
+      },
+      {
+        "name": "High-up location",
+        "qty": 1,
+        "name_zh": "高处",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Plusle",
+      "Minun"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/174.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-174.png",
+    "source_url": "https://pokopiadb.com/database/habitats/picturesque-photo-cutout-board"
+  },
+  {
+    "key": "habitat:HAB-175",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-175",
+    "name": "轮胎公园",
+    "name_zh": "轮胎公园",
+    "name_en": "Tire park",
+    "required": "Slide x1, Tires x1, Tire toy x2",
+    "required_zh": "溜滑梯 ×1 / 轮胎 ×1 / 轮胎玩具 ×2",
+    "required_items": [
+      {
+        "name": "Slide",
+        "qty": 1,
+        "name_zh": "溜滑梯"
+      },
+      {
+        "name": "Tires",
+        "qty": 1,
+        "name_zh": "轮胎"
+      },
+      {
+        "name": "Tire toy",
+        "qty": 2,
+        "name_zh": "轮胎"
+      }
+    ],
+    "attracts": [
+      "Dedenne"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/175.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-175.png",
+    "source_url": "https://pokopiadb.com/database/habitats/tire-park"
+  },
+  {
+    "key": "habitat:HAB-176",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-176",
+    "name": "大自然中的市集",
+    "name_zh": "大自然中的市集",
+    "name_en": "Nature's market",
+    "required": "大树（任意） ×1 / 大岩石 ×1 / 桌子（任意） ×2 / 收银机 ×1",
+    "required_zh": "大树（任意） ×1 / 大岩石 ×1 / 桌子（任意） ×2 / 收银机 ×1",
+    "required_items": [
+      {
+        "name": "Large tree (any)",
+        "qty": 1,
+        "name_zh": "大树（任意）",
+        "is_env": true
+      },
+      {
+        "name": "Large boulder",
+        "qty": 1,
+        "name_zh": "大岩石",
+        "is_env": true
+      },
+      {
+        "name": "Table (any)",
+        "qty": 2,
+        "name_zh": "桌子（任意）"
+      },
+      {
+        "name": "Cash register",
+        "qty": 1,
+        "name_zh": "收银机"
+      }
+    ],
+    "attracts": [
+      "Raichu"
+    ],
+    "attracts_zh": [
+      "雷丘"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:26",
+        "name_en": "Raichu",
+        "name_zh": "雷丘",
+        "image_url": "/images/pokemon/080.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-176.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-176.png",
+    "source_url": "https://pokopiadb.com/database/habitats/nature-s-market"
+  },
+  {
+    "key": "habitat:HAB-177",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-177",
+    "name": "工地发电所",
+    "name_zh": "工地发电所",
+    "name_en": "Construction site generator",
+    "required": "熔炉 ×1 / 铁架 ×2 / 铁管 ×1",
+    "required_zh": "熔炉 ×1 / 铁架 ×2 / 铁管 ×1",
+    "required_items": [
+      {
+        "name": "Furnace",
+        "qty": 1,
+        "name_zh": "熔炉"
+      },
+      {
+        "name": "Iron scaffold",
+        "qty": 2,
+        "name_zh": "铁鹰架踏板"
+      },
+      {
+        "name": "Iron pipes",
+        "qty": 1,
+        "name_zh": "堆叠铁管"
+      }
+    ],
+    "attracts": [
+      "Conkeldurr"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:534",
+        "name_en": "Conkeldurr",
+        "name_zh": "修建老匠",
+        "image_url": "/images/pokemon/067.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-177.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-177.png",
+    "source_url": "https://pokopiadb.com/database/habitats/construction-site-generator"
+  },
+  {
+    "key": "habitat:HAB-178",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-178",
+    "name": "道场训练",
+    "name_zh": "道场训练",
+    "name_en": "Dojo training",
+    "required": "Hanging scroll x2, Strength rock x2",
+    "required_zh": "挂轴 ×2 / 怪力岩 ×2",
+    "required_items": [
+      {
+        "name": "Hanging scroll",
+        "qty": 2,
+        "name_zh": "挂轴"
+      },
+      {
+        "name": "Strength rock",
+        "qty": 2,
+        "name_zh": "怪力岩",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Poliwrath"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:62",
+        "name_en": "Poliwrath",
+        "name_zh": "蚊香泳士",
+        "image_url": "/images/pokemon/211.png"
+      }
+    ],
+    "image_url": "https://assets.pokopiadb.com/habitats/178.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-178.png",
+    "source_url": "https://pokopiadb.com/database/habitats/dojo-training"
+  },
+  {
+    "key": "habitat:HAB-179",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-179",
+    "name": "邪恶组织的巢穴",
+    "name_zh": "邪恶组织的巢穴",
+    "name_en": "Evil organization hq",
+    "required": "盆栽（任意） ×2 / 豪华沙发 ×1 / 火箭队壁挂 ×1",
+    "required_zh": "盆栽（任意） ×2 / 豪华沙发 ×1 / 火箭队壁挂 ×1",
+    "required_items": [
+      {
+        "name": "Potted plant (any)",
+        "qty": 2,
+        "name_zh": "盆栽（任意）"
+      },
+      {
+        "name": "Luxury sofa",
+        "qty": 1,
+        "name_zh": "豪华沙发"
+      },
+      {
+        "name": "Team rocket wall hanging",
+        "qty": 1,
+        "name_zh": "火箭队壁挂"
+      }
+    ],
+    "attracts": [
+      "Persian"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "/images/habitats/HAB-179.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-179.png",
+    "source_url": "https://pokopiadb.com/database/habitats/evil-organization-hq"
+  },
+  {
+    "key": "habitat:HAB-180",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-180",
+    "name": "九焰",
+    "name_zh": "九焰",
+    "name_en": "Nine flames",
+    "required": "火盆 x 9",
+    "required_zh": "火盆 ×9",
+    "required_items": [
+      {
+        "name": "火盆",
+        "qty": 9,
+        "image_url": "/images/items/firepit.png",
+        "image_path": "/images/items/firepit.png"
+      }
+    ],
+    "attracts": [
+      "Ninetales"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/180.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-180.png",
+    "source_url": "https://pokopiadb.com/database/habitats/nine-flames"
+  },
+  {
+    "key": "habitat:HAB-181",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-181",
+    "name": "被布偶包围",
+    "name_zh": "被布偶包围",
+    "name_en": "Plush central",
+    "required": "风速狗布偶 ×1 / 皮卡丘布偶 ×1 / 快龙布偶 ×1 / 伊布布偶 ×1",
+    "required_zh": "风速狗布偶 ×1 / 皮卡丘布偶 ×1 / 快龙布偶 ×1 / 伊布布偶 ×1",
+    "required_items": [
+      {
+        "name": "Arcanine doll",
+        "qty": 1,
+        "name_zh": "风速狗玩偶"
+      },
+      {
+        "name": "Pikachu doll",
+        "qty": 1,
+        "name_zh": "皮卡丘玩偶"
+      },
+      {
+        "name": "Dragonite doll",
+        "qty": 1,
+        "name_zh": "快龙玩偶"
+      },
+      {
+        "name": "Eevee doll",
+        "qty": 1,
+        "name_zh": "伊布玩偶"
+      }
+    ],
+    "attracts": [
+      "Drifloon",
+      "Drifblim"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:425",
+        "name_en": "Drifloon",
+        "name_zh": "飘飘球",
+        "image_url": "/images/pokemon/061.png"
+      },
+      {
+        "key": "pokemon:426",
+        "name_en": "Drifblim",
+        "name_zh": "随风球",
+        "image_url": "/images/pokemon/062.png"
+      }
+    ],
+    "image_url": "https://assets.pokopiadb.com/habitats/181.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-181.png",
+    "source_url": "https://pokopiadb.com/database/habitats/plush-central"
+  },
+  {
+    "key": "habitat:HAB-182",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-182",
+    "name": "绝佳游戏环境",
+    "name_zh": "绝佳游戏环境",
+    "name_en": "Gamer's paradise",
+    "required": "Gaming bed x1, Iron table x1, Gaming pc x1, Gaming chair x1, Gaming fridge x1",
+    "required_zh": "电竞床 ×1 / 铁制桌 ×1 / 电竞电脑 ×1 / 电竞椅 ×1 / 电竞冰箱 ×1",
+    "required_items": [
+      {
+        "name": "Gaming bed",
+        "qty": 1,
+        "name_zh": "电竞床"
+      },
+      {
+        "name": "Iron table",
+        "qty": 1,
+        "name_zh": "铁桌"
+      },
+      {
+        "name": "Gaming pc",
+        "qty": 1,
+        "name_zh": "电竞电脑"
+      },
+      {
+        "name": "Gaming chair",
+        "qty": 1,
+        "name_zh": "电竞椅"
+      },
+      {
+        "name": "Gaming fridge",
+        "qty": 1,
+        "name_zh": "电竞冰箱"
+      }
+    ],
+    "attracts": [
+      "Metagross"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/182.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-182.png",
+    "source_url": "https://pokopiadb.com/database/habitats/gamer-s-paradise"
+  },
+  {
+    "key": "habitat:HAB-183",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-183",
+    "name": "流行之最",
+    "name_zh": "流行之最",
+    "name_en": "Top pop",
+    "required": "Pop art bed x1, Pop art sofa x1, Pop art table x1",
+    "required_zh": "波普艺术床 ×1 / 波普艺术沙发 ×1 / 波普艺术桌 ×1",
+    "required_items": [
+      {
+        "name": "Pop art bed",
+        "qty": 1,
+        "name_zh": "普普风床"
+      },
+      {
+        "name": "Pop art sofa",
+        "qty": 1,
+        "name_zh": "普普风沙发"
+      },
+      {
+        "name": "Pop art table",
+        "qty": 1,
+        "name_zh": "普普风桌"
+      }
+    ],
+    "attracts": [
+      "Typhlosion"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/183.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-183.png",
+    "source_url": "https://pokopiadb.com/database/habitats/top-pop"
+  },
+  {
+    "key": "habitat:HAB-184",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-184",
+    "name": "钓鱼池",
+    "name_zh": "钓鱼池",
+    "name_en": "Fishing pond",
+    "required": "钓竿 ×1 / 椅子（任意） ×1 / 水 ×1",
+    "required_zh": "钓竿 ×1 / 椅子（任意） ×1 / 水 ×1",
+    "required_items": [
+      {
+        "name": "Fishing rod",
+        "qty": 1,
+        "name_zh": "钓竿"
+      },
+      {
+        "name": "Seat (any)",
+        "qty": 1,
+        "name_zh": "椅子（任意）"
+      },
+      {
+        "name": "Water",
+        "qty": 1,
+        "name_zh": "水",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Slowbro",
+      "Slowking"
+    ],
+    "attracts_zh": [
+      "呆呆王"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:80",
+        "name_en": "Slowbro",
+        "name_zh": "呆壳兽",
+        "image_url": "/images/pokemon/025.png"
+      },
+      {
+        "key": "pokemon:199",
+        "name_en": "Slowking",
+        "name_zh": "呆呆王",
+        "image_url": "/images/pokemon/026.png"
+      }
+    ],
+    "image_url": "https://assets.pokopiadb.com/habitats/184.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-184.png",
+    "source_url": "https://pokopiadb.com/database/habitats/fishing-pond"
+  },
+  {
+    "key": "habitat:HAB-185",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-185",
+    "name": "海钓",
+    "name_zh": "海钓",
+    "name_en": "Ocean fishing spot",
+    "required": "钓竿 ×1 / 椅子（任意） ×1 / 海水 ×1",
+    "required_zh": "钓竿 ×1 / 椅子（任意） ×1 / 海水 ×1",
+    "required_items": [
+      {
+        "name": "Fishing rod",
+        "qty": 1,
+        "name_zh": "钓竿"
+      },
+      {
+        "name": "Seat (any)",
+        "qty": 1,
+        "name_zh": "椅子（任意）"
+      },
+      {
+        "name": "Ocean water",
+        "qty": 1,
+        "name_zh": "海水",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Magikarp",
+      "Gastrodon"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:129",
+        "name_en": "Magikarp",
+        "name_zh": "鲤鱼王",
+        "image_url": "/images/pokemon/045.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-185.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-185.png",
+    "source_url": "https://pokopiadb.com/database/habitats/ocean-fishing-spot"
+  },
+  {
+    "key": "habitat:HAB-186",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-186",
+    "name": "沼泽钓鱼",
+    "name_zh": "沼泽钓鱼",
+    "name_en": "Marsh fishing spot",
+    "required": "钓竿 ×1 / 椅子（任意） ×1 / 泥水 ×1",
+    "required_zh": "钓竿 ×1 / 椅子（任意） ×1 / 泥水 ×1",
+    "required_items": [
+      {
+        "name": "Fishing rod",
+        "qty": 1,
+        "name_zh": "钓竿"
+      },
+      {
+        "name": "Seat (any)",
+        "qty": 1,
+        "name_zh": "椅子（任意）"
+      },
+      {
+        "name": "Muddy water",
+        "qty": 1,
+        "name_zh": "泥水",
+        "is_env": true
+      }
+    ],
+    "attracts": [],
+    "attracts_zh": [
+      "臭泥"
+    ],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/186.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-186.png",
+    "source_url": "https://pokopiadb.com/database/habitats/marsh-fishing-spot"
+  },
+  {
+    "key": "habitat:HAB-187",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-187",
+    "name": "温泉钓鱼",
+    "name_zh": "温泉钓鱼",
+    "name_en": "Hot-spring fishing spot",
+    "required": "钓竿 ×1 / 椅子（任意） ×1 / 温泉水 ×1",
+    "required_zh": "钓竿 ×1 / 椅子（任意） ×1 / 温泉水 ×1",
+    "required_items": [
+      {
+        "name": "Fishing rod",
+        "qty": 1,
+        "name_zh": "钓竿"
+      },
+      {
+        "name": "Seat (any)",
+        "qty": 1,
+        "name_zh": "椅子（任意）"
+      },
+      {
+        "name": "Hot spring water",
+        "qty": 1,
+        "name_zh": "温泉水",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Lotad",
+      "Lombre"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "/images/habitats/HAB-187.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-187.png",
+    "source_url": "https://pokopiadb.com/database/habitats/hot-spring-fishing-spot"
+  },
+  {
+    "key": "habitat:HAB-188",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-188",
+    "name": "岩浆钓鱼",
+    "name_zh": "岩浆钓鱼",
+    "name_en": "Magma fishing spot",
+    "required": "Fishing rod x1, Seat (any) x1, Lava x1",
+    "required_zh": "钓竿 ×1 / 椅子（任意） ×1 / 熔岩 ×1",
+    "required_items": [
+      {
+        "name": "Fishing rod",
+        "qty": 1,
+        "name_zh": "钓竿"
+      },
+      {
+        "name": "Seat (any)",
+        "qty": 1,
+        "name_zh": "椅子（任意）"
+      },
+      {
+        "name": "Lava",
+        "qty": 1,
+        "name_zh": "熔岩",
+        "is_env": true
+      }
+    ],
+    "attracts": [
+      "Arcanine"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/188.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-188.png",
+    "source_url": "https://pokopiadb.com/database/habitats/magma-fishing-spot"
+  },
+  {
+    "key": "habitat:HAB-189",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-189",
+    "name": "高昂摇滚舞台",
+    "name_zh": "高昂摇滚舞台",
+    "name_en": "Amped rock stage",
+    "required": "Speaker x2, Small stage x1, Cool electric guitar x1, Standing mic x1",
+    "required_zh": "喇叭 ×2 / 小舞台 ×1 / 酷炫电吉他 ×1 / 立式麦克风 ×1",
+    "required_items": [
+      {
+        "name": "Speaker",
+        "qty": 2,
+        "name_zh": "喇叭"
+      },
+      {
+        "name": "Small stage",
+        "qty": 1,
+        "name_zh": "小舞台"
+      },
+      {
+        "name": "Cool electric guitar",
+        "qty": 1,
+        "name_zh": "帅气电吉他"
+      },
+      {
+        "name": "Standing mic",
+        "qty": 1,
+        "name_zh": "立式麦克风"
+      }
+    ],
+    "attracts": [
+      "Toxtricity"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/189.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-189.png",
+    "source_url": "https://pokopiadb.com/database/habitats/amped-rock-stage"
+  },
+  {
+    "key": "habitat:HAB-190",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-190",
+    "name": "低沉摇滚舞台",
+    "name_zh": "低沉摇滚舞台",
+    "name_en": "Low-key rock stage",
+    "required": "Speaker x2, Small stage x1, Cool bass guitar x1, Standing mic x1",
+    "required_zh": "喇叭 ×2 / 小舞台 ×1 / 酷炫贝斯 ×1 / 立式麦克风 ×1",
+    "required_items": [
+      {
+        "name": "Speaker",
+        "qty": 2,
+        "name_zh": "喇叭"
+      },
+      {
+        "name": "Small stage",
+        "qty": 1,
+        "name_zh": "小舞台"
+      },
+      {
+        "name": "Cool bass guitar",
+        "qty": 1,
+        "name_zh": "帅气电贝斯"
+      },
+      {
+        "name": "Standing mic",
+        "qty": 1,
+        "name_zh": "立式麦克风"
+      }
+    ],
+    "attracts": [
+      "Toxtricity"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/190.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-190.png",
+    "source_url": "https://pokopiadb.com/database/habitats/low-key-rock-stage"
+  },
+  {
+    "key": "habitat:HAB-191",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-191",
+    "name": "怨念骑士的祭坛",
+    "name_zh": "怨念骑士的祭坛",
+    "name_en": "Malicious knight's shrine",
+    "required": "展示台 ×1 / 凶兆铠甲 ×1 / 踏脚石 ×2 / 火盆 ×2",
+    "required_zh": "展示台 ×1 / 凶兆铠甲 ×1 / 踏脚石 ×2 / 火盆 ×2",
+    "required_items": [
+      {
+        "name": "Exhibition stand",
+        "qty": 1,
+        "name_zh": "展示台"
+      },
+      {
+        "name": "Malicious armor",
+        "qty": 1,
+        "name_zh": "诅咒铠甲"
+      },
+      {
+        "name": "Stepping stone",
+        "qty": 2,
+        "name_zh": "踏脚石"
+      },
+      {
+        "name": "Firepit",
+        "qty": 2,
+        "name_zh": "火盆"
+      }
+    ],
+    "attracts": [
+      "Ceruledge"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/191.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-191.png",
+    "source_url": "https://pokopiadb.com/database/habitats/malicious-knight-s-shrine"
+  },
+  {
+    "key": "habitat:HAB-192",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-192",
+    "name": "忠诚骑士的祭坛",
+    "name_zh": "忠诚骑士的祭坛",
+    "name_en": "Auspicious knight's shrine",
+    "required": "展示台 ×1 / 祥瑞铠甲 ×1 / 踏脚石 ×2 / 火盆 ×2",
+    "required_zh": "展示台 ×1 / 祥瑞铠甲 ×1 / 踏脚石 ×2 / 火盆 ×2",
+    "required_items": [
+      {
+        "name": "Exhibition stand",
+        "qty": 1,
+        "name_zh": "展示台"
+      },
+      {
+        "name": "Auspicious armor",
+        "qty": 1,
+        "name_zh": "祝庆铠甲"
+      },
+      {
+        "name": "Stepping stone",
+        "qty": 2,
+        "name_zh": "踏脚石"
+      },
+      {
+        "name": "Firepit",
+        "qty": 2,
+        "name_zh": "火盆"
+      }
+    ],
+    "attracts": [
+      "Armarouge"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/192.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-192.png",
+    "source_url": "https://pokopiadb.com/database/habitats/auspicious-knight-s-shrine"
+  },
+  {
+    "key": "habitat:HAB-193",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-193",
+    "name": "翼之化石展示台",
+    "name_zh": "翼之化石展示台",
+    "name_en": "Wing fossil display",
+    "required": "展示台 ×1 / 翼之化石（头部） ×1 / 翼之化石（躯体） ×1 / 翼之化石（尾部） ×1 / 翼之化石（左翼） ×1 / 翼之化石（右翼） ×1",
+    "required_zh": "展示台 ×1 / 翼之化石（头部） ×1 / 翼之化石（躯体） ×1 / 翼之化石（尾部） ×1 / 翼之化石（左翼） ×1 / 翼之化石（右翼） ×1",
+    "required_items": [
+      {
+        "name": "Exhibition stand",
+        "qty": 1,
+        "name_zh": "展示台"
+      },
+      {
+        "name": "Wing fossil (head)",
+        "qty": 1,
+        "name_zh": "翅膀化石（头）"
+      },
+      {
+        "name": "Wing fossil (body)",
+        "qty": 1,
+        "name_zh": "翅膀化石（身）"
+      },
+      {
+        "name": "Wing fossil (tail)",
+        "qty": 1,
+        "name_zh": "翅膀化石（尾）"
+      },
+      {
+        "name": "Wing fossil (left wing)",
+        "qty": 1,
+        "name_zh": "翅膀化石（左翼）"
+      },
+      {
+        "name": "Wing fossil (right wing)",
+        "qty": 1,
+        "name_zh": "翅膀化石（右翼）"
+      }
+    ],
+    "attracts": [
+      "Aerodactyl"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/193.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-193.png",
+    "source_url": "https://pokopiadb.com/database/habitats/wing-fossil-display"
+  },
+  {
+    "key": "habitat:HAB-194",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-194",
+    "name": "头盖化石展示台",
+    "name_zh": "头盖化石展示台",
+    "name_en": "Skull fossil display",
+    "required": "展示台 ×1 / 骷髅化石 ×1",
+    "required_zh": "展示台 ×1 / 骷髅化石 ×1",
+    "required_items": [
+      {
+        "name": "Exhibition stand",
+        "qty": 1,
+        "name_zh": "展示台"
+      },
+      {
+        "name": "Skull fossil",
+        "qty": 1,
+        "name_zh": "头盖化石"
+      }
+    ],
+    "attracts": [
+      "Cranidos"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/194.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-194.png",
+    "source_url": "https://pokopiadb.com/database/habitats/skull-fossil-display"
+  },
+  {
+    "key": "habitat:HAB-195",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-195",
+    "name": "头锤化石展示台",
+    "name_zh": "头锤化石展示台",
+    "name_en": "Headbutt fossil display",
+    "required": "展示台 ×1 / 铁头化石（头部） ×1 / 铁头化石（躯体） ×1 / 铁头化石（尾部） ×1",
+    "required_zh": "展示台 ×1 / 铁头化石（头部） ×1 / 铁头化石（躯体） ×1 / 铁头化石（尾部） ×1",
+    "required_items": [
+      {
+        "name": "Exhibition stand",
+        "qty": 1,
+        "name_zh": "展示台"
+      },
+      {
+        "name": "Headbut fossil (head)",
+        "qty": 1,
+        "name_zh": "头锤化石（头）"
+      },
+      {
+        "name": "Headbut fossil (body)",
+        "qty": 1,
+        "name_zh": "头锤化石（身）"
+      },
+      {
+        "name": "Headbut fossil (tail)",
+        "qty": 1,
+        "name_zh": "头锤化石（尾）"
+      }
+    ],
+    "attracts": [
+      "Rampardos"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/195.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-195.png",
+    "source_url": "https://pokopiadb.com/database/habitats/headbutt-fossil-display"
+  },
+  {
+    "key": "habitat:HAB-196",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-196",
+    "name": "盾之化石展示台",
+    "name_zh": "盾之化石展示台",
+    "name_en": "Armor fossil display",
+    "required": "展示台 ×1 / 盾之化石 ×1",
+    "required_zh": "展示台 ×1 / 盾之化石 ×1",
+    "required_items": [
+      {
+        "name": "Exhibition stand",
+        "qty": 1,
+        "name_zh": "展示台"
+      },
+      {
+        "name": "Armor fossil",
+        "qty": 1,
+        "name_zh": "盾甲化石"
+      }
+    ],
+    "attracts": [
+      "Shieldon"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:410",
+        "name_en": "Shieldon",
+        "name_zh": "盾甲龙",
+        "image_url": "/images/pokemon/274.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-196.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-196.png",
+    "source_url": "https://pokopiadb.com/database/habitats/armor-fossil-display"
+  },
+  {
+    "key": "habitat:HAB-197",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-197",
+    "name": "盾牌化石展示台",
+    "name_zh": "盾牌化石展示台",
+    "name_en": "Shield fossil display",
+    "required": "展示台 ×2 / 盾之化石（头部） ×1 / 盾之化石（躯体） ×1 / 盾之化石（尾部） ×1",
+    "required_zh": "展示台 ×2 / 盾之化石（头部） ×1 / 盾之化石（躯体） ×1 / 盾之化石（尾部） ×1",
+    "required_items": [
+      {
+        "name": "Exhibition stand",
+        "qty": 2,
+        "name_zh": "展示台"
+      },
+      {
+        "name": "Shield fossil (head)",
+        "qty": 1,
+        "name_zh": "盾牌化石（头）"
+      },
+      {
+        "name": "Shield fossil (body)",
+        "qty": 1,
+        "name_zh": "盾牌化石（身）"
+      },
+      {
+        "name": "Shield tail (body)",
+        "qty": 1,
+        "name_zh": "盾牌化石（尾）"
+      }
+    ],
+    "attracts": [
+      "Bastiodon"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/197.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-197.png",
+    "source_url": "https://pokopiadb.com/database/habitats/shield-fossil-display"
+  },
+  {
+    "key": "habitat:HAB-198",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-198",
+    "name": "颚之化石展示台",
+    "name_zh": "颚之化石展示台",
+    "name_en": "Jaw fossil display",
+    "required": "展示台 ×1 / 颚之化石 ×1",
+    "required_zh": "展示台 ×1 / 颚之化石 ×1",
+    "required_items": [
+      {
+        "name": "Exhibition stand",
+        "qty": 1,
+        "name_zh": "展示台"
+      },
+      {
+        "name": "Jaw fossil",
+        "qty": 1,
+        "name_zh": "颚骨化石"
+      }
+    ],
+    "attracts": [
+      "Tyrunt"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/198.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-198.png",
+    "source_url": "https://pokopiadb.com/database/habitats/jaw-fossil-display"
+  },
+  {
+    "key": "habitat:HAB-199",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-199",
+    "name": "暴君化石展示台",
+    "name_zh": "暴君化石展示台",
+    "name_en": "Despot fossil display",
+    "required": "展示台 ×2 / 暴君化石（头部） ×1 / 暴君化石（躯体） ×1 / 暴君化石（尾部） ×1 / 暴君化石（腿部） ×1",
+    "required_zh": "展示台 ×2 / 暴君化石（头部） ×1 / 暴君化石（躯体） ×1 / 暴君化石（尾部） ×1 / 暴君化石（腿部） ×1",
+    "required_items": [
+      {
+        "name": "Exhibition stand",
+        "qty": 2,
+        "name_zh": "展示台"
+      },
+      {
+        "name": "Despot fossil (head)",
+        "qty": 1,
+        "name_zh": "暴君化石（头）"
+      },
+      {
+        "name": "Despot fossil (body)",
+        "qty": 1,
+        "name_zh": "暴君化石（身）"
+      },
+      {
+        "name": "Despot fossil (tail)",
+        "qty": 1,
+        "name_zh": "暴君化石（尾）"
+      },
+      {
+        "name": "Despot fossil (legs)",
+        "qty": 1,
+        "name_zh": "暴君化石（腿）"
+      }
+    ],
+    "attracts": [
+      "Tyrantrum"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:697",
+        "name_en": "Tyrantrum",
+        "name_zh": "怪颚龙",
+        "image_url": "/images/pokemon/277.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-199.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-199.png",
+    "source_url": "https://pokopiadb.com/database/habitats/despot-fossil-display"
+  },
+  {
+    "key": "habitat:HAB-200",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-200",
+    "name": "鳍之化石展示台",
+    "name_zh": "鳍之化石展示台",
+    "name_en": "Sail fossil display",
+    "required": "展示台 ×1 / 帆之化石 ×1",
+    "required_zh": "展示台 ×1 / 帆之化石 ×1",
+    "required_items": [
+      {
+        "name": "Exhibition stand",
+        "qty": 1,
+        "name_zh": "展示台"
+      },
+      {
+        "name": "Sail fossil",
+        "qty": 1,
+        "name_zh": "鳍化石"
+      }
+    ],
+    "attracts": [
+      "Amaura"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/200.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-200.png",
+    "source_url": "https://pokopiadb.com/database/habitats/sail-fossil-display"
+  },
+  {
+    "key": "habitat:HAB-201",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-201",
+    "name": "冻原化石展示台",
+    "name_zh": "冻原化石展示台",
+    "name_en": "Tundra fossil display",
+    "required": "展示台 ×1 / 冻土化石（头部） ×1 / 冻土化石（躯体） ×1 / 冻土化石（尾部） ×1",
+    "required_zh": "展示台 ×1 / 冻土化石（头部） ×1 / 冻土化石（躯体） ×1 / 冻土化石（尾部） ×1",
+    "required_items": [
+      {
+        "name": "Exhibition stand",
+        "qty": 1,
+        "name_zh": "展示台"
+      },
+      {
+        "name": "Tundra fossil (head)",
+        "qty": 1,
+        "name_zh": "冻原化石（头）"
+      },
+      {
+        "name": "Tundra fossil (body)",
+        "qty": 1,
+        "name_zh": "冻原化石（身）"
+      },
+      {
+        "name": "Tundra fossil (tail)",
+        "qty": 1,
+        "name_zh": "冻原化石（尾）"
+      }
+    ],
+    "attracts": [
+      "Aurorus"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [],
+    "image_url": "https://assets.pokopiadb.com/habitats/201.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-201.png",
+    "source_url": "https://pokopiadb.com/database/habitats/tundra-fossil-display"
+  },
+  {
+    "key": "habitat:HAB-202",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-202",
+    "name": "沁涼藍",
+    "name_zh": "沁涼藍",
+    "name_en": "Blue beverage",
+    "required": "椅子（任意） ×1 / 桌子（任意） ×1 / 冰淇淋苏打 ×1",
+    "required_zh": "椅子（任意） ×1 / 桌子（任意） ×1 / 冰淇淋苏打 ×1",
+    "required_items": [
+      {
+        "name": "Seat (any)",
+        "qty": 1,
+        "name_zh": "椅子（任意）"
+      },
+      {
+        "name": "Table (any)",
+        "qty": 1,
+        "name_zh": "桌子（任意）"
+      },
+      {
+        "name": "Soda float",
+        "qty": 1,
+        "name_zh": "冰淇淋汽水"
+      }
+    ],
+    "attracts": [
+      "Vaporeon"
+    ],
+    "attracts_zh": [
+      "水伊布"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:134",
+        "name_en": "Vaporeon",
+        "name_zh": "水伊布",
+        "image_url": "/images/pokemon/281.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-202.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-202.png",
+    "source_url": "https://pokopiadb.com/database/habitats/blue-beverage"
+  },
+  {
+    "key": "habitat:HAB-203",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-203",
+    "name": "电击薯条",
+    "name_zh": "电击薯条",
+    "name_en": "Electrifying potatoes",
+    "required": "椅子（任意） ×1 / 桌子（任意） ×1 / 炸薯条 ×1",
+    "required_zh": "椅子（任意） ×1 / 桌子（任意） ×1 / 炸薯条 ×1",
+    "required_items": [
+      {
+        "name": "Seat (any)",
+        "qty": 1,
+        "name_zh": "椅子（任意）"
+      },
+      {
+        "name": "Table (any)",
+        "qty": 1,
+        "name_zh": "桌子（任意）"
+      },
+      {
+        "name": "Fried potatoes",
+        "qty": 1,
+        "name_zh": "薯条"
+      }
+    ],
+    "attracts": [
+      "Jolteon"
+    ],
+    "attracts_zh": [
+      "雷伊布"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:135",
+        "name_en": "Jolteon",
+        "name_zh": "雷伊布",
+        "image_url": "/images/pokemon/282.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-203.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-203.png",
+    "source_url": "https://pokopiadb.com/database/habitats/electrifying-potatoes"
+  },
+  {
+    "key": "habitat:HAB-204",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-204",
+    "name": "火辣辣辛辣",
+    "name_zh": "火辣辣辛辣",
+    "name_en": "Burning hot spice",
+    "required": "椅子（任意） ×1 / 桌子（任意） ×1 / 披萨 ×1",
+    "required_zh": "椅子（任意） ×1 / 桌子（任意） ×1 / 披萨 ×1",
+    "required_items": [
+      {
+        "name": "Seat (any)",
+        "qty": 1,
+        "name_zh": "椅子（任意）"
+      },
+      {
+        "name": "Table (any)",
+        "qty": 1,
+        "name_zh": "桌子（任意）"
+      },
+      {
+        "name": "Pizza",
+        "qty": 1,
+        "name_zh": "披萨"
+      }
+    ],
+    "attracts": [
+      "Flareon"
+    ],
+    "attracts_zh": [
+      "火伊布"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:136",
+        "name_en": "Flareon",
+        "name_zh": "火伊布",
+        "image_url": "/images/pokemon/283.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-204.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-204.png",
+    "source_url": "https://pokopiadb.com/database/habitats/burning-hot-spice"
+  },
+  {
+    "key": "habitat:HAB-205",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-205",
+    "name": "优雅午后",
+    "name_zh": "优雅午后",
+    "name_en": "Elegant daytime treats",
+    "required": "椅子（任意） ×1 / 桌子（任意） ×1 / 下午茶茶具 ×1",
+    "required_zh": "椅子（任意） ×1 / 桌子（任意） ×1 / 下午茶茶具 ×1",
+    "required_items": [
+      {
+        "name": "Seat (any)",
+        "qty": 1,
+        "name_zh": "椅子（任意）"
+      },
+      {
+        "name": "Table (any)",
+        "qty": 1,
+        "name_zh": "桌子（任意）"
+      },
+      {
+        "name": "Afternoon tea set",
+        "qty": 1,
+        "name_zh": "茶具组"
+      }
+    ],
+    "attracts": [
+      "Espeon"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:196",
+        "name_en": "Espeon",
+        "name_zh": "太阳伊布",
+        "image_url": "/images/pokemon/284.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-205.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-205.png",
+    "source_url": "https://pokopiadb.com/database/habitats/elegant-daytime-treats"
+  },
+  {
+    "key": "habitat:HAB-206",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-206",
+    "name": "黑色风味",
+    "name_zh": "黑色风味",
+    "name_en": "Dark chocolate cookies",
+    "required": "椅子（任意） ×1 / 桌子（任意） ×1 / 巧克力饼干 ×1",
+    "required_zh": "椅子（任意） ×1 / 桌子（任意） ×1 / 巧克力饼干 ×1",
+    "required_items": [
+      {
+        "name": "Seat (any)",
+        "qty": 1,
+        "name_zh": "椅子（任意）"
+      },
+      {
+        "name": "Table (any)",
+        "qty": 1,
+        "name_zh": "桌子（任意）"
+      },
+      {
+        "name": "Chocolate cookies",
+        "qty": 1,
+        "name_zh": "巧克力饼干"
+      }
+    ],
+    "attracts": [
+      "Umbreon"
+    ],
+    "attracts_zh": [
+      "月亮伊布"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:197",
+        "name_en": "Umbreon",
+        "name_zh": "月亮伊布",
+        "image_url": "/images/pokemon/285.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-206.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-206.png",
+    "source_url": "https://pokopiadb.com/database/habitats/dark-chocolate-cookies"
+  },
+  {
+    "key": "habitat:HAB-207",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-207",
+    "name": "綠色三明治",
+    "name_zh": "綠色三明治",
+    "name_en": "Leafy greens sandwiches",
+    "required": "椅子（任意） ×1 / 桌子（任意） ×1 / 三明治 ×1",
+    "required_zh": "椅子（任意） ×1 / 桌子（任意） ×1 / 三明治 ×1",
+    "required_items": [
+      {
+        "name": "Seat (any)",
+        "qty": 1,
+        "name_zh": "椅子（任意）"
+      },
+      {
+        "name": "Table (any)",
+        "qty": 1,
+        "name_zh": "桌子（任意）"
+      },
+      {
+        "name": "Sandwiches",
+        "qty": 1,
+        "name_zh": "三明治"
+      }
+    ],
+    "attracts": [
+      "Leafeon"
+    ],
+    "attracts_zh": [],
+    "attract_refs": [
+      {
+        "key": "pokemon:470",
+        "name_en": "Leafeon",
+        "name_zh": "叶伊布",
+        "image_url": "/images/pokemon/286.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-207.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-207.png",
+    "source_url": "https://pokopiadb.com/database/habitats/leafy-greens-sandwiches"
+  },
+  {
+    "key": "habitat:HAB-208",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-208",
+    "name": "冰凉刨冰",
+    "name_zh": "冰凉刨冰",
+    "name_en": "Chilly shaved ice",
+    "required": "椅子（任意） ×1 / 桌子（任意） ×1 / 刨冰 ×1",
+    "required_zh": "椅子（任意） ×1 / 桌子（任意） ×1 / 刨冰 ×1",
+    "required_items": [
+      {
+        "name": "Seat (any)",
+        "qty": 1,
+        "name_zh": "椅子（任意）"
+      },
+      {
+        "name": "Table (any)",
+        "qty": 1,
+        "name_zh": "桌子（任意）"
+      },
+      {
+        "name": "Shaved ice",
+        "qty": 1,
+        "name_zh": "刨冰"
+      }
+    ],
+    "attracts": [
+      "Glaceon"
+    ],
+    "attracts_zh": [
+      "冰伊布"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:471",
+        "name_en": "Glaceon",
+        "name_zh": "冰伊布",
+        "image_url": "/images/pokemon/287.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-208.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-208.png",
+    "source_url": "https://pokopiadb.com/database/habitats/chilly-shaved-ice"
+  },
+  {
+    "key": "habitat:HAB-209",
+    "category": "habitat",
+    "category_zh": "栖息地",
+    "id": "HAB-209",
+    "name": "可爱蛋糕",
+    "name_zh": "可爱蛋糕",
+    "name_en": "Lovely ribbon cake",
+    "required": "椅子（任意） ×1 / 桌子（任意） ×1 / 蝴蝶结蛋糕 ×1",
+    "required_zh": "椅子（任意） ×1 / 桌子（任意） ×1 / 蝴蝶结蛋糕 ×1",
+    "required_items": [
+      {
+        "name": "Seat (any)",
+        "qty": 1,
+        "name_zh": "椅子（任意）"
+      },
+      {
+        "name": "Table (any)",
+        "qty": 1,
+        "name_zh": "桌子（任意）"
+      },
+      {
+        "name": "Ribbon cake",
+        "qty": 1,
+        "name_zh": "缎带蛋糕"
+      }
+    ],
+    "attracts": [
+      "Sylveon"
+    ],
+    "attracts_zh": [
+      "仙子伊布"
+    ],
+    "attract_refs": [
+      {
+        "key": "pokemon:700",
+        "name_en": "Sylveon",
+        "name_zh": "仙子伊布",
+        "image_url": "/images/pokemon/288.png"
+      }
+    ],
+    "image_url": "/images/habitats/HAB-209.png",
+    "image_path": "https://pokopia-images-1251329367.cos.ap-guangzhou.myqcloud.com/habitats/HAB-209.png",
+    "source_url": "https://pokopiadb.com/database/habitats/lovely-ribbon-cake"
+  }
+];

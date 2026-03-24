@@ -8,7 +8,8 @@
 
 const KEYS = {
   pokemon: "collected_pokemon",
-  habitat: "collected_habitat"
+  habitat: "collected_habitat",
+  cosmetic: "collected_cosmetic"
 };
 
 /** 读取某类型的收集 map（{key: true}） */

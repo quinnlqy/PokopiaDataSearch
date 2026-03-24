@@ -6,6 +6,9 @@
       <text class="meta" wx:if="{{item.name_en}}">{{item.name_en}}</text>
       <text class="meta" wx:if="{{item.dex_no || item.natdex_no}}">#{{item.natdex_no || item.dex_no}}</text>
     </view>
+    <view class="collect-btn {{collected ? 'collected' : 'uncollected'}}" wx:if="{{collectible}}" bindtap="toggleCollect">
+      <text class="collect-check">✓</text>
+    </view>
   </view>
 
   <view class="section" wx:if="{{item.types && item.types.length}}">
@@ -24,13 +27,18 @@
   </view>
 
   <view class="section" wx:if="{{item.specialty}}">
-    <text class="section-title">擅长食物</text>
+    <text class="section-title">特长</text>
     <text class="text">{{item.specialty}}</text>
   </view>
 
   <view class="section" wx:if="{{item.obtain_method_zh}}">
     <text class="section-title">获取方式</text>
     <text class="text">{{item.obtain_method_zh}}</text>
+  </view>
+
+  <view class="section" wx:if="{{item.obtain_description}}">
+    <text class="section-title">获取方法</text>
+    <text class="text">{{item.obtain_description}}</text>
   </view>
 
   <view class="section" wx:if="{{item.habitat_zh}}">
@@ -46,11 +54,11 @@
   <view class="section" wx:if="{{item.habitat_refs && item.habitat_refs.length}}">
     <text class="section-title">栖息地</text>
     <view class="hab-cards">
-      <view class="hab-card" wx:for="{{item.habitat_refs}}" wx:key="key" bindtap="openHabitat" data-key="{{item.key}}">
-        <image class="hab-thumb" mode="aspectFill" src="{{item.image_path || item.image_url}}" />
+      <view class="hab-card" wx:for="{{item.habitat_refs}}" wx:for-item="hab" wx:key="key" bindtap="openHabitat" data-key="{{hab.key}}">
+        <image class="hab-thumb" mode="aspectFill" src="{{hab.image_path || hab.image_url}}" />
         <view class="hab-info">
-          <text class="hab-name">{{item.name_zh || item.name}}</text>
-          <text class="hab-meta">{{item.required}}</text>
+          <text class="hab-name">{{hab.name_zh || hab.name}}</text>
+          <text class="hab-meta">{{hab.required_summary || hab.required_zh || hab.required}}</text>
         </view>
       </view>
     </view>
@@ -59,18 +67,15 @@
   <view class="section" wx:if="{{item.required_items && item.required_items.length}}">
     <text class="section-title">需求</text>
     <view class="req-items">
-      <view class="req-card" wx:for="{{item.required_items}}" wx:key="name" wx:if="{{!item.is_env}}">
-        <image class="req-icon" mode="aspectFill" src="{{item.image_path || item.image_url}}" wx:if="{{item.image_path || item.image_url}}" />
+      <view class="req-card {{req.item_key ? 'req-card-tap' : ''}}" wx:for="{{item.required_items}}" wx:for-item="req" wx:key="name" bindtap="openMaterial" data-key="{{req.item_key}}" data-type="{{req.item_type}}">
+        <image class="req-icon" mode="aspectFit" src="{{req.image_path}}" wx:if="{{req.image_path}}" />
+        <image class="req-icon" mode="aspectFit" src="/images/ui/habitat_icon.png" wx:if="{{!req.image_path && req.is_env}}" />
+        <view class="req-icon req-icon-placeholder" wx:if="{{!req.image_path && !req.is_env}}"></view>
         <view class="req-info">
-          <text class="req-name">{{item.name_zh || item.name}}</text>
-          <text class="req-qty" wx:if="{{item.qty}}">×{{item.qty}}</text>
+          <text class="req-name">{{req.name_zh || req.name}}</text>
+          <text class="req-qty" wx:if="{{req.qty}}">×{{req.qty}}</text>
         </view>
-      </view>
-    </view>
-    <view class="env-conditions">
-      <view class="env-chip" wx:for="{{item.required_items}}" wx:key="name" wx:if="{{item.is_env}}">
-        <text>{{item.name_zh || item.name}}</text>
-        <text class="env-qty" wx:if="{{item.qty}}"> ×{{item.qty}}</text>
+        <text class="req-arrow" wx:if="{{req.item_key}}">›</text>
       </view>
     </view>
   </view>
@@ -78,10 +83,10 @@
   <view class="section" wx:if="{{item.attract_refs && item.attract_refs.length}}">
     <text class="section-title">吸引</text>
     <view class="hab-cards">
-      <view class="hab-card" wx:for="{{item.attract_refs}}" wx:key="key" bindtap="openPokemon" data-key="{{item.key}}">
-        <image class="hab-thumb" mode="aspectFill" src="{{item.image_path || item.image_url}}" />
+      <view class="hab-card" wx:for="{{item.attract_refs}}" wx:for-item="pk" wx:key="key" bindtap="openPokemon" data-key="{{pk.key}}">
+        <image class="hab-thumb" mode="aspectFill" src="{{pk.image_path || pk.image_url}}" />
         <view class="hab-info">
-          <text class="hab-name">{{item.name_zh || item.name_en}}</text>
+          <text class="hab-name">{{pk.name_zh || pk.name_en}}</text>
         </view>
       </view>
     </view>
@@ -90,11 +95,11 @@
   <view class="section" wx:if="{{item.ingredients && item.ingredients.length}}">
     <text class="section-title">料理材料</text>
     <view class="req-items">
-      <view class="req-card" wx:for="{{item.ingredients}}" wx:key="name">
-        <image class="req-icon" mode="aspectFill" src="{{item.image_path || item.image_url}}" wx:if="{{item.image_path || item.image_url}}" />
+      <view class="req-card" wx:for="{{item.ingredients}}" wx:for-item="ing" wx:key="name">
+        <image class="req-icon" mode="aspectFill" src="{{ing.image_path || ing.image_url}}" wx:if="{{ing.image_path || ing.image_url}}" />
         <view class="req-info">
-          <text class="req-name">{{item.name_zh || item.name}}</text>
-          <text class="req-qty" wx:if="{{item.qty}}">x{{item.qty}}</text>
+          <text class="req-name">{{ing.name_zh || ing.name}}</text>
+          <text class="req-qty" wx:if="{{ing.qty}}">x{{ing.qty}}</text>
         </view>
       </view>
     </view>
@@ -117,6 +122,49 @@
 
   <view class="section" wx:if="{{item.location}}">
     <text class="section-title">获取地点</text>
-    <text class="text">{{item.location}}</text>
+    <text class="text">{{item.location_zh || item.location}}</text>
+  </view>
+
+  <view class="section" wx:if="{{item.description}}">
+    <text class="section-title">描述</text>
+    <text class="text">{{item.description}}</text>
+  </view>
+
+  <view class="section" wx:if="{{item.obtain && item.obtain.length}}">
+    <text class="section-title">获取方式</text>
+    <view class="source-list">
+      <view class="source-item" wx:for="{{item.obtain}}" wx:key="*this">
+        <text class="source-dot">·</text>
+        <text class="source-text">{{item}}</text>
+      </view>
+    </view>
+  </view>
+
+  <view class="section" wx:if="{{item.recipe && item.recipe.length}}">
+    <text class="section-title">解锁 / 购买</text>
+    <view class="source-list">
+      <view class="source-item" wx:for="{{item.recipe}}" wx:key="*this">
+        <text class="source-dot">·</text>
+        <text class="source-text">{{item}}</text>
+      </view>
+    </view>
+  </view>
+
+  <view class="section" wx:if="{{item.materials && item.materials.length}}">
+    <view class="section-header">
+      <text class="section-title">制作材料</text>
+      <text class="craft-yield" wx:if="{{item.craft_yield && item.craft_yield > 1}}">→ 产出 ×{{item.craft_yield}}</text>
+    </view>
+    <view class="req-items">
+      <view class="req-card {{mat.item_key ? 'req-card-tap' : ''}}" wx:for="{{item.materials}}" wx:for-item="mat" wx:key="name" bindtap="openMaterial" data-key="{{mat.item_key}}" data-type="{{mat.item_type}}">
+        <image class="req-icon" mode="aspectFit" src="{{mat.image_path}}" wx:if="{{mat.image_path}}" />
+        <view class="req-icon req-icon-placeholder" wx:if="{{!mat.image_path}}"></view>
+        <view class="req-info">
+          <text class="req-name">{{mat.name}}</text>
+          <text class="req-qty">×{{mat.count}}</text>
+        </view>
+        <text class="req-arrow" wx:if="{{mat.item_key}}">›</text>
+      </view>
+    </view>
   </view>
 </view>

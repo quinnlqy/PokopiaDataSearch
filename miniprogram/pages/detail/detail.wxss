@@ -9,6 +9,27 @@
   margin-bottom: 16px;
 }
 
+.collect-btn {
+  margin-left: auto;
+  flex-shrink: 0;
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.collect-btn.collected   { background: #4caf50; }
+.collect-btn.uncollected { background: #bbb; }
+
+.collect-check {
+  color: #fff;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 1;
+}
+
 .hero {
   width: 90px;
   height: 90px;
@@ -117,6 +138,11 @@
   height: 36px;
   border-radius: 8px;
   background: #f3efe8;
+  flex-shrink: 0;
+}
+
+.req-icon-placeholder {
+  background: #f3efe8;
 }
 
 .req-info {
@@ -155,4 +181,57 @@
 .env-qty {
   color: #2e6e56;
   font-size: 12px;
+}
+
+.req-card-tap {
+  position: relative;
+}
+
+.req-arrow {
+  margin-left: auto;
+  color: #b0a090;
+  font-size: 18px;
+  line-height: 1;
+}
+
+.section-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.section-header .section-title {
+  margin-bottom: 0;
+}
+
+.craft-yield {
+  font-size: 12px;
+  color: #c0392b;
+  font-weight: 600;
+}
+
+.source-list {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.source-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 6px;
+}
+
+.source-dot {
+  color: #c0392b;
+  font-weight: 700;
+  flex-shrink: 0;
+  line-height: 1.5;
+}
+
+.source-text {
+  color: #3f372e;
+  line-height: 1.5;
+  flex: 1;
 }
