@@ -223,7 +223,7 @@ Page({
       };
     } else {
       base = {
-        pokemon:   search(pokemonData,   ["name_zh", "name_en", "dex_no", "natdex_no", "types", "favorites"], tokens, 9999),
+        pokemon:   search(pokemonData,   ["name_zh", "name_en", "dex_no", "natdex_no", "types"], tokens, 9999),
         habitats:  search(habitatData,   ["name", "name_zh", "id", "required", "required_zh", "attracts", "attracts_zh"], tokens, 9999),
         items:     search(pureItemData,  ["name", "name_zh"], tokens, 9999),
         building:  search(buildingData,  ["name", "name_zh", "category_key"], tokens, 9999),

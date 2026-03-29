@@ -11,6 +11,17 @@
     </view>
   </view>
 
+  <view class="section town-section" wx:if="{{isPokemon}}">
+    <text class="section-title">所在城镇</text>
+    <picker mode="selector" range="{{towns}}" value="{{townIndex}}" bindchange="onTownChange">
+      <view class="town-picker">
+        <text class="town-value" wx:if="{{townIndex >= 0}}">{{towns[townIndex]}}</text>
+        <text class="town-placeholder" wx:else>点击选择城镇</text>
+        <text class="town-arrow">▾</text>
+      </view>
+    </picker>
+  </view>
+
   <view class="section" wx:if="{{item.types && item.types.length}}">
     <text class="section-title">属性</text>
     <view class="chip" wx:for="{{item.types}}" wx:key="*this">{{item}}</view>
@@ -41,7 +52,7 @@
     <text class="text">{{item.obtain_description}}</text>
   </view>
 
-  <view class="section" wx:if="{{item.habitat_zh}}">
+  <view class="section" wx:if="{{item.habitat_zh && !(item.habitat_refs && item.habitat_refs.length)}}">
     <text class="section-title">栖息地</text>
     <text class="text">{{item.habitat_zh}}</text>
   </view>

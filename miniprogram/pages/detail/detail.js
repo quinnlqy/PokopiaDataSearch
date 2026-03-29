@@ -9,6 +9,8 @@ const storage = require("../../utils/storage");
 // 合并道具+家具用于图片查找
 const allItemData = itemData.concat(furnitureData);
 
+const TOWNS = ["空空镇", "亮晶晶空岛", "凸隆隆山地", "暗沉沉海边", "干巴巴荒野"];
+
 function findByKey(list, key) {
   for (let i = 0; i < list.length; i += 1) {
     if (list[i].key === key) return list[i];
@@ -20,7 +22,7 @@ function findByKey(list, key) {
 function findItemImage(nameEn, nameZh) {
   for (let i = 0; i < allItemData.length; i++) {
     const it = allItemData[i];
-    if (nameEn && (it.name === nameEn || it.name_en === nameEn)) {
+    if (nameEn && (it.name === nameEn || it.name_en === nameEn || it.name_zh === nameEn)) {
       return it.image_path || it.image_url || null;
     }
   }
@@ -28,7 +30,7 @@ function findItemImage(nameEn, nameZh) {
   if (nameZh) {
     for (let i = 0; i < allItemData.length; i++) {
       const it = allItemData[i];
-      if (it.name_zh === nameZh) {
+      if (it.name_zh === nameZh || it.name === nameZh || it.name_en === nameZh) {
         return it.image_path || it.image_url || null;
       }
     }
@@ -38,7 +40,9 @@ function findItemImage(nameEn, nameZh) {
     const base = nameEn.replace(/\s*\(.*?\)/g, '').trim().toLowerCase();
     for (let i = 0; i < allItemData.length; i++) {
       const it = allItemData[i];
-      if (it.name && it.name.toLowerCase().indexOf(base) === 0) {
+      const n = (it.name || '').toLowerCase();
+      const ne = (it.name_en || '').toLowerCase();
+      if (n.indexOf(base) === 0 || ne.indexOf(base) === 0) {
         return it.image_path || it.image_url || null;
       }
     }
@@ -50,7 +54,10 @@ Page({
   data: {
     item: null,
     collectible: false,
-    collected: false
+    collected: false,
+    isPokemon: false,
+    towns: TOWNS,
+    townIndex: -1
   },
   onLoad(query) {
     const type = query.type;
@@ -68,7 +75,7 @@ Page({
       if (item.materials && item.materials.length) {
         const materials = item.materials.map(function(mat) {
           const found = allItemData.find(function(d) {
-            return d.name === mat.name || d.name_zh === mat.name;
+            return d.name === mat.name || d.name_zh === mat.name || d.name_en === mat.name;
           });
           return Object.assign({}, mat, {
             image_path: found ? (found.image_path || found.image_url || null) : null,
@@ -81,8 +88,16 @@ Page({
     }
 
     if (item && type === "habitat") {
-      // 构建吸引宝可梦列表
+      // 构建吸引宝可梦列表（英文名 + 中文名兜底 + 去重）
       const attractRefs = [];
+      const addedKeys = {};
+      function addRef(pk) {
+        if (pk && !addedKeys[pk.key]) {
+          addedKeys[pk.key] = true;
+          attractRefs.push(pk);
+        }
+      }
+      // 1) 用英文名匹配（含引号变体）
       const attracts = item.attracts || [];
       for (let i = 0; i < attracts.length; i++) {
         const nameEn = attracts[i];
@@ -91,10 +106,16 @@ Page({
             p.name_en === nameEn.replace(/'/g, '\u2019') ||
             p.name_en === nameEn.replace(/\u2019/g, "'");
         });
-        // 只显示在 pokemonData 里找到的（有图片有详情页）
-        if (pk) {
-          attractRefs.push(pk);
-        }
+        addRef(pk);
+      }
+      // 2) 用中文名兜底（补充英文名匹配不到的）
+      const attractsZh = item.attracts_zh || [];
+      for (let i = 0; i < attractsZh.length; i++) {
+        const nameZh = attractsZh[i];
+        const pk = pokemonData.find(function(p) {
+          return p.name_zh === nameZh;
+        });
+        addRef(pk);
       }
 
       // 给 required_items 补充图片和跳转 key
@@ -103,7 +124,8 @@ Page({
         // 找对应道具，补充 key 用于跳转（is_env 的环境条件不跳转）
         const found = req.is_env ? null : allItemData.find(function(d) {
           return d.name === req.name_zh || d.name_zh === req.name_zh ||
-                 d.name === req.name   || d.name_zh === req.name;
+                 d.name === req.name   || d.name_zh === req.name ||
+                 d.name_en === req.name || d.name_en === req.name_zh;
         });
         return Object.assign({}, req, {
           image_path: img || null,
@@ -154,6 +176,15 @@ Page({
       collectible: collectible && !!item,
       collected: collectible && item ? storage.isCollected(type, item.key) : false
     });
+
+    // 宝可梦城镇选择
+    if (type === "pokemon" && item) {
+      var savedTown = storage.getTown(item.key);
+      this.setData({
+        isPokemon: true,
+        townIndex: savedTown ? TOWNS.indexOf(savedTown) : -1
+      });
+    }
   },
 
   onShow() {
@@ -167,6 +198,14 @@ Page({
     if (!this._collectType || !this._collectKey) return;
     const newState = storage.toggle(this._collectType, this._collectKey);
     this.setData({ collected: newState });
+  },
+  onTownChange(e) {
+    var idx = Number(e.detail.value);
+    var town = TOWNS[idx] || "";
+    var key = this.data.item ? this.data.item.key : "";
+    if (!key) return;
+    storage.setTown(key, town);
+    this.setData({ townIndex: idx });
   },
   openMaterial(e) {
     const key = e.currentTarget.dataset.key;

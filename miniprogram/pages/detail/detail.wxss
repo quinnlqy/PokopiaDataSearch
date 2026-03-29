@@ -235,3 +235,28 @@
   line-height: 1.5;
   flex: 1;
 }
+
+.town-picker {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #fff;
+  border: 1px solid #e6dccf;
+  border-radius: 10px;
+  padding: 10px 14px;
+}
+
+.town-value {
+  font-size: 14px;
+  color: #3f372e;
+}
+
+.town-placeholder {
+  font-size: 14px;
+  color: #b0a090;
+}
+
+.town-arrow {
+  font-size: 12px;
+  color: #b0a090;
+}
