@@ -5,6 +5,7 @@
       <text class="name">{{item.name_zh || item.name || item.name_en}}</text>
       <text class="meta" wx:if="{{item.name_en}}">{{item.name_en}}</text>
       <text class="meta" wx:if="{{item.dex_no || item.natdex_no}}">#{{item.natdex_no || item.dex_no}}</text>
+      <text class="meta" wx:if="{{item.id && !item.dex_no && !item.natdex_no}}">{{item.id}}</text>
     </view>
     <view class="collect-btn {{collected ? 'collected' : 'uncollected'}}" wx:if="{{collectible}}" bindtap="toggleCollect">
       <text class="collect-check">✓</text>
@@ -98,6 +99,9 @@
         <image class="hab-thumb" mode="aspectFill" src="{{pk.image_path || pk.image_url}}" />
         <view class="hab-info">
           <text class="hab-name">{{pk.name_zh || pk.name_en}}</text>
+        </view>
+        <view class="attract-collect {{pk.collected ? 'collected' : 'uncollected'}}">
+          <text class="collect-check">✓</text>
         </view>
       </view>
     </view>

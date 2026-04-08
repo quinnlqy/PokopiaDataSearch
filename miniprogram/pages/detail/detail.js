@@ -94,7 +94,9 @@ Page({
       function addRef(pk) {
         if (pk && !addedKeys[pk.key]) {
           addedKeys[pk.key] = true;
-          attractRefs.push(pk);
+          attractRefs.push(Object.assign({}, pk, {
+            collected: storage.isCollected('pokemon', pk.key)
+          }));
         }
       }
       // 1) 用英文名匹配（含引号变体）
@@ -191,6 +193,16 @@ Page({
     // 返回详情页时同步收集状态（与列表页保持一致）
     if (this._collectType && this._collectKey) {
       this.setData({ collected: storage.isCollected(this._collectType, this._collectKey) });
+    }
+    // 刷新吸引宝可梦的收集状态
+    const item = this.data.item;
+    if (item && item.attract_refs && item.attract_refs.length) {
+      const updatedRefs = item.attract_refs.map(function(pk) {
+        return Object.assign({}, pk, {
+          collected: storage.isCollected('pokemon', pk.key)
+        });
+      });
+      this.setData({ 'item.attract_refs': updatedRefs });
     }
   },
 

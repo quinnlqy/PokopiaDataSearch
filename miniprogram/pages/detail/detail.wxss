@@ -236,6 +236,20 @@
   flex: 1;
 }
 
+.attract-collect {
+  margin-left: auto;
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.attract-collect.collected   { background: #4caf50; }
+.attract-collect.uncollected { background: #bbb; }
+
 .town-picker {
   display: flex;
   align-items: center;
